@@ -1,0 +1,121 @@
+
+041 
+SXUS41 KCAR 140657
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+257 AM EDT Mon Aug 14 2017
+
+MEZ004-142100-
+Top of Mount Katahdin-
+257 AM EDT Mon Aug 14 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Sunny this morning...then becoming mostly cloudy. High
+around 62. West winds around 10 mph. No lightning risk. 
+.TONIGHT...Summit in and out of clouds until midnight...then
+becoming partly cloudy. A slight chance of showers after midnight.
+Low around 55. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. A chance of showers. a chance of thunderstorms in the
+afternoon. High around 58. Southwest winds around 10 mph. Chance of
+precipitation 50 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ005-142100-
+Katahdin Woods and Waters National Monument-
+257 AM EDT Mon Aug 14 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Sunny this morning...then becoming partly sunny. High
+around 79. West winds around 5 mph. No lightning risk. 
+.TONIGHT...Partly cloudy. A chance of showers after midnight. Low
+around 58. Light winds. Chance of precipitation 30 percent. No
+lightning risk. 
+.TUESDAY...Partly sunny. A chance of showers. a chance of
+thunderstorms in the afternoon. High around 78. Light winds becoming
+southwest around 10 mph in the afternoon. Chance of precipitation
+50 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ029-142100-
+Top of Cadillac Mountain-
+257 AM EDT Mon Aug 14 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny. High around 75. West winds around 10 mph shifting to
+the southwest this afternoon. No lightning risk. 
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 62. Southwest winds around 10 mph until midnight
+becoming light winds. No lightning risk. 
+.TUESDAY...Partly sunny. A slight chance of showers in the
+afternoon. High around 69. South winds around 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ010-142100-
+Moosehead Lake-
+257 AM EDT Mon Aug 14 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly sunny. High around 77. Light winds. Waves 1 foot. No
+lightning risk. 
+.TONIGHT...Partly cloudy. Low around 58. Waves 1 foot. Light winds.
+No lightning risk. 
+.TUESDAY...Partly sunny. A chance of showers. a chance of
+thunderstorms in the afternoon. High around 76. Waves 1 foot. Light
+winds. Chance of precipitation 50 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ004&gt;006-010-011-031-142100-
+Upper Penobscot Watershed-
+257 AM EDT Mon Aug 14 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny this morning...then becoming partly sunny. High
+around 80. West winds around 5 mph. No lightning risk. 
+.TONIGHT...Partly cloudy. A chance of showers after midnight. Low
+around 58. Light winds. Chance of precipitation 40 percent. No
+lightning risk. 
+.TUESDAY...Partly sunny. A slight chance of showers in the morning...
+then a chance of showers and thunderstorms in the afternoon. High
+around 79. Light winds becoming south around 10 mph in the
+afternoon. Chance of precipitation 50 percent. Lightning risk is
+elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-142100-
+Lower Penobscot Watershed-
+257 AM EDT Mon Aug 14 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 82. Southwest winds around 5 mph.
+No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 59. South winds around 5 mph
+until midnight becoming light winds. No lightning risk. 
+.TUESDAY...Partly sunny. A chance of showers and thunderstorms in
+the afternoon. High around 80. Light winds becoming south around
+10 mph in the afternoon. Chance of precipitation 30 percent.
+Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

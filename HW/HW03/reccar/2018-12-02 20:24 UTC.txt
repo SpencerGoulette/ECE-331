@@ -1,0 +1,244 @@
+
+485 
+SXUS41 KCAR 022024
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+324 PM EST Sun Dec 2 2018
+
+MEZ004-031030-
+Top of Mount Katahdin-
+324 PM EST Sun Dec 2 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured until midnight, then becoming cloudy.
+Areas of fog. Rain until midnight. patchy drizzle. a slight chance
+of rain after midnight. Windy and not as cool with low around 34.
+South winds 20 to 35 mph becoming west 10 to 20 mph after midnight.
+Chance of precipitation 90 percent. Wind chill values as low as 19.
+No lightning risk. 
+.MONDAY...Cloudy in the morning, then summit becoming obscured.
+Areas of fog in the morning. Rain likely with patchy drizzle in the
+morning...then snow and rain showers in the afternoon. High around
+37. Temperatures falling to around 26 in the afternoon. West winds
+10 to 20 mph. Chance of precipitation 90 percent. Wind chill values
+as low as 14 in the afternoon. No lightning risk. 
+
+$$
+
+MEZ005-031030-
+Katahdin Woods and Waters National Monument-
+324 PM EST Sun Dec 2 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Areas of fog. Rain and freezing rain until
+midnight. patchy drizzle. a slight chance of rain after midnight.
+Low around 33. South winds 15 mph until midnight becoming light
+winds. Chance of precipitation near 100 percent. No lightning risk. 
+.MONDAY...Cloudy. Areas of fog in the morning. Rain likely with
+patchy drizzle in the morning...then rain showers in the afternoon.
+High around 39. Light winds becoming west 15 mph in the afternoon.
+Chance of precipitation 90 percent. No lightning risk. 
+
+$$
+
+MEZ029-031030-
+Top of Cadillac Mountain-
+324 PM EST Sun Dec 2 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured through early morning, then summit in and
+out of clouds. Areas of fog. Rain until midnight. patchy drizzle. A
+chance of rain after midnight. Breezy and not as cool with low
+around 43. South winds 15 to 30 mph shifting to the west 10 to
+20 mph after midnight. Chance of precipitation near 100 percent. No
+lightning risk. 
+.MONDAY...Summit obscured in the morning, then becoming cloudy.
+Areas of fog in the morning. A chance of rain with patchy drizzle in
+the morning...then a chance of showers in the afternoon. High around
+43. West winds 10 to 25 mph. Chance of precipitation 30 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-031030-
+Top of Deboullie Mountain-
+324 PM EST Sun Dec 2 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Areas of fog. Freezing rain, snow and
+sleet and rain until midnight. patchy drizzle. A chance of freezing
+rain and snow with possible rain and freezing drizzle after
+midnight. Low around 28. Southeast winds 10 to 20 mph becoming south
+10 mph after midnight. Chance of precipitation 90 percent. No
+lightning risk. 
+.MONDAY...Summit obscured. Areas of fog in the morning. Rain with
+patchy drizzle in the morning...then snow and rain showers in the
+afternoon. High around 34. West winds 10 mph shifting to the
+northwest 10 to 15 mph in the afternoon. Chance of precipitation
+90 percent. Wind chill values as low as 14 in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ006-031030-
+Top of Mars Hill Mountain-
+324 PM EST Sun Dec 2 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. Areas of fog. Freezing rain and rain
+until midnight. patchy drizzle. A chance of rain after midnight. Not
+as cool with low around 32. Southeast winds 10 to 20 mph until
+midnight becoming light winds. Chance of precipitation near
+100 percent. No lightning risk. 
+.MONDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. Areas of fog in the morning. Rain likely with
+patchy drizzle in the morning...then rain and snow showers in the
+afternoon. High around 35. Light winds becoming west 15 mph in the
+afternoon. Chance of precipitation 90 percent. No lightning risk. 
+
+$$
+
+MEZ010-031030-
+Top of White Cap Mountain-
+324 PM EST Sun Dec 2 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured until midnight, then becoming cloudy.
+Areas of fog. Rain and freezing rain until midnight. patchy drizzle.
+a slight chance of rain after midnight. Not as cool with low around
+35. South winds 15 to 25 mph shifting to the west 10 to 20 mph after
+midnight. Chance of precipitation 90 percent. Wind chill values as
+low as 20. No lightning risk. 
+.MONDAY...Cloudy in the morning, then summit becoming obscured.
+Areas of fog in the morning. Rain likely with patchy drizzle in the
+morning...then rain and snow showers likely in the afternoon. High
+around 39. West winds 10 to 20 mph. Chance of precipitation
+70 percent. Wind chill values as low as 19 in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ010-031030-
+Moosehead Lake-
+324 PM EST Sun Dec 2 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Areas of fog. Rain likely until midnight. patchy
+drizzle. a slight chance of rain after midnight. Not as cool with
+low around 35. South winds 15 mph until midnight becoming light
+winds. Waves 2 feet. Chance of precipitation 70 percent. No
+lightning risk. 
+.MONDAY...Cloudy. Areas of fog in the morning. Rain likely with
+patchy drizzle in the morning...then rain showers likely in the
+afternoon. High around 39. Waves 2 feet. Southwest winds 10 mph
+shifting to the west in the afternoon. Chance of precipitation
+70 percent. No lightning risk. 
+
+$$
+
+MEZ001-031030-
+Allagash Wilderness Waterway-
+324 PM EST Sun Dec 2 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Areas of fog. Freezing rain and rain until
+midnight. patchy drizzle. A chance of freezing rain with a slight
+chance of rain after midnight. Low around 32. Southeast winds 15 mph
+until midnight becoming light winds. Chance of precipitation
+90 percent. No lightning risk. 
+.MONDAY...Cloudy. Areas of fog in the morning. Rain with patchy
+drizzle in the morning...then rain and snow showers in the
+afternoon. High around 37. Light winds becoming northwest 15 mph in
+the afternoon. Chance of precipitation near 100 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-031030-
+St Croix River-
+324 PM EST Sun Dec 2 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Areas of fog. Rain until midnight. patchy
+drizzle. A chance of rain after midnight. Not as cool with low
+around 37. South winds 10 to 15 mph shifting to the southwest after
+midnight. Chance of precipitation near 100 percent. No lightning
+risk. 
+.MONDAY...Cloudy. Areas of fog in the morning. A chance of rain with
+patchy drizzle in the morning...then rain showers likely in the
+afternoon. Near steady temperatures around 37. Southwest winds
+10 mph. Chance of precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ030-031030-
+West Quoddy Head-
+324 PM EST Sun Dec 2 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Areas of fog. Rain through early morning. patchy
+drizzle. A chance of rain late. Not as cool with low around 43.
+Southeast winds 15 to 25 mph shifting to the southwest 10 to 15 mph
+after midnight. Chance of precipitation near 100 percent. No
+lightning risk. Water temperature 47 degrees Fahrenheit. 
+.MONDAY...Cloudy. Areas of fog in the morning. A chance of rain with
+patchy drizzle in the morning...then a chance of showers in the
+afternoon. High around 44. West winds 10 mph increasing to southwest
+10 to 20 mph in the afternoon. Chance of precipitation 50 percent.
+No lightning risk. Water temperature 47 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-031030-
+Upper Penobscot Watershed-
+324 PM EST Sun Dec 2 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Rain until midnight. patchy
+drizzle. a slight chance of rain after midnight. Low around 34.
+Southeast winds 15 mph until midnight becoming light winds. Chance
+of precipitation near 100 percent. No lightning risk. 
+.MONDAY...Cloudy. Areas of fog in the morning. A chance of rain with
+patchy drizzle in the morning...then rain showers likely in the
+afternoon. High around 39. Light winds becoming southwest 15 mph in
+the afternoon. Chance of precipitation 70 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-031030-
+Lower Penobscot Watershed-
+324 PM EST Sun Dec 2 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Rain until midnight. patchy
+drizzle. a slight chance of rain after midnight. Low around 36.
+South winds 15 mph shifting to the west after midnight. Chance of
+precipitation near 100 percent. No lightning risk. 
+.MONDAY...Cloudy. Areas of fog in the morning. A chance of rain with
+patchy drizzle in the morning...then a chance of rain showers in the
+afternoon. High around 39. Southwest winds 10 mph becoming 15 mph in
+the afternoon. Chance of precipitation 50 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

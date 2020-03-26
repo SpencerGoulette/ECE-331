@@ -1,0 +1,42 @@
+Vim Notes
+
+Sheaff states that there are three modes
+1. Command Mode
+2. Insert Mode
+3. Colon Mode
+
+Command Mode
+#h		left arrow key
+#j		right arrow key
+#k		up arrow key
+#l		down arrow key
+#w		moves to start of new word
+#b		moves to the beginning of the word
+#e		moves to the end of the word
+
+	# before makes that action happen that many times
+
+#i(word)	insert that many words in a row
+#f(letter)	finds that # occurrence of the letter
+%		can be used to jump to the matching parenthesis or bracket
+0		reach beginning of a line
+$		reach end of line
+*		next occurrence of word on cursor
+#		previous occurence of word on cursor
+gg		takes you to the beginning of the file
+G		takes you to the end of the file
+#G		jump to that specific line
+/		search text
+n, N		next occurence of found text
+o		insert new line below
+O		insert new line above
+x		Deletes character under the cursor
+X		Deletes character left of the cursor
+r		replace a character
+d		cut command
+p		paste command
+.		repeats the previous command
+e		select a word
+v		visual mode
+ctrl+R		redo
+

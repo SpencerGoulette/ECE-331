@@ -1,0 +1,214 @@
+
+970 
+SXUS41 KCAR 250702
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+302 AM EDT Sun Mar 25 2018
+
+MEZ004-252115-
+Top of Mount Katahdin-
+302 AM EDT Sun Mar 25 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Cloudy this morning, then becoming partly sunny. Much
+cooler with high around 14. Northeast winds 15 to 20 mph. Wind chill
+values as low as 10 below. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 11. Northeast winds 10 to
+15 mph. Wind chill values as low as 4 below. No lightning risk. 
+.MONDAY...Sunny, windy and not as cool with high around 25.
+Northeast winds 10 to 20 mph increasing to east 25 to 30 mph in the
+afternoon. Wind chill values as low as 2 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ005-252115-
+Katahdin Woods and Waters National Monument-
+302 AM EDT Sun Mar 25 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+High around 34. Northeast winds around 10 mph. Wind chill values as
+low as 12. No lightning risk. 
+.TONIGHT...Mostly clear. Cooler with low around 12. Light winds. No
+lightning risk. 
+.MONDAY...Sunny. High around 40. Light winds. No lightning risk. 
+
+$$
+
+MEZ029-252115-
+Top of Cadillac Mountain-
+302 AM EDT Sun Mar 25 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Summit in and out of clouds until mid morning, then
+becoming cloudy. Isolated snow showers this morning. Brisk with high
+around 31. Northeast winds 15 to 25 mph. Chance of precipitation
+20 percent. Wind chill values as low as 11. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+21. Northeast winds around 15 mph. Wind chill values as low as
+10 above. No lightning risk. 
+.MONDAY...Sunny. High around 35. Northeast winds around 15 mph. Wind
+chill values as low as 12. No lightning risk. 
+
+$$
+
+MEZ001-252115-
+Top of Deboullie Mountain-
+302 AM EDT Sun Mar 25 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+High around 30. Northeast winds around 10 mph. Wind chill values as
+low as 8 above. No lightning risk. 
+.TONIGHT...Clear, cooler with low around 3 above. North winds around
+10 mph until midnight becoming light winds. Wind chill values as low
+as zero. No lightning risk. 
+.MONDAY...Sunny. High around 37. Light winds becoming southeast
+around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-252115-
+Top of Mars Hill Mountain-
+302 AM EDT Sun Mar 25 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+High around 32. Northeast winds around 10 mph. Wind chill values as
+low as 12. No lightning risk. 
+.TONIGHT...Clear, cooler with low around 8 above. Light winds. No
+lightning risk. 
+.MONDAY...Sunny. High around 38. West winds around 10 mph shifting
+to the north in the afternoon. Wind chill values as low as 1 above
+in the morning. No lightning risk. 
+
+$$
+
+MEZ010-252115-
+Top of White Cap Mountain-
+302 AM EDT Sun Mar 25 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Summit in and out of clouds, then becoming cloudy early
+this afternoon, then becoming partly sunny. Cooler with high around
+21. Northeast winds 10 to 15 mph. Wind chill values as low as
+3 below. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 14. Northeast winds around
+10 mph. No lightning risk. 
+.MONDAY...Sunny. High around 27. Northeast winds 10 to 20 mph. Wind
+chill values as low as 7 above. No lightning risk. 
+
+$$
+
+MEZ010-252115-
+Moosehead Lake-
+302 AM EDT Sun Mar 25 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+High around 34. Northeast winds around 10 mph. Wind chill values as
+low as 10 above. No lightning risk. 
+.TONIGHT...Mostly clear. Cooler with low around 11. Light winds. No
+lightning risk. 
+.MONDAY...Sunny. High around 38. Light winds. No lightning risk. 
+
+$$
+
+MEZ001-252115-
+Allagash Wilderness Waterway-
+302 AM EDT Sun Mar 25 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Mostly cloudy until mid morning, then becoming partly
+sunny. High around 34. Northeast winds around 10 mph. Wind chill
+values as low as 7 above. No lightning risk. 
+.TONIGHT...Clear, cooler with low around 5 above. Light winds. No
+lightning risk. 
+.MONDAY...Sunny. High around 41. Light winds. No lightning risk. 
+
+$$
+
+MEZ030-252115-
+St Croix River-
+302 AM EDT Sun Mar 25 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. High around 35. Northeast winds 10 to 15 mph. Wind chill
+values as low as 14. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Cooler with
+low around 15. Northeast winds around 10 mph until midnight becoming
+light winds. No lightning risk. 
+.MONDAY...Sunny. High around 41. Light winds. No lightning risk. 
+
+$$
+
+MEZ030-252115-
+West Quoddy Head-
+302 AM EDT Sun Mar 25 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Cloudy. Isolated snow showers until mid morning. Breezy
+with high around 36. Northeast winds 20 to 25 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 15. No
+lightning risk. Water temperature 38 degrees Fahrenheit. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+22. Northeast winds 15 to 20 mph. Wind chill values as low as 13. No
+lightning risk. Water temperature 38 degrees Fahrenheit. 
+.MONDAY...Sunny. High around 40. Northeast winds 10 to 15 mph. Wind
+chill values as low as 9 above in the morning. No lightning risk.
+Water temperature 38 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-252115-
+Upper Penobscot Watershed-
+302 AM EDT Sun Mar 25 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. High around 35. Northeast winds around 10 mph. Wind chill
+values as low as 11. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 14. Light winds. No lightning
+risk. 
+.MONDAY...Sunny. High around 40. Light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-252115-
+Lower Penobscot Watershed-
+302 AM EDT Sun Mar 25 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. Isolated snow showers until mid morning.
+High around 37. Northeast winds around 10 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 14. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+16. Northeast winds around 10 mph until midnight becoming light
+winds. Wind chill values as low as 13. No lightning risk. 
+.MONDAY...Sunny. High around 41. North winds around 10 mph. Wind
+chill values as low as 8 above in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

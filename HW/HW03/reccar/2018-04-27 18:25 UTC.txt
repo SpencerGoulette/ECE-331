@@ -1,0 +1,215 @@
+
+064 
+SXUS41 KCAR 271825
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+225 PM EDT Fri Apr 27 2018
+
+MEZ004-280830-
+Top of Mount Katahdin-
+225 PM EDT Fri Apr 27 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy early this evening, then summit becoming
+obscured. Rain likely until midnight...then a chance of rain showers
+after midnight. Patchy fog after midnight. Low around 37. South
+winds around 10 mph. Chance of precipitation 60 percent. No
+lightning risk. 
+.SATURDAY...Summit obscured in the morning, then becoming partly
+sunny. Patchy fog in the morning. A slight chance of showers in the
+morning. High around 44. Southwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ005-280830-
+Katahdin Woods and Waters National Monument-
+225 PM EDT Fri Apr 27 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Rain likely until midnight...then a chance of
+showers after midnight. Patchy fog after midnight. Low around 42.
+Light winds. Chance of precipitation 60 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Patchy fog in the morning. A slight chance of showers in the
+morning. High around 61. South winds around 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ029-280830-
+Top of Cadillac Mountain-
+225 PM EDT Fri Apr 27 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy until midnight, then summit becoming obscured.
+Rain through early morning. a slight chance of showers late. Patchy
+fog after midnight. Low around 43. South winds 10 to 15 mph. Chance
+of precipitation 80 percent. No lightning risk. 
+.SATURDAY...Summit obscured. Patchy fog in the morning. High around
+52. Southwest winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ001-280830-
+Top of Deboullie Mountain-
+225 PM EDT Fri Apr 27 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy early this evening, then summit becoming
+obscured. A chance of showers early this evening...then rain likely
+late this evening. a chance of showers after midnight. Patchy fog
+after midnight. Low around 38. Light winds. Chance of precipitation
+60 percent. No lightning risk. 
+.SATURDAY...Summit obscured. Patchy fog in the morning. A chance of
+showers. High around 54. Light winds becoming southwest around
+10 mph in the afternoon. Chance of precipitation 30 percent. No
+lightning risk. 
+
+$$
+
+MEZ006-280830-
+Top of Mars Hill Mountain-
+225 PM EDT Fri Apr 27 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy until midnight, then summit becoming obscured.
+Rain likely through early morning. a chance of showers late. Patchy
+fog after midnight. Low around 43. South winds around 10 mph. Chance
+of precipitation 70 percent. No lightning risk. 
+.SATURDAY...Summit obscured. Patchy fog in the morning. A chance of
+showers in the morning...then a slight chance of showers in the
+afternoon. High around 58. South winds around 10 mph. Chance of
+precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ010-280830-
+Top of White Cap Mountain-
+225 PM EDT Fri Apr 27 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy early this evening, then summit becoming obscured.
+Rain likely until midnight...then a chance of showers after
+midnight. a slight chance of showers late. Patchy fog after
+midnight. Low around 40. South winds around 10 mph. Chance of
+precipitation 60 percent. No lightning risk. 
+.SATURDAY...Summit obscured. Patchy fog in the morning. High around
+49. Southwest winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ010-280830-
+Moosehead Lake-
+225 PM EDT Fri Apr 27 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Rain likely early this evening...then a chance of
+showers from late evening on. Patchy fog after midnight. Low around
+39. Light winds. Chance of precipitation 60 percent. No lightning
+risk. 
+.SATURDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Patchy fog in the morning. A slight chance of showers. High
+around 59. Light winds becoming south around 10 mph in the
+afternoon. Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-280830-
+Allagash Wilderness Waterway-
+225 PM EDT Fri Apr 27 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. A chance of showers. Patchy fog after midnight.
+Low around 39. Light winds. Chance of precipitation 50 percent. No
+lightning risk. 
+.SATURDAY...Cloudy in the morning, then becoming partly sunny.
+Patchy fog in the morning. A chance of showers. High around 59.
+Light winds becoming southwest around 10 mph in the afternoon.
+Chance of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ030-280830-
+St Croix River-
+225 PM EDT Fri Apr 27 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Rain through early morning. a chance of showers
+late. Patchy fog after midnight. Low around 44. South winds around
+10 mph. Chance of precipitation 80 percent. No lightning risk. 
+.SATURDAY...Cloudy in the morning, then becoming partly sunny.
+Patchy fog in the morning. A slight chance of showers in the
+morning. High around 62. South winds around 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ030-280830-
+West Quoddy Head-
+225 PM EDT Fri Apr 27 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy. Rain through early morning. a chance of
+showers late. Patchy fog after midnight. Low around 42. South winds
+10 to 15 mph. Chance of precipitation 80 percent. No lightning risk.
+Water temperature 40 degrees Fahrenheit. 
+.SATURDAY...Mostly cloudy. Patchy fog in the morning. A chance of
+showers in the morning...then a slight chance of showers in the
+afternoon. High around 52. Southwest winds 10 to 15 mph. Chance of
+precipitation 30 percent. No lightning risk. Water temperature
+40 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-280830-
+Upper Penobscot Watershed-
+225 PM EDT Fri Apr 27 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain likely until midnight...then a chance of
+showers after midnight. a slight chance of showers late. Patchy fog
+after midnight. Low around 43. Light winds. Chance of precipitation
+70 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Patchy fog in the morning. A slight chance of showers in the
+morning. High around 62. Southwest winds 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-280830-
+Lower Penobscot Watershed-
+225 PM EDT Fri Apr 27 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain likely until midnight...then a chance of
+showers after midnight. a slight chance of showers late. Patchy fog
+after midnight. Low around 45. South winds around 10 mph until
+midnight becoming light winds. Chance of precipitation 70 percent.
+No lightning risk. 
+.SATURDAY...Cloudy in the morning, then becoming partly sunny.
+Patchy fog in the morning. High around 64. Southwest winds 10 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

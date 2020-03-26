@@ -1,0 +1,75 @@
+
+472 
+SXUS41 KCAR 050748
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+248 AM EST Sun Mar 5 2017
+
+MEZ004-052200-
+Top of Mount Katahdin-
+248 AM EST Sun Mar 5 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Sunny. Not as cool with high around 12. North winds 30 to
+35 mph. Wind chill values as low as 29 below. 
+.TONIGHT...Clear. Not as cool with low around 1 above. North winds
+25 to 30 mph decreasing to 15 to 20 mph after midnight. Wind chill
+values as low as 18 below. 
+.MONDAY...Sunny. Not as cool with high around 26. North winds 10 to
+15 mph. Wind chill values as low as 19 below in the morning. 
+
+$$
+
+MEZ029-052200-
+Top of Cadillac Mountain-
+248 AM EST Sun Mar 5 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny. Not as cool with high around 22. Northwest winds
+25 to 30 mph. Wind chill values as low as 18 below. 
+.TONIGHT...Clear. Low around 6 above. North winds 20 to 30 mph. Wind
+chill values as low as 9 below. 
+.MONDAY...Sunny. High around 30. Northwest winds 10 to 20 mph. Wind
+chill values as low as 13 below in the morning. 
+
+$$
+
+MEZ004&gt;006-010-011-031-052200-
+Upper Penobscot Watershed-
+248 AM EST Sun Mar 5 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. Not as cool with high around 20. Northwest winds
+15 to 20 mph. Wind chill values as low as 18 below. 
+.TONIGHT...Clear. Low around 2 above. Northwest winds 10 to 15 mph.
+Wind chill values as low as 10 below. 
+.MONDAY...Sunny. Not as cool with high around 31. Northwest winds
+around 10 mph in the morning becoming light winds. Wind chill values
+as low as 12 below in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-052200-
+Lower Penobscot Watershed-
+248 AM EST Sun Mar 5 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. Not as cool with high around 24. Northwest winds
+10 to 15 mph. Wind chill values as low as 12 below. 
+.TONIGHT...Clear. Low around 4 above. Northwest winds 10 to 15 mph.
+Wind chill values as low as 5 below. 
+.MONDAY...Sunny. Not as cool with high around 34. Light winds. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

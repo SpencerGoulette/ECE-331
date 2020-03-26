@@ -1,0 +1,174 @@
+
+984 
+SXUS41 KCAR 311851
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+251 PM EDT Fri May 31 2019
+
+MEZ004-010900-
+Top of Mount Katahdin-
+251 PM EDT Fri May 31 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear. Low around 35. West winds 10 to 20 mph. No
+lightning risk. 
+.SATURDAY...Mostly sunny. High around 46. Southwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ005-010900-
+Katahdin Woods and Waters National Monument-
+251 PM EDT Fri May 31 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly clear. Low around 42. West winds 10 mph. No
+lightning risk. 
+.SATURDAY...Mostly sunny. High around 66. Southwest winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-010900-
+Top of Cadillac Mountain-
+251 PM EDT Fri May 31 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Low around 49. West winds 10 to 15 mph. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. High around 56. Southwest winds 10 mph shifting to the south
+10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-010900-
+Top of Deboullie Mountain-
+251 PM EDT Fri May 31 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly clear. Low around 41. West winds 10 to 15 mph. No
+lightning risk. 
+.SATURDAY...Mostly sunny. High around 59. West winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ006-010900-
+Top of Mars Hill Mountain-
+251 PM EDT Fri May 31 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear. Low around 42. West winds 10 to 15 mph
+decreasing to 10 mph after midnight. No lightning risk. 
+.SATURDAY...Mostly sunny. High around 62. Southwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ010-010900-
+Top of White Cap Mountain-
+251 PM EDT Fri May 31 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Low around 41. Northwest winds 10 to 15 mph
+shifting to the west 10 mph after midnight. No lightning risk. 
+.SATURDAY...Mostly sunny. High around 53. Southwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ010-010900-
+Moosehead Lake-
+251 PM EDT Fri May 31 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear. Low around 40. West winds 10 mph. Waves
+1 foot. No lightning risk. 
+.SATURDAY...Mostly sunny. High around 65. Waves 1 foot. Southwest
+winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ001-010900-
+Allagash Wilderness Waterway-
+251 PM EDT Fri May 31 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly clear. Low around 38. West winds 10 to 15 mph
+shifting to the southwest 10 mph after midnight. No lightning risk. 
+.SATURDAY...Mostly sunny. High around 64. West winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-010900-
+St Croix River-
+251 PM EDT Fri May 31 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear. Low around 44. Northwest winds 10 mph. No
+lightning risk. 
+.SATURDAY...Mostly sunny. High around 67. Southwest winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-010900-
+West Quoddy Head-
+251 PM EDT Fri May 31 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Low around 45. Southwest winds 10 to 15 mph shifting to the
+west 10 mph after midnight. No lightning risk. Water temperature
+43 degrees Fahrenheit. 
+.SATURDAY...Partly sunny. High around 52. Southwest winds 10 mph
+shifting to the south 10 to 15 mph in the afternoon. No lightning
+risk. Water temperature 43 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-010900-
+Upper Penobscot Watershed-
+251 PM EDT Fri May 31 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 42. West winds 10 mph. No
+lightning risk. 
+.SATURDAY...Mostly sunny. High around 67. Southwest winds 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-010900-
+Lower Penobscot Watershed-
+251 PM EDT Fri May 31 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 44. Northwest winds 10 mph. No
+lightning risk. 
+.SATURDAY...Mostly sunny. High around 70. Southwest winds 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

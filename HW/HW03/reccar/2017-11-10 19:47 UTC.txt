@@ -1,0 +1,194 @@
+
+042 
+SXUS41 KCAR 101947
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+247 PM EST Fri Nov 10 2017
+
+MEZ004-111000-
+Top of Mount Katahdin-
+247 PM EST Fri Nov 10 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear with strong winds. Much cooler with low around
+4 below. Temperatures rising to around 10 above after midnight.
+Northwest winds 35 to 45 mph. Wind chill values as low as 34 below.
+No lightning risk. 
+.VETERANS DAY...Sunny, windy with high around 19. North winds around
+30 mph decreasing to 20 to 25 mph in the afternoon. Wind chill
+values as low as 9 below. No lightning risk. 
+
+$$
+
+MEZ005-111000-
+Katahdin Woods and Waters National Monument-
+247 PM EST Fri Nov 10 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear, cooler with low around 14. Northwest winds 15 to
+20 mph with gusts to around 35 mph. Wind chill values as low as
+5 below. No lightning risk. 
+.VETERANS DAY...Sunny. High around 31. Northwest winds 10 to 20 mph.
+Wind chill values as low as 3 below in the morning. No lightning
+risk. 
+
+$$
+
+MEZ029-111000-
+Top of Cadillac Mountain-
+247 PM EST Fri Nov 10 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear, windy and much cooler with low around 15.
+Northwest winds around 30 mph. Wind chill values as low as 6 below.
+No lightning risk. 
+.VETERANS DAY...Sunny, windy, cooler with high around 30. Northwest
+winds 25 to 30 mph decreasing to 15 to 20 mph in the afternoon. Wind
+chill values as low as 4 below in the morning. No lightning risk. 
+
+$$
+
+MEZ001-111000-
+Top of Deboullie Mountain-
+247 PM EST Fri Nov 10 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Windy,
+cooler with low around 8 above. West winds 25 to 30 mph. Wind chill
+values as low as 15 below. No lightning risk. 
+.VETERANS DAY...Sunny, brisk with high around 25. Northwest winds
+15 to 25 mph. Wind chill values as low as 11 below in the morning.
+No lightning risk. 
+
+$$
+
+MEZ006-111000-
+Top of Mars Hill Mountain-
+247 PM EST Fri Nov 10 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy early this evening...then clearing. Windy
+and much cooler with low around 10 above. West winds 25 to 30 mph.
+Wind chill values as low as 13 below. No lightning risk. 
+.VETERANS DAY...Sunny, windy with high around 27. Northwest winds
+25 to 30 mph decreasing to 15 to 25 mph in the afternoon. Wind chill
+values as low as 9 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-111000-
+Top of White Cap Mountain-
+247 PM EST Fri Nov 10 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear and very windy. Cooler with low around 3 above.
+Northwest winds around 35 mph. Wind chill values as low as 23 below.
+No lightning risk. 
+.VETERANS DAY...Sunny and very windy. High around 20. Northwest
+winds 30 to 35 mph decreasing to 20 to 25 mph in the afternoon. Wind
+chill values as low as 19 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-111000-
+Moosehead Lake-
+247 PM EST Fri Nov 10 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear, brisk and much cooler with low around 12.
+Northwest winds 20 to 25 mph. Waves 5 feet. Wind chill values as low
+as 7 below. No lightning risk. Water temperature 58 degrees
+Fahrenheit. 
+.VETERANS DAY...Sunny. High around 30. Waves 5 feet. Northwest winds
+10 to 20 mph. Wind chill values as low as 6 below in the morning. No
+lightning risk. Water temperature 58 degrees Fahrenheit. 
+
+$$
+
+MEZ001-111000-
+Allagash Wilderness Waterway-
+247 PM EST Fri Nov 10 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy early this evening...then clearing. Brisk,
+cooler with low around 11. West winds 15 to 25 mph. Wind chill
+values as low as 8 below. No lightning risk. 
+.VETERANS DAY...Sunny. High around 29. Northwest winds 10 to 20 mph.
+Wind chill values as low as 5 below in the morning. No lightning
+risk. 
+
+$$
+
+MEZ030-111000-
+St Croix River-
+247 PM EST Fri Nov 10 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Much cooler with low around 16. West winds 15 to
+20 mph. Wind chill values as low as zero. No lightning risk. 
+.VETERANS DAY...Sunny. High around 35. Northwest winds 10 to 20 mph.
+Wind chill values as low as 1 above in the morning. No lightning
+risk. 
+
+$$
+
+MEZ030-111000-
+West Quoddy Head-
+247 PM EST Fri Nov 10 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear, windy and much cooler with low around 21. West
+winds 25 to 30 mph. Wind chill values as low as 4 above. No
+lightning risk. Water temperature 53 degrees Fahrenheit. 
+.VETERANS DAY...Sunny, cooler with high around 38. Northwest winds
+15 to 20 mph. Wind chill values as low as 8 above in the morning. No
+lightning risk. Water temperature 53 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-111000-
+Upper Penobscot Watershed-
+247 PM EST Fri Nov 10 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Much cooler with low around 15. West winds 15 to
+20 mph with gusts to around 35 mph. Wind chill values as low as
+3 below. No lightning risk. 
+.VETERANS DAY...Sunny. High around 33. Northwest winds 10 to 20 mph.
+Wind chill values as low as 2 below in the morning. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-111000-
+Lower Penobscot Watershed-
+247 PM EST Fri Nov 10 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Much cooler with low around 16. West winds around
+15 mph. Wind chill values as low as 1 above. No lightning risk. 
+.VETERANS DAY...Sunny. High around 36. Northwest winds 10 to 15 mph.
+Wind chill values as low as 2 above in the morning. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

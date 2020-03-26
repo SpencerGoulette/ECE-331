@@ -1,0 +1,234 @@
+
+767 
+SXUS41 KCAR 180933
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+533 AM EDT Fri May 18 2018
+
+MEZ004-190000-
+Top of Mount Katahdin-
+533 AM EDT Fri May 18 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Sunny. Areas of frost this morning. Much cooler with high
+around 38. North winds 15 to 20 mph shifting to the northwest around
+10 mph this afternoon. Wind chill values as low as 10 above. No
+lightning risk. 
+.TONIGHT...Clear. Patchy frost. Not as cool with low around 35. West
+winds 10 to 15 mph. No lightning risk. 
+.SATURDAY...Sunny in the morning, then summit in and out of clouds. 
+Patchy frost in the morning. Rain likely in the afternoon. Very 
+windy and not as cool with high around 52. East winds 25 to 30 mph 
+shifting to the south 30 to 35 mph in the afternoon. Chance of 
+precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ005-190000-
+Katahdin Woods and Waters National Monument-
+533 AM EDT Fri May 18 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Sunny. Patchy frost until mid morning. High around 59.
+North winds around 10 mph this morning becoming light winds. No
+lightning risk. 
+.TONIGHT...Clear. Areas of frost after midnight. Low around 31.
+Light winds. No lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny. Patchy
+frost in the morning. Rain likely in the afternoon. High around 63.
+Light winds becoming south around 10 mph in the afternoon. Chance of
+precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ029-190000-
+Top of Cadillac Mountain-
+533 AM EDT Fri May 18 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny, breezy and much cooler with high around 53.
+Northeast winds 15 to 25 mph shifting to the north 10 to 15 mph this
+afternoon. No lightning risk. 
+.TONIGHT...Clear. Low around 42. Northeast winds around 10 mph
+shifting to the southeast after midnight. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming cloudy. A 
+chance of rain in the morning...then rain likely in the afternoon. 
+High around 53. Southeast winds 10 to 20 mph. Chance of precipitation
+70 percent. No lightning risk. 
+
+$$
+
+MEZ001-190000-
+Top of Deboullie Mountain-
+533 AM EDT Fri May 18 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Sunny. Areas of frost until mid morning. High around 49. 
+Northwest winds around 10 mph this morning becoming light winds. Wind
+chill values as low as 20. No lightning risk. 
+.TONIGHT...Clear. Areas of frost after midnight. Low around 29.
+Light winds. No lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny. Areas
+of frost in the morning. A chance of rain in the afternoon. Not as
+cool with high around 62. South winds 10 to 15 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ006-190000-
+Top of Mars Hill Mountain-
+533 AM EDT Fri May 18 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Sunny. Patchy frost until mid morning. High around 51.
+Northwest winds around 10 mph. No lightning risk. 
+.TONIGHT...Clear. Areas of frost after midnight. Low around 30.
+Light winds. No lightning risk. 
+.SATURDAY...Partly sunny. Areas of frost in the morning. A chance of
+rain in the afternoon. Not as cool with high around 63. South winds 
+10 to 20 mph. Chance of precipitation 40 percent. No lightning risk.
+
+$$
+
+MEZ010-190000-
+Top of White Cap Mountain-
+533 AM EDT Fri May 18 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Sunny. Areas of frost until mid morning. Cooler with high 
+around 46. North winds 10 to 20 mph. Wind chill values as low as 18. 
+No lightning risk. 
+.TONIGHT...Clear. Patchy frost after midnight. Low around 36.
+Southwest winds 15 mph increasing to 15 to 20 mph after midnight. No
+lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly 
+cloudy. Patchy frost in the morning. A slight chance of rain in the 
+morning...then rain likely in the afternoon. Breezy with high around 
+51. Northwest winds 15 to 20 mph shifting to the southeast 20 to 25 
+mph in the afternoon. Chance of precipitation 70 percent. No 
+lightning risk. 
+
+$$
+
+MEZ010-190000-
+Moosehead Lake-
+533 AM EDT Fri May 18 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Sunny. Areas of frost until mid morning. High around 57.
+Northwest winds 10 mph. Waves 1 foot. No lightning risk. 
+.TONIGHT...Clear. Areas of frost after midnight. Low around 30.
+Waves 1 foot. Light winds. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly 
+cloudy. Areas of frost in the morning. A slight chance of rain in the
+morning...then rain likely in the afternoon. High around 59. Waves 1
+foot. Light winds becoming southeast around 10 mph in the afternoon.
+Chance of precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ001-190000-
+Allagash Wilderness Waterway-
+533 AM EDT Fri May 18 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Sunny. Areas of frost until mid morning. High around 56.
+North winds around 10 mph this morning becoming light winds. No
+lightning risk. 
+.TONIGHT...Clear. Areas of frost after midnight. Low around 28.
+Light winds. No lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny. Areas
+of frost in the morning. Rain likely in the afternoon. High around
+65. Light winds becoming south 10 to 15 mph in the afternoon. Chance
+of precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ030-190000-
+St Croix River-
+533 AM EDT Fri May 18 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Sunny. High around 61. North winds around 10 mph this
+morning becoming light winds. No lightning risk. 
+.TONIGHT...Clear. Areas of frost after midnight. Low around 29.
+Light winds. No lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny. Areas
+of frost in the morning. A chance of rain in the afternoon. High
+around 62. Light winds becoming south around 10 mph in the
+afternoon. Chance of precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ030-190000-
+West Quoddy Head-
+533 AM EDT Fri May 18 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Sunny. High around 55. North winds 10 to 15 mph shifting to
+the southwest this afternoon. No lightning risk. Water temperature
+44 degrees Fahrenheit. 
+.TONIGHT...Clear. Patchy frost after midnight. Low around 34. Light
+winds. No lightning risk. Water temperature 44 degrees Fahrenheit. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny. Patchy
+frost in the morning. A chance of rain in the afternoon. High around
+52. Light winds becoming south around 10 mph in the afternoon.
+Chance of precipitation 40 percent. No lightning risk. Water
+temperature 44 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-190000-
+Upper Penobscot Watershed-
+533 AM EDT Fri May 18 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. Patchy frost until mid morning. High around 61.
+North winds around 10 mph this morning becoming light winds. No
+lightning risk. 
+.TONIGHT...Clear. Patchy frost after midnight. Low around 31. Light
+winds. No lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming mostly cloudy.
+Patchy frost in the morning. Rain likely in the afternoon. High
+around 63. Light winds becoming south around 10 mph in the
+afternoon. Chance of precipitation 70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-190000-
+Lower Penobscot Watershed-
+533 AM EDT Fri May 18 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny, cooler with high around 62. North winds 10 to 15 mph
+shifting to the west this afternoon. No lightning risk. 
+.TONIGHT...Clear. Patchy frost after midnight. Low around 32. Light
+winds. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly 
+cloudy. Patchy frost in the morning. A slight chance of rain in the 
+morning...then rain likely in the afternoon. High around 62. South 
+winds 10 mph. Chance of precipitation 70 percent. No lightning risk.
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

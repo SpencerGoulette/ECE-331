@@ -1,0 +1,200 @@
+
+541 
+SXUS41 KCAR 141915
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+315 PM EDT Sat Jul 14 2018
+
+MEZ004-150915-
+Top of Mount Katahdin-
+315 PM EDT Sat Jul 14 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured through early morning, then summit in and
+out of clouds. Isolated sprinkles. Low around 54. West winds 10 to
+15 mph. No lightning risk. 
+.SUNDAY...Summit in and out of clouds. Scattered showers and
+thunderstorms. Warmer with high around 68. Light winds. Chance of
+precipitation 40 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ005-150915-
+Katahdin Woods and Waters National Monument-
+315 PM EDT Sat Jul 14 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Isolated sprinkles. Low around 57. Light winds. No lightning
+risk. 
+.SUNDAY...Mostly cloudy. Isolated showers and thunderstorms in the
+morning...then scattered showers and thunderstorms in the afternoon.
+Warmer with high around 81. Light winds. Chance of precipitation
+40 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ029-150915-
+Top of Cadillac Mountain-
+315 PM EDT Sat Jul 14 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy. Scattered sprinkles. Low around 58. Light winds.
+No lightning risk. 
+.SUNDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 72. Light winds. No lightning risk. 
+
+$$
+
+MEZ001-150915-
+Top of Deboullie Mountain-
+315 PM EDT Sat Jul 14 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy early this evening, then summit becoming obscured.
+Isolated sprinkles. Low around 57. Southwest winds around 10 mph. No
+lightning risk. 
+.SUNDAY...Summit obscured in the morning, then becoming mostly
+cloudy. Isolated showers and thunderstorms in the morning...then
+scattered showers and thunderstorms in the afternoon. Warmer with
+high around 77. Light winds. Chance of precipitation 40 percent.
+Lightning risk is elevated. 
+
+$$
+
+MEZ006-150915-
+Top of Mars Hill Mountain-
+315 PM EDT Sat Jul 14 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy. Isolated sprinkles through early morning.
+Low around 58. South winds around 10 mph. No lightning risk. 
+.SUNDAY...Mostly cloudy in the morning, then summit in and out of
+clouds. Isolated showers and thunderstorms in the morning...then
+scattered showers and thunderstorms in the afternoon. Warmer with
+high around 78. Light winds. Chance of precipitation 30 percent.
+Lightning risk is elevated. 
+
+$$
+
+MEZ010-150915-
+Top of White Cap Mountain-
+315 PM EDT Sat Jul 14 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy, then summit becoming obscured late this evening,
+then summit in and out of clouds, then summit becoming obscured
+late. Isolated sprinkles. Near steady temperatures around 57.
+Southwest winds 10 to 15 mph. No lightning risk. 
+.SUNDAY...Summit obscured. Scattered showers and thunderstorms.
+Warmer with high around 70. Light winds. Chance of precipitation
+40 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ010-150915-
+Moosehead Lake-
+315 PM EDT Sat Jul 14 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Isolated sprinkles. Low around 56. Light winds. Waves
+1 foot. No lightning risk. Water temperature 61 degrees Fahrenheit. 
+.SUNDAY...Mostly cloudy. Isolated showers and thunderstorms in the
+morning...then scattered showers and thunderstorms in the afternoon.
+High around 78. Waves 1 foot. Light winds. Chance of precipitation
+40 percent. Lightning risk is elevated. Water temperature 61 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-150915-
+Allagash Wilderness Waterway-
+315 PM EDT Sat Jul 14 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Isolated sprinkles. Low around 56. Light winds. No lightning
+risk. 
+.SUNDAY...Mostly cloudy. Scattered showers and thunderstorms. Warmer
+with high around 81. Light winds. Chance of precipitation
+40 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ030-150915-
+St Croix River-
+315 PM EDT Sat Jul 14 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. Isolated sprinkles until midnight. Not as
+cool with low around 57. Light winds. No lightning risk. 
+.SUNDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Isolated showers and thunderstorms in the afternoon. High around 79.
+Light winds. Chance of precipitation 20 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ030-150915-
+West Quoddy Head-
+315 PM EDT Sat Jul 14 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy. Isolated sprinkles from late evening on.
+Low around 55. Light winds. No lightning risk. Water temperature
+52 degrees Fahrenheit. 
+.SUNDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 66. Light winds. No lightning risk. Water temperature
+52 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-150915-
+Upper Penobscot Watershed-
+315 PM EDT Sat Jul 14 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Isolated sprinkles. Low around 57. Light
+winds. No lightning risk. 
+.SUNDAY...Mostly cloudy. Isolated showers and thunderstorms in the
+morning...then scattered showers and thunderstorms in the afternoon.
+High around 81. Light winds. Chance of precipitation 40 percent.
+Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-150915-
+Lower Penobscot Watershed-
+315 PM EDT Sat Jul 14 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Isolated sprinkles. Low around 58. Light
+winds. No lightning risk. 
+.SUNDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Isolated showers and thunderstorms in the morning...then scattered
+showers and thunderstorms in the afternoon. High around 81. Light
+winds. Chance of precipitation 40 percent. Lightning risk is
+elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

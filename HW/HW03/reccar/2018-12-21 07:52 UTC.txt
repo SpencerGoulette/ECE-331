@@ -1,0 +1,282 @@
+
+080 
+SXUS41 KCAR 210752
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+252 AM EST Fri Dec 21 2018
+
+MEZ004-212200-
+Top of Mount Katahdin-
+252 AM EST Fri Dec 21 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit obscured. Patchy fog. Rain. Rain may be heavy at
+times this afternoon. Strong winds with high around 45. South winds
+30 to 45 mph increasing to 40 to 50 mph this afternoon. Chance of
+precipitation near 100 percent. Wind chill values as low as 19. No
+lightning risk. 
+.TONIGHT...Summit obscured. Areas of fog. Rain. Rain may be heavy at
+times until midnight. Strong winds with low around 41. South winds
+45 to 55 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+.SATURDAY...Cloudy in the morning, then summit becoming obscured.
+Areas of fog in the morning. Rain in the morning...then rain showers
+likely with a chance of snow showers in the afternoon. Very windy
+with high around 43. Temperatures falling to around 30 in the
+afternoon. Southwest winds 30 to 45 mph. Chance of precipitation
+near 100 percent. Wind chill values as low as 12 in the afternoon.
+No lightning risk. 
+
+$$
+
+MEZ005-212200-
+Katahdin Woods and Waters National Monument-
+252 AM EST Fri Dec 21 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Cloudy. Patchy fog until mid morning. patchy fog from late
+morning on. Freezing rain likely until mid morning...then rain. Rain
+may be heavy at times this afternoon. Not as cool with high around 
+47. Southeast winds 10 to 20 mph. Chance of precipitation near 100 
+percent. No lightning risk.
+.TONIGHT...Cloudy. Areas of fog. Rain. Rain may be heavy at times
+until midnight. Not as cool with low around 47. South winds 10 to
+20 mph. Chance of precipitation near 100 percent. No lightning risk.
+.SATURDAY...Cloudy. Areas of fog in the morning. Rain likely in the
+morning...then a chance of rain showers in the afternoon. High
+around 51. Temperatures falling to around 37 in the afternoon.
+Southwest winds 10 to 20 mph. Chance of precipitation 70 percent. No
+lightning risk. 
+
+$$
+
+MEZ029-212200-
+Top of Cadillac Mountain-
+252 AM EST Fri Dec 21 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Cloudy until mid morning, then summit becoming obscured.
+Patchy fog. Rain. Rain may be heavy at times this afternoon. Strong 
+winds and not as cool with high around 51. South winds 20 to 40 mph 
+increasing to 40 to 50 mph this afternoon. Chance of precipitation 
+near 100 percent. No lightning risk. 
+.TONIGHT...Summit obscured. Areas of fog. Rain. Strong winds and not
+as cool with low around 49. South winds 40 to 60 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+.SATURDAY...Cloudy in the morning, then summit becoming obscured.
+Areas of fog in the morning. Rain likely in the morning. Windy with
+high around 52. Temperatures falling to around 42 in the afternoon.
+Southwest winds 20 to 35 mph. Chance of precipitation 60 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-212200-
+Top of Deboullie Mountain-
+252 AM EST Fri Dec 21 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Cloudy until mid morning, then summit becoming obscured.
+Patchy fog. Freezing rain this morning. Rain from late morning on. 
+Not as cool with high around 44. Southeast winds 10 to 20 mph 
+increasing to 20 to 25 mph this afternoon. Chance of precipitation 
+near 100 percent. Wind chill values as low as 19. No lightning risk.
+.TONIGHT...Summit obscured. Areas of fog. Rain. Not as cool with low
+around 44. Southeast winds 15 to 25 mph. Chance of precipitation
+near 100 percent. No lightning risk. 
+.SATURDAY...Summit obscured. Areas of fog in the morning. Rain
+likely in the morning...then a chance of rain showers in the
+afternoon. High around 50. Temperatures falling to around 35 in the
+afternoon. South winds 15 to 20 mph. Chance of precipitation
+70 percent. No lightning risk. 
+
+$$
+
+MEZ006-212200-
+Top of Mars Hill Mountain-
+252 AM EST Fri Dec 21 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Cloudy this morning, then summit becoming obscured. Patchy
+fog. Freezing rain likely until mid morning. Rain from late morning 
+on. Breezy and not as cool with high around 45. Southeast winds 10 to
+25 mph increasing to 20 to 30 mph this afternoon. Chance of 
+precipitation near 100 percent. Wind chill values as low as 20. No 
+lightning risk. 
+.TONIGHT...Summit obscured. Areas of fog. Rain, breezy and not as
+cool with low around 45. South winds 20 to 30 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+.SATURDAY...Summit obscured. Areas of fog in the morning. Rain in
+the morning...then a chance of showers in the afternoon. High around
+51. Temperatures falling to around 39 in the afternoon. South winds
+15 to 25 mph. Chance of precipitation 80 percent. No lightning risk.
+
+$$
+
+MEZ010-212200-
+Top of White Cap Mountain-
+252 AM EST Fri Dec 21 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Summit obscured. Patchy fog. Rain. Rain may be heavy at 
+times this afternoon. Very windy with high around 48. South winds 25 
+to 45 mph increasing to 35 to 45 mph this afternoon. Chance of 
+precipitation near 100 percent. No lightning risk. 
+.TONIGHT...Summit obscured. Areas of fog. Rain. Rain may be heavy at
+times until midnight. Strong winds and not as cool with low around
+43. South winds 40 to 45 mph becoming 30 to 50 mph after midnight.
+Chance of precipitation near 100 percent. No lightning risk. 
+.SATURDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. Areas of fog in the morning. Rain in the
+morning...then a chance of rain and snow showers in the afternoon.
+Windy with high around 45. Temperatures falling to around 29 in the
+afternoon. Southwest winds 25 to 35 mph. Chance of precipitation
+80 percent. Wind chill values as low as 12 in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ010-212200-
+Moosehead Lake-
+252 AM EST Fri Dec 21 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Cloudy. Patchy fog. Freezing rain until mid morning...then 
+rain. Not as cool with high around 48. Southeast winds 10 to 25 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+.TONIGHT...Cloudy. Areas of fog. Rain. Not as cool with low around
+47. Southeast winds 10 to 20 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog in the morning. Rain likely in the
+morning...then a chance of rain showers in the afternoon. High
+around 49. Temperatures falling to around 35 in the afternoon. South
+winds 10 to 20 mph shifting to the southwest in the afternoon.
+Chance of precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ001-212200-
+Allagash Wilderness Waterway-
+252 AM EST Fri Dec 21 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Cloudy. Patchy fog. Freezing rain until mid morning. Rain
+from late morning on. Not as cool with high around 46. Southeast
+winds 10 to 20 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+.TONIGHT...Cloudy. Areas of fog. Rain. Not as cool with low around
+46. Southeast winds 10 to 20 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog in the morning. Rain likely in the
+morning...then a chance of rain showers in the afternoon. High
+around 51. Temperatures falling to around 37 in the afternoon.
+Southwest winds 10 to 20 mph. Chance of precipitation 70 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-212200-
+St Croix River-
+252 AM EST Fri Dec 21 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Cloudy. Patchy fog. A chance of rain with a slight chance 
+of freezing rain until mid morning. Rain from late morning on. Rain 
+may be heavy at times this afternoon. Not as cool with high around 
+49. Southeast winds 10 to 20 mph. Chance of precipitation near 100 
+percent. No lightning risk.
+.TONIGHT...Cloudy. Areas of fog. Rain. Not as cool with low around
+49. South winds 15 to 25 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog in the morning. Rain in the
+morning...then a chance of showers in the afternoon. High around 53.
+South winds 10 to 20 mph. Chance of precipitation 80 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-212200-
+West Quoddy Head-
+252 AM EST Fri Dec 21 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Cloudy. Patchy fog. A chance of rain until mid morning. 
+Rain from late morning on. Rain may be heavy at times this 
+afternoon. Windy with high around 49. Southeast winds 10 to 25 mph 
+increasing to 20 to 35 mph this afternoon. Chance of precipitation 
+near 100 percent. No lightning risk. Water temperature 46 degrees 
+Fahrenheit. 
+.TONIGHT...Cloudy. Areas of fog. Rain. Very windy and not as cool
+with low around 49. South winds 30 to 40 mph. Chance of
+precipitation near 100 percent. No lightning risk. Water temperature
+46 degrees Fahrenheit. 
+.SATURDAY...Cloudy. Areas of fog in the morning. Rain in the
+morning...then a chance of showers in the afternoon. Breezy with
+high around 50. Southwest winds 15 to 30 mph. Chance of
+precipitation 80 percent. No lightning risk. Water temperature
+46 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-212200-
+Upper Penobscot Watershed-
+252 AM EST Fri Dec 21 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Patchy fog. Freezing rain likely until mid
+morning...then rain. Rain may be heavy at times this afternoon. Not 
+as cool with high around 49. Southeast winds 15 mph increasing to 10 
+to 20 mph this afternoon. Chance of precipitation near 100 percent. 
+No lightning risk. 
+.TONIGHT...Cloudy. Areas of fog. Rain. Rain may be heavy at times
+until midnight. Not as cool with low around 48. Southeast winds
+10 to 20 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+.SATURDAY...Cloudy. Areas of fog in the morning. Rain likely in the
+morning...then a chance of rain showers in the afternoon. High
+around 51. Temperatures falling to around 39 in the afternoon.
+Southwest winds 10 to 20 mph. Chance of precipitation 70 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-212200-
+Lower Penobscot Watershed-
+252 AM EST Fri Dec 21 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Patchy fog. Freezing rain likely until mid
+morning...then rain. Rain may be heavy at times this afternoon. Not 
+as cool with high around 51. Southeast winds 10 to 25 mph. Chance of 
+precipitation near 100 percent. No lightning risk. 
+.TONIGHT...Cloudy. Areas of fog. Rain. Rain may be heavy at times
+until midnight. Breezy and not as cool with low around 49. South
+winds 15 to 30 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+.SATURDAY...Cloudy. Areas of fog in the morning. Rain likely in the
+morning...then a slight chance of showers in the afternoon. High
+around 52. Temperatures falling to around 41 in the afternoon.
+Southwest winds 10 to 20 mph. Chance of precipitation 70 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

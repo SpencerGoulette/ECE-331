@@ -1,0 +1,96 @@
+
+529 
+SXUS41 KCAR 130713
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+313 AM EDT Sat May 13 2017
+
+MEZ004-132115-
+Top of Mount Katahdin-
+313 AM EDT Sat May 13 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly sunny. Cooler with high around 47. Light winds
+becoming southeast around 10 mph this afternoon. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. A chance of rain and snow after midnight. Low around 33.
+Southeast winds 10 to 15 mph. Chance of precipitation 40 percent. 
+.SUNDAY...Cloudy in the morning...then summit becoming obscured.
+Rain and snow. Cooler with high around 36. Southeast winds 15 to
+20 mph. Chance of precipitation 90 percent. 
+
+$$
+
+MEZ029-132115-
+Top of Cadillac Mountain-
+313 AM EDT Sat May 13 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny. High around 51. East winds around 10 mph
+shifting to the southeast this afternoon. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. A chance of rain after midnight. Low around 41. Light winds
+becoming southeast around 10 mph after midnight. Chance of
+precipitation 40 percent. 
+.SUNDAY...Cloudy in the morning...then summit in and out of clouds.
+Rain. High around 44. East winds 15 to 20 mph shifting to the
+northeast 20 to 30 mph in the afternoon. Chance of precipitation
+near 100 percent. 
+
+$$
+
+MEZ010-132115-
+Moosehead Lake-
+313 AM EDT Sat May 13 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Partly sunny. High around 62. Light winds. Waves 1 foot. 
+.TONIGHT...Mostly cloudy. Rain likely after midnight. Low around 41.
+Waves 1 foot. Light winds. Chance of precipitation 60 percent. 
+.SUNDAY...Cloudy, rain. Much cooler with high around 46. Waves
+2 feet. Light winds becoming northeast around 10 mph in the
+afternoon. Chance of precipitation near 100 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-132115-
+Upper Penobscot Watershed-
+313 AM EDT Sat May 13 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 66. Light winds. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. A chance of rain after midnight. Low around 43. Light winds.
+Chance of precipitation 50 percent. 
+.SUNDAY...Cloudy, rain. Much cooler with high around 51. Light winds
+becoming northeast around 10 mph in the afternoon. Chance of
+precipitation near 100 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-132115-
+Lower Penobscot Watershed-
+313 AM EDT Sat May 13 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 65. Light winds. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. A chance of rain after midnight. Low around 43. Light winds.
+Chance of precipitation 50 percent. 
+.SUNDAY...Cloudy, rain. Much cooler with high around 50. Northeast
+winds 10 to 15 mph. Chance of precipitation near 100 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

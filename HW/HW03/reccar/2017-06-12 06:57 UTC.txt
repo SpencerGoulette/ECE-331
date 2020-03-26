@@ -1,0 +1,115 @@
+
+286 
+SXUS41 KCAR 120657
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+257 AM EDT Mon Jun 12 2017
+
+MEZ004-122100-
+Top of Mount Katahdin-
+257 AM EDT Mon Jun 12 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny this morning...then becoming cloudy. Scattered
+showers. scattered thunderstorms this afternoon. Some thunderstorms
+may produce gusty winds and small hail this afternoon. High around
+64. West winds 10 to 20 mph. Chance of precipitation 50 percent.
+Lightning risk is elevated. 
+.TONIGHT...Cloudy. Numerous showers and scattered thunderstorms
+until midnight...then scattered showers after midnight. Some
+thunderstorms may produce gusty winds and small hail until midnight.
+Low around 52. West winds 20 to 25 mph. Chance of precipitation
+60 percent. Lightning risk is elevated. 
+.TUESDAY...Cloudy in the morning...then clearing. High around 57.
+Northwest winds around 25 mph. No lightning risk. 
+
+$$
+
+MEZ029-122100-
+Top of Cadillac Mountain-
+257 AM EDT Mon Jun 12 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly sunny. High around 71. Light winds becoming
+southwest 10 to 15 mph this afternoon. No lightning risk. 
+.TONIGHT...Mostly cloudy. Low around 66. West winds around 15 mph.
+No lightning risk. 
+.TUESDAY...Partly sunny. High around 75. Northwest winds around
+15 mph. No lightning risk. 
+
+$$
+
+MEZ010-122100-
+Moosehead Lake-
+257 AM EDT Mon Jun 12 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Scattered showers. scattered thunderstorms this afternoon. Some
+thunderstorms may produce gusty winds and small hail this afternoon.
+High around 79. Light winds becoming west around 10 mph this
+afternoon. Waves 2 feet. Chance of precipitation 40 percent.
+Lightning risk is elevated. 
+.TONIGHT...Mostly cloudy. Scattered showers and thunderstorms until
+midnight. Some thunderstorms may produce gusty winds and small hail
+until midnight. Low around 64. Waves 2 feet. West winds around
+10 mph. Chance of precipitation 40 percent. Lightning risk is
+elevated. 
+.TUESDAY...Partly sunny in the morning...then clearing. High around
+75. Waves 3 feet. Northwest winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-122100-
+Upper Penobscot Watershed-
+257 AM EDT Mon Jun 12 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Scattered showers. scattered thunderstorms this afternoon. Some
+thunderstorms may produce gusty winds and small hail this afternoon.
+High around 83. Light winds becoming southwest around 10 mph this
+afternoon. Chance of precipitation 50 percent. Lightning risk is
+elevated. 
+.TONIGHT...Mostly cloudy. Scattered thunderstorms until midnight.
+scattered showers. Some thunderstorms may produce gusty winds and
+small hail until midnight. Low around 66. Light winds becoming
+southwest around 10 mph after midnight. Chance of precipitation
+50 percent. Lightning risk is elevated. 
+.TUESDAY...Partly sunny in the morning...then clearing. High around
+79. Northwest winds around 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-122100-
+Lower Penobscot Watershed-
+257 AM EDT Mon Jun 12 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. Isolated showers this morning...then
+scattered showers and thunderstorms this afternoon. Some
+thunderstorms may produce gusty winds and small hail this afternoon.
+High around 85. East winds around 10 mph shifting to the southwest
+this afternoon. Chance of precipitation 40 percent. Lightning risk
+is elevated. 
+.TONIGHT...Mostly cloudy. Scattered showers and thunderstorms until
+midnight. Some thunderstorms may produce gusty winds and small hail
+until midnight. Low around 67. Southwest winds around 5 mph. Chance
+of precipitation 50 percent. Lightning risk is elevated. 
+.TUESDAY...Mostly sunny. High around 83. Northwest winds around
+10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

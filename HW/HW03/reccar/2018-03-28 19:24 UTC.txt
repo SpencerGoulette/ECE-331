@@ -1,0 +1,184 @@
+
+050 
+SXUS41 KCAR 281924
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+324 PM EDT Wed Mar 28 2018
+
+MEZ004-290930-
+Top of Mount Katahdin-
+324 PM EDT Wed Mar 28 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming mostly clear, then becoming partly cloudy
+late. Low around 27. Northwest winds 10 to 15 mph. No lightning
+risk. 
+.THURSDAY...Partly sunny in the morning, then becoming mostly
+cloudy. High around 39. West winds 10 to 15 mph. Wind chill values
+as low as 21. No lightning risk. 
+
+$$
+
+MEZ005-290930-
+Katahdin Woods and Waters National Monument-
+324 PM EDT Wed Mar 28 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Patchy
+freezing fog after midnight. Low around 27. Light winds. No
+lightning risk. 
+.THURSDAY...Partly sunny. High around 49. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ029-290930-
+Top of Cadillac Mountain-
+324 PM EDT Wed Mar 28 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear. Low around 36. Northwest winds around
+10 mph. No lightning risk. 
+.THURSDAY...Partly sunny in the morning, then summit in and out of
+clouds. High around 47. Light winds becoming southwest around 10 mph
+in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-290930-
+Top of Deboullie Mountain-
+324 PM EDT Wed Mar 28 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds early this evening, then
+summit becoming obscured. Low around 27. Northwest winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.THURSDAY...Summit obscured. High around 43. Light winds. No
+lightning risk. 
+
+$$
+
+MEZ006-290930-
+Top of Mars Hill Mountain-
+324 PM EDT Wed Mar 28 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured through early morning, then summit in and
+out of clouds. Patchy freezing fog after midnight. Low around 23.
+Northwest winds 10 mph until midnight becoming light winds. No
+lightning risk. 
+.THURSDAY...Summit obscured. Patchy freezing fog in the morning.
+High around 46. Light winds. No lightning risk. 
+
+$$
+
+MEZ010-290930-
+Top of White Cap Mountain-
+324 PM EDT Wed Mar 28 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured, then becoming mostly cloudy late this
+evening, then becoming partly cloudy. Low around 29. Northwest winds
+10 to 15 mph. No lightning risk. 
+.THURSDAY...Mostly cloudy. High around 40. West winds around 10 mph.
+No lightning risk. 
+
+$$
+
+MEZ010-290930-
+Moosehead Lake-
+324 PM EDT Wed Mar 28 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy. Low around 27. Light winds. No lightning
+risk. 
+.THURSDAY...Partly sunny in the morning, then becoming mostly
+cloudy. High around 47. Light winds. No lightning risk. 
+
+$$
+
+MEZ001-290930-
+Allagash Wilderness Waterway-
+324 PM EDT Wed Mar 28 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy. Low around 23. Light winds. No lightning
+risk. 
+.THURSDAY...Partly sunny. High around 47. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ030-290930-
+St Croix River-
+324 PM EDT Wed Mar 28 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Patchy
+freezing fog after midnight. Low around 27. Light winds. No
+lightning risk. 
+.THURSDAY...Partly sunny. High around 51. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ030-290930-
+West Quoddy Head-
+324 PM EDT Wed Mar 28 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Low
+around 34. Light winds. No lightning risk. Water temperature
+39 degrees Fahrenheit. 
+.THURSDAY...Mostly sunny. High around 47. Light winds. No lightning
+risk. Water temperature 39 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-290930-
+Upper Penobscot Watershed-
+324 PM EDT Wed Mar 28 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Patchy
+freezing fog after midnight. Low around 27. Light winds. No
+lightning risk. 
+.THURSDAY...Partly sunny. High around 50. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-290930-
+Lower Penobscot Watershed-
+324 PM EDT Wed Mar 28 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Patchy freezing fog after midnight. Low
+around 28. Light winds. No lightning risk. 
+.THURSDAY...Partly sunny. High around 51. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

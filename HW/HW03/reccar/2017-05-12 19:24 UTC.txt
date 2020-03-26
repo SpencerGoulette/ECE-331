@@ -1,0 +1,74 @@
+
+781 
+SXUS41 KCAR 121924
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+324 PM EDT Fri May 12 2017
+
+MEZ004-130930-
+Top of Mount Katahdin-
+324 PM EDT Fri May 12 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear. Low around 39. Light winds. 
+.SATURDAY...Sunny. High around 44. Light winds becoming southeast
+around 10 mph in the afternoon. 
+
+$$
+
+MEZ029-130930-
+Top of Cadillac Mountain-
+324 PM EDT Fri May 12 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy. Low around 44. Light winds. 
+.SATURDAY...Partly sunny in the morning...then summit in and out of
+clouds. High around 49. Southeast winds around 10 mph. 
+
+$$
+
+MEZ010-130930-
+Moosehead Lake-
+324 PM EDT Fri May 12 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy. Low around 43. Light winds. Waves 1 foot. 
+.SATURDAY...Partly sunny. High around 61. Waves 1 foot. Light winds
+becoming southeast around 10 mph in the afternoon. 
+
+$$
+
+MEZ004&gt;006-010-011-031-130930-
+Upper Penobscot Watershed-
+324 PM EDT Fri May 12 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 41. Light winds. 
+.SATURDAY...Mostly sunny. High around 64. Light winds becoming
+southeast around 10 mph in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-130930-
+Lower Penobscot Watershed-
+324 PM EDT Fri May 12 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 42. Light winds. 
+.SATURDAY...Mostly sunny. High around 64. Light winds becoming
+southeast around 10 mph in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

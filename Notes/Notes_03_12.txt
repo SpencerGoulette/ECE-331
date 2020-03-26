@@ -1,0 +1,62 @@
+ECE331
+Spencer Goulette
+03/13/20
+Notes
+
+4 terms
+Race Condition
+Dead Lock
+Concurrency
+
+On Discord and Emails
+
+NETWORKING
+
+- Came out of the military
+- Wires
+	- Coaxial
+	- UTP (Unshielded Twisted Pair)
+	- Phone Lines / Twin Lead
+- Fiber Optics (different frequencies to send many signals)
+- RF
+
+Signaling
+
+OSI MODEL
+7 Application
+6 Presentation
+5 Session
+4 Transport
+3 Network
+2 Data Link	(Physical Signaling (V, I, EMF))
+1 Physical (Wire)
+
+TCP/IP
+
+7 )
+6 ) Application
+5 )
+4 Transport
+3 Internet
+2 )
+1 ) Network - UTP, Differential Encoding, 4B5, Manchester, NRZI
+			  Ethernet invented by Bob Netcalfe
+
+3com
+Multiple access collision detection ethernet problem
+
+10Base2 -> 2 for coax
+10BaseT -> UTP
+100BaseT -> 100 Mb
+1000BaseT -> 1000 Mb
+
+RG58
+RG6
+
+Internet Protocol
+Number of addresses is a problem that is run into
+
+Assign addresses to hosts
+MAC ADDRESS -> Ethernet 48bit value
+
+

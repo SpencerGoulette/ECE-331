@@ -1,0 +1,212 @@
+
+272 
+SXUS41 KCAR 131817
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+217 PM EDT Sun Oct 13 2019
+
+MEZ004-140830-
+Top of Mount Katahdin-
+217 PM EDT Sun Oct 13 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Summit in and out of clouds, then becoming mostly
+cloudy early, then becoming clear. Patchy fog from late evening on.
+Low around 38. West winds 10 to 15 mph shifting to the southwest. No
+lightning risk. 
+.COLUMBUS DAY...Mostly sunny. Patchy fog in the morning. Scattered
+showers in the afternoon. High around 42. South winds 10 to 20 mph.
+Chance of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ005-140830-
+Katahdin Woods and Waters National Monument-
+217 PM EDT Sun Oct 13 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.OVERNIGHT...Mostly sunny early, then becoming clear. Patchy fog
+from late evening on. Low around 38. West winds 10 mph shifting to
+the south. No lightning risk. 
+.COLUMBUS DAY...Mostly sunny. Patchy fog in the morning. Isolated
+showers in the afternoon. High around 56. South winds 10 mph
+increasing to 10 to 15 mph in the afternoon. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ029-140830-
+Top of Cadillac Mountain-
+217 PM EDT Sun Oct 13 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Summit in and out of clouds, then becoming mostly
+cloudy early, then becoming partly cloudy. Patchy fog from late
+evening on. Low around 46. West winds 10 mph shifting to the
+southwest. No lightning risk. 
+.COLUMBUS DAY...Mostly cloudy in the morning, then summit becoming
+obscured. Patchy fog in the morning. Isolated showers in the
+afternoon. High around 53. South winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-140830-
+Top of Deboullie Mountain-
+217 PM EDT Sun Oct 13 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.OVERNIGHT...Summit in and out of clouds, then becoming mostly
+cloudy early, then becoming clear. Patchy fog from late evening on.
+Low around 34. West winds 10 to 15 mph shifting to the southwest
+10 mph until midnight...then shifting to the south. No lightning
+risk. 
+.COLUMBUS DAY...Sunny in the morning, then summit becoming obscured.
+Patchy fog in the morning. Isolated rain showers in the afternoon.
+High around 54. South winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ006-140830-
+Top of Mars Hill Mountain-
+217 PM EDT Sun Oct 13 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.OVERNIGHT...Summit in and out of clouds, then becoming mostly
+cloudy, then becoming partly cloudy. Patchy fog from late evening
+on. Low around 37. West winds 10 mph shifting to the south. No
+lightning risk. 
+.COLUMBUS DAY...Summit in and out of clouds in the morning, then
+summit becoming obscured. Patchy fog in the morning. Scattered
+showers in the afternoon. High around 56. Southeast winds 10 to
+15 mph. Chance of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ010-140830-
+Top of White Cap Mountain-
+217 PM EDT Sun Oct 13 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.OVERNIGHT...Mostly sunny early, then becoming clear. Patchy fog
+from late evening on. Low around 40. West winds 10 to 15 mph
+decreasing to 10 mph until midnight...then shifting to the south
+10 to 15 mph. No lightning risk. 
+.COLUMBUS DAY...Mostly sunny. Patchy fog in the morning. Isolated
+showers in the morning...then scattered showers in the afternoon.
+High around 46. South winds 10 to 15 mph. Chance of precipitation
+30 percent. No lightning risk. 
+
+$$
+
+MEZ010-140830-
+Moosehead Lake-
+217 PM EDT Sun Oct 13 2019
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Clear. Patchy fog from late evening on. Low around 39.
+West winds 10 mph shifting to the southeast. Waves 1 foot. No
+lightning risk. 
+.COLUMBUS DAY...Mostly sunny. Patchy fog in the morning. Isolated
+rain showers in the afternoon. High around 56. Waves 2 feet. South
+winds 10 to 15 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+
+$$
+
+MEZ001-140830-
+Allagash Wilderness Waterway-
+217 PM EDT Sun Oct 13 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.OVERNIGHT...Mostly sunny early, then becoming clear. Patchy fog
+from late evening on. Cooler with low around 30. West winds 10 to
+15 mph shifting to the southwest 10 mph until midnight...then
+shifting to the south. No lightning risk. 
+.COLUMBUS DAY...Mostly sunny. Patchy fog in the morning. Isolated
+rain showers in the afternoon. High around 58. South winds 10 to
+15 mph. Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ030-140830-
+St Croix River-
+217 PM EDT Sun Oct 13 2019
+
+...ST CROIX RIVER...
+
+.OVERNIGHT...Partly sunny, then becoming mostly clear through early
+morning, then becoming partly cloudy. Patchy fog from late evening
+on. Low around 41. Northwest winds 10 mph until midnight becoming
+light winds. No lightning risk. 
+.COLUMBUS DAY...Partly sunny. Patchy fog in the morning. Isolated
+showers. High around 59. Southeast winds 10 mph shifting to the
+south in the afternoon. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-140830-
+West Quoddy Head-
+217 PM EDT Sun Oct 13 2019
+
+...WEST QUODDY HEAD...
+
+.OVERNIGHT...Partly cloudy. Low around 48. Southwest winds 10 mph.
+No lightning risk. Water temperature 53 degrees Fahrenheit. 
+.COLUMBUS DAY...Mostly cloudy in the morning, then becoming partly
+sunny. Isolated showers. High around 55. South winds 15 mph. Chance
+of precipitation 20 percent. No lightning risk. Water temperature
+53 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-140830-
+Upper Penobscot Watershed-
+217 PM EDT Sun Oct 13 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Mostly clear early, then clearing. Patchy fog from late
+evening on. Low around 38. West winds 10 mph shifting to the
+southeast. No lightning risk. 
+.COLUMBUS DAY...Mostly sunny. Patchy fog in the morning. Isolated
+rain showers in the afternoon. High around 59. Southeast winds
+10 mph shifting to the south in the afternoon. Chance of
+precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-140830-
+Lower Penobscot Watershed-
+217 PM EDT Sun Oct 13 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Partly sunny, then becoming mostly clear through early
+morning, then becoming partly cloudy. Patchy fog from late evening
+on. Low around 41. West winds 10 mph until midnight becoming light
+winds. No lightning risk. 
+.COLUMBUS DAY...Partly sunny. Patchy fog in the morning. Isolated
+showers in the afternoon. High around 60. Southeast winds 10 mph
+shifting to the south in the afternoon. Chance of precipitation
+20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

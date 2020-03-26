@@ -1,0 +1,230 @@
+
+153 
+SXUS41 KCAR 111954
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+254 PM EST Tue Dec 11 2018
+
+MEZ004-121000-
+Top of Mount Katahdin-
+254 PM EST Tue Dec 11 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy, then becoming cloudy through early
+morning, then summit in and out of clouds. Isolated snow showers
+late this evening. scattered snow showers after midnight. Low around
+3 above. West winds 10 to 20 mph. Chance of precipitation
+30 percent. Wind chill values as low as 13 below. No lightning risk.
+.WEDNESDAY...Cloudy in the morning, then becoming partly sunny.
+Scattered snow showers in the morning...then isolated snow showers
+in the afternoon. High around 7 above. Southeast winds 15 to 25 mph
+shifting to the west 20 to 30 mph in the afternoon. Chance of 
+precipitation 30 percent. Wind chill values as low as 15 below. No 
+lightning risk. 
+
+$$
+
+MEZ005-121000-
+Katahdin Woods and Waters National Monument-
+254 PM EST Tue Dec 11 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Isolated snow showers after midnight. Low around 6 above.
+Southwest winds 10 mph shifting to the north after midnight. Chance
+of precipitation 20 percent. Wind chill values as low as 6 below. No
+lightning risk. 
+.WEDNESDAY...Partly sunny. Isolated snow showers in the morning.
+High around 15. North winds 10 to 20 mph. Chance of precipitation
+20 percent. Wind chill values as low as 6 below. No lightning risk. 
+
+$$
+
+MEZ029-121000-
+Top of Cadillac Mountain-
+254 PM EST Tue Dec 11 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit in and out of clouds, then summit becoming
+obscured through early morning, then becoming cloudy. Scattered snow
+showers until midnight...then snow after midnight. Low around 15.
+Southeast winds 10 to 15 mph shifting to the northeast 10 to 20 mph
+after midnight. Chance of precipitation 80 percent. Wind chill
+values as low as zero. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then clearing. Scattered
+snow showers in the morning. Brisk with high around 19. North winds
+15 to 25 mph shifting to the west 20 to 30 mph in the afternoon.
+Chance of precipitation 40 percent. Wind chill values as low as
+3 below. No lightning risk. 
+
+$$
+
+MEZ001-121000-
+Top of Deboullie Mountain-
+254 PM EST Tue Dec 11 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy early this evening, then summit in and out
+of clouds. Isolated snow showers after midnight. Not as cool with
+low around 2 below. Northwest winds 10 mph shifting to the north
+after midnight. Chance of precipitation 20 percent. Wind chill
+values as low as 17 below. No lightning risk. 
+.WEDNESDAY...Summit in and out of clouds. Isolated snow showers in
+the morning. High around 9 above. North winds 10 to 20 mph. Chance
+of precipitation 20 percent. Wind chill values as low as 16 below.
+No lightning risk. 
+
+$$
+
+MEZ006-121000-
+Top of Mars Hill Mountain-
+254 PM EST Tue Dec 11 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Isolated snow showers after midnight. Low around 2 above.
+Light winds becoming north 15 mph after midnight. Chance of
+precipitation 20 percent. Wind chill values as low as 12 below. No
+lightning risk. 
+.WEDNESDAY...Summit in and out of clouds. Isolated snow showers in
+the morning. High around 13. North winds 10 to 20 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 11 below. No
+lightning risk. 
+
+$$
+
+MEZ010-121000-
+Top of White Cap Mountain-
+254 PM EST Tue Dec 11 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Isolated snow showers after midnight. Low around 5 above.
+West winds 10 mph shifting to the northeast 10 to 15 mph after
+midnight. Chance of precipitation 20 percent. Wind chill values as
+low as 9 below. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Scattered snow showers in the morning...then isolated snow
+showers in the afternoon. High around 8 above. West winds 15 to 25 
+mph shifting to the northwest in the afternoon. Chance of 
+precipitation 30 percent. Wind chill values as low as 12 below. No 
+lightning risk. 
+
+$$
+
+MEZ010-121000-
+Moosehead Lake-
+254 PM EST Tue Dec 11 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Isolated snow showers after midnight. Low around 8 above.
+Light winds becoming north 10 mph after midnight. Chance of
+precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. Isolated snow showers in the morning.
+High around 15. North winds 10 to 20 mph. Chance of precipitation
+20 percent. Wind chill values as low as 4 below. No lightning risk. 
+
+$$
+
+MEZ001-121000-
+Allagash Wilderness Waterway-
+254 PM EST Tue Dec 11 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Isolated snow showers after midnight. Not as cool with low
+around 1 below. Light winds becoming north 10 mph after midnight.
+Chance of precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. Isolated snow showers in the morning.
+High around 12. North winds 10 to 20 mph. Chance of precipitation
+20 percent. Wind chill values as low as 11 below. No lightning risk.
+
+$$
+
+MEZ030-121000-
+St Croix River-
+254 PM EST Tue Dec 11 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Isolated snow showers from late evening on. Low around
+9 above. Light winds becoming north 10 mph after midnight. Chance of
+precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. Isolated snow showers in the morning.
+High around 20. North winds 10 to 20 mph. Chance of precipitation
+20 percent. Wind chill values as low as 1 below. No lightning risk. 
+
+$$
+
+MEZ030-121000-
+West Quoddy Head-
+254 PM EST Tue Dec 11 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy early this evening, then becoming cloudy.
+Isolated snow showers early this evening...then scattered snow
+showers from late evening on. Low around 19. Northwest winds 10 mph
+shifting to the north 10 to 20 mph after midnight. Chance of
+precipitation 40 percent. Wind chill values as low as 6 above. No
+lightning risk. Water temperature 46 degrees Fahrenheit. 
+.WEDNESDAY...Mostly cloudy in the morning, then becoming mostly
+sunny. Scattered snow showers in the morning. High around 25.
+Northwest winds 15 to 25 mph. Chance of precipitation 30 percent.
+Wind chill values as low as 6 above. No lightning risk. Water
+temperature 46 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-121000-
+Upper Penobscot Watershed-
+254 PM EST Tue Dec 11 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Isolated snow showers after midnight. Low around 8 above.
+Southwest winds 10 mph shifting to the north after midnight. Chance
+of precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. Isolated snow showers in the morning.
+High around 17. North winds 10 to 20 mph. Chance of precipitation
+20 percent. Wind chill values as low as 5 below. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-121000-
+Lower Penobscot Watershed-
+254 PM EST Tue Dec 11 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Isolated snow showers from late evening on. Not as cool with
+low around 12. North winds 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny in the morning, then clearing. Isolated
+snow showers in the morning. High around 21. North winds 10 to
+20 mph. Chance of precipitation 20 percent. Wind chill values as low
+as 1 above. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

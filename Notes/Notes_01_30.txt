@@ -1,0 +1,69 @@
+ECE 331
+01/30/20
+Notes
+Spencer Goulette
+
+ERE
+Extended Regualar Expressions
+
+Pattern Matching
+ERE is NOT Filename matching
+
+ls *.c
+*		any string including the null string
+		metachar in the shell
+*.c		globs
+
+?		any character
+[]		char class - only one char
+ls [1234].c	
+ls [1-4].c	1.c,2.c,3.c,4.c
+
+*[0-9]*.c	any filename with 0-9 in it
+
+if file starts with ., you need to explicitly start with . to find it
+since it is a hidden file
+
+Quoting - 3 ways
+
+ls \*.c
+ls '*.c'
+ls "*.c"	substitution
+
+pattern matching - strings
+
+.		any single char
+^		beginning of a line (not a char) 
+$		end of the line (between end of text and null)
+*		|(modifiers) 0 or more
++		| 1 or more	(must escape in vi)
+?		| 0 or 1
+{n}		| Exactly n
+{n,}		| n or more, inclusive
+{n,m}		| n to m time, inclusive
+[ ]		char class rep one char
+[^ ]		compliment char class (not in the class)
+\		escape
+|		alternation (or)
+()		group & capture
+
+All modifiers must have something in front of it
+
+Ex:
+	[0-9]
+	[a-zA-Z]
+	[-A-Z]
+	grep '*' *.c
+
+Should be able to do it in python, command line, and vim
+ls *[0-9]*.c | wc
+grep -rs '\sEXTI\s' * | grep 'h:#define' | grep 446 		(-r recursive -s don't tell me if you cant open)
+
+grep 'uint32_t|int32_t' *.c
+
+grep 'u?int32_t' *.c
+
+grep '^[a-zA-Z]{12}$' words | wc
+
+:%s/^[0-9]\+ //
+

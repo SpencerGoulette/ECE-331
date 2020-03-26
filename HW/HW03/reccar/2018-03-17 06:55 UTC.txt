@@ -1,0 +1,231 @@
+
+720 
+SXUS41 KCAR 170655
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+255 AM EDT Sat Mar 17 2018
+
+MEZ004-172100-
+Top of Mount Katahdin-
+255 AM EDT Sat Mar 17 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny until mid morning, then becoming mostly
+cloudy. Very windy and much colder with high around 1 above. 
+Northwest winds 35 to 40 mph. Wind chill values as low as 43 below. 
+No lightning risk. 
+.TONIGHT...Partly cloudy with strong winds. Low around 2 below.
+Northwest winds 40 to 45 mph decreasing to 15 to 30 mph after
+midnight. Wind chill values as low as 27 below. No lightning risk. 
+.SUNDAY...Mostly cloudy. High around 2 above. Northwest winds 15 to
+20 mph. Wind chill values as low as 21 below. No lightning risk. 
+
+$$
+
+MEZ005-172100-
+Katahdin Woods and Waters National Monument-
+255 AM EDT Sat Mar 17 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Partly sunny, then becoming mostly cloudy early this
+afternoon, then becoming partly sunny. Colder with high around 16. 
+Northwest winds 10 to 15 mph with gusts to around 25 mph. Wind chill 
+values as low as 9 below. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+4 above. Northwest winds 10 to 15 mph with gusts to around 30 mph.
+Wind chill values as low as 8 below. No lightning risk. 
+.SUNDAY...Partly sunny. High around 20. Northwest winds 10 to
+15 mph. Wind chill values as low as 10 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ029-172100-
+Top of Cadillac Mountain-
+255 AM EDT Sat Mar 17 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny and windy, colder with high around 15. 
+Northwest winds 25 to 30 mph. Wind chill values as low as 9 below. No
+lightning risk. 
+.TONIGHT...Mostly clear. Low around 7 above. Northwest winds 20 to 
+25 mph. Wind chill values as low as 11 below. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 18. Northwest winds 15 to
+20 mph. Wind chill values as low as 8 below. No lightning risk. 
+
+$$
+
+MEZ001-172100-
+Top of Deboullie Mountain-
+255 AM EDT Sat Mar 17 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Mostly cloudy. Isolated snow showers from late morning on.
+Colder with high around 10 above. Northwest winds around 15 mph. 
+Chance of precipitation 20 percent. Wind chill values as low as 17 
+below. No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 1 below. Northwest winds around
+15 mph. Wind chill values as low as 16 below. No lightning risk. 
+.SUNDAY...Mostly cloudy. High around 13. Northwest winds around
+15 mph. Wind chill values as low as 21 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ006-172100-
+Top of Mars Hill Mountain-
+255 AM EDT Sat Mar 17 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Mostly cloudy. Isolated snow showers from late morning on.
+Much colder with high around 12. Northwest winds 15 to 20 mph. 
+Chance of precipitation 20 percent. Wind chill values as low as 14 
+below. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly clear.
+Low around 1 above. Northwest winds around 20 mph. Wind chill values
+as low as 16 below. No lightning risk. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 13. Northwest winds 15 to 20 mph. Wind chill values as
+low as 21 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-172100-
+Top of White Cap Mountain-
+255 AM EDT Sat Mar 17 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly cloudy, then summit in and out of clouds early this
+afternoon, then becoming cloudy. Very windy and much colder with 
+high around 4 above. Northwest winds 30 to 35 mph. Wind chill values 
+as low as 31 below. No lightning risk. 
+.TONIGHT...Partly cloudy and very windy. Low around 1 below.
+Northwest winds around 35 mph decreasing to 20 to 30 mph after
+midnight. Wind chill values as low as 23 below. No lightning risk. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 6 above. Northwest winds 15 to 20 mph. Wind chill values
+as low as 19 below. No lightning risk. 
+
+$$
+
+MEZ010-172100-
+Moosehead Lake-
+255 AM EDT Sat Mar 17 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Partly sunny. High around 15. Northwest winds 10 to 15 mph.
+Wind chill values as low as 8 below. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+3 above. Northwest winds 10 to 15 mph. Wind chill values as low as
+7 below. No lightning risk. 
+.SUNDAY...Partly sunny. High around 19. Northwest winds 10 to
+15 mph. Wind chill values as low as 14 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ001-172100-
+Allagash Wilderness Waterway-
+255 AM EDT Sat Mar 17 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Partly sunny this morning, then becoming mostly cloudy.
+Isolated snow showers from late morning on. Colder with high around 
+15. Northwest winds around 10 mph with gusts to around 20 mph. Chance
+of precipitation 20 percent. Wind chill values as low as 7 below. No
+lightning risk. 
+.TONIGHT...Partly cloudy. Low around zero. Northwest winds around
+10 mph. Wind chill values as low as 9 below. No lightning risk. 
+.SUNDAY...Partly sunny. High around 19. Northwest winds around
+10 mph. Wind chill values as low as 15 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-172100-
+St Croix River-
+255 AM EDT Sat Mar 17 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Partly sunny this morning, then becoming mostly cloudy.
+Cooler with high around 19. Northwest winds 10 to 15 mph. Wind chill
+values as low as 1 above. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+8 above. Northwest winds around 10 mph. Wind chill values as low as 
+1 below. No lightning risk. 
+.SUNDAY...Partly sunny. High around 23. Northwest winds around
+10 mph. Wind chill values as low as 6 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-172100-
+West Quoddy Head-
+255 AM EDT Sat Mar 17 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Partly sunny this morning, then becoming mostly cloudy.
+Colder with high around 23. Northwest winds 15 to 20 mph. Wind chill
+values as low as 6 above. No lightning risk. Water temperature 39 
+degrees Fahrenheit. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+13. Northwest winds 10 to 20 mph. Wind chill values as low as
+1 above. No lightning risk. Water temperature 39 degrees Fahrenheit.
+.SUNDAY...Partly sunny. High around 26. Northwest winds around
+15 mph with gusts to around 25 mph. Wind chill values as low as
+4 below in the morning. No lightning risk. Water temperature
+39 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-172100-
+Upper Penobscot Watershed-
+255 AM EDT Sat Mar 17 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. Colder with high around 18. Northwest winds 
+10 to 15 mph. Wind chill values as low as 5 below. No lightning risk.
+.TONIGHT...Mostly clear. Low around 6 above. Northwest winds 10 mph.
+20  until midnight. Wind chill values as low as 5 below. No
+lightning risk. 
+.SUNDAY...Partly sunny. High around 23. Northwest winds 10 to
+15 mph. Wind chill values as low as 10 below in the morning. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-172100-
+Lower Penobscot Watershed-
+255 AM EDT Sat Mar 17 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. Colder with high around 20. Northwest winds 
+10 to 15 mph. Wind chill values as low as 2 above. No lightning risk.
+.TONIGHT...Mostly clear. Low around 6 above. Northwest winds 10 mph.
+19  until midnight. Wind chill values as low as 1 above. No
+lightning risk. 
+.SUNDAY...Mostly sunny. High around 25. Northwest winds around
+10 mph. Wind chill values as low as 5 below in the morning. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

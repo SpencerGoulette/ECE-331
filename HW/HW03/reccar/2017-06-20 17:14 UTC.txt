@@ -1,0 +1,118 @@
+
+185 
+SXUS41 KCAR 201714
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+114 PM EDT Tue Jun 20 2017
+
+MEZ004-210715-
+Top of Mount Katahdin-
+114 PM EDT Tue Jun 20 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.REST OF TODAY...Mostly cloudy. Numerous showers and scattered
+thunderstorms. Some thunderstorms may produce small hail. Locally
+heavy rainfall possible. Cooler. Near steady temperatures around 56.
+Southwest winds 20 to 30 mph. Chance of precipitation 60 percent.
+Lightning risk is elevated. 
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. A chance of showers until midnight. Low around 49. West
+winds 30 to 45 mph. Chance of precipitation 40 percent. No lightning
+risk. 
+.WEDNESDAY...Mostly cloudy in the morning...then summit becoming
+obscured. Scattered showers with isolated thunderstorms in the
+afternoon. High around 54. West winds around 25 mph. Chance of 
+precipitation 50 percent. Lightning risk is limited. 
+
+$$
+
+MEZ029-210715-
+Top of Cadillac Mountain-
+114 PM EDT Tue Jun 20 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.REST OF TODAY...Cloudy. Patchy fog. Scattered showers. Near steady
+temperatures around 64. Southwest winds around 35 mph. Chance of
+precipitation 30 percent. No lightning risk. 
+.TONIGHT...Mostly clear. Patchy fog until midnight...then areas of
+fog after midnight. Low around 62. West winds 25 to 35 mph
+decreasing to 15 to 25 mph after midnight. No lightning risk. 
+.WEDNESDAY...Mostly sunny. Areas of fog in the morning. High around
+64. Southwest winds 20 to 30 mph. No lightning risk. 
+
+$$
+
+MEZ010-210715-
+Moosehead Lake-
+114 PM EDT Tue Jun 20 2017
+
+...MOOSEHEAD LAKE...
+
+.REST OF TODAY...Mostly cloudy. Numerous showers and scattered
+thunderstorms. Some thunderstorms may produce small hail. Locally
+heavy rainfall possible. High around 72. Southwest winds around
+10 mph. Waves 2 feet. Chance of precipitation 60 percent. Lightning
+risk is elevated. 
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. A chance of showers until midnight. Low around 56. Waves
+2 feet. West winds around 10 mph until midnight becoming light
+winds. Chance of precipitation 30 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. Scattered showers with isolated
+thunderstorms in the afternoon. High around 69. Waves 2 feet. West 
+winds around 10 mph. Chance of precipitation 50 percent. Lightning 
+risk is limited.
+
+
+$$
+
+MEZ004&gt;006-010-011-031-210715-
+Upper Penobscot Watershed-
+114 PM EDT Tue Jun 20 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.REST OF TODAY...Mostly cloudy. Numerous showers and scattered
+thunderstorms. Some thunderstorms may produce small hail. Locally
+heavy rainfall possible. High around 76. Southwest winds around
+10 mph. Chance of precipitation 60 percent. Lightning risk is
+elevated. 
+.TONIGHT...Partly cloudy. A chance of showers until midnight. Low
+around 58. Southwest winds around 10 mph until midnight becoming
+light winds. Chance of precipitation 40 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. Scattered showers with isolated
+thunderstorms in the afternoon. High around 75. Southwest winds 
+around 10 mph. Chance of precipitation 50 percent. Lightning risk is 
+limited.
+
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-210715-
+Lower Penobscot Watershed-
+114 PM EDT Tue Jun 20 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.REST OF TODAY...Partly sunny. Scattered showers and thunderstorms.
+Some thunderstorms may produce small hail. Locally heavy rainfall
+possible. High around 78. Southwest winds around 10 mph. Chance of
+precipitation 50 percent. Lightning risk is elevated. 
+.TONIGHT...Partly cloudy until midnight...then clearing. A chance of
+showers until midnight. Low around 59. Southwest winds around 10 mph
+until midnight becoming light winds. Chance of precipitation
+40 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. Scattered showers in the afternoon with
+isolated thunderstorms. High around 77. Southwest winds around 10 
+mph. Chance of precipitation 50 percent. Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

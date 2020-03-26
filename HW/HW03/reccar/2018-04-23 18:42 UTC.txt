@@ -1,0 +1,169 @@
+
+465 
+SXUS41 KCAR 231842
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+242 PM EDT Mon Apr 23 2018
+
+MEZ004-240845-
+Top of Mount Katahdin-
+242 PM EDT Mon Apr 23 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear, windy and not as cool with low around 35. West
+winds 15 to 25 mph increasing to 25 to 30 mph after midnight. No
+lightning risk. 
+.TUESDAY...Mostly sunny and windy. High around 46. West winds 25 to
+30 mph. No lightning risk. 
+
+$$
+
+MEZ005-240845-
+Katahdin Woods and Waters National Monument-
+242 PM EDT Mon Apr 23 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Low around 33. Light winds. No lightning risk. 
+.TUESDAY...Mostly sunny. High around 66. Southwest winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-240845-
+Top of Cadillac Mountain-
+242 PM EDT Mon Apr 23 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear and very windy. Low around 43. West winds 15 to
+20 mph increasing to 20 to 35 mph after midnight. No lightning risk.
+.TUESDAY...Sunny, windy with high around 52. West winds 25 to
+30 mph. No lightning risk. 
+
+$$
+
+MEZ001-240845-
+Top of Deboullie Mountain-
+242 PM EDT Mon Apr 23 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly clear. Not as cool with low around 34. Southwest
+winds 10 to 15 mph. No lightning risk. 
+.TUESDAY...Mostly sunny. High around 61. West winds around 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ006-240845-
+Top of Mars Hill Mountain-
+242 PM EDT Mon Apr 23 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear. Low around 28. Southwest winds around 10 mph. Wind
+chill values as low as 19. No lightning risk. 
+.TUESDAY...Mostly sunny. High around 64. Southwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ010-240845-
+Top of White Cap Mountain-
+242 PM EDT Mon Apr 23 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear, windy and not as cool with low around 39. West
+winds 15 to 25 mph increasing to 25 to 30 mph after midnight. No
+lightning risk. 
+.TUESDAY...Mostly sunny and windy. High around 52. West winds 20 to
+30 mph. No lightning risk. 
+
+$$
+
+MEZ010-240845-
+Moosehead Lake-
+242 PM EDT Mon Apr 23 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Not as cool with low around 32. Light winds. No
+lightning risk. 
+.TUESDAY...Mostly sunny. High around 63. Southwest winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-240845-
+Allagash Wilderness Waterway-
+242 PM EDT Mon Apr 23 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly clear. Not as cool with low around 29. Light
+winds. No lightning risk. 
+.TUESDAY...Mostly sunny. High around 64. Southwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ030-240845-
+St Croix River-
+242 PM EDT Mon Apr 23 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Not as cool with low around 33. Light winds. No
+lightning risk. 
+.TUESDAY...Sunny. High around 68. Southwest winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-240845-
+West Quoddy Head-
+242 PM EDT Mon Apr 23 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Low around 37. Southwest winds around 10 mph. No
+lightning risk. Water temperature 40 degrees Fahrenheit. 
+.TUESDAY...Sunny. High around 55. Southwest winds 10 to 20 mph. No
+lightning risk. Water temperature 40 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-240845-
+Upper Penobscot Watershed-
+242 PM EDT Mon Apr 23 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 33. Light winds. No lightning risk. 
+.TUESDAY...Mostly sunny. High around 67. Southwest winds 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-240845-
+Lower Penobscot Watershed-
+242 PM EDT Mon Apr 23 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 34. Light winds. No lightning risk. 
+.TUESDAY...Mostly sunny. High around 69. Southwest winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

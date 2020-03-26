@@ -1,0 +1,91 @@
+
+981 
+SXUS41 KCAR 260209
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+1009 PM EDT Tue Jul 25 2017
+
+MEZ004-261615-
+Top of Mount Katahdin-
+1009 PM EDT Tue Jul 25 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Clear. Low around 47. North winds around 10 mph. No
+lightning risk. 
+.WEDNESDAY...Sunny. High around 61. Light winds becoming southwest
+10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ005-261615-
+Katahdin Woods and Waters National Monument-
+1009 PM EDT Tue Jul 25 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.OVERNIGHT...Clear. Low around 50. Light winds. No lightning risk. 
+.WEDNESDAY...Sunny. High around 81. Light winds. No lightning risk. 
+
+$$
+
+MEZ029-261615-
+Top of Cadillac Mountain-
+1009 PM EDT Tue Jul 25 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Mostly clear. Low around 55. Light winds becoming north
+around 10 mph. No lightning risk. 
+.WEDNESDAY...Sunny. High around 70. Northeast winds around 10 mph in
+the morning becoming light winds. No lightning risk.
+
+$$
+
+MEZ010-261615-
+Moosehead Lake-
+1009 PM EDT Tue Jul 25 2017
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Clear. Low around 50. Light winds. Waves 1 foot. No
+lightning risk. 
+.WEDNESDAY...Sunny. High around 78. Waves 1 foot. Light winds. No 
+lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-261615-
+Upper Penobscot Watershed-
+1009 PM EDT Tue Jul 25 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Clear. Low around 51. Light winds. No lightning risk. 
+.WEDNESDAY...Sunny. High around 82. Light winds becoming southwest
+around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-261615-
+Lower Penobscot Watershed-
+1009 PM EDT Tue Jul 25 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Clear. Patchy fog. Low around 52. Light winds. No
+lightning risk. 
+.WEDNESDAY...Sunny. High around 82. Light winds becoming southwest
+around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

@@ -1,0 +1,191 @@
+
+853 
+SXUS41 KCAR 202053
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+453 PM EDT Sat Oct 20 2018
+
+MEZ004-211100-
+Top of Mount Katahdin-
+453 PM EDT Sat Oct 20 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Brisk, cooler with low around 21. West winds 20 to 30 mph 
+shifting to the northwest around 15 mph after midnight. Wind chill 
+values as low as 9 above. No lightning risk. 
+.SUNDAY...Partly sunny in the morning, then summit in and out of
+clouds. Isolated snow showers in the morning. Much cooler with high 
+around 23. Northwest winds 15 to 25 mph. Chance of precipitation 20 
+percent. Wind chill values as low as 6 above. No lightning risk. 
+
+$$
+
+MEZ005-211100-
+Katahdin Woods and Waters National Monument-
+453 PM EDT Sat Oct 20 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy. Low around 32. West winds 10 to 20 mph 
+until midnight becoming light winds. No lightning risk. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Much cooler with high around 40. Northwest winds 10 mph increasing
+to 15 to 20 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-211100-
+Top of Cadillac Mountain-
+453 PM EDT Sat Oct 20 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy early this evening, then clearing. Low
+around 40. Northwest winds 15 to 20 mph. No lightning risk. 
+.SUNDAY...Partly sunny. Much cooler with high around 41. North winds
+15 to 25 mph. No lightning risk. 
+
+$$
+
+MEZ001-211100-
+Top of Deboullie Mountain-
+453 PM EDT Sat Oct 20 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy through early
+morning, then becoming mostly cloudy. Low around 28. West winds
+10 to 20 mph. No lightning risk. 
+.SUNDAY...Summit in and out of clouds in the morning, then becoming
+mostly cloudy. Isolated snow showers. Much cooler with high around
+33. Northwest winds 10 to 20 mph. Chance of precipitation 20 
+percent. No lightning risk. 
+
+$$
+
+MEZ006-211100-
+Top of Mars Hill Mountain-
+453 PM EDT Sat Oct 20 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Low around 31. West winds 10 to 20 mph. No lightning risk. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Much cooler with high around 37. Northwest winds 10 to 20 mph. No 
+lightning risk. 
+
+$$
+
+MEZ010-211100-
+Top of White Cap Mountain-
+453 PM EDT Sat Oct 20 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds. Breezy, cooler with low 
+around 24. West winds 20 to 30 mph becoming northwest 10 to 15 mph 
+after midnight. Wind chill values as low as 14. No lightning risk. 
+.SUNDAY...Mostly cloudy in the morning, then summit in and out of
+clouds. Brisk and much cooler with high around 26. Northwest winds
+15 to 25 mph. Wind chill values as low as 11. No lightning risk. 
+
+$$
+
+MEZ010-211100-
+Moosehead Lake-
+453 PM EDT Sat Oct 20 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy. Cooler with low around 31. West winds
+10 to 20 mph until midnight becoming light winds. Waves 3 feet. No 
+lightning risk. Water temperature 59 degrees Fahrenheit. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Isolated snow showers in the afternoon. Much cooler with high around
+39. Waves 4 feet. Northwest winds 10 to 20 mph. Chance of
+precipitation 20 percent. No lightning risk. Water temperature
+59 degrees Fahrenheit. 
+
+$$
+
+MEZ001-211100-
+Allagash Wilderness Waterway-
+453 PM EDT Sat Oct 20 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Low around 29. West winds 10 to 20 mph. No lightning risk. 
+.SUNDAY...Mostly cloudy. Isolated snow showers. Isolated rain 
+showers in the afternoon. Much cooler with high around 37. Northwest 
+winds 10 to 20 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+
+$$
+
+MEZ030-211100-
+St Croix River-
+453 PM EDT Sat Oct 20 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy. Low around 35. Southwest winds 10 to
+20 mph until midnight becoming light winds. No lightning risk. 
+.SUNDAY...Partly sunny. Cooler with high around 45. Northwest winds
+10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ030-211100-
+West Quoddy Head-
+453 PM EDT Sat Oct 20 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy. Low around 40. Southwest winds 10 to
+20 mph shifting to the northwest after midnight. No lightning risk. 
+Water temperature 54 degrees Fahrenheit. 
+.SUNDAY...Partly sunny. Cooler with high around 48. Northwest winds
+10 to 20 mph. No lightning risk. Water temperature 54 degrees 
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-211100-
+Upper Penobscot Watershed-
+453 PM EDT Sat Oct 20 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 34. West winds 10 to 20 mph 
+until midnight becoming light winds. No lightning risk. 
+.SUNDAY...Partly sunny. Much cooler with high around 42. Northwest
+winds 10 to 20 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-211100-
+Lower Penobscot Watershed-
+453 PM EDT Sat Oct 20 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 36. West winds 10 to 20 mph 
+until midnight becoming light winds. No lightning risk.
+.SUNDAY...Partly sunny. Much cooler with high around 44. Northwest
+winds 10 to 20 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

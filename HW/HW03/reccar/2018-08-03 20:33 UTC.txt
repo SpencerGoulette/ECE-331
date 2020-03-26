@@ -1,0 +1,227 @@
+
+726 
+SXUS41 KCAR 032033
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+433 PM EDT Fri Aug 3 2018
+
+MEZ004-041000-
+Top of Mount Katahdin-
+433 PM EDT Fri Aug 3 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy. Scattered showers until midnight. Isolated 
+thunderstorms. Widespread showers after midnight. Locally heavy 
+rainfall possible late. Low around 57. West winds 10 to 15 mph 
+shifting to the northeast after midnight. Chance of precipitation 80 
+percent. Lightning risk is limited. 
+.SATURDAY...Summit obscured. Widespread showers and isolated 
+thunderstorms. Locally heavy rainfall possible. High around 59. East 
+winds 10 to 15 mph. Chance of precipitation 90 percent. Lightning 
+risk is limited. 
+
+$$
+
+MEZ005-041000-
+Katahdin Woods and Waters National Monument-
+433 PM EDT Fri Aug 3 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Scattered showers until midnight. Isolated 
+thunderstorms. Numerous showers after midnight. Locally heavy 
+rainfall possible late. Low around 65. Light winds. Chance of 
+precipitation 70 percent. Lightning risk is limited. 
+.SATURDAY...Cloudy. Widespread showers and isolated thunderstorms.
+Locally heavy rainfall possible. High around 79. Light winds. Chance
+of precipitation 90 percent. Lightning risk is limited. 
+
+$$
+
+MEZ029-041000-
+Top of Cadillac Mountain-
+433 PM EDT Fri Aug 3 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy. Isolated showers early this evening.
+Isolated thunderstorms. Scattered showers from late evening on. 
+Areas of fog from late evening on. Locally heavy rainfall possible 
+late. Low around 67. West winds around 15 mph. Chance of 
+precipitation 50 percent. Lightning risk is limited. 
+.SATURDAY...Summit in and out of clouds. Scattered showers and 
+isolated thunderstorms. Locally heavy rainfall possible. Very windy 
+with high around 70. Southwest winds 20 to 25 mph increasing to 25 to
+40 mph in the afternoon. Chance of precipitation 50 percent. 
+Lightning risk is limited. 
+
+$$
+
+MEZ001-041000-
+Top of Deboullie Mountain-
+433 PM EDT Fri Aug 3 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy. Isolated showers early this evening.
+Isolated thunderstorms. Scattered showers from late evening on. 
+Locally heavy rainfall possible late. Low around 63. West winds 
+around 10 mph until midnight becoming light winds. Chance of 
+precipitation 40 percent. Lightning risk is limited. 
+.SATURDAY...Cloudy in the morning, then summit in and out of clouds.
+Numerous showers and isolated thunderstorms. Locally heavy rainfall
+possible. High around 74. Light winds. Chance of precipitation
+70 percent. Lightning risk is limited. 
+
+$$
+
+MEZ006-041000-
+Top of Mars Hill Mountain-
+433 PM EDT Fri Aug 3 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy. Isolated showers early this evening.
+Isolated thunderstorms. Scattered showers from late evening on. 
+Locally heavy rainfall possible late. Low around 65. Southwest winds 
+around 10 mph until midnight becoming light winds. Chance of 
+precipitation 50 percent. Lightning risk is limited. 
+.SATURDAY...Cloudy in the morning, then summit becoming obscured.
+Widespread showers and isolated thunderstorms. Locally heavy
+rainfall possible. High around 76. Light winds. Chance of
+precipitation 80 percent. Lightning risk is limited. 
+
+$$
+
+MEZ010-041000-
+Top of White Cap Mountain-
+433 PM EDT Fri Aug 3 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds. Scattered showers early this
+evening. Isolated thunderstorms. Widespread showers from late 
+evening on. Locally heavy rainfall possible late. Low around 61. West
+winds around 10 mph shifting to the northeast after midnight. Chance
+of precipitation 90 percent. Lightning risk is limited. 
+.SATURDAY...Summit obscured. Widespread showers and isolated
+thunderstorms. Locally heavy rainfall possible. Near steady
+temperatures around 61. Southeast winds around 10 mph shifting to
+the northeast in the afternoon. Chance of precipitation 90 percent.
+Lightning risk is limited. 
+
+$$
+
+MEZ010-041000-
+Moosehead Lake-
+433 PM EDT Fri Aug 3 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Scattered showers early this evening. Isolated 
+thunderstorms. Widespread showers from late evening on. Locally 
+heavy rainfall possible late. Low around 64. Light winds. Waves 1 
+foot. Chance of precipitation 90 percent. Lightning risk is limited. 
+Water temperature 63 degrees Fahrenheit. 
+.SATURDAY...Cloudy. Widespread showers and isolated thunderstorms.
+Locally heavy rainfall possible. High around 74. Waves 1 foot. Light
+winds. Chance of precipitation 90 percent. Lightning risk is
+limited. Water temperature 63 degrees Fahrenheit. 
+
+$$
+
+MEZ001-041000-
+Allagash Wilderness Waterway-
+433 PM EDT Fri Aug 3 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. Isolated showers early this evening.
+Isolated thunderstorms. Scattered showers from late evening on. 
+Locally heavy rainfall possible late. Low around 63. Light winds. 
+Chance of precipitation 50 percent. Lightning risk is limited. 
+.SATURDAY...Cloudy. Numerous showers and isolated thunderstorms.
+Locally heavy rainfall possible. High around 78. Light winds. Chance
+of precipitation 70 percent. Lightning risk is limited. 
+
+$$
+
+MEZ030-041000-
+St Croix River-
+433 PM EDT Fri Aug 3 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Scattered showers through early morning. Isolated
+thunderstorms from late evening on. Numerous showers late. Locally 
+heavy rainfall possible late. Low around 66. Light winds. Chance of 
+precipitation 60 percent. Lightning risk is limited. 
+.SATURDAY...Cloudy. Widespread showers and isolated thunderstorms.
+Locally heavy rainfall possible. High around 78. Light winds. Chance
+of precipitation 80 percent. Lightning risk is limited. 
+
+$$
+
+MEZ030-041000-
+West Quoddy Head-
+433 PM EDT Fri Aug 3 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Areas of fog from late evening on. Scattered
+showers and isolated thunderstorms from late evening on. Locally
+heavy rainfall possible late. Low around 60. Southwest winds around
+10 mph until midnight becoming light winds. Chance of precipitation
+40 percent. Lightning risk is limited. Water temperature 56 degrees
+Fahrenheit. 
+.SATURDAY...Cloudy. Areas of fog in the morning. Scattered showers
+and isolated thunderstorms. Locally heavy rainfall possible. High
+around 69. South winds around 10 mph. Chance of precipitation
+50 percent. Lightning risk is limited. Water temperature 56 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-041000-
+Upper Penobscot Watershed-
+433 PM EDT Fri Aug 3 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Scattered showers until midnight. Isolated 
+thunderstorms. Widespread showers after midnight. Locally heavy 
+rainfall possible late. Low around 66. Light winds. Chance of 
+precipitation 90 percent. Lightning risk is limited. 
+.SATURDAY...Cloudy. Widespread showers and isolated thunderstorms.
+Locally heavy rainfall possible. High around 78. Light winds. Chance
+of precipitation 90 percent. Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-041000-
+Lower Penobscot Watershed-
+433 PM EDT Fri Aug 3 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Scattered showers until midnight. Isolated 
+thunderstorms. Numerous showers after midnight. Locally heavy 
+rainfall possible late. Low around 67. Light winds. Chance of 
+precipitation 70 percent. Lightning risk is limited. 
+.SATURDAY...Cloudy. Numerous showers in the morning. Isolated 
+thunderstorms. Scattered showers in the afternoon. Locally heavy 
+rainfall possible. High around 78. Light winds. Chance of 
+precipitation 70 percent. Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

@@ -1,0 +1,200 @@
+
+449 
+SXUS41 KCAR 102026
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+326 PM EST Sat Nov 10 2018
+
+MEZ004-111030-
+Top of Mount Katahdin-
+326 PM EST Sat Nov 10 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured, then becoming mostly cloudy late this
+evening, then becoming partly cloudy. A slight chance of snow
+showers. Very windy and cooler with low around 7 above. West winds
+30 to 40 mph. Chance of precipitation 20 percent. Wind chill values
+as low as 16 below. No lightning risk. 
+.VETERANS DAY...Partly sunny and very windy. Much cooler. Near
+steady temperatures around 9 above. West winds 30 to 35 mph. Wind
+chill values as low as 15 below. No lightning risk. 
+
+$$
+
+MEZ005-111030-
+Katahdin Woods and Waters National Monument-
+326 PM EST Sat Nov 10 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy. A slight chance of snow showers early this
+evening. Blustery, cooler with low around 21. West winds 10 to
+20 mph increasing to 20 to 25 mph after midnight. Chance of
+precipitation 20 percent. Wind chill values as low as 5 above. No
+lightning risk. 
+.VETERANS DAY...Partly sunny. High around 28. West winds 10 to
+20 mph. Wind chill values as low as 8 above. No lightning risk. 
+
+$$
+
+MEZ029-111030-
+Top of Cadillac Mountain-
+326 PM EST Sat Nov 10 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear, windy with low around 27. West winds around
+30 mph. Wind chill values as low as 12. No lightning risk. 
+.VETERANS DAY...Sunny, windy, cooler with high around 32. West winds
+25 to 30 mph. Wind chill values as low as 14. No lightning risk. 
+
+$$
+
+MEZ001-111030-
+Top of Deboullie Mountain-
+326 PM EST Sat Nov 10 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds until midnight, then becoming
+cloudy. A chance of snow showers early this evening...then a slight
+chance of snow showers late this evening. Windy, cooler with low
+around 17. West winds 25 to 30 mph. Chance of precipitation
+30 percent. Wind chill values as low as 2 below. No lightning risk. 
+.VETERANS DAY...Mostly cloudy and windy. High around 22. West winds
+20 to 30 mph. Wind chill values as low as 1 above. No lightning
+risk. 
+
+$$
+
+MEZ006-111030-
+Top of Mars Hill Mountain-
+326 PM EST Sat Nov 10 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. A slight chance of snow showers early this evening. Windy,
+cooler with low around 20. West winds 20 to 25 mph increasing to
+around 30 mph after midnight. Chance of precipitation 20 percent.
+Wind chill values as low as 3 above. No lightning risk. 
+.VETERANS DAY...Partly sunny and windy, cooler with high around 25.
+West winds 20 to 30 mph. Wind chill values as low as 5 above. No
+lightning risk. 
+
+$$
+
+MEZ010-111030-
+Top of White Cap Mountain-
+326 PM EST Sat Nov 10 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy, then summit in and out of clouds through early
+morning, then becoming partly cloudy. Very windy and cooler with low
+around 12. West winds 25 to 35 mph. Wind chill values as low as
+9 below. No lightning risk. 
+.VETERANS DAY...Partly sunny and windy. Much cooler with high around
+16. West winds 25 to 30 mph. Wind chill values as low as 8 below. No
+lightning risk. 
+
+$$
+
+MEZ010-111030-
+Moosehead Lake-
+326 PM EST Sat Nov 10 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy. A slight chance of snow showers until
+midnight. Blustery, cooler with low around 21. West winds 15 to
+25 mph. Waves 7 feet. Chance of precipitation 20 percent. Wind chill
+values as low as 5 above. No lightning risk. Water temperature
+56 degrees Fahrenheit. 
+.VETERANS DAY...Mostly sunny. High around 28. Waves 7 feet. West
+winds 15 to 20 mph. Wind chill values as low as 8 above. No
+lightning risk. Water temperature 56 degrees Fahrenheit. 
+
+$$
+
+MEZ001-111030-
+Allagash Wilderness Waterway-
+326 PM EST Sat Nov 10 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. A chance of snow showers until midnight.
+Blustery, cooler with low around 20. West winds 15 to 25 mph. Chance
+of precipitation 30 percent. Wind chill values as low as 3 above. No
+lightning risk. 
+.VETERANS DAY...Partly sunny in the morning, then becoming mostly
+cloudy. Blustery with high around 25. West winds 15 to 25 mph. Wind
+chill values as low as 5 above. No lightning risk. 
+
+$$
+
+MEZ030-111030-
+St Croix River-
+326 PM EST Sat Nov 10 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy through early
+morning, then becoming mostly clear. Low around 25. West winds 15 to
+20 mph. Wind chill values as low as 12. No lightning risk. 
+.VETERANS DAY...Mostly sunny. High around 33. West winds 15 to
+20 mph. Wind chill values as low as 14. No lightning risk. 
+
+$$
+
+MEZ030-111030-
+West Quoddy Head-
+326 PM EST Sat Nov 10 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear and windy. Low around 33. West winds 25 to
+30 mph. Wind chill values as low as 19. No lightning risk. Water
+temperature 51 degrees Fahrenheit. 
+.VETERANS DAY...Sunny, windy and much cooler with high around 37.
+West winds 25 to 30 mph. Wind chill values as low as 21. No
+lightning risk. Water temperature 51 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-111030-
+Upper Penobscot Watershed-
+326 PM EST Sat Nov 10 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy, then becoming mostly clear late this
+evening, then becoming partly cloudy, then becoming mostly clear
+late. Low around 23. West winds 10 to 20 mph. Wind chill values as
+low as 8 above. No lightning risk. 
+.VETERANS DAY...Partly sunny. High around 30. West winds 10 to
+20 mph. Wind chill values as low as 11. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-111030-
+Lower Penobscot Watershed-
+326 PM EST Sat Nov 10 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 26. West winds 15 to 20 mph.
+Wind chill values as low as 13. No lightning risk. 
+.VETERANS DAY...Sunny. High around 34. West winds 10 to 20 mph. Wind
+chill values as low as 15. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

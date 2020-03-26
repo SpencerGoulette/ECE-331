@@ -1,0 +1,87 @@
+
+613 
+SXUS41 KCAR 270710
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+310 AM EDT Thu Apr 27 2017
+
+MEZ004-272115-
+Top of Mount Katahdin-
+310 AM EDT Thu Apr 27 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit in and out of clouds this morning...then becoming
+cloudy. Patchy fog. Scattered showers. High around 52. South winds
+around 15 mph. Chance of precipitation 30 percent. 
+.TONIGHT...Summit in and out of clouds until midnight...then summit
+becoming obscured. Patchy fog. Scattered showers with patchy
+drizzle. Low around 48. South winds 10 to 15 mph. Chance of
+precipitation 30 percent. 
+.FRIDAY...Cloudy in the morning...then summit becoming obscured.
+Patchy fog in the morning. A chance of showers with patchy drizzle
+in the morning...then showers likely with a chance of thunderstorms
+in the afternoon. High around 56. Southwest winds around 15 mph.
+Chance of precipitation 70 percent. 
+
+$$
+
+MEZ029-272115-
+Top of Cadillac Mountain-
+310 AM EDT Thu Apr 27 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Summit obscured. Patchy fog. Scattered showers. High around
+52. Southeast winds 10 to 15 mph. Chance of precipitation
+30 percent. 
+.TONIGHT...Summit obscured. Areas of fog. Areas of drizzle. Low
+around 49. South winds around 10 mph. 
+.FRIDAY...Summit obscured. Areas of fog in the morning. Areas of
+drizzle in the morning. a chance of showers. High around 58. South
+winds around 10 mph. Chance of precipitation 50 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-272115-
+Upper Penobscot Watershed-
+310 AM EDT Thu Apr 27 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Patchy fog. Scattered showers. High around 62.
+Light winds. Chance of precipitation 30 percent. 
+.TONIGHT...Cloudy. Patchy fog until midnight. patchy fog after
+midnight. Patchy drizzle until midnight. scattered showers. patchy
+drizzle after midnight. One quarter mile or less at times after
+midnight. Low around 50. Light winds. Chance of precipitation
+30 percent. 
+.FRIDAY...Cloudy. Patchy fog in the morning. Patchy drizzle in the
+morning...then a chance of showers in the afternoon. High around 63.
+Light winds. Chance of precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-272115-
+Lower Penobscot Watershed-
+310 AM EDT Thu Apr 27 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Patchy fog. Scattered showers. High around 63.
+Light winds. Chance of precipitation 40 percent. 
+.TONIGHT...Cloudy. Areas of fog. Areas of drizzle. Low around 51.
+Light winds. 
+.FRIDAY...Cloudy. Areas of fog in the morning. Areas of drizzle in
+the morning. a chance of showers. High around 64. Light winds.
+Chance of precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

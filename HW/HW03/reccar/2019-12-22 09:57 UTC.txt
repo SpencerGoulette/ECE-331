@@ -1,0 +1,237 @@
+
+077 
+SXUS41 KCAR 220957
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+457 AM EST Sun Dec 22 2019
+
+MEZ004-230000-
+Top of Mount Katahdin-
+457 AM EST Sun Dec 22 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit in and out of clouds. A chance of snow until mid 
+morning...then snow late this morning and early afternoon. A chance 
+of snow late. Very windy with high around 23. West winds 15 to 35 mph
+increasing to 30 to 40 mph this afternoon. Chance of precipitation 
+90 percent. Wind chill values as low as zero. No lightning risk. 
+.TONIGHT...Summit in and out of clouds and windy. Low around 20. 
+West winds 20 to 35 mph. Wind chill values as low as 2 above. No 
+lightning risk. 
+.MONDAY...Mostly cloudy with strong winds. High around 31. West
+winds 25 to 35 mph increasing to 30 to 50 mph in the afternoon. Wind
+chill values as low as 3 above in the morning. No lightning risk. 
+
+$$
+
+MEZ005-230000-
+Katahdin Woods and Waters National Monument-
+457 AM EST Sun Dec 22 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Cloudy. A chance of snow until mid morning...then snow late
+this morning and early afternoon. A chance of snow late. High around
+29. South winds 10 mph shifting to the southwest 10 to 15 mph this
+afternoon. Chance of precipitation 90 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Low around 25. West winds 10 to 15 mph
+decreasing to 10 mph after midnight. No lightning risk. 
+.MONDAY...Mostly cloudy. High around 37. Southwest winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-230000-
+Top of Cadillac Mountain-
+457 AM EST Sun Dec 22 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Summit obscured this morning, then becoming cloudy. A
+slight chance of snow this morning. Windy with high around 36.
+Southwest winds 25 to 35 mph. Chance of precipitation 20 percent.
+Wind chill values as low as 8 above. No lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then summit becoming
+obscured. Windy with low around 29. Northwest winds 20 to 35 mph
+decreasing to 10 to 25 mph after midnight. No lightning risk. 
+.MONDAY...Summit obscured in the morning, then becoming mostly
+cloudy. Windy with high around 42. Southwest winds 15 to 25 mph
+shifting to the west 20 to 35 mph in the afternoon. Wind chill
+values as low as 20. No lightning risk. 
+
+$$
+
+MEZ001-230000-
+Top of Deboullie Mountain-
+457 AM EST Sun Dec 22 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Summit in and out of clouds. Snow through early 
+afternoon...then a chance of snow late. High around 23. East winds 10
+to 15 mph shifting to the southwest this afternoon. Chance of 
+precipitation near 100 percent. Wind chill values as low as zero. No 
+lightning risk. 
+.TONIGHT...Summit in and out of clouds. Not as cool with low around
+18. West winds 10 to 15 mph decreasing to 10 mph after midnight. No
+lightning risk. 
+.MONDAY...Summit in and out of clouds. A slight chance of snow 
+showers. Not as cool with high around 33. Southwest winds 10 to 15 
+mph. Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ006-230000-
+Top of Mars Hill Mountain-
+457 AM EST Sun Dec 22 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Cloudy until mid morning, then summit in and out of clouds.
+A chance of snow until mid morning...then snow late this morning and
+early afternoon. A chance of snow late. High around 25. Southwest
+winds 10 to 15 mph. Chance of precipitation 90 percent. No lightning
+risk. 
+.TONIGHT...Summit obscured until midnight, then becoming cloudy. Low
+around 20. Southwest winds 10 to 15 mph shifting to the northwest
+10 mph after midnight. No lightning risk. 
+.MONDAY...Summit in and out of clouds. High around 34. Southwest 
+winds 10 mph shifting to the south in the afternoon. No lightning 
+risk. 
+
+$$
+
+MEZ010-230000-
+Top of White Cap Mountain-
+457 AM EST Sun Dec 22 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Summit in and out of clouds. Snow likely this morning. A 
+chance of snow this afternoon. Very windy with high around 25. 
+Southwest winds 15 to 35 mph increasing to west 30 to 40 mph this 
+afternoon. Chance of precipitation 60 percent. Wind chill values as 
+low as 3 above. No lightning risk. 
+.TONIGHT...Summit in and out of clouds and very windy. Low around 
+22. Northwest winds 30 to 40 mph becoming west 15 to 35 mph after 
+midnight. Wind chill values as low as 6 above. No lightning risk. 
+.MONDAY...Mostly cloudy and very windy. High around 34. West winds
+20 to 30 mph increasing to 25 to 45 mph in the afternoon. Wind chill
+values as low as 5 above in the morning. No lightning risk. 
+
+$$
+
+MEZ010-230000-
+Moosehead Lake-
+457 AM EST Sun Dec 22 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Cloudy. Snow likely through early afternoon. A slight 
+chance of snow late. Not as cool with high around 33. Southwest winds
+15 mph. Chance of precipitation 60 percent. Wind chill values as low
+as 7 above. No lightning risk. 
+.TONIGHT...Mostly cloudy. Not as cool with low around 26. West winds
+10 to 15 mph. No lightning risk. 
+.MONDAY...Mostly cloudy. High around 40. Southwest winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-230000-
+Allagash Wilderness Waterway-
+457 AM EST Sun Dec 22 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Cloudy. Snow through early afternoon...then a chance of
+snow late. High around 27. Southwest winds 10 mph. Chance of
+precipitation 90 percent. No lightning risk. 
+.TONIGHT...Cloudy. Not as cool with low around 19. West winds
+10 mph. No lightning risk. 
+.MONDAY...Cloudy. A slight chance of snow showers. High around 36.
+Southwest winds 10 mph increasing to 10 to 15 mph in the afternoon.
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ030-230000-
+St Croix River-
+457 AM EST Sun Dec 22 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Cloudy. A chance of snow until mid morning...then snow
+likely late this morning and early afternoon. A chance of snow late.
+High around 31. Southwest winds 10 mph. Chance of precipitation
+70 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Not as cool with low around 22. Northwest
+winds 10 mph. No lightning risk. 
+.MONDAY...Mostly cloudy. High around 39. Southwest winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-230000-
+West Quoddy Head-
+457 AM EST Sun Dec 22 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Cloudy. A chance of snow this morning...then snow likely
+early this afternoon. A chance of rain late. High around 39. South
+winds 10 to 15 mph shifting to the southwest this afternoon. Chance
+of precipitation 60 percent. No lightning risk. Water temperature
+46 degrees Fahrenheit. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 28. West winds 10 to 15 mph shifting to the
+northwest 10 mph after midnight. No lightning risk. Water
+temperature 46 degrees Fahrenheit. 
+.MONDAY...Partly sunny. High around 42. West winds 10 to 15 mph. No
+lightning risk. Water temperature 46 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-230000-
+Upper Penobscot Watershed-
+457 AM EST Sun Dec 22 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Snow likely this morning. A chance of snow this
+afternoon. High around 29. Southwest winds 10 mph. Chance of
+precipitation 70 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Not as cool with low around 23. West winds
+10 mph. No lightning risk. 
+.MONDAY...Mostly cloudy. Not as cool with high around 39. Southwest
+winds 10 mph increasing to 10 to 15 mph in the afternoon. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-230000-
+Lower Penobscot Watershed-
+457 AM EST Sun Dec 22 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. A slight chance of snow until mid morning...then a
+chance of snow late this morning. A slight chance of snow early this
+afternoon. High around 32. Southwest winds 10 mph. Chance of 
+precipitation 50 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Not as cool with low around 24. West winds
+10 mph. No lightning risk. 
+.MONDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Not as cool with high around 42. Southwest winds 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

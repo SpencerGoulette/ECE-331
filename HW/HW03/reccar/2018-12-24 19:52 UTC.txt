@@ -1,0 +1,191 @@
+
+296 
+SXUS41 KCAR 241952
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+252 PM EST Mon Dec 24 2018
+
+MEZ004-251000-
+Top of Mount Katahdin-
+252 PM EST Mon Dec 24 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy. Low around 5 above. Northwest winds 10 to
+25 mph. Wind chill values as low as 15 below. No lightning risk. 
+.CHRISTMAS DAY...Partly sunny. High around 11. Northwest winds 15 to
+25 mph. Wind chill values as low as 13 below. No lightning risk. 
+
+$$
+
+MEZ005-251000-
+Katahdin Woods and Waters National Monument-
+252 PM EST Mon Dec 24 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy. Low around 5 above. Northwest winds 10 mph
+increasing to 10 to 15 mph after midnight. Wind chill values as low
+as 7 below. No lightning risk. 
+.CHRISTMAS DAY...Partly sunny. High around 18. Northwest winds 10 to
+15 mph. Wind chill values as low as 8 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ029-251000-
+Top of Cadillac Mountain-
+252 PM EST Mon Dec 24 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy through early
+morning, then becoming partly cloudy. Low around 13. Northwest winds
+10 to 20 mph. Wind chill values as low as 3 below. No lightning
+risk. 
+.CHRISTMAS DAY...Sunny. High around 22. Northwest winds 15 to
+20 mph. Wind chill values as low as 2 above. No lightning risk. 
+
+$$
+
+MEZ001-251000-
+Top of Deboullie Mountain-
+252 PM EST Mon Dec 24 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 2 below. Northwest winds 10 to 15 mph. Wind chill
+values as low as 19 below. No lightning risk. 
+.CHRISTMAS DAY...Partly sunny. High around 11. Northwest winds 10 to
+20 mph. Wind chill values as low as 20 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ006-251000-
+Top of Mars Hill Mountain-
+252 PM EST Mon Dec 24 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy after
+midnight, then summit in and out of clouds. Low around 2 above.
+Northwest winds 10 to 15 mph. Wind chill values as low as 15 below.
+No lightning risk. 
+.CHRISTMAS DAY...Mostly cloudy in the morning, then becoming partly
+sunny. High around 13. Northwest winds 10 to 20 mph. Wind chill
+values as low as 15 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-251000-
+Top of White Cap Mountain-
+252 PM EST Mon Dec 24 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 6 above. Northwest winds 10 to 20 mph. Wind chill
+values as low as 12 below. No lightning risk. 
+.CHRISTMAS DAY...Mostly sunny. High around 12. Northwest winds 15 to
+20 mph. Wind chill values as low as 11 below. No lightning risk. 
+
+$$
+
+MEZ010-251000-
+Moosehead Lake-
+252 PM EST Mon Dec 24 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 5 above. Northwest winds 10 mph. No lightning
+risk. 
+.CHRISTMAS DAY...Partly sunny. High around 17. Northwest winds 10 to
+15 mph. Wind chill values as low as 4 below. No lightning risk. 
+
+$$
+
+MEZ001-251000-
+Allagash Wilderness Waterway-
+252 PM EST Mon Dec 24 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy. Low around 1 below. Northwest winds
+10 mph. No lightning risk. 
+.CHRISTMAS DAY...Partly sunny. High around 16. West winds 10 to
+15 mph. Wind chill values as low as 14 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-251000-
+St Croix River-
+252 PM EST Mon Dec 24 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy through early
+morning, then becoming partly cloudy. Low around 9 above. Northwest
+winds 10 mph. No lightning risk. 
+.CHRISTMAS DAY...Mostly sunny. High around 22. Northwest winds 10 to
+15 mph. Wind chill values as low as 4 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-251000-
+West Quoddy Head-
+252 PM EST Mon Dec 24 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy late this
+evening, then becoming mostly cloudy, then becoming partly cloudy
+late. Low around 17. Northwest winds 10 to 20 mph. Wind chill values
+as low as 4 above. No lightning risk. Water temperature 46 degrees
+Fahrenheit. 
+.CHRISTMAS DAY...Mostly sunny. High around 26. Northwest winds 15 to
+20 mph. Wind chill values as low as 7 above. No lightning risk.
+Water temperature 46 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-251000-
+Upper Penobscot Watershed-
+252 PM EST Mon Dec 24 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy late this
+evening, then becoming partly cloudy. Low around 7 above. Northwest
+winds 10 mph. No lightning risk. 
+.CHRISTMAS DAY...Mostly sunny. High around 21. Northwest winds 10 to
+15 mph. Wind chill values as low as 2 below. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-251000-
+Lower Penobscot Watershed-
+252 PM EST Mon Dec 24 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy through early
+morning, then becoming mostly clear. Low around 10 above. Northwest
+winds 10 mph. No lightning risk. 
+.CHRISTMAS DAY...Sunny. High around 24. Northwest winds 10 to
+15 mph. Wind chill values as low as 1 below in the morning. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,83 @@
+
+359 
+SXUS41 KCAR 101837
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+237 PM EDT Wed May 10 2017
+
+MEZ004-110845-
+Top of Mount Katahdin-
+237 PM EDT Wed May 10 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Scattered snow showers. Low around 31.
+Northeast winds 10 to 20 mph. Chance of precipitation 40 percent. 
+.THURSDAY...Summit obscured. Scattered snow showers in the morning.
+High around 38. East winds 15 to 25 mph. Chance of precipitation
+30 percent. Wind chill values as low as 21. 
+
+$$
+
+MEZ029-110845-
+Top of Cadillac Mountain-
+237 PM EDT Wed May 10 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy until midnight...then summit becoming obscured.
+Scattered showers. Low around 41. North winds around 10 mph. Chance
+of precipitation 40 percent. 
+.THURSDAY...Summit obscured. High around 48. Northeast winds 10 to
+15 mph. 
+
+$$
+
+MEZ010-110845-
+Moosehead Lake-
+237 PM EDT Wed May 10 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Scattered showers. Low around 38. Light winds.
+Waves 1 foot. Chance of precipitation 40 percent. 
+.THURSDAY...Cloudy. High around 48. Waves 1 foot. Light winds. 
+
+$$
+
+MEZ004&gt;006-010-011-031-110845-
+Upper Penobscot Watershed-
+237 PM EDT Wed May 10 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Scattered showers. Low around 41. North winds
+around 10 mph. Chance of precipitation 50 percent. 
+.THURSDAY...Cloudy. Scattered showers in the morning. High around
+51. Northeast winds around 10 mph. Chance of precipitation
+30 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-110845-
+Lower Penobscot Watershed-
+237 PM EDT Wed May 10 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Scattered showers. Low around 41. Light winds
+becoming north around 10 mph after midnight. Chance of precipitation
+50 percent. 
+.THURSDAY...Cloudy. Scattered showers in the morning. High around
+52. Northeast winds around 10 mph. Chance of precipitation
+30 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

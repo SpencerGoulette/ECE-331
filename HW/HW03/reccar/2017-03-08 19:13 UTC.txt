@@ -1,0 +1,75 @@
+
+958 
+SXUS41 KCAR 081913
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+213 PM EST Wed Mar 8 2017
+
+MEZ004-090915-
+Top of Mount Katahdin-
+213 PM EST Wed Mar 8 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy. A
+slight chance of snow showers after midnight. Much cooler with low
+around 10 above. West winds 20 to 25 mph. Chance of precipitation
+20 percent. Wind chill values as low as 6 below. 
+.THURSDAY...Summit in and out of clouds in the morning...then summit
+becoming obscured. A chance of snow showers. Much cooler with high
+around 12. West winds 25 to 30 mph. Chance of precipitation
+40 percent. Wind chill values as low as 13 below. 
+
+$$
+
+MEZ029-090915-
+Top of Cadillac Mountain-
+213 PM EST Wed Mar 8 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. A slight chance of rain showers until midnight. Low around
+33. Southwest winds 10 to 20 mph increasing to 25 to 30 mph after
+midnight. Chance of precipitation 20 percent. 
+.THURSDAY...Mostly cloudy. Cooler with high around 35. West winds
+around 30 mph. Wind chill values as low as 19. 
+
+$$
+
+MEZ004&gt;006-010-011-031-090915-
+Upper Penobscot Watershed-
+213 PM EST Wed Mar 8 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. A slight chance of rain and snow showers after midnight. Low
+around 28. Southwest winds around 10 mph. Chance of precipitation
+20 percent. Wind chill values as low as 18. 
+.THURSDAY...Cloudy. A chance of snow showers. Cooler with high
+around 32. West winds 10 to 20 mph. Chance of precipitation
+40 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-090915-
+Lower Penobscot Watershed-
+213 PM EST Wed Mar 8 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 31. Southwest winds 10 to 15 mph. 
+.THURSDAY...Cloudy, cooler with high around 35. West winds 10 to
+25 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,81 @@
+
+860 
+SXUS41 KCAR 071915
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+315 PM EDT Wed Jun 7 2017
+
+MEZ004-080915-
+Top of Mount Katahdin-
+315 PM EDT Wed Jun 7 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Not as cool
+with low around 52. Northwest winds around 10 mph. No lightning is
+expected. 
+.THURSDAY...Sunny. High around 63. West winds around 10 mph. No
+lightning is expected. 
+
+$$
+
+MEZ029-080915-
+Top of Cadillac Mountain-
+315 PM EDT Wed Jun 7 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear. Low around 53. Southwest winds 10 to
+15 mph. No lightning is expected. 
+.THURSDAY...Sunny. High around 65. Southwest winds 10 to 15 mph. No
+lightning is expected. 
+
+$$
+
+MEZ010-080915-
+Moosehead Lake-
+315 PM EDT Wed Jun 7 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Not as cool
+with low around 51. Light winds. Waves 1 foot. No lightning is
+expected. 
+.THURSDAY...Sunny in the morning...then becoming partly sunny. High
+around 78. Waves 1 foot. Light winds. No lightning is expected. 
+
+$$
+
+MEZ004&gt;006-010-011-031-080915-
+Upper Penobscot Watershed-
+315 PM EDT Wed Jun 7 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Not as cool
+with low around 52. Light winds. No lightning is expected. 
+.THURSDAY...Mostly sunny. High around 80. Light winds becoming
+southwest around 10 mph in the afternoon. No lightning is expected. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-080915-
+Lower Penobscot Watershed-
+315 PM EDT Wed Jun 7 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+51. Southwest winds around 10 mph. No lightning is expected. 
+.THURSDAY...Sunny. High around 79. Southwest winds 10 to 15 mph. No
+lightning is expected. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

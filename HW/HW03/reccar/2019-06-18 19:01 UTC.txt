@@ -1,0 +1,212 @@
+
+323 
+SXUS41 KCAR 181901
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+301 PM EDT Tue Jun 18 2019
+
+MEZ004-190915-
+Top of Mount Katahdin-
+301 PM EDT Tue Jun 18 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming mostly cloudy. Isolated showers early this
+evening. Low around 48. Southwest winds 10 to 20 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. Scattered showers in the morning...then
+widespread showers and scattered thunderstorms in the afternoon.
+High around 56. Southwest winds 15 to 25 mph. Chance of
+precipitation 80 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ005-190915-
+Katahdin Woods and Waters National Monument-
+301 PM EDT Tue Jun 18 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy. Isolated showers early this evening. Low
+around 54. Southwest winds 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. Isolated showers in the morning...then
+scattered showers and thunderstorms in the afternoon. High around
+73. South winds 10 mph increasing to 10 to 15 mph in the afternoon.
+Chance of precipitation 50 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ029-190915-
+Top of Cadillac Mountain-
+301 PM EDT Tue Jun 18 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Patchy fog late this evening. areas of fog after midnight.
+Low around 53. Southwest winds 10 to 20 mph. No lightning risk. 
+.WEDNESDAY...Summit obscured. Areas of fog in the morning. High
+around 61. Southwest winds 10 to 25 mph. No lightning risk. 
+
+$$
+
+MEZ001-190915-
+Top of Deboullie Mountain-
+301 PM EDT Tue Jun 18 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy. Isolated showers early this evening. Low
+around 48. West winds 10 to 15 mph decreasing to 10 mph after
+midnight. Chance of precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Scattered showers in the morning...then numerous showers and
+scattered thunderstorms in the afternoon. High around 70. Southwest
+winds 10 mph. Chance of precipitation 70 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ006-190915-
+Top of Mars Hill Mountain-
+301 PM EDT Tue Jun 18 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy. Isolated showers early this evening. Low
+around 52. Southwest winds 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. Scattered showers. scattered
+thunderstorms in the afternoon. High around 71. South winds 10 mph
+increasing to 10 to 15 mph in the afternoon. Chance of precipitation
+50 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ010-190915-
+Top of White Cap Mountain-
+301 PM EDT Tue Jun 18 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Isolated showers early this evening. Low around 53.
+Southwest winds 10 to 20 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.WEDNESDAY...Mostly cloudy. Scattered showers. scattered
+thunderstorms in the afternoon. High around 61. Southwest winds
+15 to 25 mph. Chance of precipitation 50 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ010-190915-
+Moosehead Lake-
+301 PM EDT Tue Jun 18 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy. Isolated showers early this evening. Low
+around 52. South winds 10 mph. Waves 1 foot. Chance of precipitation
+20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Scattered showers in the morning...then numerous showers and
+scattered thunderstorms in the afternoon. High around 70. Waves
+1 foot. South winds 10 mph increasing to 10 to 15 mph in the
+afternoon. Chance of precipitation 60 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ001-190915-
+Allagash Wilderness Waterway-
+301 PM EDT Tue Jun 18 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy. Isolated showers early this evening. Not
+as cool with low around 47. Southwest winds 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Scattered showers in the morning...then numerous showers and
+scattered thunderstorms in the afternoon. High around 75. Southwest
+winds 10 mph. Chance of precipitation 70 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ030-190915-
+St Croix River-
+301 PM EDT Tue Jun 18 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy. Areas of fog late. Low around 51. South
+winds 10 mph. No lightning risk. 
+.WEDNESDAY...Partly sunny. Areas of fog in the morning. Isolated
+showers and thunderstorms in the afternoon. High around 74. South
+winds 10 mph increasing to 10 to 15 mph in the afternoon. Chance of
+precipitation 20 percent. Lightning risk is limited. 
+
+$$
+
+MEZ030-190915-
+West Quoddy Head-
+301 PM EDT Tue Jun 18 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Patchy fog late this evening. areas of fog after midnight.
+Low around 48. Southwest winds 10 to 15 mph decreasing to 10 mph
+after midnight. No lightning risk. Water temperature 46 degrees
+Fahrenheit. 
+.WEDNESDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Areas of fog in the morning. High around 56. South winds
+10 mph increasing to 10 to 15 mph in the afternoon. No lightning
+risk. Water temperature 46 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-190915-
+Upper Penobscot Watershed-
+301 PM EDT Tue Jun 18 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Isolated showers early this evening. Low
+around 53. Southwest winds 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Isolated showers in the morning...then scattered showers and
+isolated thunderstorms in the afternoon. High around 74. South winds
+10 mph increasing to 10 to 15 mph in the afternoon. Chance of
+precipitation 50 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-190915-
+Lower Penobscot Watershed-
+301 PM EDT Tue Jun 18 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Areas of fog after midnight. Low around 54. South winds
+10 mph. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. Areas of fog in the morning. Isolated
+showers and thunderstorms in the afternoon. High around 73. South
+winds 10 mph increasing to 10 to 15 mph in the afternoon. Chance of
+precipitation 20 percent. Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

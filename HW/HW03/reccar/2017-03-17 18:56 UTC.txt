@@ -1,0 +1,63 @@
+
+327 
+SXUS41 KCAR 171856
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+256 PM EDT Fri Mar 17 2017
+
+MEZ004-180900-
+Top of Mount Katahdin-
+256 PM EDT Fri Mar 17 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Low around 4 above. Northwest winds around 10 mph until
+midnight becoming light winds. 
+.SATURDAY...Mostly sunny. Not as cool with high around 20. Light
+winds. 
+
+$$
+
+MEZ029-180900-
+Top of Cadillac Mountain-
+256 PM EDT Fri Mar 17 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy. Not as cool with low around 17. North
+winds around 10 mph until midnight becoming light winds. 
+.SATURDAY...Sunny. High around 31. Light winds. 
+
+$$
+
+MEZ004&gt;006-010-011-031-180900-
+Upper Penobscot Watershed-
+256 PM EDT Fri Mar 17 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 11. Northwest winds around
+5 mph until midnight becoming light winds. 
+.SATURDAY...Mostly sunny. High around 32. Light winds. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-180900-
+Lower Penobscot Watershed-
+256 PM EDT Fri Mar 17 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 13. Light winds. 
+.SATURDAY...Mostly sunny. High around 34. Light winds. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

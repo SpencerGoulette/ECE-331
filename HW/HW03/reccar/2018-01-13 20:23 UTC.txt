@@ -1,0 +1,201 @@
+
+775 
+SXUS41 KCAR 132023
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+323 PM EST Sat Jan 13 2018
+
+MEZ004-141030-
+Top of Mount Katahdin-
+323 PM EST Sat Jan 13 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy...then becoming partly cloudy through early
+morning...then becoming mostly clear. Much cooler with low around
+1 above. Northwest winds 10 to 20 mph. Wind chill values as low as
+15 below. No lightning risk. 
+.SUNDAY...Sunny, brisk and much cooler with high around 6 above.
+Northwest winds 15 to 25 mph. Wind chill values as low as 18 below.
+No lightning risk. 
+
+$$
+
+MEZ005-141030-
+Katahdin Woods and Waters National Monument-
+323 PM EST Sat Jan 13 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy...then becoming partly cloudy through early
+morning...then becoming mostly clear. Much cooler with low around
+1 below. Northwest winds 10 to 15 mph. Wind chill values as low as
+15 below. No lightning risk. 
+.SUNDAY...Sunny. Much cooler with high around 8 above. Northwest
+winds around 10 mph. Wind chill values as low as 12 below. No
+lightning risk. 
+
+$$
+
+MEZ029-141030-
+Top of Cadillac Mountain-
+323 PM EST Sat Jan 13 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy early this evening...then clearing. Brisk
+and much cooler with low around 8 above. North winds 20 to 25 mph.
+Wind chill values as low as 11 below. No lightning risk. 
+.SUNDAY...Sunny. Much cooler with high around 14. North winds 15 to
+20 mph. Wind chill values as low as 10 below. No lightning risk. 
+
+$$
+
+MEZ001-141030-
+Top of Deboullie Mountain-
+323 PM EST Sat Jan 13 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds...then becoming mostly cloudy
+late this evening...then becoming partly cloudy...then becoming
+mostly clear late. Much colder with low around 7 below. Northwest
+winds 10 to 20 mph. Wind chill values as low as 24 below. No
+lightning risk. 
+.SUNDAY...Sunny, cooler with high around 1 above. Northwest winds
+around 10 mph. Wind chill values as low as 20 below. No lightning
+risk. 
+
+$$
+
+MEZ006-141030-
+Top of Mars Hill Mountain-
+323 PM EST Sat Jan 13 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit in and out of clouds...then becoming mostly cloudy
+through early morning...then becoming partly cloudy. Brisk and much
+cooler with low around 2 below. North winds 20 to 25 mph decreasing
+to around 15 mph after midnight. Wind chill values as low as
+21 below. No lightning risk. 
+.SUNDAY...Sunny. Much cooler with high around 4 above. Northwest
+winds around 15 mph. Wind chill values as low as 19 below. No
+lightning risk. 
+
+$$
+
+MEZ010-141030-
+Top of White Cap Mountain-
+323 PM EST Sat Jan 13 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly cloudy...then becoming partly cloudy through early
+morning...then becoming mostly clear. Brisk and much cooler with low
+around 1 below. North winds 20 to 25 mph shifting to the northwest
+around 15 mph after midnight. Wind chill values as low as 20 below.
+No lightning risk. 
+.SUNDAY...Sunny. Much cooler with high around 4 above. Northwest
+winds 15 to 20 mph. Wind chill values as low as 20 below. No
+lightning risk. 
+
+$$
+
+MEZ010-141030-
+Moosehead Lake-
+323 PM EST Sat Jan 13 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy early this evening...then becoming partly
+cloudy. Much cooler with low around 5 below. Northwest winds 10 to
+15 mph. Wind chill values as low as 20 below. No lightning risk. 
+.SUNDAY...Sunny. Much cooler with high around 5 above. Northwest
+winds around 10 mph. Wind chill values as low as 17 below. No
+lightning risk. 
+
+$$
+
+MEZ001-141030-
+Allagash Wilderness Waterway-
+323 PM EST Sat Jan 13 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy early this evening...then becoming partly
+cloudy. Much colder with low around 7 below. Northwest winds around
+10 mph. Wind chill values as low as 17 below. No lightning risk. 
+.SUNDAY...Sunny, cooler with high around 5 above. Light winds. No
+lightning risk. 
+
+$$
+
+MEZ030-141030-
+St Croix River-
+323 PM EST Sat Jan 13 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy...then becoming partly cloudy through early
+morning...then becoming mostly clear. Much cooler with low around
+7 above. North winds 10 to 15 mph. Wind chill values as low as
+8 below. No lightning risk. 
+.SUNDAY...Sunny. Much cooler with high around 15. Northwest winds
+around 10 mph. Wind chill values as low as 5 below. No lightning
+risk. 
+
+$$
+
+MEZ030-141030-
+West Quoddy Head-
+323 PM EST Sat Jan 13 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy and brisk. Much cooler with low around 16.
+Northwest winds 15 to 25 mph. Wind chill values as low as 1 above.
+No lightning risk. Water temperature 44 degrees Fahrenheit. 
+.SUNDAY...Sunny. Much cooler with high around 21. North winds 10 to
+20 mph. Wind chill values as low as 3 above. No lightning risk.
+Water temperature 44 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-141030-
+Upper Penobscot Watershed-
+323 PM EST Sat Jan 13 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Much cooler
+with low around 2 above. Northwest winds 10 to 15 mph. Wind chill
+values as low as 14 below. No lightning risk. 
+.SUNDAY...Sunny. Much cooler with high around 11. Northwest winds
+around 10 mph. Wind chill values as low as 11 below. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-141030-
+Lower Penobscot Watershed-
+323 PM EST Sat Jan 13 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening...then clearing. Much
+cooler with low around 6 above. Northwest winds 10 to 15 mph. Wind
+chill values as low as 8 below. No lightning risk. 
+.SUNDAY...Sunny. Much cooler with high around 14. Northwest winds
+around 10 mph. Wind chill values as low as 6 below. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

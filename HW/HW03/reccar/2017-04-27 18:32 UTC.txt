@@ -1,0 +1,76 @@
+
+056 
+SXUS41 KCAR 271832
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+232 PM EDT Thu Apr 27 2017
+
+MEZ004-280845-
+Top of Mount Katahdin-
+232 PM EDT Thu Apr 27 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy. A chance of light rain and drizzle. Low around
+48. South winds 10 to 15 mph. Chance of precipitation 40 percent. 
+.FRIDAY...Cloudy in the morning...then summit becoming obscured. A
+chance of light rain and drizzle in the morning...then a chance of
+showers in the afternoon. High around 53. West winds 15 to 20 mph.
+Chance of precipitation 40 percent. 
+
+$$
+
+MEZ029-280845-
+Top of Cadillac Mountain-
+232 PM EDT Thu Apr 27 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Fog. A chance of light rain and drizzle.
+Low around 48. South winds around 10 mph. Chance of precipitation 30
+percent. 
+.FRIDAY...Summit obscured. Fog. A chance of light rain and drizzle 
+in the morning. a chance of showers in the afternoon. High around 57.
+Southwest winds 10 to 15 mph. Chance of precipitation 40 percent.
+
+
+$$
+
+MEZ004&gt;006-010-011-031-280845-
+Upper Penobscot Watershed-
+232 PM EDT Thu Apr 27 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. A chance of light rain and drizzle.
+Low around 50. Light winds. Chance of precipitation 40 percent. 
+.FRIDAY...Cloudy. Areas of fog in the morning. A chance of light
+rain and drizzle in the morning...then a chance of showers in the
+afternoon. High around 64. Light winds. Chance of precipitation
+50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-280845-
+Lower Penobscot Watershed-
+232 PM EDT Thu Apr 27 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. A slight chance of light rain and
+drizzle until midnight. a chance of light rain and drizzle after
+midnight. Low around 51. Light winds. Chance of precipitation
+40 percent. 
+.FRIDAY...Cloudy. Areas of fog in the morning. A chance of light
+rain and drizzle in the morning. High around 65. Light winds. Chance
+of precipitation 40 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,211 @@
+
+401 
+SXUS41 KCAR 160816
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+316 AM EST Sat Nov 16 2019
+
+MEZ004-162230-
+Top of Mount Katahdin-
+316 AM EST Sat Nov 16 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Sunny with strong winds. Cold with high around 12.
+Northwest winds 45 to 65 mph decreasing to 30 to 50 mph this
+afternoon. Wind chill values as low as 27 below. No lightning risk. 
+.TONIGHT...Clear, brisk, cold with low around 6 above. North winds
+10 to 30 mph becoming northwest after midnight. Wind chill values as
+low as 12 below. No lightning risk. 
+.SUNDAY...Mostly sunny. Not as cool with high around 25. West winds
+15 mph shifting to the south in the afternoon. Wind chill values as
+low as 3 below in the morning. No lightning risk. 
+
+$$
+
+MEZ005-162230-
+Katahdin Woods and Waters National Monument-
+316 AM EST Sat Nov 16 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Sunny, colder with high around 22. Northwest winds 10 to
+20 mph. Wind chill values as low as 7 below. No lightning risk. 
+.TONIGHT...Clear, cold with low around 5 above. Northwest winds
+10 to 15 mph decreasing to 10 mph after midnight. No lightning risk.
+.SUNDAY...Mostly sunny. High around 28. West winds 10 mph shifting
+to the southeast in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-162230-
+Top of Cadillac Mountain-
+316 AM EST Sat Nov 16 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny with strong winds. Cooler with high around 26. North
+winds 40 to 50 mph decreasing to 30 to 40 mph this afternoon. Wind
+chill values as low as 7 below. No lightning risk. 
+.TONIGHT...Clear, brisk, cold with low around 9 above. North winds
+15 to 30 mph shifting to the northeast 10 to 20 mph after midnight.
+Wind chill values as low as 5 below. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 33. Northeast winds 10 to
+20 mph. Wind chill values as low as 4 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ001-162230-
+Top of Deboullie Mountain-
+316 AM EST Sat Nov 16 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Mostly sunny. Colder with high around 18. Northwest winds
+10 to 20 mph. Wind chill values as low as 11 below. No lightning
+risk. 
+.TONIGHT...Clear, cold with low around 5 below. West winds 10 to
+15 mph decreasing to 10 mph after midnight. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 26. Southwest winds 10 mph
+shifting to the south in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-162230-
+Top of Mars Hill Mountain-
+316 AM EST Sat Nov 16 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Mostly sunny. Colder with high around 20. Northwest winds
+10 to 25 mph. Wind chill values as low as 10 below. No lightning
+risk. 
+.TONIGHT...Clear, cold with low around 3 above. Northwest winds
+10 to 15 mph decreasing to 10 mph after midnight. No lightning risk.
+.SUNDAY...Mostly sunny. Cold with high around 25. Light winds
+becoming southeast 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-162230-
+Top of White Cap Mountain-
+316 AM EST Sat Nov 16 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Sunny with strong winds. Cold with high around 14.
+Northwest winds 35 to 55 mph decreasing to 30 to 40 mph this
+afternoon. Wind chill values as low as 24 below. No lightning risk. 
+.TONIGHT...Clear, windy, cold with low around 9 above. North winds
+15 to 35 mph decreasing to 15 mph after midnight. Wind chill values
+as low as 10 below. No lightning risk. 
+.SUNDAY...Mostly sunny. Not as cool with high around 25. West winds
+10 mph shifting to the south in the afternoon. Wind chill values as
+low as 7 above. No lightning risk. 
+
+$$
+
+MEZ010-162230-
+Moosehead Lake-
+316 AM EST Sat Nov 16 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Sunny. Much colder with high around 20. Northwest winds
+10 to 20 mph. Waves 4 feet. Wind chill values as low as 8 below. No
+lightning risk. 
+.TONIGHT...Clear, cold with low around 9 above. Waves 1 foot.
+Northwest winds 10 to 15 mph decreasing to 10 mph after midnight. No
+lightning risk. 
+.SUNDAY...Mostly sunny. Not as cool with high around 30. Waves
+1 foot. North winds 10 mph shifting to the southeast in the
+afternoon. No lightning risk. 
+
+$$
+
+MEZ001-162230-
+Allagash Wilderness Waterway-
+316 AM EST Sat Nov 16 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Sunny, colder with high around 21. West winds 10 to 20 mph.
+Wind chill values as low as 10 below. No lightning risk. 
+.TONIGHT...Clear, colder with low around 8 below. West winds 10 mph.
+No lightning risk. 
+.SUNDAY...Mostly sunny. High around 28. South winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-162230-
+St Croix River-
+316 AM EST Sat Nov 16 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Sunny, cooler with high around 26. Northwest winds 10 to
+20 mph. Wind chill values as low as 1 below. No lightning risk. 
+.TONIGHT...Clear, colder with low around 2 above. Northwest winds
+10 mph. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 32. North winds 10 mph in the
+morning becoming light winds. No lightning risk. 
+
+$$
+
+MEZ030-162230-
+West Quoddy Head-
+316 AM EST Sat Nov 16 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Sunny. Much cooler with high around 30. Northwest winds
+15 to 25 mph. Wind chill values as low as 6 above. No lightning
+risk. Water temperature 50 degrees Fahrenheit. 
+.TONIGHT...Clear, cold with low around 15. North winds 10 to 20 mph.
+Wind chill values as low as 3 above. No lightning risk. Water
+temperature 50 degrees Fahrenheit. 
+.SUNDAY...Mostly sunny. High around 38. Northeast winds 10 to
+15 mph. Wind chill values as low as 3 above in the morning. No
+lightning risk. Water temperature 50 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-162230-
+Upper Penobscot Watershed-
+316 AM EST Sat Nov 16 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny, colder with high around 24. Northwest winds 10 to
+20 mph. Wind chill values as low as 6 below. No lightning risk. 
+.TONIGHT...Clear, cold with low around 5 above. Northwest winds
+15 mph becoming 10 mph after midnight. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 30. North winds 10 mph shifting
+to the east in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-162230-
+Lower Penobscot Watershed-
+316 AM EST Sat Nov 16 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny, cooler with high around 27. Northwest winds 10 to
+20 mph. Wind chill values as low as zero. No lightning risk. 
+.TONIGHT...Clear, cold with low around 6 above. North winds 10 mph.
+No lightning risk. 
+.SUNDAY...Mostly sunny. High around 33. Northeast winds 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,72 @@
+
+923 
+SXUS41 KCAR 112008
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+308 PM EST Sat Mar 11 2017
+
+MEZ004-121015-
+Top of Mount Katahdin-
+308 PM EST Sat Mar 11 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy. Cold with low around 19 below. Northwest
+winds 30 to 35 mph. Wind chill values as low as 53 below. 
+.SUNDAY...Partly sunny in the morning...then becoming cloudy. Not as
+cool with high around 2 below. Northwest winds 25 to 30 mph shifting
+to the north around 20 mph in the afternoon. Wind chill values as
+low as 39 below in the morning. 
+
+$$
+
+MEZ029-121015-
+Top of Cadillac Mountain-
+308 PM EST Sat Mar 11 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 2 below. Northwest winds 25 to 30 mph. Wind chill
+values as low as 27 below. 
+.SUNDAY...Partly sunny. Not as cool with high around 13. Northwest
+winds 20 to 25 mph. Wind chill values as low as 25 below in the
+morning. 
+
+$$
+
+MEZ004&gt;006-010-011-031-121015-
+Upper Penobscot Watershed-
+308 PM EST Sat Mar 11 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Cold with low around 6 below. West winds
+10 to 15 mph. Wind chill values as low as 28 below. 
+.SUNDAY...Partly sunny in the morning...then becoming mostly cloudy.
+Not as cool with high around 14. Northwest winds 10 to 15 mph. Wind
+chill values as low as 23 below in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-121015-
+Lower Penobscot Watershed-
+308 PM EST Sat Mar 11 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+clear. Cold with low around 5 below. West winds 10 to 15 mph. Wind
+chill values as low as 26 below. 
+.SUNDAY...Partly sunny. Not as cool with high around 17. West winds
+10 to 15 mph. Wind chill values as low as 20 below in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

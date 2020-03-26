@@ -1,0 +1,107 @@
+
+852 
+SXUS41 KCAR 031907
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+307 PM EDT Mon Jul 3 2017
+
+MEZ004-040915-
+Top of Mount Katahdin-
+307 PM EDT Mon Jul 3 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured until midnight...then summit in and out
+of clouds. Isolated showers until midnight. Low around 45. Northwest
+winds around 25 mph decreasing to 10 to 20 mph after midnight.
+Chance of precipitation 20 percent. No lightning risk. 
+.INDEPENDENCE DAY...Cloudy in the morning...then summit in and out
+of clouds. A slight chance of showers and isolated thunderstorms in
+the afternoon. High around 52. Northwest winds 10 to 15 mph. Chance
+of precipitation 20 percent. Lightning risk is limited. 
+
+$$
+
+MEZ005-040915-
+Katahdin Woods and Waters National Monument-
+307 PM EDT Mon Jul 3 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy. Isolated showers until midnight. Low
+around 54. West winds 10 to 15 mph until midnight becoming light
+winds. Chance of precipitation 20 percent. No lightning risk. 
+.INDEPENDENCE DAY...Mostly cloudy in the morning...then becoming
+partly sunny. A slight chance of showers and isolated thunderstorms
+in the afternoon. High around 72. Northwest winds around 10 mph.
+Chance of precipitation 20 percent. Lightning risk is limited. 
+
+$$
+
+MEZ029-040915-
+Top of Cadillac Mountain-
+307 PM EDT Mon Jul 3 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 58. Northwest winds around 15 mph. No
+lightning risk. 
+.INDEPENDENCE DAY...Partly sunny. High around 69. Northwest winds
+around 10 mph. No lightning risk. 
+
+$$
+
+MEZ010-040915-
+Moosehead Lake-
+307 PM EDT Mon Jul 3 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy. Low around 53. West winds 10 to 15 mph
+until midnight becoming light winds. Waves 2 feet. No lightning
+risk. 
+.INDEPENDENCE DAY...Mostly cloudy in the morning...then becoming
+partly sunny. A slight chance of showers and isolated thunderstorms
+in the afternoon. High around 70. Waves 1 foot. Light winds becoming
+northwest around 10 mph in the afternoon. Chance of precipitation
+20 percent. Lightning risk is limited. 
+
+$$
+
+MEZ004&gt;006-010-011-031-040915-
+Upper Penobscot Watershed-
+307 PM EDT Mon Jul 3 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 55. West winds around 10 mph. No lightning risk. 
+.INDEPENDENCE DAY...Mostly cloudy in the morning...then becoming
+partly sunny. A slight chance of showers and isolated thunderstorms
+in the afternoon. High around 73. Northwest winds around 10 mph.
+Chance of precipitation 20 percent. Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-040915-
+Lower Penobscot Watershed-
+307 PM EDT Mon Jul 3 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 56. West winds around 10 mph. No
+lightning risk. 
+.INDEPENDENCE DAY...Partly sunny. A slight chance of showers and
+isolated thunderstorms in the afternoon. High around 75. Northwest
+winds around 10 mph. Chance of precipitation 20 percent. Lightning
+risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

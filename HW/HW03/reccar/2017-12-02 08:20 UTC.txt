@@ -1,0 +1,199 @@
+
+466 
+SXUS41 KCAR 020820
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+320 AM EST Sat Dec 2 2017
+
+MEZ004-022230-
+Top of Mount Katahdin-
+320 AM EST Sat Dec 2 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+High around 27. Light winds. No lightning risk. 
+.TONIGHT...Mostly cloudy. Low around 19. Light winds. No lightning
+risk. 
+.SUNDAY...Cloudy. Near steady temperatures around 21. Light winds.
+No lightning risk. 
+
+$$
+
+MEZ005-022230-
+Katahdin Woods and Waters National Monument-
+320 AM EST Sat Dec 2 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+High around 34. Light winds. No lightning risk. 
+.TONIGHT...Mostly cloudy. Low around 21. Light winds. No lightning
+risk. 
+.SUNDAY...Cloudy. High around 35. Light winds. No lightning risk. 
+
+$$
+
+MEZ029-022230-
+Top of Cadillac Mountain-
+320 AM EST Sat Dec 2 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny. High around 35. North winds 10 to 15 mph. No
+lightning risk. 
+.TONIGHT...Mostly cloudy. Low around 29. North winds around 10 mph
+until midnight becoming light winds. No lightning risk. 
+.SUNDAY...Mostly cloudy. High around 34. Northeast winds around
+10 mph in the morning becoming light winds. No lightning risk. 
+
+$$
+
+MEZ001-022230-
+Top of Deboullie Mountain-
+320 AM EST Sat Dec 2 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Mostly cloudy through early afternoon...then summit in and
+out of clouds. High around 28. Light winds. No lightning risk. 
+.TONIGHT...Summit in and out of clouds. Low around 19. Light winds.
+No lightning risk. 
+.SUNDAY...Summit in and out of clouds. High around 28. Northeast
+winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ006-022230-
+Top of Mars Hill Mountain-
+320 AM EST Sat Dec 2 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Partly sunny through early afternoon...then becoming mostly
+cloudy. High around 30. North winds around 10 mph this morning
+becoming light winds. No lightning risk. 
+.TONIGHT...Cloudy. Low around 21. Light winds. No lightning risk. 
+.SUNDAY...Summit in and out of clouds in the morning...then summit
+becoming obscured. A slight chance of snow showers in the morning.
+High around 31. East winds 10 mph shifting to the north around
+10 mph in the afternoon. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ010-022230-
+Top of White Cap Mountain-
+320 AM EST Sat Dec 2 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Partly sunny until mid morning...then becoming mostly
+cloudy. High around 26. Light winds. No lightning risk. 
+.TONIGHT...Mostly cloudy. Low around 21. Light winds. No lightning
+risk. 
+.SUNDAY...Cloudy. Near steady temperatures around 24. Light winds.
+No lightning risk. 
+
+$$
+
+MEZ010-022230-
+Moosehead Lake-
+320 AM EST Sat Dec 2 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Partly sunny until mid morning...then becoming mostly
+cloudy. High around 35. Light winds. Waves 1 foot. No lightning
+risk. 
+.TONIGHT...Mostly cloudy. Low around 24. Waves 1 foot. Light winds.
+No lightning risk. 
+.SUNDAY...Cloudy. High around 35. Waves 1 foot. Light winds. No
+lightning risk. 
+
+$$
+
+MEZ001-022230-
+Allagash Wilderness Waterway-
+320 AM EST Sat Dec 2 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Partly sunny until mid morning...then becoming mostly
+cloudy. High around 33. Light winds. No lightning risk. 
+.TONIGHT...Cloudy. Low around 20. Light winds. No lightning risk. 
+.SUNDAY...Cloudy. High around 32. Light winds. No lightning risk. 
+
+$$
+
+MEZ030-022230-
+St Croix River-
+320 AM EST Sat Dec 2 2017
+
+...ST CROIX RIVER...
+
+.TODAY...Partly sunny. High around 37. Light winds. No lightning
+risk. 
+.TONIGHT...Mostly cloudy. A slight chance of snow showers after
+midnight. Low around 25. Light winds. Chance of precipitation
+20 percent. No lightning risk. 
+.SUNDAY...Cloudy. A chance of snow showers in the morning...then a
+slight chance of snow showers in the afternoon. High around 36.
+Light winds. Chance of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ030-022230-
+West Quoddy Head-
+320 AM EST Sat Dec 2 2017
+
+...WEST QUODDY HEAD...
+
+.TODAY...Partly sunny. High around 39. North winds 10 to 15 mph. No
+lightning risk. Water temperature 50 degrees Fahrenheit. 
+.TONIGHT...Cloudy. A slight chance of rain showers until midnight. a
+chance of snow showers. Near steady temperatures around 35. Light
+winds. Chance of precipitation 40 percent. No lightning risk. Water
+temperature 50 degrees Fahrenheit. 
+.SUNDAY...Cloudy. A chance of snow showers in the morning. a chance
+of rain showers. High around 39. Northeast winds around 10 mph.
+Chance of precipitation 40 percent. No lightning risk. Water
+temperature 50 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-022230-
+Upper Penobscot Watershed-
+320 AM EST Sat Dec 2 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+High around 36. Light winds. No lightning risk. 
+.TONIGHT...Mostly cloudy. Low around 23. Light winds. No lightning
+risk. 
+.SUNDAY...Cloudy. High around 35. Light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-022230-
+Lower Penobscot Watershed-
+320 AM EST Sat Dec 2 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+High around 38. Light winds. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 25. Light winds. No lightning risk. 
+.SUNDAY...Cloudy. High around 37. Light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

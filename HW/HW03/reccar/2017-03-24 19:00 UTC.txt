@@ -1,0 +1,73 @@
+
+734 
+SXUS41 KCAR 241900
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+300 PM EDT Fri Mar 24 2017
+
+MEZ004-250900-
+Top of Mount Katahdin-
+300 PM EDT Fri Mar 24 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then
+becoming cloudy. A chance of snow until midnight. Not as cool with
+low around 12. Southwest winds 20 to 25 mph shifting to the
+northwest 15 to 20 mph after midnight. Chance of precipitation
+40 percent. Wind chill values as low as 2 above. 
+.SATURDAY...Partly sunny. High around 25. Northwest winds 10 to
+20 mph. Wind chill values as low as 6 above. 
+
+$$
+
+MEZ029-250900-
+Top of Cadillac Mountain-
+300 PM EDT Fri Mar 24 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Snow until midnight...then a chance of
+snow after midnight. Not as cool with low around 31. Southwest winds
+20 to 35 mph shifting to the northwest 15 to 25 mph after midnight.
+Chance of precipitation 80 percent. Wind chill values as low as 15. 
+.SATURDAY...Partly sunny. High around 42. North winds 10 to 20 mph.
+Wind chill values as low as 18 in the morning. 
+
+$$
+
+MEZ004&gt;006-010-011-031-250900-
+Upper Penobscot Watershed-
+300 PM EDT Fri Mar 24 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Snow likely until midnight. Not as cool with low
+around 25. Southwest winds 10 to 15 mph shifting to the northwest
+after midnight. Chance of precipitation 70 percent. 
+.SATURDAY...Partly sunny. High around 41. Northwest winds 10 to
+15 mph. Wind chill values as low as 22. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-250900-
+Lower Penobscot Watershed-
+300 PM EDT Fri Mar 24 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Snow likely until midnight...then a slight chance
+of snow after midnight. Not as cool with low around 28. Southwest
+winds 10 to 15 mph shifting to the northwest after midnight. Chance
+of precipitation 70 percent. 
+.SATURDAY...Partly sunny. High around 45. North winds around 10 mph.
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

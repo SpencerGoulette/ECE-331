@@ -1,0 +1,88 @@
+
+211 
+SXUS41 KCAR 142209
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+609 PM EDT Sun May 14 2017
+
+MEZ004-151215-
+Top of Mount Katahdin-
+609 PM EDT Sun May 14 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Summit obscured. Rain...mixed with snow late. Low 
+around 34. Northeast winds 20 to 35 mph. Chance of precipitation 
+near 100 percent. 
+.MONDAY...Summit obscured. Rain...mixed with snow in the morning. 
+High around 37. Northeast winds 20 to 30 mph. Chance of 
+precipitation 90 percent.
+
+
+$$
+
+MEZ029-151215-
+Top of Cadillac Mountain-
+609 PM EDT Sun May 14 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Summit obscured. Rain. Near steady temperatures around
+43. Northeast winds 20 to 30 mph with gusts up to 40 mph. Chance of 
+precipitation near 100 percent. 
+.MONDAY...Summit obscured. Rain. High around 48. North winds 20 to
+30 mph. Chance of precipitation 90 percent. 
+
+$$
+
+MEZ010-151215-
+Moosehead Lake-
+609 PM EDT Sun May 14 2017
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Cloudy, rain. Low around 40. Northeast winds 10 to
+15 mph. Waves 3 feet. Chance of precipitation near 100 percent. 
+.MONDAY...Cloudy. Rain likely in the morning...then scattered
+showers in the afternoon. High around 49. Waves 3 feet. North winds
+10 to 15 mph. Chance of precipitation 70 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-151215-
+Upper Penobscot Watershed-
+609 PM EDT Sun May 14 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Cloudy, rain. Low around 43. Northeast winds 10 to
+15 mph. Chance of precipitation near 100 percent. 
+.MONDAY...Cloudy. Rain in the morning...then scattered showers in
+the afternoon. High around 51. North winds 10 to 15 mph. Chance of
+precipitation 80 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-151215-
+Lower Penobscot Watershed-
+609 PM EDT Sun May 14 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Cloudy, rain. Low around 44. Northeast winds around
+15 mph. Chance of precipitation near 100 percent. 
+.MONDAY...Cloudy. Rain in the morning...then scattered showers in
+the afternoon. High around 52. North winds 10 to 15 mph. Chance of
+precipitation 80 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

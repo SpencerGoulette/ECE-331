@@ -1,0 +1,83 @@
+
+886 
+SXUS41 KCAR 171849
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+249 PM EDT Sat Jun 17 2017
+
+MEZ004-180900-
+Top of Mount Katahdin-
+249 PM EDT Sat Jun 17 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy. Patchy fog after midnight. Not as cool with low
+around 59. Southwest winds 10 to 15 mph. No lightning risk. 
+.SUNDAY...Cloudy in the morning...then becoming partly sunny. Patchy
+fog in the morning. High around 64. Southwest winds 15 to 20 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-180900-
+Top of Cadillac Mountain-
+249 PM EDT Sat Jun 17 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Patchy fog until midnight. areas of fog
+after midnight. Low around 56. Southwest winds 10 to 15 mph. No
+lightning risk. 
+.SUNDAY...Summit obscured. Areas of fog in the morning. High around
+66. Southwest winds 15 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ010-180900-
+Moosehead Lake-
+249 PM EDT Sat Jun 17 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Patchy fog after midnight. Low around 59.
+Light winds. Waves 1 foot. No lightning risk. 
+.SUNDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Patchy fog in the morning. High around 78. Waves 3 feet. South winds
+around 10 mph. No lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-180900-
+Upper Penobscot Watershed-
+249 PM EDT Sat Jun 17 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Patchy fog after midnight. Low around 59.
+Light winds. No lightning risk. 
+.SUNDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Patchy fog in the morning. Warmer with high around 78. South winds
+around 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-180900-
+Lower Penobscot Watershed-
+249 PM EDT Sat Jun 17 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Patchy fog after midnight. Low around 59.
+Light winds. No lightning risk. 
+.SUNDAY...Mostly cloudy. Patchy fog in the morning. Warmer with high
+around 77. South winds 10 to 15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

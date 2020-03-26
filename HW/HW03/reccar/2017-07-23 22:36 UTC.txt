@@ -1,0 +1,100 @@
+
+913 
+SXUS41 KCAR 232236
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+636 PM EDT Sun Jul 23 2017
+
+MEZ004-241245-
+Top of Mount Katahdin-
+636 PM EDT Sun Jul 23 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Low around 46. North winds around 10 mph. No lightning risk.
+.MONDAY...Partly cloudy with summit in and out of clouds in the 
+morning...then becoming mostly cloudy. A slight chance of showers in 
+the afternoon. High around 53. Southeast winds around 10 mph. Chance 
+of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ005-241245-
+Katahdin Woods and Waters National Monument-
+636 PM EDT Sun Jul 23 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.OVERNIGHT...Mostly clear. Low around 47. Light winds. No lightning
+risk. 
+.MONDAY...Partly sunny. High around 71. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ029-241245-
+Top of Cadillac Mountain-
+636 PM EDT Sun Jul 23 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Clear. Low around 58. Light winds. No lightning risk. 
+.MONDAY...Mostly sunny in the morning...then becoming mostly cloudy.
+A chance of showers in the afternoon. High around 64. East winds
+around 10 mph. Chance of precipitation 40 percent. No lightning
+risk. 
+
+$$
+
+MEZ010-241245-
+Moosehead Lake-
+636 PM EDT Sun Jul 23 2017
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Mostly clear. Low around 48. Light winds. Waves 1 foot.
+No lightning risk. 
+.MONDAY...Partly sunny in the morning...then becoming mostly cloudy.
+A chance of showers in the afternoon. High around 68. Waves 1 foot.
+Light winds. Chance of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-241245-
+Upper Penobscot Watershed-
+636 PM EDT Sun Jul 23 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Mostly clear. Low around 48. Light winds. No lightning
+risk. 
+.MONDAY...Partly sunny. A slight chance of showers in the afternoon.
+High around 72. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-241245-
+Lower Penobscot Watershed-
+636 PM EDT Sun Jul 23 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Mostly clear. Low around 51. Light winds. No lightning
+risk. 
+.MONDAY...Partly sunny in the morning...then becoming mostly cloudy.
+A chance of showers in the afternoon. High around 71. Light winds.
+Chance of precipitation 30 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

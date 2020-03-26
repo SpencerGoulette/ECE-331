@@ -1,0 +1,77 @@
+
+022 
+SXUS41 KCAR 161920
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+320 PM EDT Sun Apr 16 2017
+
+MEZ004-170930-
+Top of Mount Katahdin-
+320 PM EDT Sun Apr 16 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Rain until midnight...then scattered
+showers and snow showers after midnight. Rain may be heavy at times
+until midnight. Low around 34. West winds 10 to 15 mph. Chance of
+precipitation near 100 percent. 
+.MONDAY...Summit obscured. A chance of rain showers in the morning.
+A chance of snow showers. Cooler with high around 35. Temperatures 
+falling to around 25 in the afternoon. Northwest winds 10 to 20 mph. 
+Chance of precipitation 50 percent. Wind chill values as low as 17. 
+
+$$
+
+MEZ029-170930-
+Top of Cadillac Mountain-
+320 PM EDT Sun Apr 16 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy. Rain
+likely until midnight...then scattered showers after midnight. Low
+around 45. Southwest winds 15 to 20 mph shifting to the northwest
+after midnight. Chance of precipitation 60 percent. 
+.MONDAY...Partly sunny in the morning...then becoming mostly cloudy.
+Much cooler with high around 49. Northwest winds 10 to 15 mph. 
+
+$$
+
+MEZ004&gt;006-010-011-031-170930-
+Upper Penobscot Watershed-
+320 PM EDT Sun Apr 16 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain until midnight...then scattered showers
+after midnight. Low around 40. East winds around 10 mph shifting to
+the north after midnight. Chance of precipitation near 100 percent. 
+.MONDAY...Mostly cloudy. A chance of showers. Much cooler with high
+around 46. Light winds becoming northwest around 10 mph in the
+afternoon. Chance of precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-170930-
+Lower Penobscot Watershed-
+320 PM EDT Sun Apr 16 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Rain likely until midnight...then
+scattered showers after midnight. Low around 45. South winds around
+10 mph shifting to the north after midnight. Chance of precipitation
+70 percent. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Much cooler with high around 52. Light winds becoming northwest
+around 10 mph in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

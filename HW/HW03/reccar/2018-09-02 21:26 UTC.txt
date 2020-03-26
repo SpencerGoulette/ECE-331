@@ -1,0 +1,242 @@
+
+345 
+SXUS41 KCAR 022126
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+526 PM EDT Sun Sep 2 2018
+
+MEZ004-031130-
+Top of Mount Katahdin-
+526 PM EDT Sun Sep 2 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy through early morning, then summit in and
+out of clouds. Areas of fog early this evening. Isolated showers
+after midnight. isolated thunderstorms after midnight. scattered
+showers late. Low around 59. West winds around 15 mph. Chance of
+precipitation 30 percent. Lightning risk is limited. 
+.LABOR DAY...Summit in and out of clouds. A slight chance of showers
+and thunderstorms in the morning...then showers and thunderstorms
+likely in the afternoon. Some thunderstorms may produce gusty winds
+in the afternoon. Locally heavy rainfall possible in the afternoon.
+High around 63. West winds 15 to 20 mph. Chance of precipitation
+60 percent. Lightning risk is significant. 
+
+$$
+
+MEZ005-031130-
+Katahdin Woods and Waters National Monument-
+526 PM EDT Sun Sep 2 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Isolated showers and thunderstorms after
+midnight. Low around 62. South winds around 10 mph until midnight
+becoming light winds. Chance of precipitation 20 percent. Lightning
+risk is limited. 
+.LABOR DAY...Mostly cloudy. A slight chance of showers and
+thunderstorms in the morning...then a chance of showers and
+thunderstorms in the afternoon. Some thunderstorms may produce gusty
+winds in the afternoon. Locally heavy rainfall possible in the
+afternoon. High around 82. Light winds becoming southwest around
+10 mph in the afternoon. Chance of precipitation 50 percent.
+Lightning risk is significant. 
+
+$$
+
+MEZ029-031130-
+Top of Cadillac Mountain-
+526 PM EDT Sun Sep 2 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy early this evening, then becoming cloudy.
+Areas of fog late. Low around 64. Southwest winds around 15 mph. No
+lightning risk. 
+.LABOR DAY...Cloudy in the morning, then summit in and out of
+clouds. Areas of fog in the morning. High around 73. Southwest winds
+around 15 mph. No lightning risk. 
+
+$$
+
+MEZ001-031130-
+Top of Deboullie Mountain-
+526 PM EDT Sun Sep 2 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy early this evening, then summit in and out of
+clouds. Isolated showers early this evening...then scattered showers
+and isolated thunderstorms from late evening on. Areas of fog after
+midnight. Low around 61. Southwest winds around 10 mph. Chance of
+precipitation 50 percent. Lightning risk is limited. 
+.LABOR DAY...Summit obscured in the morning, then becoming mostly
+cloudy. Areas of fog in the morning. A slight chance of
+thunderstorms in the morning. A chance of showers. A chance of
+thunderstorms in the afternoon. High around 77. Southwest winds
+10 to 15 mph. Chance of precipitation 50 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ006-031130-
+Top of Mars Hill Mountain-
+526 PM EDT Sun Sep 2 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy early this evening, then summit in and out
+of clouds. Isolated showers after midnight. isolated thunderstorms
+after midnight. scattered showers late. Low around 62. South winds
+around 10 mph. Chance of precipitation 30 percent. Lightning risk is
+limited. 
+.LABOR DAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. Areas of fog in the morning. A slight chance of
+thunderstorms in the morning. A chance of showers. A chance of
+thunderstorms in the afternoon. High around 79. Southwest winds
+around 10 mph. Chance of precipitation 50 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ010-031130-
+Top of White Cap Mountain-
+526 PM EDT Sun Sep 2 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds until midnight, then becoming
+cloudy. Isolated showers and thunderstorms after midnight. Low
+around 63. Southwest winds around 15 mph. Chance of precipitation
+20 percent. Lightning risk is limited. 
+.LABOR DAY...Summit in and out of clouds in the morning, then
+becoming cloudy. Areas of fog in the morning. A slight chance of
+showers and thunderstorms in the morning...then showers and
+thunderstorms likely in the afternoon. Some thunderstorms may
+produce gusty winds in the afternoon. Locally heavy rainfall
+possible in the afternoon. High around 70. West winds 10 to 15 mph.
+Chance of precipitation 60 percent. Lightning risk is significant. 
+
+$$
+
+MEZ010-031130-
+Moosehead Lake-
+526 PM EDT Sun Sep 2 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Areas of fog from late evening on.
+Isolated showers after midnight. isolated thunderstorms after
+midnight. A chance of showers late. Low around 61. Light winds.
+Waves 1 foot. Chance of precipitation 30 percent. Lightning risk is
+limited. Water temperature 65 degrees Fahrenheit. 
+.LABOR DAY...Mostly cloudy. Areas of fog in the morning. A chance of
+showers with a slight chance of thunderstorms in the morning...then
+a chance of showers and thunderstorms in the afternoon. Some
+thunderstorms may produce gusty winds in the afternoon. Locally
+heavy rainfall possible in the afternoon. High around 79. Waves
+2 feet. Light winds becoming southwest around 10 mph in the
+afternoon. Chance of precipitation 50 percent. Lightning risk is
+significant. Water temperature 65 degrees Fahrenheit. 
+
+$$
+
+MEZ001-031130-
+Allagash Wilderness Waterway-
+526 PM EDT Sun Sep 2 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Isolated showers early this evening...then
+scattered showers and isolated thunderstorms from late evening on.
+Areas of fog after midnight. Low around 61. Light winds. Chance of
+precipitation 50 percent. Lightning risk is limited. 
+.LABOR DAY...Mostly cloudy. Areas of fog in the morning. A slight
+chance of thunderstorms in the morning. A chance of showers. A
+chance of thunderstorms in the afternoon. Some thunderstorms may
+produce gusty winds in the afternoon. High around 80. Southwest
+winds around 10 mph. Chance of precipitation 50 percent. Lightning
+risk is elevated. 
+
+$$
+
+MEZ030-031130-
+St Croix River-
+526 PM EDT Sun Sep 2 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Areas of fog early this evening. areas of fog after
+midnight. Low around 58. South winds around 10 mph until midnight
+becoming light winds. No lightning risk. 
+.LABOR DAY...Mostly cloudy. Areas of fog in the morning. A slight
+chance of showers and thunderstorms in the afternoon. High around
+81. Light winds becoming south around 10 mph in the afternoon.
+Chance of precipitation 20 percent. Lightning risk is limited. 
+
+$$
+
+MEZ030-031130-
+West Quoddy Head-
+526 PM EDT Sun Sep 2 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Areas of fog. Low around 57. South winds 10 to 15 mph. No
+lightning risk. Water temperature 57 degrees Fahrenheit. 
+.LABOR DAY...Cloudy. Areas of fog in the morning. A slight chance of
+showers in the afternoon. High around 68. South winds 10 to 15 mph.
+Chance of precipitation 20 percent. No lightning risk. Water
+temperature 57 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-031130-
+Upper Penobscot Watershed-
+526 PM EDT Sun Sep 2 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Areas of fog after midnight. Isolated
+showers after midnight. isolated thunderstorms late. Low around 61.
+South winds around 10 mph until midnight becoming light winds.
+Chance of precipitation 20 percent. Lightning risk is limited. 
+.LABOR DAY...Mostly cloudy. Areas of fog in the morning. A slight
+chance of showers in the morning. A chance of showers and
+thunderstorms in the afternoon. Some thunderstorms may produce gusty
+winds in the afternoon. Locally heavy rainfall possible in the
+afternoon. High around 83. Light winds becoming southwest around
+10 mph in the afternoon. Chance of precipitation 50 percent.
+Lightning risk is significant. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-031130-
+Lower Penobscot Watershed-
+526 PM EDT Sun Sep 2 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Areas of fog after midnight. Low around 62. South winds
+around 10 mph until midnight becoming light winds. No lightning
+risk. 
+.LABOR DAY...Mostly cloudy in the morning, then becoming partly
+sunny. Areas of fog in the morning. A chance of showers and
+thunderstorms in the afternoon. Some thunderstorms may produce gusty
+winds in the afternoon. High around 84. Light winds becoming
+southwest around 10 mph in the afternoon. Chance of precipitation
+50 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

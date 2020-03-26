@@ -1,0 +1,80 @@
+
+648 
+SXUS41 KCAR 131346
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+946 AM EDT Thu Apr 13 2017
+
+MEZ004-140400-
+Top of Mount Katahdin-
+946 AM EDT Thu Apr 13 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.THIS AFTERNOON...Summit mostly obscured. Scattered snow showers. 
+Much cooler with high around 31. Northwest winds 20 to 25 mph. Chance
+of precipitation 50 percent. Wind chill values as low as 14. 
+.TONIGHT...Summit mostly obscured until midnight...then clearing. 
+Scattered snow showers until midnight. Low around 21. North winds 
+around 20 mph shifting to the northwest 10 to 15 mph after midnight. 
+Chance of precipitation 30 percent. Wind chill values as low as 10 
+above. 
+.FRIDAY...Mostly sunny. High around 33. Northwest winds 15 to
+25 mph. Wind chill values as low as 7 above in the morning. 
+
+$$
+
+MEZ029-140400-
+Top of Cadillac Mountain-
+946 AM EDT Thu Apr 13 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.THIS AFTERNOON...Mostly sunny early...then becoming partly to mostly
+cloudy. High around 51. West winds around 15 mph. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around 
+35. Northwest winds 10 to 15 mph. 
+.FRIDAY...Sunny. High around 48. Northwest winds 15 to 20 mph. 
+
+$$
+
+MEZ004&gt;006-010-011-031-140400-
+Upper Penobscot Watershed-
+946 AM EDT Thu Apr 13 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.THIS AFTERNOON...Cloudy. Isolated rain showers. High around 50.
+Northwest winds 10 to 15 mph. Chance of precipitation 20 percent. 
+.TONIGHT...Mostly cloudy until midnight...then becoming mostly
+clear. Low around 31. Northwest winds around 10 mph until midnight
+becoming light winds. 
+.FRIDAY...Mostly sunny. High around 53. Northwest winds around
+10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-140400-
+Lower Penobscot Watershed-
+946 AM EDT Thu Apr 13 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.THIS AFTERNOON...Partly cloudy. High around 54. Northwest winds 10 
+to 15 mph. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+32. Northwest winds around 10 mph until midnight becoming light
+winds. 
+.FRIDAY...Sunny. High around 56. Northwest winds around 10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

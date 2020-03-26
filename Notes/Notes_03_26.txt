@@ -1,0 +1,115 @@
+ECE331
+Spencer Goulette
+Notes
+03/26/20
+
+Discord Worked
+
+Plan for the rest of the semester
+3 more light homeworks
+Crank on the Project
+Project 3 Moved back a week and a day
+Final during finals week
+24 Hour take home final
+Some python, short answer, who knows
+
+Pass/Fail Option: Complicated
+College Engineering is putting together a FAQ about Pass/Fail Option
+Professors cant deny the Pass/Fail Option
+
+Class Cancellation: 1/3 of University are stuggling to make things work
+Sheaff unsure if Classes will get cancelled for the semester
+Getting more done now makes it easier
+
+Questions on the Kernel Driver
+Chapter in book that is really helpful? Ch 3, Ch 4, Ch 5, Ch 6, and Ch 8
+Timers better documentation for delays that you need
+Does the race conditions chapter have information on locking? Yes, and there is also a file in the linux kernel source tree that tells you about locking:
+/usr/src/linux/Documentation/locking - documentation on locking
+
+NETWORKING
+Ethernet and TCP/IP
+
+ETHERNET
+Data Format
+"Frames" Octets:
+	Preamble:	8 	Synchronize clocks
+	Dest Addr:	6	48 bits - Unique address called MAC address (listed as ether)
+	Src Addr:	6	48 bits - from address
+	Type:		2	16 bits - 0x0800 IP (SPX/IPX - Novell Network)
+	Data:		46-1580		
+	CRC:		4
+
+TCP/UDP - Layer 4
+IP (SPX/IPX) - Layer 3
+Ethernet - Layer 2 (layer 3 type in the network layer)
+Data - next layer up (IP data or SPX/IPX data)
+CRC - Cyclic Redundancy Check 32 bits that verify data integrity
+	Error Check - Parity (Serial)
+
+Fragmentation
+It is possible as you traverse the network the frame that your host transmits could actually get chopped up into smaller pieces as you transverse the network
+
+Can refer to a large set of computers with a single number
+
+IPV4 uses 32 bit numbers
+IPV6 uses 128 bit numbers
+
+32 bits used to be divided into classes (A,B,C,D,E)
+130.111.0.0 network - Class B - 65536 total addresses
+	130.111.0.0 to 130.111.255.255 => Dotted decimal notation - 32 bit value
+		Dots just divide bytes - number range from 0 to 255
+
+	130.111.32.11 -> nameo.its.maine.edu (maine.edu's name server)
+
+Class A - 128 networks with 16 million addresses
+Class B - 16k networks with 65536 addresses
+Class C - 2M networks with 256 address
+... so on
+
+By setting all Dest Addr bits to 1 in Ethernet, you can broadcast on the whole network
+
+32 bit value - Put 1 bits for the network part and zeros for the host part.
+Use DDN or CIDR (Classless internet domain routing)
+
+Netmask - one start at the "left" are consecutive until it changes to a zero and then remains zeros. The ones are the network part and zeros are the host.
+
+IP ADDR: 192.168.001.022
+NETMASK: 255.255.255.000
+bitwise and
+------------------------
+		 192.168.001.000 -> network address 192.168.1.0
+							192.168.1.0/24 (the number of 1 bits)
+
+How many addresses do I have?
+Where do we have zero bits in the netmask?
+8 zero bits 2^8 = 256 addresses
+
+Assignable? Turns out that the network address is reserved - DO NOT ASSIGN TO A HOST.
+
+For the network we have the host part all zeros. For the broadcast we set the host part to all ones. Again do not assign to a host.
+
+We say that we can have assignable addresses for hosts  - two less than the total number of addresses in the network.
+
+	IP ADDR: 192.168.001.022
+~	NETMASK: 255.255.255.000
+	bitwise or
+----------------------------
+			 192.168.001.255 <- broadcast address
+
+
+Topics:
+DNS
+Routing
+Web Servers
+Email
+Firewalls
+etc.
+
+We need to cover:
+Web servers
+php
+sql
+javascript
+
+- Especially for Project 4

@@ -1,0 +1,225 @@
+
+882 
+SXUS41 KCAR 242029
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+429 PM EDT Sat Mar 24 2018
+
+MEZ004-251200-
+Top of Mount Katahdin-
+429 PM EDT Sat Mar 24 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Numerous snow showers early this 
+evening...then scattered snow showers through early morning. Isolated
+snow showers late. Very windy and cooler with low around 9 above. 
+East winds 20 to 25 mph increasing to 30 to 35 mph after midnight. 
+Chance of precipitation 70 percent. Wind chill values as low as 12 
+below. No lightning risk.
+.SUNDAY...Summit in and out of clouds in the morning, then becoming 
+partly sunny. Windy with high around 17. Northeast winds 20 to 30 
+mph. Wind chill values as low as 10 below. No lightning risk. 
+
+$$
+
+MEZ005-251200-
+Katahdin Woods and Waters National Monument-
+429 PM EDT Sat Mar 24 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Numerous snow showers early this evening...then
+scattered snow showers through early morning. Isolated snow showers 
+late. Low around 23. Northeast winds around 10 mph. Chance of 
+precipitation 70 percent. Wind chill values as low as 14. No 
+lightning risk. 
+.SUNDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 35. Northeast winds around 10 mph. Wind chill values as
+low as 17. No lightning risk. 
+
+$$
+
+MEZ029-251200-
+Top of Cadillac Mountain-
+429 PM EDT Sat Mar 24 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy until midnight, then summit in and out of clouds.
+Scattered snow showers through early morning...then isolated snow
+showers late. Very windy with low around 26. Northeast winds 20 to
+35 mph increasing to 35 to 40 mph after midnight. Chance of
+precipitation 50 percent. Wind chill values as low as 9 above. No
+lightning risk. 
+.SUNDAY...Summit in and out of clouds in the morning, then becoming
+mostly cloudy. Isolated snow showers in the morning. Very windy with
+high around 32. Northeast winds 30 to 40 mph decreasing to 25 to
+30 mph in the afternoon. Chance of precipitation 20 percent. Wind
+chill values as low as 12. No lightning risk. 
+
+$$
+
+MEZ001-251200-
+Top of Deboullie Mountain-
+429 PM EDT Sat Mar 24 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured early this evening, then becoming cloudy.
+Numerous snow showers early this evening...then scattered snow
+showers late this evening. Isolated snow showers after midnight. Low
+around 17. Northeast winds around 10 mph. Chance of precipitation 70
+percent. Wind chill values as low as 7 above. No lightning risk. 
+.SUNDAY...Partly sunny. High around 29. Northeast winds around
+10 mph. Wind chill values as low as 4 above in the morning. No
+lightning risk. 
+
+$$
+
+MEZ006-251200-
+Top of Mars Hill Mountain-
+429 PM EDT Sat Mar 24 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy. Numerous snow showers early this evening...then
+scattered snow showers late this evening. Isolated snow showers 
+after midnight. Low around 22. Northeast winds around 10 mph. Chance 
+of precipitation 70 percent. Wind chill values as low as 13. No 
+lightning risk. 
+.SUNDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 31. Northeast winds around 10 mph. Wind chill values as
+low as 14. No lightning risk. 
+
+$$
+
+MEZ010-251200-
+Top of White Cap Mountain-
+429 PM EDT Sat Mar 24 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured early this evening, then summit in and
+out of clouds. Numerous snow showers early this evening...then
+scattered snow showers through early morning. Isolated snow showers 
+late. Windy, cooler with low around 13. Northeast winds 15 to 30 mph.
+Chance of precipitation 70 percent. Wind chill values as low as 6 
+below. No lightning risk. 
+.SUNDAY...Mostly cloudy and windy. High around 22. Northeast winds
+20 to 30 mph. Wind chill values as low as 8 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ010-251200-
+Moosehead Lake-
+429 PM EDT Sat Mar 24 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Numerous snow showers early this evening...then
+scattered snow showers through early morning. Isolated snow showers 
+late. Low around 21. Northeast winds around 10 mph until midnight 
+becoming light winds. Chance of precipitation 70 percent. No 
+lightning risk. 
+.SUNDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 35. Northeast winds around 10 mph. Wind chill values as
+low as 10 above in the morning. No lightning risk. 
+
+$$
+
+MEZ001-251200-
+Allagash Wilderness Waterway-
+429 PM EDT Sat Mar 24 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Numerous snow showers early this evening...then
+scattered snow showers late this evening. Isolated snow showers 
+after midnight. Low around 18. Northeast winds around 10 mph until 
+midnight becoming light winds. Chance of precipitation 70 percent. 
+Wind chill values as low as 10 above. No lightning risk. 
+.SUNDAY...Partly sunny. High around 35. Northeast winds around
+10 mph. Wind chill values as low as 6 above in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-251200-
+St Croix River-
+429 PM EDT Sat Mar 24 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Numerous snow showers early this evening...then
+scattered snow showers through early morning. Isolated snow showers 
+late. Low around 25. Northeast winds around 10 mph. 18 after 
+midnight. Chance of precipitation 60 percent. Wind chill values as 
+low as 15. No lightning risk. 
+.SUNDAY...Mostly cloudy. High around 37. Northeast winds 10 to
+15 mph. Wind chill values as low as 14 in the morning. No lightning
+risk. 
+
+$$
+
+MEZ030-251200-
+West Quoddy Head-
+429 PM EDT Sat Mar 24 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Scattered snow showers through early morning...
+then isolated snow showers late. Low around 29. Northeast winds
+15 to 20 mph. Chance of precipitation 50 percent. Wind chill values
+as low as 17. No lightning risk. Water temperature 38 degrees
+Fahrenheit. 
+.SUNDAY...Mostly cloudy. Isolated snow showers in the morning. High
+around 38. Northeast winds around 20 mph with gusts to around
+30 mph. Chance of precipitation 20 percent. Wind chill values as low
+as 20. No lightning risk. Water temperature 38 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-251200-
+Upper Penobscot Watershed-
+429 PM EDT Sat Mar 24 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Numerous snow showers early this evening...then
+scattered snow showers through early morning. Isolated snow showers 
+late. Low around 24. Northeast winds around 10 mph. Chance of 
+precipitation 70 percent. No lightning risk. 
+.SUNDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 37. Northeast winds around 10 mph. 18  in the morning.
+Wind chill values as low as 11 in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-251200-
+Lower Penobscot Watershed-
+429 PM EDT Sat Mar 24 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Numerous snow showers early this evening...then
+scattered snow showers through early morning. Isolated snow showers 
+late. Low around 25. Northeast winds around 10 mph. 19 after 
+midnight. Chance of precipitation 70 percent. Wind chill values as 
+low as 16. No lightning risk. 
+.SUNDAY...Mostly cloudy. High around 37. Northeast winds 10 to
+15 mph. Wind chill values as low as 13 in the morning. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

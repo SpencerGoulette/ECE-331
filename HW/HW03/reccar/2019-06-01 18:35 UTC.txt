@@ -1,0 +1,214 @@
+
+384 
+SXUS41 KCAR 011835
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+235 PM EDT Sat Jun 1 2019
+
+MEZ004-020845-
+Top of Mount Katahdin-
+235 PM EDT Sat Jun 1 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. A chance of showers after midnight. Not as cool with low
+around 45. South winds 10 to 20 mph. Chance of precipitation
+30 percent. No lightning risk. 
+.SUNDAY...Mostly cloudy. A chance of showers in the morning. a
+slight chance of showers in the afternoon. High around 52. South
+winds 15 to 20 mph. Chance of precipitation 30 percent. No lightning
+risk. 
+
+$$
+
+MEZ005-020845-
+Katahdin Woods and Waters National Monument-
+235 PM EDT Sat Jun 1 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A chance of showers after midnight. Not as cool with low
+around 48. South winds 10 to 15 mph decreasing to 10 mph after
+midnight. Chance of precipitation 30 percent. No lightning risk. 
+.SUNDAY...Mostly cloudy. A slight chance of showers. High around 67.
+South winds 10 to 20 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ029-020845-
+Top of Cadillac Mountain-
+235 PM EDT Sat Jun 1 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured until midnight, then becoming cloudy.
+Areas of fog. Areas of drizzle. Low around 47. Southeast winds 10 to
+15 mph. No lightning risk. 
+.SUNDAY...Cloudy. Areas of fog in the morning. Areas of drizzle in
+the morning. High around 57. Southeast winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-020845-
+Top of Deboullie Mountain-
+235 PM EDT Sat Jun 1 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy through early
+morning, then becoming mostly cloudy. A chance of showers after
+midnight. Not as cool with low around 45. North winds 10 mph
+shifting to the south after midnight. Chance of precipitation
+50 percent. No lightning risk. 
+.SUNDAY...Cloudy. A chance of showers. High around 64. South winds
+10 to 20 mph. Chance of precipitation 40 percent. No lightning risk.
+
+$$
+
+MEZ006-020845-
+Top of Mars Hill Mountain-
+235 PM EDT Sat Jun 1 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy through early
+morning, then becoming mostly cloudy. A slight chance of showers
+after midnight. Not as cool with low around 47. South winds 10 to
+15 mph. Chance of precipitation 20 percent. No lightning risk. 
+.SUNDAY...Mostly cloudy. A slight chance of showers in the morning.
+High around 65. South winds 10 to 20 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ010-020845-
+Top of White Cap Mountain-
+235 PM EDT Sat Jun 1 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. A chance of showers after midnight. Not as cool with low
+around 47. South winds 10 to 15 mph. Chance of precipitation
+30 percent. No lightning risk. 
+.SUNDAY...Mostly cloudy. A slight chance of showers. High around 55.
+South winds 10 to 20 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ010-020845-
+Moosehead Lake-
+235 PM EDT Sat Jun 1 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. A slight chance of showers late this evening. A chance of
+showers after midnight. Not as cool with low around 48. South winds
+10 mph. Waves 1 foot. Chance of precipitation 50 percent. No
+lightning risk. 
+.SUNDAY...Mostly cloudy. A chance of showers. a slight chance of
+thunderstorms in the afternoon. High around 63. Waves 3 feet. South
+winds 10 to 20 mph. Chance of precipitation 40 percent. Lightning
+risk is limited. 
+
+$$
+
+MEZ001-020845-
+Allagash Wilderness Waterway-
+235 PM EDT Sat Jun 1 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy late this
+evening, then becoming mostly cloudy. A chance of showers after
+midnight. Not as cool with low around 48. East winds 10 mph shifting
+to the southeast after midnight. Chance of precipitation 50 percent.
+No lightning risk. 
+.SUNDAY...Cloudy. A chance of showers. a slight chance of
+thunderstorms in the afternoon. High around 67. South winds 10 to
+20 mph. Chance of precipitation 50 percent. Lightning risk is
+limited. 
+
+$$
+
+MEZ030-020845-
+St Croix River-
+235 PM EDT Sat Jun 1 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Areas of fog after midnight. Areas of drizzle after
+midnight. Not as cool with low around 46. South winds 10 to 15 mph
+shifting to the southeast 10 mph after midnight. No lightning risk. 
+.SUNDAY...Mostly cloudy. Areas of fog in the morning. Areas of
+drizzle in the morning. High around 66. Southeast winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ030-020845-
+West Quoddy Head-
+235 PM EDT Sat Jun 1 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Areas of fog. Areas of drizzle from late evening on. Low
+around 45. South winds 10 to 15 mph. No lightning risk. Water
+temperature 43 degrees Fahrenheit. 
+.SUNDAY...Mostly cloudy. Areas of fog in the morning. Areas of
+drizzle in the morning. a slight chance of showers. High around 52.
+East winds 10 to 20 mph. Chance of precipitation 20 percent. No
+lightning risk. Water temperature 43 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-020845-
+Upper Penobscot Watershed-
+235 PM EDT Sat Jun 1 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A slight chance of showers after midnight. Areas of fog
+late. Not as cool with low around 49. South winds 15 mph shifting to
+the southeast 10 mph after midnight. Chance of precipitation
+20 percent. No lightning risk. 
+.SUNDAY...Mostly cloudy. Areas of fog in the morning. Areas of
+drizzle in the morning. a slight chance of showers. High around 67.
+South winds 10 to 15 mph. Chance of precipitation 20 percent.
+Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-020845-
+Lower Penobscot Watershed-
+235 PM EDT Sat Jun 1 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Areas of fog after midnight. Areas of drizzle with a slight
+chance of showers after midnight. Low around 49. Southeast winds
+10 mph. Chance of precipitation 20 percent. No lightning risk. 
+.SUNDAY...Mostly cloudy. Areas of fog in the morning. Areas of
+drizzle in the morning. High around 67. Southeast winds 10 mph
+shifting to the south 10 to 15 mph in the afternoon. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

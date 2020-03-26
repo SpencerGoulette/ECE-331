@@ -1,0 +1,176 @@
+
+384 
+SXUS41 KCAR 301909
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+309 PM EDT Sat Sep 30 2017
+
+MEZ004-010915-
+Top of Mount Katahdin-
+309 PM EDT Sat Sep 30 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear. Low around 27. Northwest winds 10 to
+20 mph. No lightning risk. 
+.SUNDAY...Sunny. Not as cool with high around 46. Northwest winds
+20 to 25 mph. Wind chill values as low as 20 in the morning. No
+lightning risk. 
+
+$$
+
+MEZ005-010915-
+Katahdin Woods and Waters National Monument-
+309 PM EDT Sat Sep 30 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Areas of frost after midnight. Low around 34.
+Light winds. No lightning risk. 
+.SUNDAY...Sunny. Areas of frost early in the morning. High around 
+63. West winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ029-010915-
+Top of Cadillac Mountain-
+309 PM EDT Sat Sep 30 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 38. Light winds becoming northwest
+around 10 mph after midnight. No lightning risk. 
+.SUNDAY...Sunny. High around 56. West winds 10 to 15 mph. No 
+lightning risk. 
+
+$$
+
+MEZ001-010915-
+Top of Deboullie Mountain-
+309 PM EDT Sat Sep 30 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly clear. Patchy frost late. Low around 34. West 
+winds 10 to 15 mph. No lightning risk. 
+.SUNDAY...Sunny. Patchy frost early. High around 56. West winds 
+around 15 mph. No lightning risk. 
+
+$$
+
+MEZ006-010915-
+Top of Mars Hill Mountain-
+309 PM EDT Sat Sep 30 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear. Areas of frost after midnight. Low around 
+33. Light winds. No lightning risk. 
+.SUNDAY...Sunny. Areas of frost early in the morning. High around 
+56. West winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ010-010915-
+Top of White Cap Mountain-
+309 PM EDT Sat Sep 30 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Low around 34. Northwest winds 10 to 20 mph. No
+lightning risk. 
+.SUNDAY...Sunny. High around 50. Northwest winds 20 to 25 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-010915-
+Moosehead Lake-
+309 PM EDT Sat Sep 30 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Areas of frost after midnight. Low around 33.
+Light winds. Waves 1 foot. No lightning risk. Water temperature
+67 degrees Fahrenheit. 
+.SUNDAY...Sunny. Areas of frost early in the morning. High around 
+61. Waves 3 feet. West winds 10 to 15 mph. No lightning risk. Water 
+temperature 67 degrees Fahrenheit. 
+
+$$
+
+MEZ001-010915-
+Allagash Wilderness Waterway-
+309 PM EDT Sat Sep 30 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly clear. Patchy frost until midnight...then
+widespread frost after midnight. Low around 30. Light winds. No
+lightning risk. 
+.SUNDAY...Sunny. Widespread frost early in the morning. High around 
+61. West winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ030-010915-
+St Croix River-
+309 PM EDT Sat Sep 30 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Widespread frost with patchy fog after midnight.
+Low around 33. Light winds. No lightning risk. 
+.SUNDAY...Sunny. Patchy fog and areas frost early in the morning. 
+High around 65. West winds around 5 mph. No lightning risk. 
+
+$$
+
+MEZ030-010915-
+West Quoddy Head-
+309 PM EDT Sat Sep 30 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Low around 39. Light winds. No lightning risk.
+Water temperature 57 degrees Fahrenheit. 
+.SUNDAY...Sunny. High around 64. West winds around 10 mph. No
+lightning risk. Water temperature 57 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-010915-
+Upper Penobscot Watershed-
+309 PM EDT Sat Sep 30 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy fog and frost after midnight. Low around
+33. Light winds. No lightning risk. 
+.SUNDAY...Sunny. Areas of frost early in the morning. High around 
+65. West winds around 5 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-010915-
+Lower Penobscot Watershed-
+309 PM EDT Sat Sep 30 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy fog and frost after midnight. Low around
+33. Light winds. No lightning risk. 
+.SUNDAY...Sunny. Areas of frost with patchy fog early in the 
+morning. High around 67. West winds around 5 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

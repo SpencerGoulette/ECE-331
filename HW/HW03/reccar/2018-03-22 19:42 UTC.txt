@@ -1,0 +1,194 @@
+
+826 
+SXUS41 KCAR 221942
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+342 PM EDT Thu Mar 22 2018
+
+MEZ004-230945-
+Top of Mount Katahdin-
+342 PM EDT Thu Mar 22 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. A slight chance of snow showers until midnight. Windy. Near
+steady temperatures around 19. North winds 20 to 30 mph. Chance of
+precipitation 20 percent. Wind chill values as low as zero. No
+lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 23. North winds 15 to 20 mph. Wind chill values as low
+as 4 above. No lightning risk. 
+
+$$
+
+MEZ005-230945-
+Katahdin Woods and Waters National Monument-
+342 PM EDT Thu Mar 22 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 25. North winds 10 to 15 mph. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 37. North winds around 10 mph. Wind chill values as low
+as 15 in the morning. No lightning risk. 
+
+$$
+
+MEZ029-230945-
+Top of Cadillac Mountain-
+342 PM EDT Thu Mar 22 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit in and out of clouds, then becoming cloudy late
+this evening, then becoming partly cloudy, then becoming mostly
+cloudy late. A chance of snow showers early this evening. Brisk with
+low around 26. North winds 20 to 25 mph. Chance of precipitation
+30 percent. Wind chill values as low as 13. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 36. North winds 10 to 15 mph. Wind chill values as low
+as 13 in the morning. No lightning risk. 
+
+$$
+
+MEZ001-230945-
+Top of Deboullie Mountain-
+342 PM EDT Thu Mar 22 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Low around 22. North winds 10 to 15 mph.
+Wind chill values as low as 10 above. No lightning risk. 
+.FRIDAY...Summit in and out of clouds in the morning, then becoming
+mostly cloudy. High around 33. North winds 10 to 15 mph. Wind chill
+values as low as 15. No lightning risk. 
+
+$$
+
+MEZ006-230945-
+Top of Mars Hill Mountain-
+342 PM EDT Thu Mar 22 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy until midnight, then summit in and out of clouds.
+Low around 24. North winds 15 to 20 mph. Wind chill values as low as
+11. No lightning risk. 
+.FRIDAY...Summit in and out of clouds in the morning, then becoming
+cloudy. High around 35. North winds 10 to 15 mph. Wind chill values
+as low as 18. No lightning risk. 
+
+$$
+
+MEZ010-230945-
+Top of White Cap Mountain-
+342 PM EDT Thu Mar 22 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured, then becoming cloudy late this evening,
+then becoming partly cloudy. Brisk with low around 20. North winds
+20 to 25 mph. Wind chill values as low as 4 above. No lightning
+risk. 
+.FRIDAY...Partly sunny in the morning, then summit in and out of
+clouds. High around 26. North winds 10 to 20 mph. Wind chill values
+as low as 8 above. No lightning risk. 
+
+$$
+
+MEZ010-230945-
+Moosehead Lake-
+342 PM EDT Thu Mar 22 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Low around 22. North winds 10 to 15 mph. Wind chill values 
+as low as 12. No lightning risk. 
+.FRIDAY...Mostly cloudy. High around 36. North winds around 10 mph.
+Wind chill values as low as 12 in the morning. No lightning risk. 
+
+$$
+
+MEZ001-230945-
+Allagash Wilderness Waterway-
+342 PM EDT Thu Mar 22 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 22. North winds around 10 mph. No lightning risk.
+.FRIDAY...Mostly cloudy. High around 37. North winds around 10 mph.
+Wind chill values as low as 13 in the morning. No lightning risk. 
+
+$$
+
+MEZ030-230945-
+St Croix River-
+342 PM EDT Thu Mar 22 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. A chance of snow showers early this
+evening. Low around 27. North winds 10 to 15 mph. Chance of 
+precipitation 50 percent. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 39. North winds around 10 mph. Wind chill values as low
+as 17 in the morning. No lightning risk. 
+
+$$
+
+MEZ030-230945-
+West Quoddy Head-
+342 PM EDT Thu Mar 22 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy. Snow showers likely early this evening.
+Breezy with low around 31. North winds 20 to 25 mph with gusts to
+around 40 mph. Chance of precipitation 60 percent. No lightning
+risk. Water temperature 38 degrees Fahrenheit. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 40. Northwest winds 10 to 15 mph. Wind chill values as
+low as 24. No lightning risk. Water temperature 38 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-230945-
+Upper Penobscot Watershed-
+342 PM EDT Thu Mar 22 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 26. North winds 10 to 15 mph. No lightning risk.
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 39. North winds around 10 mph. Wind chill values as low
+as 16 in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-230945-
+Lower Penobscot Watershed-
+342 PM EDT Thu Mar 22 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 26. North winds 10 to 15 mph. No lightning risk.
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 40. North winds around 10 mph. Wind chill values as low
+as 17 in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

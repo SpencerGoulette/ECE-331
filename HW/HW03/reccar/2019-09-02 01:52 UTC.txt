@@ -1,0 +1,198 @@
+
+526 
+SXUS41 KCAR 020152
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+952 PM EDT Sun Sep 1 2019
+
+MEZ004-021600-
+Top of Mount Katahdin-
+952 PM EDT Sun Sep 1 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Partly cloudy late this evening, then becoming cloudy.
+A chance of rain. rain likely late. Breezy with low around 47. South
+winds 15 to 30 mph. Chance of precipitation 70 percent. No lightning
+risk. 
+.LABOR DAY...Summit obscured. Rain. Rain may be heavy at times. Very
+windy with high around 50. South winds 25 to 45 mph. Chance of 
+precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ005-021600-
+Katahdin Woods and Waters National Monument-
+952 PM EDT Sun Sep 1 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.OVERNIGHT...Partly cloudy late this evening, then becoming mostly
+cloudy. A chance of rain late. Low around 51. South winds 10 mph
+increasing to 10 to 15 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+.LABOR DAY...Cloudy, rain. High around 60. South winds 10 to 25 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ029-021600-
+Top of Cadillac Mountain-
+952 PM EDT Sun Sep 1 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Clear late this evening, then becoming partly cloudy.
+Near steady temperatures around 55. South winds 10 to 15 mph. No
+lightning risk. 
+.LABOR DAY...Mostly cloudy. A slight chance of rain in the morning...
+then a chance of rain in the afternoon. High around 63. South winds
+10 to 20 mph. Chance of precipitation 40 percent. No lightning risk.
+
+$$
+
+MEZ001-021600-
+Top of Deboullie Mountain-
+952 PM EDT Sun Sep 1 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.OVERNIGHT...Partly cloudy late this evening, then becoming mostly
+cloudy. A chance of rain late. Not as cool with low around 51. South
+winds 10 to 20 mph. Chance of precipitation 50 percent. No lightning
+risk. 
+.LABOR DAY...Summit obscured. Rain. High around 56. South winds
+15 to 25 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+$$
+
+MEZ006-021600-
+Top of Mars Hill Mountain-
+952 PM EDT Sun Sep 1 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.OVERNIGHT...Mostly clear, then becoming partly cloudy, then
+becoming mostly cloudy. A slight chance of rain late. Low around 48.
+South winds 10 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+.LABOR DAY...Cloudy, rain. High around 58. South winds 10 to 25 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ010-021600-
+Top of White Cap Mountain-
+952 PM EDT Sun Sep 1 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.OVERNIGHT...Cloudy. A slight chance of rain. rain likely late. Low
+around 49. South winds 15 to 25 mph. Chance of precipitation
+60 percent. No lightning risk. 
+.LABOR DAY...Summit obscured. Rain, windy with high around 52. South
+winds 20 to 40 mph. Chance of precipitation near 100 percent. No 
+lightning risk. 
+
+$$
+
+MEZ010-021600-
+Moosehead Lake-
+952 PM EDT Sun Sep 1 2019
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Partly cloudy late this evening, then becoming cloudy.
+A chance of rain. rain likely late. Low around 52. South winds 10 to
+15 mph. Waves 1 foot. Chance of precipitation 70 percent. No
+lightning risk. Water temperature 63 degrees Fahrenheit. 
+.LABOR DAY...Cloudy, rain. High around 60. Waves 4 feet. South winds
+10 to 25 mph. Chance of precipitation near 100 percent. No lightning
+risk. Water temperature 63 degrees Fahrenheit. 
+
+$$
+
+MEZ001-021600-
+Allagash Wilderness Waterway-
+952 PM EDT Sun Sep 1 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.OVERNIGHT...Partly cloudy late this evening, then becoming cloudy.
+A slight chance of rain. rain likely late. Not as cool with low
+around 48. South winds 10 mph. Chance of precipitation 70 percent.
+No lightning risk. 
+.LABOR DAY...Cloudy, rain. High around 59. South winds 10 to 20 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ030-021600-
+St Croix River-
+952 PM EDT Sun Sep 1 2019
+
+...ST CROIX RIVER...
+
+.OVERNIGHT...Mostly clear through early morning, then becoming
+partly cloudy. Low around 48. South winds 10 mph. No lightning risk.
+.LABOR DAY...Mostly cloudy. A chance of rain. High around 65. South
+winds 15 mph. Chance of precipitation 50 percent. No lightning risk.
+
+$$
+
+MEZ030-021600-
+West Quoddy Head-
+952 PM EDT Sun Sep 1 2019
+
+...WEST QUODDY HEAD...
+
+.OVERNIGHT...Clear. Near steady temperatures around 52. Southwest
+winds 10 mph. No lightning risk. Water temperature 54 degrees
+Fahrenheit. 
+.LABOR DAY...Partly sunny in the morning, then becoming mostly
+cloudy. A chance of rain in the afternoon. High around 61. South
+winds 10 to 20 mph. Chance of precipitation 30 percent. No lightning
+risk. Water temperature 54 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-021600-
+Upper Penobscot Watershed-
+952 PM EDT Sun Sep 1 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Mostly clear late this evening, then becoming mostly
+cloudy. A chance of rain late. Low around 50. South winds 10 mph.
+Chance of precipitation 50 percent. No lightning risk. 
+.LABOR DAY...Cloudy, rain. High around 62. South winds 10 to 20 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-021600-
+Lower Penobscot Watershed-
+952 PM EDT Sun Sep 1 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Mostly clear, then becoming partly cloudy, then
+becoming mostly cloudy. A slight chance of rain late. Low around 51.
+South winds 10 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+.LABOR DAY...Cloudy. A chance of rain in the morning...then rain
+likely in the afternoon. High around 65. South winds 15 mph. Chance
+of precipitation 70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

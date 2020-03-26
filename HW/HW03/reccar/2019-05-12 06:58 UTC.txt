@@ -1,0 +1,201 @@
+
+052 
+SXUS41 KCAR 120658
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+258 AM EDT Sun May 12 2019
+
+MEZ004-122100-
+Top of Mount Katahdin-
+258 AM EDT Sun May 12 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly sunny, windy with high around 39. North winds 25 to 
+35 mph decreasing to 15 to 30 mph this afternoon. Wind chill values 
+as low as 10 above. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming mostly cloudy.
+Low around 26. Northeast winds 10 to 20 mph. No lightning risk. 
+.MONDAY...Summit in and out of clouds in the morning, then becoming
+mostly cloudy. High around 33. East winds 10 to 15 mph. No lightning
+risk. 
+
+$$
+
+MEZ005-122100-
+Katahdin Woods and Waters National Monument-
+258 AM EDT Sun May 12 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly sunny. High around 58. North winds 10 to 20 mph. No 
+lightning risk. 
+.TONIGHT...Mostly clear. Low around 35. Northeast winds 10 to 15 mph
+decreasing to 10 mph after midnight. No lightning risk. 
+.MONDAY...Partly sunny. High around 56. East winds 10 mph increasing
+to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-122100-
+Top of Cadillac Mountain-
+258 AM EDT Sun May 12 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly sunny. High around 54. Northwest winds 10 to 20 mph.
+No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 39. Southwest winds 10 mph
+increasing to east 10 to 20 mph after midnight. No lightning risk. 
+.MONDAY...Partly sunny in the morning, then summit in and out of
+clouds. High around 46. East winds 15 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ001-122100-
+Top of Deboullie Mountain-
+258 AM EDT Sun May 12 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Mostly sunny. High around 52. North winds 10 to 20 mph. 
+Wind chill values as low as 19. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 31. Northeast winds 10 to 15 mph
+shifting to the east 10 mph after midnight. No lightning risk. 
+.MONDAY...Partly sunny. High around 50. East winds 10 mph increasing
+to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-122100-
+Top of Mars Hill Mountain-
+258 AM EDT Sun May 12 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Mostly sunny. High around 55. North winds 10 to 25 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy. Low around 32. Northeast winds 10 to
+15 mph shifting to the east 10 mph after midnight. No lightning
+risk. 
+.MONDAY...Partly sunny. High around 53. East winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-122100-
+Top of White Cap Mountain-
+258 AM EDT Sun May 12 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly sunny. High around 46. North winds 15 to 25 mph. 
+Wind chill values as low as 18. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 32. Northeast winds 10 to
+20 mph. No lightning risk. 
+.MONDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 39. East winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ010-122100-
+Moosehead Lake-
+258 AM EDT Sun May 12 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly sunny. High around 54. North winds 10 to 20 mph.
+Waves 2 to 4 feet. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 35. Waves subsiding to around 
+1 foot. Northeast winds 15 mph becoming 10 mph after midnight. No 
+lightning risk. 
+.MONDAY...Partly sunny. High around 53. Waves 1 foot. East winds
+10 mph increasing to 10 to 15 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ001-122100-
+Allagash Wilderness Waterway-
+258 AM EDT Sun May 12 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Sunny. Not as cool with high around 58. North winds 10 to
+15 mph. No lightning risk. 
+.TONIGHT...Clear. Low around 31. Northeast winds 15 mph becoming
+10 mph after midnight. No lightning risk. 
+.MONDAY...Partly sunny. High around 55. East winds 10 mph increasing
+to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-122100-
+St Croix River-
+258 AM EDT Sun May 12 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Sunny through early afternoon, then becoming partly sunny.
+High around 60. Northwest winds 10 to 15 mph. No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 34. Northeast winds 10 mph. No
+lightning risk. 
+.MONDAY...Mostly sunny. High around 56. East winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-122100-
+West Quoddy Head-
+258 AM EDT Sun May 12 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Sunny through early afternoon, then becoming partly sunny.
+High around 52. Northwest winds 10 to 15 mph. No lightning risk.
+Water temperature 41 degrees Fahrenheit. 
+.TONIGHT...Partly cloudy. Low around 39. Southwest winds 10 mph
+shifting to the northeast 10 to 20 mph after midnight. No lightning
+risk. Water temperature 41 degrees Fahrenheit. 
+.MONDAY...Mostly sunny. High around 48. East winds 15 to 20 mph. No
+lightning risk. Water temperature 41 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-122100-
+Upper Penobscot Watershed-
+258 AM EDT Sun May 12 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 59. North winds 10 to 15 mph. No
+lightning risk. 
+.TONIGHT...Mostly clear. Low around 36. Northeast winds 15 mph
+becoming 10 mph after midnight. No lightning risk. 
+.MONDAY...Partly sunny. High around 56. East winds 10 to 15 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-122100-
+Lower Penobscot Watershed-
+258 AM EDT Sun May 12 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 62. North winds 10 to 15 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly clear.
+Low around 37. Northeast winds 10 mph. No lightning risk. 
+.MONDAY...Partly sunny. High around 57. East winds 10 to 15 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

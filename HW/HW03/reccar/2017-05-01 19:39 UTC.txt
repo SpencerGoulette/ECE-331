@@ -1,0 +1,80 @@
+
+022 
+SXUS41 KCAR 011939
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+339 PM EDT Mon May 1 2017
+
+MEZ004-020945-
+Top of Mount Katahdin-
+339 PM EDT Mon May 1 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Areas of fog. Rain. Low around 37.
+Southwest winds 15 to 25 mph. Chance of precipitation near
+100 percent. 
+.TUESDAY...Summit in and out of clouds. Areas of fog in the morning.
+Rain with a chance of thunderstorms in the morning...then showers in
+the afternoon. Not as cool with high around 50. Southwest winds
+15 to 25 mph. Chance of precipitation 90 percent. 
+
+$$
+
+MEZ029-020945-
+Top of Cadillac Mountain-
+339 PM EDT Mon May 1 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Areas of fog. Rain. a chance of
+thunderstorms after midnight. Low around 41. Southeast winds around
+15 mph. Chance of precipitation 80 percent. 
+.TUESDAY...Summit obscured. Areas of fog. Rain likely with a chance
+of thunderstorms in the morning. a chance of showers in the
+afternoon. Not as cool with high around 56. Southwest winds 15 to
+25 mph. Chance of precipitation 70 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-020945-
+Upper Penobscot Watershed-
+339 PM EDT Mon May 1 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Rain. a chance of thunderstorms
+after midnight. Low around 39. Southeast winds around 10 mph. Chance
+of precipitation near 100 percent. 
+.TUESDAY...Cloudy. Areas of fog in the morning. Rain with a chance
+of thunderstorms in the morning...then showers in the afternoon. Not
+as cool with high around 60. Light winds. Chance of precipitation
+near 100 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-020945-
+Lower Penobscot Watershed-
+339 PM EDT Mon May 1 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Rain. a chance of thunderstorms
+after midnight. Low around 42. Southeast winds around 10 mph until
+midnight becoming light winds. Chance of precipitation near
+100 percent. 
+.TUESDAY...Cloudy. Areas of fog in the morning. Rain with a chance
+of thunderstorms in the morning...then showers likely in the
+afternoon. Not as cool with high around 64. Light winds becoming
+southwest around 10 mph in the afternoon. Chance of precipitation
+80 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

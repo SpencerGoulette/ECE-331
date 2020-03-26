@@ -1,0 +1,199 @@
+
+699 
+SXUS41 KCAR 042113
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+413 PM EST Wed Dec 4 2019
+
+MEZ004-051200-
+Top of Mount Katahdin-
+413 PM EST Wed Dec 4 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy through early morning, then summit in and
+out of clouds. Isolated snow showers after midnight. Cold with low
+around 15. West winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.THURSDAY...Summit in and out of clouds. Isolated snow showers in
+the afternoon. Brisk, cold with high around 19. West winds 10 to
+30 mph. Chance of precipitation 20 percent. Wind chill values as low
+as 1 above. No lightning risk. 
+
+$$
+
+MEZ005-051200-
+Katahdin Woods and Waters National Monument-
+413 PM EST Wed Dec 4 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Cold with low around 19. Northwest winds 10 mph. No
+lightning risk. 
+.THURSDAY...Mostly cloudy. High around 32. Northwest winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-051200-
+Top of Cadillac Mountain-
+413 PM EST Wed Dec 4 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy early this evening, then summit becoming obscured.
+A chance of snow from late evening on. Low around 26. Southwest
+winds 10 to 15 mph shifting to the northwest 10 mph after midnight.
+Chance of precipitation 40 percent. No lightning risk. 
+.THURSDAY...Partly sunny. High around 35. Northwest winds 10 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ001-051200-
+Top of Deboullie Mountain-
+413 PM EST Wed Dec 4 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Cold with low around 16. West winds 10 mph. No lightning
+risk. 
+.THURSDAY...Summit in and out of clouds. Isolated snow showers. High
+around 27. West winds 10 mph increasing to 10 to 15 mph in the
+afternoon. Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ006-051200-
+Top of Mars Hill Mountain-
+413 PM EST Wed Dec 4 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Cold with low around 16. Southwest winds 10 mph until
+midnight becoming light winds. No lightning risk. 
+.THURSDAY...Cloudy in the morning, then summit in and out of clouds.
+High around 27. Northwest winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ010-051200-
+Top of White Cap Mountain-
+413 PM EST Wed Dec 4 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy through early
+morning, then summit in and out of clouds. Cold with low around 20.
+West winds 10 to 15 mph. No lightning risk. 
+.THURSDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. Isolated snow showers in the afternoon. Brisk,
+cold with high around 23. West winds 10 to 20 mph shifting to the
+northwest 15 to 30 mph in the afternoon. Chance of precipitation
+20 percent. Wind chill values as low as 6 above. No lightning risk. 
+
+$$
+
+MEZ010-051200-
+Moosehead Lake-
+413 PM EST Wed Dec 4 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Isolated snow showers after midnight. Cold with low around
+22. Northwest winds 10 mph. Waves 1 foot. Chance of precipitation
+20 percent. No lightning risk. 
+.THURSDAY...Mostly cloudy. Isolated snow showers. High around 32.
+Waves 3 feet. Northwest winds 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ001-051200-
+Allagash Wilderness Waterway-
+413 PM EST Wed Dec 4 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Cold with low around 14. Southwest winds 10 mph. No
+lightning risk. 
+.THURSDAY...Mostly cloudy. Isolated snow showers. High around 31.
+West winds 10 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+
+$$
+
+MEZ030-051200-
+St Croix River-
+413 PM EST Wed Dec 4 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. A slight chance of snow from late evening on. Cold with low
+around 21. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. High around 35. West winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-051200-
+West Quoddy Head-
+413 PM EST Wed Dec 4 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy. A chance of rain through early morning. A
+chance of snow after midnight. Low around 31. West winds 10 mph
+shifting to the north after midnight. Chance of precipitation
+50 percent. No lightning risk. Water temperature 47 degrees
+Fahrenheit. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. A chance of snow in the morning. High around 38. Northwest
+winds 10 to 15 mph. Chance of precipitation 30 percent. No lightning
+risk. Water temperature 47 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-051200-
+Upper Penobscot Watershed-
+413 PM EST Wed Dec 4 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Cold with low around 18. West winds 10 mph until midnight
+becoming light winds. No lightning risk. 
+.THURSDAY...Mostly cloudy. High around 34. Northwest winds 10 mph
+shifting to the west in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-051200-
+Lower Penobscot Watershed-
+413 PM EST Wed Dec 4 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A slight chance of snow after midnight. Cold with low around
+19. North winds 10 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. High around 36. West winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

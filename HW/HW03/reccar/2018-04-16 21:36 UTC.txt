@@ -1,0 +1,223 @@
+
+678 
+SXUS41 KCAR 162136
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+536 PM EDT Mon Apr 16 2018
+
+MEZ004-171200-
+Top of Mount Katahdin-
+536 PM EDT Mon Apr 16 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Freezing rain until midnight. Sleet 
+through early morning. Rain from late evening on. Strong winds and 
+not as cool with low around 31. Southeast winds 40 to 50 mph 
+increasing to 55 to 60 mph after midnight. Chance of precipitation 
+near 100 percent. Wind chill values as low as 14. No lightning risk. 
+.TUESDAY...Summit in and out of clouds. Rain in the morning...then 
+scattered rain showers in the afternoon. Strong winds with high 
+around 37. Southeast winds 35 to 50 mph becoming south 20 to 30 mph 
+in the afternoon. Chance of precipitation 80 percent. Wind chill 
+values as low as 21. No lightning risk. 
+
+$$
+
+MEZ005-171200-
+Katahdin Woods and Waters National Monument-
+536 PM EDT Mon Apr 16 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Sleet through early morning. Freezing rain. Rain 
+after midnight. Patchy fog from late evening on. Low around 29. 
+Southeast winds 10 to 15 mph. Chance of precipitation near 100 
+percent. No lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Rain in the morning...
+then scattered rain showers in the afternoon. High around 43.
+Southeast winds 10 to 15 mph. Chance of precipitation 80 percent. No
+lightning risk. 
+
+$$
+
+MEZ029-171200-
+Top of Cadillac Mountain-
+536 PM EDT Mon Apr 16 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Patchy fog. Rain. Strong winds with low
+around 35. Southeast winds 55 to 70 mph. Chance of precipitation
+near 100 percent. Wind chill values as low as 15. No lightning risk.
+.TUESDAY...Summit obscured in the morning, then becoming mostly
+cloudy. A chance of rain in the morning...then isolated showers in 
+the afternoon. Very windy with high around 43. Southwest winds 25 to 
+35 mph. Chance of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ001-171200-
+Top of Deboullie Mountain-
+536 PM EDT Mon Apr 16 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Freezing rain and sleet. Patchy fog from
+late evening on. Not as cool with low around 27. Southeast winds
+around 20 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+.TUESDAY...Summit obscured. Patchy fog in the morning. Sleet, rain
+and freezing rain in the morning...then numerous rain showers in the
+afternoon. High around 38. Southeast winds 10 to 20 mph. Chance of
+precipitation 80 percent. Wind chill values as low as 22. No
+lightning risk. 
+
+$$
+
+MEZ006-171200-
+Top of Mars Hill Mountain-
+536 PM EDT Mon Apr 16 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. Freezing rain until midnight. Sleet 
+through early morning. Rain from late evening on. Patchy fog from 
+late evening on. Not as cool with low around 31. Southeast winds 15 
+to 20 mph. Chance of precipitation near 100 percent. No lightning 
+risk. 
+.TUESDAY...Summit obscured. Patchy fog in the morning. Rain in the
+morning...then numerous rain showers in the afternoon. Breezy with
+high around 42. Southeast winds 20 to 25 mph decreasing to 10 to
+20 mph in the afternoon. Chance of precipitation 90 percent. No
+lightning risk. 
+
+$$
+
+MEZ010-171200-
+Top of White Cap Mountain-
+536 PM EDT Mon Apr 16 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. Sleet through early morning. Freezing 
+rain. Strong winds with low around 26. Southeast winds 40 to 55 mph.
+Chance of precipitation near 100 percent. Wind chill values as low 
+as 10 above. No lightning risk. 
+.TUESDAY...Summit obscured. Rain and freezing rain likely in the 
+morning...then scattered rain showers in the afternoon. Very windy 
+with high around 38. South winds 25 to 40 mph decreasing to 20 to 25 
+mph in the afternoon. Chance of precipitation 70 percent. Wind chill 
+values as low as 20. No lightning risk. 
+
+$$
+
+MEZ010-171200-
+Moosehead Lake-
+536 PM EDT Mon Apr 16 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Sleet through early morning. Freezing rain. Rain 
+late. Patchy fog from late evening on. Low around 29. East winds 10 
+to 15 mph with gusts to around 25 mph. Chance of precipitation near 
+100 percent. No lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Rain likely in the
+morning...then scattered rain showers in the afternoon. Not as cool
+with high around 43. Southeast winds around 10 mph. Chance of
+precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ001-171200-
+Allagash Wilderness Waterway-
+536 PM EDT Mon Apr 16 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Freezing rain and sleet. Rain after midnight. 
+Patchy fog from late evening on. Not as cool with low around 29. 
+Southeast winds around 15 mph. Chance of precipitation near 100 
+percent. No lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Rain in the morning...
+then numerous rain showers in the afternoon. High around 41.
+Southeast winds 10 to 15 mph. Chance of precipitation 80 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-171200-
+St Croix River-
+536 PM EDT Mon Apr 16 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Patchy fog. Sleet early this evening. Rain. Low
+around 32. East winds 15 to 20 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Rain in the morning...
+then scattered showers in the afternoon. Not as cool with high
+around 48. South winds 10 to 20 mph. Chance of precipitation
+80 percent. No lightning risk. 
+
+$$
+
+MEZ030-171200-
+West Quoddy Head-
+536 PM EDT Mon Apr 16 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Patchy fog. Rain. Very windy with low around 37.
+East winds 25 to 35 mph. Chance of precipitation near 100 percent.
+No lightning risk. Water temperature 38 degrees Fahrenheit. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Rain likely in the
+morning...then scattered showers in the afternoon. Windy with high
+around 48. Southeast winds 15 to 30 mph becoming southwest 10 to
+15 mph in the afternoon. Chance of precipitation 70 percent. No
+lightning risk. Water temperature 38 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-171200-
+Upper Penobscot Watershed-
+536 PM EDT Mon Apr 16 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog. Sleet until midnight. Freezing rain 
+through early morning. Rain. Low around 31. East winds 10 to 20 mph. 
+Chance of precipitation near 100 percent. No lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Rain likely in the
+morning...then scattered rain showers in the afternoon. Not as cool
+with high around 46. South winds 10 to 15 mph. 23  in the morning.
+Chance of precipitation 70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-171200-
+Lower Penobscot Watershed-
+536 PM EDT Mon Apr 16 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog. Sleet and freezing rain early this
+evening. Rain, breezy with low around 32. Southeast winds 10 to
+25 mph with gusts to around 35 mph. Chance of precipitation near
+100 percent. Wind chill values as low as 20. No lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. A chance of rain in
+the morning...then scattered rain showers in the afternoon. Not as
+cool with high around 49. South winds 10 to 15 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

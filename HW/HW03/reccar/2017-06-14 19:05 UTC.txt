@@ -1,0 +1,82 @@
+
+202 
+SXUS41 KCAR 141905
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+305 PM EDT Wed Jun 14 2017
+
+MEZ004-150915-
+Top of Mount Katahdin-
+305 PM EDT Wed Jun 14 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then
+becoming partly cloudy. Low around 36. North winds 10 to 15 mph. No 
+lightning risk. 
+.THURSDAY...Summit in and out of clouds in the morning...then
+becoming partly sunny. High around 46. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ029-150915-
+Top of Cadillac Mountain-
+305 PM EDT Wed Jun 14 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear. Low around 51. North winds around 10 mph.
+No lightning risk. 
+.THURSDAY...Mostly sunny. High around 62. Light winds becoming
+southwest around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-150915-
+Moosehead Lake-
+305 PM EDT Wed Jun 14 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear. Low around 42. North winds around 10 mph
+until midnight becoming light winds. Waves 1 foot. No lightning
+risk. 
+.THURSDAY...Mostly sunny. High around 67. Waves 1 foot. Light winds.
+No lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-150915-
+Upper Penobscot Watershed-
+305 PM EDT Wed Jun 14 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 43. North winds around 10 mph
+until midnight becoming light winds. No lightning risk. 
+.THURSDAY...Mostly sunny. High around 70. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-150915-
+Lower Penobscot Watershed-
+305 PM EDT Wed Jun 14 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 44. North winds around 10 mph
+until midnight becoming light winds. No lightning risk. 
+.THURSDAY...Mostly sunny. High around 72. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

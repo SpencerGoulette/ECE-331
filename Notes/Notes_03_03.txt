@@ -1,0 +1,99 @@
+ECE331
+Spencer Goulette
+Notes
+03/03/20
+
+HAT BOARD
+Will need a microUSB cable
+SW1 Reset switch
+Boot0 Jumper need to take jumper off and press reset
+Ask Derek to help with firmware setup DFU-Util
+Had GPIOs, 2 DACs, 2 ADCs, SWD programmer, Adafruit display connector
+Top side sensor amber yellow gold: light sensor
+Back side 8 pin spide: temperature sensor
+Metal can: Temp, Presure, and humidity sensor
+White connector oon bottom to control thermostat, etc.
+Lots of sensors to measure the PCB temperature
+JTAG header
+
+CORONAVIRUS
+Don't come to class if you are sick
+Late Hws suspended if you are sick
+Probably going to begin accepting hw online
+
+KERNEL TREE SETUP
+
+**** Makefile ****
+
+obj-m+= wwv.o
+
+all:
+	make -C /lib/modules/$(shell uname -r)/build M=$(PWD) modules
+
+clean:
+	make -C /lib/modules/$(shell uname -r)/build M=$(PWD) clean
+
+
+
+KERNEL CODE
+
+#include <linux/module.h>
+#include <linux/kernel.h>
+
+int init_module(void)
+{
+	printk(KERN_NOTICE "wwv found\n");
+	return 0;
+}
+
+void cleanup_module(void)
+{
+	printk(KERN_NOTICE "Good Bye\n");
+	return;
+}
+
+
+sudo insmod ./wwv.ko		insert module into kernel
+
+lsmod			see modules
+
+kernel messages go to the sys log file
+/var/log
+
+Can be found in a couple of files
+
+If KErnel not set u correctly, then the when doing insmod there will be a message that the module can't be added
+
+uname -r
+
+KERN_INFO better to use then KERN_NOTICE
+
+sudo rmmod wwv
+
+
+#include <linux/init.h>
+
+static int __init rpiwwv_minit
+{
+...
+}
+
+static void __exit rpiwwv_mcleanup(void)
+{
+...
+}
+
+
+module_init(rpiwwv_minit);
+module_exit(rpiwwv_mcleanup);
+
+MODULE_LICENSE("GPL");
+MODULE_AUTHOR();
+MODULE_DESCRIPTION();
+MODULE_SUPPORTED_DEVICE();
+
+static sets scope to the file
+
+modinfo wwv.ko
+
+

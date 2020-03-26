@@ -1,0 +1,85 @@
+
+217 
+SXUS41 KCAR 252003
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+403 PM EDT Thu May 25 2017
+
+MEZ004-261015-
+Top of Mount Katahdin-
+403 PM EDT Thu May 25 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured until midnight...then becoming cloudy. A
+chance of rain until midnight...then rain likely after midnight. Low
+around 40. East winds 15 to 20 mph. Chance of precipitation
+60 percent. 
+.FRIDAY...Cloudy in the morning...then summit becoming obscured.
+Rain. High around 42. East winds 15 to 25 mph. Chance of
+precipitation 90 percent. 
+
+$$
+
+MEZ029-261015-
+Top of Cadillac Mountain-
+403 PM EDT Thu May 25 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy until midnight...then summit becoming obscured.
+Rain. Low around 46. East winds 25 to 30 mph. Chance of
+precipitation near 100 percent. 
+.FRIDAY...Summit obscured. Rain. High around 53. Northeast winds
+around 20 mph. Chance of precipitation near 100 percent. 
+
+$$
+
+MEZ010-261015-
+Moosehead Lake-
+403 PM EDT Thu May 25 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. A chance of rain until midnight...then rain
+likely after midnight. Low around 46. East winds around 10 mph.
+Waves 2 feet. Chance of precipitation 70 percent. 
+.FRIDAY...Cloudy, rain, cooler with high around 52. Waves 2 feet.
+Northeast winds around 10 mph. Chance of precipitation 90 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-261015-
+Upper Penobscot Watershed-
+403 PM EDT Thu May 25 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A chance of rain until midnight...then rain
+likely after midnight. Low around 47. East winds 10 to 15 mph.
+Chance of precipitation 70 percent. 
+.FRIDAY...Cloudy, rain. Much cooler with high around 53. Northeast
+winds 10 to 15 mph. Chance of precipitation 90 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-261015-
+Lower Penobscot Watershed-
+403 PM EDT Thu May 25 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy, rain. Low around 48. East winds 10 to 15 mph.
+Chance of precipitation near 100 percent. 
+.FRIDAY...Cloudy, rain, cooler with high around 54. Northeast winds
+10 to 15 mph. Chance of precipitation near 100 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

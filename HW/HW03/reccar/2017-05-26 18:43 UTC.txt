@@ -1,0 +1,81 @@
+
+330 
+SXUS41 KCAR 261843
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+243 PM EDT Fri May 26 2017
+
+MEZ004-270845-
+Top of Mount Katahdin-
+243 PM EDT Fri May 26 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured until midnight...then summit in and out
+of clouds. A chance of rain showers until midnight...then a slight
+chance of rain and snow after midnight. Low around 35. North winds
+10 to 15 mph. Chance of precipitation 50 percent. 
+.SATURDAY...Partly sunny. High around 51. North winds around 10 mph.
+
+$$
+
+MEZ029-270845-
+Top of Cadillac Mountain-
+243 PM EDT Fri May 26 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Low around 43. North winds around
+10 mph. 
+.SATURDAY...Summit obscured in the morning...then becoming mostly
+cloudy. High around 57. North winds 10 to 15 mph. 
+
+$$
+
+MEZ010-270845-
+Moosehead Lake-
+243 PM EDT Fri May 26 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. A chance of showers until midnight. Low around
+42. North winds 10 to 15 mph. Waves 2 feet. Chance of precipitation
+50 percent. 
+.SATURDAY...Partly sunny. Not as cool with high around 63. Waves
+1 foot. North winds around 10 mph. 
+
+$$
+
+MEZ004&gt;006-010-011-031-270845-
+Upper Penobscot Watershed-
+243 PM EDT Fri May 26 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A chance of showers until midnight. Low around
+43. North winds 10 to 15 mph. Chance of precipitation 50 percent. 
+.SATURDAY...Partly sunny. Not as cool with high around 64. North
+winds around 10 mph in the morning becoming light winds. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-270845-
+Lower Penobscot Watershed-
+243 PM EDT Fri May 26 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A chance of showers until midnight. Low around
+45. North winds 10 to 15 mph. Chance of precipitation 50 percent. 
+.SATURDAY...Mostly cloudy in the morning...then becoming partly
+sunny. Not as cool with high around 64. North winds around 10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

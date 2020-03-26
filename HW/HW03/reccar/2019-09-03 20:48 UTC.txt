@@ -1,0 +1,225 @@
+
+557 
+SXUS41 KCAR 032048
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+448 PM EDT Tue Sep 3 2019
+
+MEZ004-041000-
+Top of Mount Katahdin-
+448 PM EDT Tue Sep 3 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds, then summit becoming
+obscured. Isolated showers late. Very windy with low around 46. 
+Southwest winds 10 to 15 mph increasing to south 20 to 40 mph after 
+midnight. Chance of precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Summit in and out of clouds. Scattered showers in the 
+morning...then widespread showers and scattered thunderstorms in the 
+afternoon. Some thunderstorms may produce gusty winds in the 
+afternoon. Strong winds with high around 54. Southwest winds 40 to 50
+mph. Chance of precipitation 80 percent. Lightning risk is elevated.
+
+$$
+
+MEZ005-041000-
+Katahdin Woods and Waters National Monument-
+448 PM EDT Tue Sep 3 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Low around 53. East winds 10 mph shifting to the south after
+midnight. No lightning risk. 
+.WEDNESDAY...Cloudy. Scattered showers in the morning...then
+widespread showers and scattered thunderstorms in the afternoon.
+Some thunderstorms may produce gusty winds in the afternoon. High
+around 69. South winds 10 to 25 mph. Chance of precipitation
+80 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ029-041000-
+Top of Cadillac Mountain-
+448 PM EDT Tue Sep 3 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear, then becoming mostly cloudy after midnight,
+then summit in and out of clouds. Patchy fog after midnight. Low
+around 58. East winds 10 to 15 mph shifting to the south 10 to
+20 mph after midnight. No lightning risk. 
+.WEDNESDAY...Summit in and out of clouds. Isolated showers in the 
+morning...then numerous showers and scattered thunderstorms in the 
+afternoon. Very windy with high around 68. South winds 15 to 35 mph 
+increasing to southwest 30 to 45 mph in the afternoon. Chance of 
+precipitation 60 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ001-041000-
+Top of Deboullie Mountain-
+448 PM EDT Tue Sep 3 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Scattered showers late. Low around 47. South winds 10 mph
+shifting to the southeast 10 to 20 mph after midnight. Chance of
+precipitation 30 percent. No lightning risk. 
+.WEDNESDAY...Summit obscured. Widespread showers. Scattered 
+thunderstorms in the afternoon. Some thunderstorms may produce gusty 
+winds in the afternoon. High around 64. South winds 15 to 20 mph. 
+Chance of precipitation 80 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ006-041000-
+Top of Mars Hill Mountain-
+448 PM EDT Tue Sep 3 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Low around 50. West winds 10 mph shifting to the south 10 to
+15 mph after midnight. No lightning risk. 
+.WEDNESDAY...Cloudy in the morning, then summit in and out of
+clouds. Scattered showers in the morning...then widespread showers
+and scattered thunderstorms in the afternoon. Some thunderstorms may
+produce gusty winds in the afternoon. High around 67. South winds
+15 to 25 mph. Chance of precipitation 80 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ010-041000-
+Top of White Cap Mountain-
+448 PM EDT Tue Sep 3 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly cloudy early this evening, then summit becoming
+obscured. Isolated showers late. Very windy with low around 51.
+South winds 15 mph increasing to 20 to 40 mph after midnight. Chance
+of precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Summit in and out of clouds. Scattered showers in the 
+morning...then widespread showers and scattered thunderstorms in the 
+afternoon. Some thunderstorms may produce gusty winds in the 
+afternoon. Strong winds with high around 59. South winds 35 to 50 
+mph. Chance of precipitation 80 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ010-041000-
+Moosehead Lake-
+448 PM EDT Tue Sep 3 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Isolated showers late. Low around 52. East winds 10 mph
+shifting to the southeast after midnight. Waves 2 feet. Chance of
+precipitation 20 percent. No lightning risk. Water temperature
+63 degrees Fahrenheit. 
+.WEDNESDAY...Cloudy. Scattered showers in the morning...then
+widespread showers and scattered thunderstorms in the afternoon.
+Some thunderstorms may produce gusty winds in the afternoon. High
+around 67. Waves 3 feet. South winds 10 to 20 mph. Chance of 
+precipitation 80 percent. Lightning risk is elevated. Water 
+temperature 63 degrees Fahrenheit. 
+
+$$
+
+MEZ001-041000-
+Allagash Wilderness Waterway-
+448 PM EDT Tue Sep 3 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Scattered showers late. Low around 47. Southeast winds
+10 mph increasing to 10 to 15 mph after midnight. Chance of
+precipitation 30 percent. No lightning risk. 
+.WEDNESDAY...Cloudy. Widespread showers. Scattered thunderstorms in 
+the afternoon. Some thunderstorms may produce gusty winds in the 
+afternoon. High around 68. South winds 10 to 20 mph. Chance of 
+precipitation 80 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ030-041000-
+St Croix River-
+448 PM EDT Tue Sep 3 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy. Low around 51. North winds 10 mph shifting
+to the southeast after midnight. No lightning risk. 
+.WEDNESDAY...Cloudy. Scattered showers in the morning...then
+widespread showers and scattered thunderstorms in the afternoon.
+Some thunderstorms may produce gusty winds in the afternoon. High
+around 70. South winds 10 to 20 mph. Chance of precipitation
+80 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ030-041000-
+West Quoddy Head-
+448 PM EDT Tue Sep 3 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy late. Patchy 
+fog after midnight. Low around 54. South winds 10 mph increasing to 
+10 to 15 mph after midnight. No lightning risk. Water temperature 55 
+degrees Fahrenheit.
+.WEDNESDAY...Mostly cloudy. Patchy fog in the morning. Isolated
+showers in the morning...then scattered showers and thunderstorms in
+the afternoon. High around 61. South winds 10 to 20 mph. Chance of
+precipitation 40 percent. Lightning risk is elevated. Water
+temperature 55 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-041000-
+Upper Penobscot Watershed-
+448 PM EDT Tue Sep 3 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Low around 53. East winds 10 mph shifting to the southeast
+after midnight. No lightning risk. 
+.WEDNESDAY...Cloudy. Scattered showers in the morning...then
+widespread showers and scattered thunderstorms in the afternoon.
+Some thunderstorms may produce gusty winds in the afternoon. High
+around 69. South winds 10 to 20 mph. Chance of precipitation
+80 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-041000-
+Lower Penobscot Watershed-
+448 PM EDT Tue Sep 3 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Patchy fog late. Low around 55. Southeast winds 10 mph
+shifting to the south after midnight. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. Patchy fog in the morning. Scattered
+showers in the morning...then widespread showers and scattered
+thunderstorms in the afternoon. Some thunderstorms may produce gusty
+winds in the afternoon. High around 70. South winds 10 to 20 mph.
+Chance of precipitation 80 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

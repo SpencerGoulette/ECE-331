@@ -1,0 +1,189 @@
+
+526 
+SXUS41 KCAR 181925
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+325 PM EDT Thu Jul 18 2019
+
+MEZ004-190930-
+Top of Mount Katahdin-
+325 PM EDT Thu Jul 18 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Low around 53. Southwest winds 10 to 20 mph. No
+lightning risk. 
+.FRIDAY...Mostly sunny in the morning, then becoming mostly cloudy.
+A slight chance of showers and thunderstorms in the afternoon. Windy
+with high around 63. Southwest winds 15 to 25 mph increasing to
+20 to 35 mph in the afternoon. Chance of precipitation 20 percent.
+Lightning risk is limited. 
+
+$$
+
+MEZ005-190930-
+Katahdin Woods and Waters National Monument-
+325 PM EDT Thu Jul 18 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Low around 57. South winds 10 mph. No lightning
+risk. 
+.FRIDAY...Partly sunny. A slight chance of showers and thunderstorms
+in the afternoon. High around 82. South winds 10 mph increasing to
+10 to 15 mph in the afternoon. Chance of precipitation 20 percent.
+Lightning risk is limited. 
+
+$$
+
+MEZ029-190930-
+Top of Cadillac Mountain-
+325 PM EDT Thu Jul 18 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 57. East winds 10 mph. No lightning
+risk. 
+.FRIDAY...Partly sunny and windy. High around 72. Southwest winds
+10 to 20 mph increasing to 15 to 35 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ001-190930-
+Top of Deboullie Mountain-
+325 PM EDT Thu Jul 18 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Low around 52. South winds 10 mph. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then summit in and out of
+clouds. A slight chance of showers in the morning...then a chance of
+showers with a slight chance of thunderstorms in the afternoon. High
+around 78. Southwest winds 10 to 15 mph. Chance of precipitation
+40 percent. Lightning risk is limited. 
+
+$$
+
+MEZ006-190930-
+Top of Mars Hill Mountain-
+325 PM EDT Thu Jul 18 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear. Low around 53. South winds 10 mph. No
+lightning risk. 
+.FRIDAY...Partly sunny. A slight chance of showers and thunderstorms
+in the afternoon. High around 78. South winds 10 to 20 mph. Chance
+of precipitation 20 percent. Lightning risk is limited. 
+
+$$
+
+MEZ010-190930-
+Top of White Cap Mountain-
+325 PM EDT Thu Jul 18 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Low around 57. Southwest winds 10 to 25 mph. No
+lightning risk. 
+.FRIDAY...Mostly sunny in the morning, then becoming mostly cloudy.
+A slight chance of showers and thunderstorms in the afternoon.
+Breezy with high around 70. Southwest winds 15 to 30 mph. Chance of
+precipitation 20 percent. Lightning risk is limited. 
+
+$$
+
+MEZ010-190930-
+Moosehead Lake-
+325 PM EDT Thu Jul 18 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear. Low around 56. South winds 10 mph. Waves
+1 foot. No lightning risk. Water temperature 58 degrees Fahrenheit. 
+.FRIDAY...Partly sunny. A chance of showers with a slight chance of
+thunderstorms in the afternoon. High around 77. Waves 1 foot. South
+winds 10 mph shifting to the southwest 10 to 15 mph in the
+afternoon. Chance of precipitation 30 percent. Lightning risk is
+limited. Water temperature 58 degrees Fahrenheit. 
+
+$$
+
+MEZ001-190930-
+Allagash Wilderness Waterway-
+325 PM EDT Thu Jul 18 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Low around 51. South winds 10 mph. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+A slight chance of showers in the morning...then a chance of showers
+with a slight chance of thunderstorms in the afternoon. High around
+81. Southwest winds 10 to 15 mph. Chance of precipitation
+40 percent. Lightning risk is limited. 
+
+$$
+
+MEZ030-190930-
+St Croix River-
+325 PM EDT Thu Jul 18 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Low around 51. Light winds. No lightning risk. 
+.FRIDAY...Mostly sunny. High around 80. South winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-190930-
+West Quoddy Head-
+325 PM EDT Thu Jul 18 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Low around 51. South winds 10 mph. No lightning
+risk. Water temperature 51 degrees Fahrenheit. 
+.FRIDAY...Partly sunny. Areas of fog in the morning. High around 63.
+South winds 10 mph increasing to 10 to 15 mph in the afternoon. No
+lightning risk. Water temperature 51 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-190930-
+Upper Penobscot Watershed-
+325 PM EDT Thu Jul 18 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 54. South winds 10 mph. No lightning
+risk. 
+.FRIDAY...Partly sunny. High around 83. South winds 15 mph.
+Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-190930-
+Lower Penobscot Watershed-
+325 PM EDT Thu Jul 18 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 53. South winds 10 mph. No lightning
+risk. 
+.FRIDAY...Sunny in the morning, then becoming partly sunny. High
+around 82. South winds 10 mph increasing to 10 to 15 mph in the
+afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

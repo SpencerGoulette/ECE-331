@@ -1,0 +1,79 @@
+
+895 
+SXUS41 KCAR 030708
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+308 AM EDT Wed May 3 2017
+
+MEZ004-032115-
+Top of Mount Katahdin-
+308 AM EDT Wed May 3 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Cloudy this morning...then summit in and out of clouds.
+Patchy fog this morning. Isolated rain and snow showers this 
+morning...then scattered rain and snow showers this afternoon. Much 
+cooler with high around 32. West winds around 20 mph. Chance of 
+precipitation 30 percent. 
+.TONIGHT...Summit obscured until midnight...then becoming partly
+cloudy. Low around 24. Northwest winds 15 to 25 mph. Wind chill
+values as low as 10 above. 
+.THURSDAY...Sunny. High around 40. Northwest winds 10 to 15 mph.
+Wind chill values as low as 13 in the morning. 
+
+$$
+
+MEZ029-032115-
+Top of Cadillac Mountain-
+308 AM EDT Wed May 3 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny. Patchy fog this morning. Isolated showers
+this afternoon. High around 52. West winds 15 to 25 mph. Chance of
+precipitation 20 percent. 
+.TONIGHT...Mostly cloudy until midnight...then clearing. Low around
+39. Northwest winds 15 to 20 mph. 
+.THURSDAY...Sunny. High around 52. Northwest winds 10 to 15 mph. 
+
+$$
+
+MEZ004&gt;006-010-011-031-032115-
+Upper Penobscot Watershed-
+308 AM EDT Wed May 3 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. Patchy fog this morning. Isolated showers.
+High around 56. West winds 10 to 15 mph. Chance of precipitation
+20 percent. 
+.TONIGHT...Mostly cloudy until midnight...then clearing. Low around
+36. Northwest winds 10 to 15 mph. 
+.THURSDAY...Sunny. High around 59. Northwest winds around 10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-032115-
+Lower Penobscot Watershed-
+308 AM EDT Wed May 3 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Patchy fog this morning. Isolated showers this afternoon. High
+around 59. West winds 10 to 15 mph. Chance of precipitation
+20 percent. 
+.TONIGHT...Mostly cloudy until midnight...then clearing. Low around
+38. Northwest winds 10 to 15 mph. 
+.THURSDAY...Sunny. High around 61. Northwest winds around 10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

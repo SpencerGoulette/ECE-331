@@ -1,0 +1,191 @@
+
+649 
+SXUS41 KCAR 161913
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+313 PM EDT Mon Oct 16 2017
+
+MEZ004-170915-
+Top of Mount Katahdin-
+313 PM EDT Mon Oct 16 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then
+clearing. Cooler with low around 19. Northwest winds around 20 mph.
+Wind chill values as low as 3 above. No lightning risk. 
+.TUESDAY...Mostly sunny...then becoming mostly cloudy in the
+afternoon. High around 34. Northwest winds 15 to 25 mph. Wind chill 
+values as low as 3 above in the morning. No lightning risk. 
+
+$$
+
+MEZ005-170915-
+Katahdin Woods and Waters National Monument-
+313 PM EDT Mon Oct 16 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Much cooler
+with low around 27. North winds around 10 mph until midnight
+becoming light winds. No lightning risk. 
+.TUESDAY...Mostly sunny...then partly cloudy in the afternoon. High 
+around 49. Light winds becoming west around 10 mph in the afternoon. 
+No lightning risk. 
+
+$$
+
+MEZ029-170915-
+Top of Cadillac Mountain-
+313 PM EDT Mon Oct 16 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy. Much cooler with low around 34. North 
+winds around 15 mph. No lightning risk. 
+.TUESDAY...Sunny. High around 48. Northwest winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-170915-
+Top of Deboullie Mountain-
+313 PM EDT Mon Oct 16 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Much cooler with low around 21. Northwest winds 10 to
+15 mph. Wind chill values as low as 12. No lightning risk. 
+.TUESDAY...Sunny in the morning...then becoming mostly cloudy. 
+Isolated rain showers in the afternoon. High around 45. West winds 10
+to 15 mph. Chance of precipitation 20 percent. Wind chill values as 
+low as 11 in the morning. No lightning risk. 
+
+$$
+
+MEZ006-170915-
+Top of Mars Hill Mountain-
+313 PM EDT Mon Oct 16 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy. Cooler with low around 27. Northwest winds
+10 to 15 mph until midnight becoming light winds. No lightning risk.
+.TUESDAY...Mostly sunny. High around 48. West winds around 5 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-170915-
+Top of White Cap Mountain-
+313 PM EDT Mon Oct 16 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds early...then clearing. Cooler
+with low around 24. Northwest winds 10 to 20 mph. Wind chill values 
+as low as 12. No lightning risk. 
+.TUESDAY...Mostly sunny...then partly cloudy in the afternoon. High 
+around 40. West winds 15 to 25 mph. Wind chill values as low as 11 
+in the morning. No lightning risk. 
+
+$$
+
+MEZ010-170915-
+Moosehead Lake-
+313 PM EDT Mon Oct 16 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Cooler with
+low around 28. Northwest winds 10 to 15 mph decreasing to around
+5 mph after midnight. Waves 3 feet. No lightning risk. Water
+temperature 63 degrees Fahrenheit. 
+.TUESDAY...Sunny in the morning...then becoming partly sunny. High
+around 50. Waves 2 feet. West winds around 5 mph. No lightning risk.
+Water temperature 63 degrees Fahrenheit. 
+
+$$
+
+MEZ001-170915-
+Allagash Wilderness Waterway-
+313 PM EDT Mon Oct 16 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy until midnight...then clearing. Much cooler
+with low around 20. Northwest winds around 10 mph until midnight
+becoming light winds. No lightning risk. 
+.TUESDAY...Sunny in the morning...then becoming mostly cloudy. 
+Isolated rain showers in the afternoon. High around 49. Light winds 
+becoming southwest around 10 mph in the afternoon. Chance of 
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ030-170915-
+St Croix River-
+313 PM EDT Mon Oct 16 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear. Much cooler with low around 26. North winds
+around 10 mph until midnight becoming light winds. No lightning
+risk. 
+.TUESDAY...Sunny. High around 53. Northwest winds around 10 mph.
+Wind chill values as low as 19 in the morning. No lightning risk. 
+
+$$
+
+MEZ030-170915-
+West Quoddy Head-
+313 PM EDT Mon Oct 16 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+clear. Much cooler with low around 35. North winds around 15 mph. No
+lightning risk. Water temperature 57 degrees Fahrenheit. 
+.TUESDAY...Sunny. High around 52. Northwest winds 10 to 15 mph. No
+lightning risk. Water temperature 57 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-170915-
+Upper Penobscot Watershed-
+313 PM EDT Mon Oct 16 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Much cooler
+with low around 28. Northwest winds around 10 mph until midnight
+becoming light winds. No lightning risk. 
+.TUESDAY...Sunny...then becoming partly cloudy in the afternoon. 
+High around 51. West winds around 5 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-170915-
+Lower Penobscot Watershed-
+313 PM EDT Mon Oct 16 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Much cooler with low around 31. Northwest
+winds around 10 mph until midnight becoming light winds. No
+lightning risk. 
+.TUESDAY...Mostly sunny. High around 54. Light winds becoming west 
+around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

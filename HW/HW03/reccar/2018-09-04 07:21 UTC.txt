@@ -1,0 +1,202 @@
+
+751 
+SXUS41 KCAR 040721
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+321 AM EDT Tue Sep 4 2018
+
+MEZ004-042130-
+Top of Mount Katahdin-
+321 AM EDT Tue Sep 4 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly sunny. High around 57. Northwest winds 10 to 15 mph.
+No lightning risk. 
+.TONIGHT...Mostly clear. Low around 54. Northwest winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny in the morning, then becoming cloudy. High
+around 63. Southwest winds 10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ005-042130-
+Katahdin Woods and Waters National Monument-
+321 AM EDT Tue Sep 4 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly sunny. High around 77. North winds around 10 mph. No
+lightning risk. 
+.TONIGHT...Mostly clear. Patchy fog after midnight. Cooler with low
+around 53. Light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 79. South winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-042130-
+Top of Cadillac Mountain-
+321 AM EDT Tue Sep 4 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny, then becoming mostly cloudy late this
+morning, then becoming sunny. High around 75. South winds 10 to
+15 mph. No lightning risk. 
+.TONIGHT...Mostly clear. Cooler with low around 62. South winds
+around 10 mph until midnight becoming light winds. No lightning
+risk. 
+.WEDNESDAY...Partly sunny. High around 70. South winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ001-042130-
+Top of Deboullie Mountain-
+321 AM EDT Tue Sep 4 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Mostly cloudy until mid morning, then clearing. High around
+71. Northwest winds around 10 mph. No lightning risk. 
+.TONIGHT...Clear. Low around 52. Light winds. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. High around 74. Southwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ006-042130-
+Top of Mars Hill Mountain-
+321 AM EDT Tue Sep 4 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Mostly cloudy until mid morning, then clearing. High around
+74. North winds around 10 mph. No lightning risk. 
+.TONIGHT...Clear. Patchy fog after midnight. Low around 53. Light
+winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. Patchy fog in the morning. High around
+74. South winds 10 mph increasing to 10 to 15 mph in the afternoon.
+No lightning risk. 
+
+$$
+
+MEZ010-042130-
+Top of White Cap Mountain-
+321 AM EDT Tue Sep 4 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly sunny. High around 64. Northwest winds 10 to 15 mph.
+No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 57. Northwest winds around 10 mph until midnight becoming
+light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. Much warmer with high around 80.
+Southwest winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ010-042130-
+Moosehead Lake-
+321 AM EDT Tue Sep 4 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly sunny. High around 74. Light winds. Waves 1 foot. No
+lightning risk. Water temperature 65 degrees Fahrenheit. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Patchy fog after midnight. Low around 55. Waves 1 foot. Light winds.
+No lightning risk. Water temperature 65 degrees Fahrenheit. 
+.WEDNESDAY...Partly sunny. Patchy fog in the morning. High around
+79. Waves 1 foot. Light winds becoming south around 10 mph in the
+afternoon. No lightning risk. Water temperature 65 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-042130-
+Allagash Wilderness Waterway-
+321 AM EDT Tue Sep 4 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Sunny. High around 75. Light winds. No lightning risk. 
+.TONIGHT...Mostly clear. Patchy fog after midnight. Cooler with low
+around 48. Light winds. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. Patchy fog in the morning. High around
+80. South winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-042130-
+St Croix River-
+321 AM EDT Tue Sep 4 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Mostly sunny. High around 79. North winds around 10 mph. No
+lightning risk. 
+.TONIGHT...Clear. Patchy fog after midnight. Much cooler with low
+around 50. Light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 78. Light winds becoming
+south around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-042130-
+West Quoddy Head-
+321 AM EDT Tue Sep 4 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Mostly sunny. High around 74. North winds 10 to 15 mph. No
+lightning risk. Water temperature 57 degrees Fahrenheit. 
+.TONIGHT...Clear. Patchy fog after midnight. Cooler with low around
+55. North winds around 10 mph until midnight becoming light winds.
+No lightning risk. Water temperature 57 degrees Fahrenheit. 
+.WEDNESDAY...Partly sunny. Patchy fog in the morning. High around
+70. Light winds becoming south around 10 mph in the afternoon. No
+lightning risk. Water temperature 57 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-042130-
+Upper Penobscot Watershed-
+321 AM EDT Tue Sep 4 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 79. North winds around 10 mph. No
+lightning risk. 
+.TONIGHT...Mostly clear. Patchy fog after midnight. Cooler with low
+around 53. Light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 79. Light winds becoming
+southwest around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-042130-
+Lower Penobscot Watershed-
+321 AM EDT Tue Sep 4 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 81. North winds around 10 mph. No
+lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Patchy fog after midnight. Cooler with low around 55. Light winds.
+No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 80. Light winds becoming
+south around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

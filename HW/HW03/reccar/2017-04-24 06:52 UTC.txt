@@ -1,0 +1,76 @@
+
+759 
+SXUS41 KCAR 240652
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+252 AM EDT Mon Apr 24 2017
+
+MEZ004-242100-
+Top of Mount Katahdin-
+252 AM EDT Mon Apr 24 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Colder with high around 29. West winds 15 to 20 mph. 
+.TONIGHT...Mostly clear. Low around 27. West winds 10 to 15 mph. 
+.TUESDAY...Partly sunny. A chance of rain in the afternoon. High
+around 38. Southwest winds 10 to 15 mph shifting to the south 15 to
+25 mph in the afternoon. Chance of precipitation 30 percent. 
+
+$$
+
+MEZ029-242100-
+Top of Cadillac Mountain-
+252 AM EDT Mon Apr 24 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny. High around 50. Northwest winds around 10 mph
+this morning becoming light winds. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+37. Light winds becoming east 10 to 15 mph after midnight. 
+.TUESDAY...Mostly sunny in the morning...then becoming mostly
+cloudy. High around 44. Southeast winds 15 to 20 mph increasing to
+around 25 mph in the afternoon. 
+
+$$
+
+MEZ004&gt;006-010-011-031-242100-
+Upper Penobscot Watershed-
+252 AM EDT Mon Apr 24 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+High around 52. Northwest winds around 10 mph. 
+.TONIGHT...Mostly clear. Low around 29. Light winds becoming
+northeast around 10 mph after midnight. Wind chill values as low as
+20 after midnight. 
+.TUESDAY...Partly sunny. High around 53. East winds around 10 mph
+shifting to the southeast in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-242100-
+Lower Penobscot Watershed-
+252 AM EDT Mon Apr 24 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. High around 57. Northwest winds around
+10 mph. 
+.TONIGHT...Mostly clear. Low around 32. Light winds becoming
+northeast around 5 mph after midnight. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. High around 54. East winds around 10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

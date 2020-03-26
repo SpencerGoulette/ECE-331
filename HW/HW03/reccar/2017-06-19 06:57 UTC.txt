@@ -1,0 +1,140 @@
+
+201 
+SXUS41 KCAR 190657
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+257 AM EDT Mon Jun 19 2017
+
+MEZ004-192100-
+Top of Mount Katahdin-
+257 AM EDT Mon Jun 19 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly cloudy. Patchy fog this morning. Scattered showers
+and thunderstorms this morning...then numerous showers and
+thunderstorms this afternoon. Some thunderstorms may produce heavy
+rainfall...then some thunderstorms may produce gusty winds, small
+hail and heavy rainfall this afternoon. High around 65. Southwest
+winds around 15 mph. Chance of precipitation 70 percent. Lightning
+risk is significant. 
+.TONIGHT...Cloudy. Widespread thunderstorms until midnight.
+widespread showers. scattered thunderstorms after midnight. Some
+thunderstorms may produce gusty winds, small hail and heavy rainfall
+until midnight. some thunderstorms may produce heavy rainfall after
+midnight. Low around 54. Southwest winds 10 to 25 mph decreasing to
+10 to 15 mph after midnight. Chance of precipitation 80 percent.
+Lightning risk is extreme. 
+.TUESDAY...Summit obscured in the morning...then becoming cloudy.
+Patchy fog in the morning. Showers likely. a chance of thunderstorms
+in the afternoon. High around 60. Southwest winds 10 to 20 mph.
+Chance of precipitation 70 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ029-192100-
+Top of Cadillac Mountain-
+257 AM EDT Mon Jun 19 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Summit obscured. Areas of fog. Scattered showers this
+afternoon. Near steady temperatures around 66. Southwest winds
+around 20 mph. Chance of precipitation 30 percent. No lightning
+risk. 
+.TONIGHT...Summit in and out of clouds until midnight...then summit
+becoming obscured. Areas of fog until midnight...then patchy fog
+after midnight. Scattered showers until midnight...then numerous
+showers after midnight. Low around 61. Southwest winds around
+25 mph. Chance of precipitation 60 percent. No lightning risk. 
+.TUESDAY...Summit obscured in the morning...then becoming cloudy.
+Patchy fog in the morning. Showers likely in the morning...then a
+chance of showers and thunderstorms in the afternoon. High around
+67. Southwest winds 20 to 25 mph. Chance of precipitation
+60 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ010-192100-
+Moosehead Lake-
+257 AM EDT Mon Jun 19 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Cloudy. Patchy fog this morning. Scattered showers and
+thunderstorms this morning...then widespread showers and
+thunderstorms this afternoon. Some thunderstorms may produce heavy
+rainfall...then some thunderstorms may produce gusty winds, small
+hail and heavy rainfall this afternoon. High around 77. South winds
+around 10 mph. Waves 2 feet. Chance of precipitation 90 percent.
+Lightning risk is extreme. 
+.TONIGHT...Cloudy. Widespread thunderstorms until midnight.
+widespread showers. scattered thunderstorms after midnight. Some
+thunderstorms may produce gusty winds, small hail and heavy rainfall
+until midnight. some thunderstorms may produce heavy rainfall after
+midnight. Low around 62. Waves 3 feet. South winds 10 to 15 mph
+until midnight becoming light winds. Chance of precipitation
+90 percent. Lightning risk is extreme. 
+.TUESDAY...Mostly cloudy. Showers likely. a chance of thunderstorms
+in the afternoon. High around 73. Waves 1 foot. Light winds becoming
+southwest around 10 mph in the afternoon. Chance of precipitation
+70 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ004&gt;006-010-011-031-192100-
+Upper Penobscot Watershed-
+257 AM EDT Mon Jun 19 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. Patchy fog this morning. Scattered showers.
+numerous thunderstorms this afternoon. Some thunderstorms may
+produce gusty winds, small hail and heavy rainfall this afternoon.
+High around 79. South winds around 10 mph. Chance of precipitation
+70 percent. Lightning risk is extreme. 
+.TONIGHT...Cloudy. Numerous thunderstorms until midnight. widespread
+showers. scattered thunderstorms after midnight. Some thunderstorms
+may produce gusty winds, small hail and heavy rainfall until
+midnight. some thunderstorms may produce heavy rainfall after
+midnight. Low around 64. South winds 10 to 15 mph. Chance of
+precipitation 90 percent. Lightning risk is extreme. 
+.TUESDAY...Cloudy. Showers likely in the morning...then a chance of
+showers and thunderstorms in the afternoon. High around 76.
+Southwest winds 10 to 15 mph. Chance of precipitation 70 percent.
+Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-192100-
+Lower Penobscot Watershed-
+257 AM EDT Mon Jun 19 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. Patchy fog this morning. Isolated showers
+this morning...then scattered showers and thunderstorms this
+afternoon. Some thunderstorms may produce gusty winds, small hail
+and heavy rainfall this afternoon. High around 79. South winds 10 to
+15 mph. Chance of precipitation 50 percent. Lightning risk is
+significant. 
+.TONIGHT...Cloudy. Numerous thunderstorms until midnight. widespread
+showers. scattered thunderstorms after midnight. Some thunderstorms
+may produce gusty winds, small hail and heavy rainfall until
+midnight. some thunderstorms may produce heavy rainfall after
+midnight. Low around 65. South winds 10 to 15 mph. Chance of
+precipitation 80 percent. Lightning risk is extreme. 
+.TUESDAY...Cloudy. Showers likely in the morning...then a chance of
+showers and thunderstorms in the afternoon. High around 77.
+Southwest winds 10 to 15 mph. Chance of precipitation 70 percent.
+Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

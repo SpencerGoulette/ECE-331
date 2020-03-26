@@ -1,0 +1,187 @@
+
+363 
+SXUS41 KCAR 240211
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+1011 PM EDT Fri Aug 23 2019
+
+MEZ004-241615-
+Top of Mount Katahdin-
+1011 PM EDT Fri Aug 23 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy. Isolated showers until midnight. Breezy
+with low around 38. Northwest winds 20 to 30 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Breezy with high around 49. North winds 15 to 30 mph. No
+lightning risk. 
+
+$$
+
+MEZ005-241615-
+Katahdin Woods and Waters National Monument-
+1011 PM EDT Fri Aug 23 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Low around 51. Northwest winds 10 to 15 mph. No lightning
+risk. 
+.SATURDAY...Partly sunny. High around 68. North winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ029-241615-
+Top of Cadillac Mountain-
+1011 PM EDT Fri Aug 23 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Low
+around 53. Northwest winds 10 to 20 mph. No lightning risk. 
+.SATURDAY...Partly sunny and windy. High around 70. Northeast winds
+15 to 35 mph decreasing to 10 to 15 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ001-241615-
+Top of Deboullie Mountain-
+1011 PM EDT Fri Aug 23 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy until midnight, then summit becoming
+obscured. Isolated showers until midnight. Low around 47. Northwest
+winds 10 to 20 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+.SATURDAY...Summit obscured in the morning, then becoming partly
+sunny. High around 63. North winds 10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ006-241615-
+Top of Mars Hill Mountain-
+1011 PM EDT Fri Aug 23 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy after
+midnight, then becoming partly cloudy. Isolated showers until
+midnight. Low around 49. West winds 10 to 20 mph shifting to the
+northwest 10 mph after midnight. Chance of precipitation 20 percent.
+No lightning risk. 
+.SATURDAY...Partly sunny. High around 64. North winds 10 to 20 mph.
+No lightning risk. 
+
+$$
+
+MEZ010-241615-
+Top of White Cap Mountain-
+1011 PM EDT Fri Aug 23 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly cloudy through early morning, then summit in and
+out of clouds. Breezy with low around 44. Northwest winds 20 to
+30 mph decreasing to 10 to 25 mph after midnight. No lightning risk.
+.SATURDAY...Summit in and out of clouds. Breezy with high around 55.
+North winds 15 to 30 mph. No lightning risk. 
+
+$$
+
+MEZ010-241615-
+Moosehead Lake-
+1011 PM EDT Fri Aug 23 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Low around 49. Northwest winds 10 to 20 mph decreasing to
+10 mph after midnight. Waves 3 feet. No lightning risk. Water
+temperature 61 degrees Fahrenheit. 
+.SATURDAY...Partly sunny. High around 65. Waves 2 feet. North winds
+10 to 15 mph. No lightning risk. Water temperature 61 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-241615-
+Allagash Wilderness Waterway-
+1011 PM EDT Fri Aug 23 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy through early
+morning, then becoming partly cloudy. Isolated showers early this
+evening. Low around 45. Northwest winds 15 mph becoming 10 mph after
+midnight. Chance of precipitation 20 percent. No lightning risk. 
+.SATURDAY...Partly sunny. High around 67. North winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ030-241615-
+St Croix River-
+1011 PM EDT Fri Aug 23 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear early this evening, then becoming partly
+cloudy. Low around 50. West winds 10 to 15 mph shifting to the
+northwest 10 mph after midnight. No lightning risk. 
+.SATURDAY...Partly sunny. High around 71. North winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ030-241615-
+West Quoddy Head-
+1011 PM EDT Fri Aug 23 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear. Low around 53. Northwest winds 10 to
+15 mph. No lightning risk. Water temperature 55 degrees Fahrenheit. 
+.SATURDAY...Partly sunny. High around 67. North winds 10 to 20 mph.
+No lightning risk. Water temperature 55 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-241615-
+Upper Penobscot Watershed-
+1011 PM EDT Fri Aug 23 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 51. Northwest winds 10 to
+15 mph decreasing to 10 mph after midnight. No lightning risk. 
+.SATURDAY...Partly sunny. High around 70. North winds 10 to 15 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-241615-
+Lower Penobscot Watershed-
+1011 PM EDT Fri Aug 23 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Low around 52. Northwest winds 10 to 15 mph decreasing to
+10 mph after midnight. No lightning risk. 
+.SATURDAY...Partly sunny. High around 73. North winds 10 to 15 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

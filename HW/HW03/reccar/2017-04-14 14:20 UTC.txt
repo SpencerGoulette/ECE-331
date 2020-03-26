@@ -1,0 +1,77 @@
+
+259 
+SXUS41 KCAR 141420
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+1020 AM EDT Fri Apr 14 2017
+
+MEZ004-150430-
+Top of Mount Katahdin-
+1020 AM EDT Fri Apr 14 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.THIS AFTERNOON...Mostly sunny. High around 33. Northwest winds 
+around 15 mph. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+25. Northwest winds 15 to 25 mph. Wind chill values as low as 12. 
+.SATURDAY...Partly sunny. High around 40. West winds 15 to 25 mph.
+Wind chill values as low as 13 in the morning. 
+
+$$
+
+MEZ029-150430-
+Top of Cadillac Mountain-
+1020 AM EDT Fri Apr 14 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.THIS AFTERNOON...Sunny. High around 52. Northwest winds 10 to
+20 mph. 
+.TONIGHT...Clear. Low around 39. West winds 10 to 20 mph. 
+.SATURDAY...Sunny in the morning...then becoming partly sunny. High
+around 50. West winds 10 to 15 mph increasing to southwest 15 to
+30 mph in the afternoon. 
+
+$$
+
+MEZ004&gt;006-010-011-031-150430-
+Upper Penobscot Watershed-
+1020 AM EDT Fri Apr 14 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.THIS AFTERNOON...Sunny. High around 53. Northwest winds around
+10 mph. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+28. Northwest winds around 10 mph until midnight becoming light
+winds. 
+.SATURDAY...Partly sunny. High around 60. Light winds becoming
+southwest around 10 mph in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-150430-
+Lower Penobscot Watershed-
+1020 AM EDT Fri Apr 14 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.THIS AFTERNOON...Sunny. High around 57. Northwest winds around
+10 mph. 
+.TONIGHT...Mostly clear. Low around 29. Northwest winds around
+10 mph until midnight becoming light winds. 
+.SATURDAY...Partly sunny. High around 61. West winds around 5 mph
+shifting to the southwest in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

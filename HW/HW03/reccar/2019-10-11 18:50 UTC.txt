@@ -1,0 +1,212 @@
+
+076 
+SXUS41 KCAR 111850
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+250 PM EDT Fri Oct 11 2019
+
+MEZ004-120900-
+Top of Mount Katahdin-
+250 PM EDT Fri Oct 11 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy, then summit in and out of clouds after midnight,
+then summit becoming obscured by daybreak. A chance of rain after 
+midnight. Windy with low around 39. East winds 25 to 35 mph. Chance 
+of precipitation 50 percent. No lightning risk.
+.SATURDAY...Summit obscured. Rain. patchy drizzle in the afternoon.
+Breezy with high around 45. East winds 15 to 30 mph decreasing to
+10 to 20 mph in the afternoon. Chance of precipitation 80 percent.
+No lightning risk. 
+
+$$
+
+MEZ005-120900-
+Katahdin Woods and Waters National Monument-
+250 PM EDT Fri Oct 11 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. A chance of rain late. Low around 43. Northeast 
+winds 10 to 15 mph. Chance of precipitation 40 percent. No lightning 
+risk. 
+.SATURDAY...Cloudy. Rain likely in the morning...then scattered
+showers with patchy drizzle in the afternoon. Cooler with high
+around 49. Northeast winds 10 to 15 mph. Chance of precipitation
+70 percent. No lightning risk. 
+
+$$
+
+MEZ029-120900-
+Top of Cadillac Mountain-
+250 PM EDT Fri Oct 11 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. A chance of rain until midnight...then
+rain likely after midnight. Windy with low around 47. Northeast
+winds 25 to 35 mph. Chance of precipitation 70 percent. No lightning
+risk. 
+.SATURDAY...Summit obscured. Rain likely in the morning...then
+scattered showers with patchy drizzle in the afternoon. Breezy with
+high around 52. Northeast winds 20 to 30 mph decreasing to 15 to
+20 mph in the afternoon. Chance of precipitation 70 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-120900-
+Top of Deboullie Mountain-
+250 PM EDT Fri Oct 11 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. A chance of rain very late. Low around 37. East winds 10 to 
+20 mph. Chance of precipitation 30 percent. No lightning risk.
+.SATURDAY...Summit obscured. Rain likely in the morning...then
+scattered showers with patchy drizzle in the afternoon. High around
+46. East winds 10 to 15 mph. Chance of precipitation 60 percent. No
+lightning risk. 
+
+$$
+
+MEZ006-120900-
+Top of Mars Hill Mountain-
+250 PM EDT Fri Oct 11 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy. A chance of rain late. Low around 42. East
+winds 10 to 15 mph shifting to the northeast 10 mph after midnight. 
+Chance of precipitation 40 percent. No lightning risk. 
+.SATURDAY...Cloudy. Rain likely in the morning...then scattered
+showers with patchy drizzle in the afternoon. Cooler with high
+around 49. Northeast winds 10 to 15 mph. Chance of precipitation
+70 percent. No lightning risk. 
+
+$$
+
+MEZ010-120900-
+Top of White Cap Mountain-
+250 PM EDT Fri Oct 11 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy until midnight, then summit becoming obscured. A 
+chance of rain late. Windy with low around 39. East winds 25 to 35 
+mph. Chance of precipitation 40 percent. No lightning risk. 
+.SATURDAY...Summit obscured. Rain likely. patchy drizzle in the
+afternoon. Breezy with high around 44. East winds 20 to 30 mph
+becoming northeast 10 to 20 mph in the afternoon. Chance of
+precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ010-120900-
+Moosehead Lake-
+250 PM EDT Fri Oct 11 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. A slight chance of rain after midnight. A chance
+of rain late. Low around 41. Northeast winds 10 to 15 mph. Waves
+2 feet. Chance of precipitation 40 percent. No lightning risk. 
+.SATURDAY...Cloudy. A chance of rain in the morning...then scattered
+showers with patchy drizzle in the afternoon. Cooler with high
+around 50. Waves 2 feet. Northeast winds 10 to 15 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ001-120900-
+Allagash Wilderness Waterway-
+250 PM EDT Fri Oct 11 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. A chance of rain late. Low around 37. East winds 10 mph.
+Chance of precipitation 30 percent. No lightning risk. 
+.SATURDAY...Cloudy. A chance of rain in the morning...then scattered
+showers with patchy drizzle in the afternoon. Cooler with high
+around 49. Northeast winds 15 mph. Chance of precipitation
+50 percent. No lightning risk. 
+
+$$
+
+MEZ030-120900-
+St Croix River-
+250 PM EDT Fri Oct 11 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. A slight chance of rain until midnight. A chance
+of rain after midnight. Low around 42. Northeast winds 10 to 15 mph.
+Chance of precipitation 50 percent. No lightning risk. 
+.SATURDAY...Cloudy. Rain likely in the morning...then scattered
+showers with patchy drizzle in the afternoon. High around 52.
+Northeast winds 10 to 15 mph. Chance of precipitation 70 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-120900-
+West Quoddy Head-
+250 PM EDT Fri Oct 11 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. A chance of rain until midnight...then rain
+likely after midnight. Breezy with low around 46. Northeast winds
+20 to 30 mph. Chance of precipitation 70 percent. No lightning risk.
+Water temperature 52 degrees Fahrenheit. 
+.SATURDAY...Cloudy. Rain likely in the morning...then scattered
+showers with patchy drizzle in the afternoon. High around 54.
+Northeast winds 10 to 25 mph. Chance of precipitation 70 percent. No
+lightning risk. Water temperature 52 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-120900-
+Upper Penobscot Watershed-
+250 PM EDT Fri Oct 11 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A slight chance of rain through early morning. A
+chance of rain late. Low around 43. Northeast winds 10 to 15 mph.
+Chance of precipitation 50 percent. No lightning risk. 
+.SATURDAY...Cloudy. Rain likely in the morning...then scattered
+showers with patchy drizzle in the afternoon. Cooler with high
+around 51. Northeast winds 10 to 15 mph. Chance of precipitation
+70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-120900-
+Lower Penobscot Watershed-
+250 PM EDT Fri Oct 11 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A slight chance of rain until midnight. A chance
+of rain after midnight. Low around 45. Northeast winds 10 to 15 mph.
+Chance of precipitation 50 percent. No lightning risk. 
+.SATURDAY...Cloudy. Rain likely in the morning...then scattered
+showers with patchy drizzle in the afternoon. Cooler with high
+around 52. Northeast winds 10 to 15 mph. Chance of precipitation
+60 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

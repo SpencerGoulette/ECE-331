@@ -1,0 +1,101 @@
+
+436 
+SXUS41 KCAR 300658
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+258 AM EDT Tue May 30 2017
+
+MEZ004-302100-
+Top of Mount Katahdin-
+258 AM EDT Tue May 30 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit in and out of clouds this morning...then becoming
+mostly cloudy. High around 49. South winds 15 to 20 mph. 
+.TONIGHT...Cloudy until midnight...then summit becoming obscured.
+Showers. Low around 43. Southwest winds 20 to 25 mph. Chance of
+precipitation 90 percent. 
+.WEDNESDAY...Summit in and out of clouds in the morning...then
+becoming mostly cloudy. Patchy fog in the morning. Showers likely.
+High around 48. Southwest winds 15 to 25 mph increasing to 25 to
+35 mph in the afternoon. Chance of precipitation 70 percent. 
+
+$$
+
+MEZ029-302100-
+Top of Cadillac Mountain-
+258 AM EDT Tue May 30 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+High around 51. South winds 10 to 15 mph. 
+.TONIGHT...Mostly cloudy until midnight...then summit in and out of
+clouds. A chance of showers after midnight. Low around 46. South
+winds around 15 mph. Chance of precipitation 50 percent. 
+.WEDNESDAY...Summit obscured. Patchy fog in the morning. Showers
+likely in the morning...then a chance of showers in the afternoon.
+High around 53. Southwest winds 15 to 25 mph. Chance of
+precipitation 60 percent. 
+
+$$
+
+MEZ010-302100-
+Moosehead Lake-
+258 AM EDT Tue May 30 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy. Patchy fog this morning. Scattered showers
+this afternoon. High around 58. South winds 10 to 15 mph. Waves
+3 feet. Chance of precipitation 40 percent. 
+.TONIGHT...Cloudy, showers. Patchy fog after midnight. Low around
+47. Waves 2 feet. South winds around 10 mph. Chance of precipitation
+near 100 percent. 
+.WEDNESDAY...Mostly cloudy. Patchy fog in the morning. A chance of
+showers. a chance of thunderstorms in the afternoon. High around 61.
+Waves 1 foot. South winds around 10 mph. Chance of precipitation
+50 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-302100-
+Upper Penobscot Watershed-
+258 AM EDT Tue May 30 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. High around 64. South winds around 5 mph. 
+.TONIGHT...Cloudy, showers. Low around 47. South winds around
+10 mph. Chance of precipitation near 100 percent. 
+.WEDNESDAY...Cloudy. Patchy fog in the morning. Showers in the
+morning...then a chance of showers in the afternoon. High around 58.
+South winds around 10 mph. Chance of precipitation 80 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-302100-
+Lower Penobscot Watershed-
+258 AM EDT Tue May 30 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+High around 65. South winds around 5 mph. 
+.TONIGHT...Cloudy. A chance of showers until midnight...then showers
+after midnight. Low around 48. South winds around 10 mph. Chance of
+precipitation 90 percent. 
+.WEDNESDAY...Cloudy. Patchy fog in the morning. Showers in the
+morning...then a chance of showers in the afternoon. High around 60.
+South winds around 10 mph. Chance of precipitation 80 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

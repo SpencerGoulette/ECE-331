@@ -1,0 +1,82 @@
+
+476 
+SXUS41 KCAR 290654
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+254 AM EDT Sat Apr 29 2017
+
+MEZ004-292100-
+Top of Mount Katahdin-
+254 AM EDT Sat Apr 29 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Numerous showers late this morning. Scattered showers this 
+afternoon. High around 47. West winds 20 to 30 mph with gusts
+up 40 mph. Chance of precipitation 60 percent. 
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Much cooler with low around 19. Northwest winds 25 to
+35 mph. Wind chill values as low as 5 above. 
+.SUNDAY...Mostly sunny. Cooler with high around 36. North winds
+10 to 20 mph. Wind chill values as low as 13 in the morning. 
+
+$$
+
+MEZ029-292100-
+Top of Cadillac Mountain-
+254 AM EDT Sat Apr 29 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly cloudy. Scattered showers. High around 60. West
+winds 10 to 20 mph. Chance of precipitation 50 percent. 
+.TONIGHT...Clear, cooler with low around 37. Northwest winds 15 to 
+25 mph. 
+.SUNDAY...Mostly sunny. Cooler with high around 48. Northwest winds
+10 to 20 mph. 
+
+$$
+
+MEZ004&gt;006-010-011-031-292100-
+Upper Penobscot Watershed-
+254 AM EDT Sat Apr 29 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Scattered showers. High around 66. Southwest winds around 5 mph
+shifting to the west at 15 to 25 mph this afternoon. Chance of 
+precipitation 50 percent. 
+.TONIGHT...Mostly clear. Cooler with low around 34. Northwest winds
+10 to 15 mph. 
+.SUNDAY...Mostly sunny. High around 57. North winds around 5 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-292100-
+Lower Penobscot Watershed-
+254 AM EDT Sat Apr 29 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Scattered showers. High around 69. Southwest winds around 5 mph
+shifting to the west at 15 to 25 mph this afternoon. Chance of 
+precipitation 50 percent. 
+.TONIGHT...Clear, cooler with low around 38. Northwest winds 10 to
+15 mph. 
+.SUNDAY...Mostly sunny. Cooler with high around 59. North winds
+around 5 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

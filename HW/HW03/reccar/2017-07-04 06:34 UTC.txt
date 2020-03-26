@@ -1,0 +1,117 @@
+
+210 
+SXUS41 KCAR 040634
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+234 AM EDT Tue Jul 4 2017
+
+MEZ004-042045-
+Top of Mount Katahdin-
+234 AM EDT Tue Jul 4 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit obscured this morning...then becoming cloudy.
+Isolated showers this morning. Cooler with high around 51. North
+winds 10 to 15 mph. Chance of precipitation 20 percent. Lightning
+risk is limited. 
+.TONIGHT...Partly cloudy. Low around 49. North winds around 10 mph.
+No lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 58. Light winds becoming west
+around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ005-042045-
+Katahdin Woods and Waters National Monument-
+234 AM EDT Tue Jul 4 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Isolated showers this morning. High around 72. Northwest winds
+around 10 mph. Chance of precipitation 20 percent. Lightning risk is
+limited. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+clear. Low around 52. Light winds. No lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 77. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ029-042045-
+Top of Cadillac Mountain-
+234 AM EDT Tue Jul 4 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny. Isolated showers this afternoon. Not as warm
+with high around 68. Northwest winds around 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+60. Light winds becoming northwest around 10 mph after midnight. No
+lightning risk. 
+.WEDNESDAY...Sunny. High around 70. Northwest winds around 10 mph
+shifting to the southwest in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-042045-
+Moosehead Lake-
+234 AM EDT Tue Jul 4 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Isolated showers and thunderstorms this afternoon. High around 70.
+Light winds becoming northwest around 10 mph this afternoon. Waves
+1 foot. Chance of precipitation 20 percent. Lightning risk is
+limited. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+50. Waves 1 foot. Light winds. No lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 74. Waves 1 foot. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-042045-
+Upper Penobscot Watershed-
+234 AM EDT Tue Jul 4 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Isolated showers. isolated thunderstorms this afternoon. High around
+73. Northwest winds around 10 mph. Chance of precipitation
+20 percent. Lightning risk is limited. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+52. Light winds. No lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 79. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-042045-
+Lower Penobscot Watershed-
+234 AM EDT Tue Jul 4 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Isolated showers. isolated thunderstorms this afternoon. High around
+75. Northwest winds around 10 mph. Chance of precipitation
+20 percent. Lightning risk is limited. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+55. Light winds. No lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 80. Light winds becoming west
+around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

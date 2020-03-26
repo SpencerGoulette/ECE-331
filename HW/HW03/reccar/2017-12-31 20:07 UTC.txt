@@ -1,0 +1,198 @@
+
+431 
+SXUS41 KCAR 312007
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+307 PM EST Sun Dec 31 2017
+
+MEZ004-011015-
+Top of Mount Katahdin-
+307 PM EST Sun Dec 31 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy through early morning...then becoming
+partly cloudy. Brisk, cold. Near steady temperatures around 7 below.
+Northwest winds 20 to 35 mph decreasing to 15 to 30 mph after 
+midnight. Wind chill values as low as 35 below. No lightning risk. 
+.NEW YEARS DAY...Partly sunny in the morning...then summit becoming
+obscured. High around 2 below. Northwest winds 10 to 20 mph. Wind 
+chill values as low as 25 below. No lightning risk. 
+
+$$
+
+MEZ005-011015-
+Katahdin Woods and Waters National Monument-
+307 PM EST Sun Dec 31 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy early this evening...then becoming partly
+cloudy. Cold with low around 12 below. Northwest winds 10 to 15 mph.
+Wind chill values as low as 30 below. No lightning risk. 
+.NEW YEARS DAY...Partly sunny. High around 1 below. Northwest winds
+around 10 mph. Wind chill values as low as 27 below. No lightning
+risk. 
+
+$$
+
+MEZ029-011015-
+Top of Cadillac Mountain-
+307 PM EST Sun Dec 31 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear and brisk, cold with low around 6 below.
+Northwest winds 20 to 30 mph. Wind chill values as low as 30 below. 
+No lightning risk. 
+.NEW YEARS DAY...Partly sunny. High around 1 above. Northwest winds
+around 20 mph. Wind chill values as low as 27 below. No lightning
+risk. 
+
+$$
+
+MEZ001-011015-
+Top of Deboullie Mountain-
+307 PM EST Sun Dec 31 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy through early morning...then becoming
+partly cloudy. Cold with low around 13 below. West winds 15 to
+25 mph. Wind chill values as low as 37 below. No lightning risk. 
+.NEW YEARS DAY...Partly sunny in the morning...then becoming mostly
+cloudy. Cold with high around 6 below. Northwest winds around
+15 mph. Wind chill values as low as 34 below. No lightning risk. 
+
+$$
+
+MEZ006-011015-
+Top of Mars Hill Mountain-
+307 PM EST Sun Dec 31 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Brisk, cold with low around 13 below. Northwest winds 15 to
+25 mph. Wind chill values as low as 37 below. No lightning risk. 
+.NEW YEARS DAY...Partly sunny in the morning...then becoming mostly
+cloudy. High around 4 below. Northwest winds around 15 mph. Wind
+chill values as low as 33 below. No lightning risk. 
+
+$$
+
+MEZ010-011015-
+Top of White Cap Mountain-
+307 PM EST Sun Dec 31 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Windy, cold with low around 12 below. Northwest winds around
+25 to 35 mph decreasing to 20 to 30 mph after midnight. Wind chill 
+values as low as 40 below. No lightning risk. 
+.NEW YEARS DAY...Partly sunny. Cold with high around 5 below.
+Northwest winds around 20 mph. Wind chill values as low as 35 below.
+No lightning risk. 
+
+$$
+
+MEZ010-011015-
+Moosehead Lake-
+307 PM EST Sun Dec 31 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy through early morning...then becoming
+mostly clear. Cold with low around 15 below. Northwest winds 10 to
+15 mph. Wind chill values as low as 36 below. No lightning risk. 
+.NEW YEARS DAY...Partly sunny. High around 4 below. Northwest winds
+10 to 15 mph. Wind chill values as low as 32 below. No lightning
+risk. 
+
+$$
+
+MEZ001-011015-
+Allagash Wilderness Waterway-
+307 PM EST Sun Dec 31 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Cold with low around 27 below. West winds 10 to 15 mph. Wind
+chill values as low as 42 below. No lightning risk. 
+.NEW YEARS DAY...Partly sunny in the morning...then becoming mostly
+cloudy. High around 3 below. West winds around 10 mph. Wind chill
+values as low as 46 below in the morning. No lightning risk. 
+
+$$
+
+MEZ030-011015-
+St Croix River-
+307 PM EST Sun Dec 31 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Cold with
+low around 10 below. Northwest winds around 10 mph. Wind chill
+values as low as 26 below. No lightning risk. 
+.NEW YEARS DAY...Partly sunny. High around 4 above. Northwest winds
+around 10 mph. Wind chill values as low as 27 below in the morning.
+No lightning risk. 
+
+$$
+
+MEZ030-011015-
+West Quoddy Head-
+307 PM EST Sun Dec 31 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy. Low around zero. Northwest winds 15 to
+20 mph. Wind chill values as low as 20 below. No lightning risk.
+Water temperature 44 degrees Fahrenheit. 
+.NEW YEARS DAY...Partly sunny. High around 10 above. Northwest winds
+around 15 mph. Wind chill values as low as 16 below. No lightning
+risk. Water temperature 44 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-011015-
+Upper Penobscot Watershed-
+307 PM EST Sun Dec 31 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy through early morning...then clearing. Cold
+with low around 13 below. Northwest winds 10 to 15 mph. Wind chill
+values as low as 35 below. No lightning risk. 
+.NEW YEARS DAY...Partly sunny. High around zero. Northwest winds
+around 10 mph. Wind chill values as low as 35 below. No lightning 
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-011015-
+Lower Penobscot Watershed-
+307 PM EST Sun Dec 31 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Cold with low around 14 below. Northwest
+winds around 10 mph. Wind chill values as low as 28 below. No
+lightning risk. 
+.NEW YEARS DAY...Sunny in the morning...then becoming partly sunny.
+High around 2 above. Northwest winds around 10 mph. Wind chill
+values as low as 24 below. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

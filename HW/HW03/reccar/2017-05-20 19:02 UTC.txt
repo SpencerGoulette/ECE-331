@@ -1,0 +1,78 @@
+
+934 
+SXUS41 KCAR 201902
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+302 PM EDT Sat May 20 2017
+
+MEZ004-210915-
+Top of Mount Katahdin-
+302 PM EDT Sat May 20 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Areas of frost until midnight. widespread frost
+after midnight. Low around 26. North winds around 20 mph. Wind chill
+values as low as 12. 
+.SUNDAY...Sunny. Areas of frost in the morning. Not as cool with
+high around 48. North winds 10 to 20 mph. Wind chill values as low
+as 17 in the morning. 
+
+$$
+
+MEZ029-210915-
+Top of Cadillac Mountain-
+302 PM EDT Sat May 20 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 38. North winds around 15 mph. 
+.SUNDAY...Sunny. High around 63. Northwest winds 10 to 15 mph. 
+
+$$
+
+MEZ010-210915-
+Moosehead Lake-
+302 PM EDT Sat May 20 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Patchy frost after midnight. Low around 33. North
+winds around 10 mph until midnight becoming light winds. Waves
+1 foot. 
+.SUNDAY...Sunny. Patchy frost in the morning. High around 64. Waves
+1 foot. Light winds. 
+
+$$
+
+MEZ004&gt;006-010-011-031-210915-
+Upper Penobscot Watershed-
+302 PM EDT Sat May 20 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy frost after midnight. Low around 35. North
+winds around 10 mph. 
+.SUNDAY...Sunny. High around 67. North winds around 10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-210915-
+Lower Penobscot Watershed-
+302 PM EDT Sat May 20 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy frost after midnight. Low around 36. North
+winds around 5 mph until midnight becoming light winds. 
+.SUNDAY...Sunny. High around 68. North winds around 10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

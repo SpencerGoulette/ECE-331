@@ -1,0 +1,183 @@
+
+624 
+SXUS41 KCAR 122016
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+416 PM EDT Thu Sep 12 2019
+
+MEZ004-131000-
+Top of Mount Katahdin-
+416 PM EDT Thu Sep 12 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds, then becoming clear. Patchy 
+frost late. Low around 35. North winds 15 to 25 mph. No lightning 
+risk. 
+.FRIDAY...Sunny. Patchy frost in the morning. High around 44. North
+winds 10 to 20 mph shifting to the east 10 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ005-131000-
+Katahdin Woods and Waters National Monument-
+416 PM EDT Thu Sep 12 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Patchy fog late. Low around 40. North winds
+10 mph. No lightning risk. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 63. North
+winds 10 mph shifting to the east in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ029-131000-
+Top of Cadillac Mountain-
+416 PM EDT Thu Sep 12 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear, windy with low around 49. North winds 15 to 25 mph
+increasing to 20 to 35 mph after midnight. No lightning risk. 
+.FRIDAY...Sunny, windy with high around 59. Northeast winds 20 to
+35 mph decreasing to 10 to 20 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ001-131000-
+Top of Deboullie Mountain-
+416 PM EDT Thu Sep 12 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear. Areas of frost late. Low around 33. North winds 10
+mph. No lightning risk. 
+.FRIDAY...Sunny. Areas of frost in the morning. High around 59.
+North winds 10 mph shifting to the east in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ006-131000-
+Top of Mars Hill Mountain-
+416 PM EDT Thu Sep 12 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear. Patchy fog late. Low around 37. North winds 10 to
+15 mph decreasing to 10 mph after midnight. No lightning risk. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 61. North
+winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ010-131000-
+Top of White Cap Mountain-
+416 PM EDT Thu Sep 12 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds, then becoming clear. Low 
+around 39. North winds 15 to 25 mph. No lightning risk. 
+.FRIDAY...Sunny. High around 50. North winds 10 to 20 mph shifting
+to the east 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-131000-
+Moosehead Lake-
+416 PM EDT Thu Sep 12 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Patchy fog late. Cooler with low around 37. North
+winds 10 to 15 mph decreasing to 10 mph after midnight. Waves
+1 foot. No lightning risk. Water temperature 62 degrees Fahrenheit. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 60. Waves
+1 foot. North winds 10 mph shifting to the east in the afternoon. No
+lightning risk. Water temperature 62 degrees Fahrenheit. 
+
+$$
+
+MEZ001-131000-
+Allagash Wilderness Waterway-
+416 PM EDT Thu Sep 12 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear. Areas of frost with patchy fog late. Cooler with 
+low around 31. North winds 10 mph. No lightning risk. 
+.FRIDAY...Sunny. Areas of frost with patchy fog in the morning. High
+around 63. North winds 10 mph shifting to the east in the afternoon.
+No lightning risk. 
+
+$$
+
+MEZ030-131000-
+St Croix River-
+416 PM EDT Thu Sep 12 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Patchy fog late. Cooler with low around 37. North
+winds 10 mph. No lightning risk. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 63. North
+winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-131000-
+West Quoddy Head-
+416 PM EDT Thu Sep 12 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Patchy fog late. Cooler with low around 43. North
+winds 10 to 20 mph. No lightning risk. Water temperature 53 degrees
+Fahrenheit. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 57. North
+winds 10 to 20 mph becoming east 10 mph in the afternoon. No
+lightning risk. Water temperature 53 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-131000-
+Upper Penobscot Watershed-
+416 PM EDT Thu Sep 12 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy fog late. Low around 40. North winds 10 to
+15 mph decreasing to 10 mph after midnight. No lightning risk. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 63. North
+winds 10 mph shifting to the east in the afternoon. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-131000-
+Lower Penobscot Watershed-
+416 PM EDT Thu Sep 12 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy fog late. Cooler with low around 42. North
+winds 10 to 15 mph decreasing to 10 mph after midnight. No lightning
+risk. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 65. North
+winds 10 to 15 mph shifting to the northeast 10 mph in the
+afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

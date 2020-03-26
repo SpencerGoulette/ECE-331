@@ -1,0 +1,183 @@
+
+767 
+SXUS41 KCAR 171943
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+343 PM EDT Thu May 17 2018
+
+MEZ004-180945-
+Top of Mount Katahdin-
+343 PM EDT Thu May 17 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Patchy frost late this evening. Areas of frost 
+after midnight. Much cooler with low around 25. Northwest winds 15 to
+20 mph. Wind chill values as low as 12. No lightning risk. 
+.FRIDAY...Sunny. Areas of frost. High around 38. Northwest winds
+10 to 15 mph decreasing to 10 mph in the afternoon. Wind chill
+values as low as 13 in the morning. No lightning risk. 
+
+$$
+
+MEZ005-180945-
+Katahdin Woods and Waters National Monument-
+343 PM EDT Thu May 17 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Areas of frost late. Cooler with low around 31.
+North winds around 10 mph until midnight becoming light winds. No
+lightning risk. 
+.FRIDAY...Sunny. Patchy frost in the morning. High around 59. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ029-180945-
+Top of Cadillac Mountain-
+343 PM EDT Thu May 17 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Isolated
+showers early this evening. Low around 43. North winds 10 to 20 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+.FRIDAY...Sunny, cooler with high around 53. Northeast winds 10 to
+20 mph in the morning becoming light winds. No lightning risk. 
+
+$$
+
+MEZ001-180945-
+Top of Deboullie Mountain-
+343 PM EDT Thu May 17 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear. Areas of frost after midnight. Cooler with low
+around 29. North winds around 10 mph. Wind chill values as low as
+19. No lightning risk. 
+.FRIDAY...Sunny. Areas of frost in the morning. High around 49.
+Northwest winds around 10 mph in the morning becoming light winds.
+No lightning risk. 
+
+$$
+
+MEZ006-180945-
+Top of Mars Hill Mountain-
+343 PM EDT Thu May 17 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear. Patchy frost after midnight. Areas of frost late. 
+Cooler with low around 31. North winds 10 to 15 mph. No lightning 
+risk. 
+.FRIDAY...Sunny. Areas of frost in the morning. High around 51.
+Northwest winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ010-180945-
+Top of White Cap Mountain-
+343 PM EDT Thu May 17 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Patchy frost after midnight. Areas of frost late. 
+Much cooler with low around 30. North winds around 15 mph. No 
+lightning risk. 
+.FRIDAY...Sunny. Areas of frost in the morning. High around 46.
+North winds 10 to 15 mph in the morning becoming light winds. Wind
+chill values as low as 20 in the morning. No lightning risk. 
+
+$$
+
+MEZ010-180945-
+Moosehead Lake-
+343 PM EDT Thu May 17 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Areas of frost late. Cooler with low around 31.
+North winds around 10 mph. Waves 2 feet. No lightning risk. 
+.FRIDAY...Sunny. Areas of frost in the morning. High around 57.
+Waves 1 foot. North winds around 10 mph in the morning becoming
+light winds. No lightning risk. 
+
+$$
+
+MEZ001-180945-
+Allagash Wilderness Waterway-
+343 PM EDT Thu May 17 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear. Areas of frost after midnight. Much cooler with
+low around 27. North winds around 10 mph until midnight becoming
+light winds. Wind chill values as low as 19. No lightning risk. 
+.FRIDAY...Sunny. Areas of frost in the morning. High around 56.
+Light winds. No lightning risk. 
+
+$$
+
+MEZ030-180945-
+St Croix River-
+343 PM EDT Thu May 17 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Patchy frost late. Low around 34. North winds
+around 10 mph. No lightning risk. 
+.FRIDAY...Sunny. High around 60. North winds around 10 mph in the
+morning becoming light winds. No lightning risk. 
+
+$$
+
+MEZ030-180945-
+West Quoddy Head-
+343 PM EDT Thu May 17 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Low
+around 40. North winds around 10 mph. No lightning risk. Water
+temperature 44 degrees Fahrenheit. 
+.FRIDAY...Sunny. High around 53. North winds around 10 mph in the
+morning becoming light winds. No lightning risk. Water temperature
+44 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-180945-
+Upper Penobscot Watershed-
+343 PM EDT Thu May 17 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy frost late. Cooler with low around 33.
+North winds around 10 mph. No lightning risk. 
+.FRIDAY...Sunny. High around 61. North winds around 10 mph in the
+morning becoming light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-180945-
+Lower Penobscot Watershed-
+343 PM EDT Thu May 17 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy frost late. Low around 36. North winds
+around 10 mph. No lightning risk. 
+.FRIDAY...Sunny. High around 62. North winds around 10 mph in the
+morning becoming light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

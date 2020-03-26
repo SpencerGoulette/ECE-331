@@ -1,0 +1,187 @@
+
+287 
+SXUS41 KCAR 061832
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+232 PM EDT Thu Jun 6 2019
+
+MEZ004-070845-
+Top of Mount Katahdin-
+232 PM EDT Thu Jun 6 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Low around 37. North winds 10 to 20 mph decreasing
+to 15 mph after midnight. No lightning risk. 
+.FRIDAY...Mostly sunny. A chance of showers in the afternoon. Breezy
+with high around 50. West winds 20 mph increasing to northwest in
+the afternoon. Chance of precipitation 40 percent. No lightning
+risk. 
+
+$$
+
+MEZ005-070845-
+Katahdin Woods and Waters National Monument-
+232 PM EDT Thu Jun 6 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Low around 44. North winds 10 to 15 mph shifting
+to the northwest after midnight. No lightning risk. 
+.FRIDAY...Mostly sunny. A chance of showers in the afternoon. High
+around 71. West winds 10 mph increasing to 10 to 15 mph in the
+afternoon. Chance of precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ029-070845-
+Top of Cadillac Mountain-
+232 PM EDT Thu Jun 6 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Low
+around 48. Northwest winds 10 to 20 mph shifting to the northeast
+20 mph after midnight. No lightning risk. 
+.FRIDAY...Sunny. High around 65. Northwest winds 10 mph increasing
+to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-070845-
+Top of Deboullie Mountain-
+232 PM EDT Thu Jun 6 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear. Low around 39. Northwest winds 10 to 15 mph
+decreasing to 10 mph after midnight. No lightning risk. 
+.FRIDAY...Mostly sunny. A chance of showers in the afternoon. High
+around 65. West winds 10 to 20 mph. Chance of precipitation
+30 percent. No lightning risk. 
+
+$$
+
+MEZ006-070845-
+Top of Mars Hill Mountain-
+232 PM EDT Thu Jun 6 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear. Low around 40. Northwest winds 15 mph. No
+lightning risk. 
+.FRIDAY...Sunny in the morning, then becoming partly sunny. A slight
+chance of showers in the afternoon. High around 68. Southwest winds
+10 mph shifting to the west in the afternoon. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ010-070845-
+Top of White Cap Mountain-
+232 PM EDT Thu Jun 6 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear, breezy with low around 42. Northwest winds 20 to
+30 mph shifting to the east 10 to 25 mph after midnight. No
+lightning risk. 
+.FRIDAY...Sunny in the morning, then becoming partly sunny. A chance
+of showers in the afternoon. Breezy with high around 57. West winds
+10 to 30 mph. Chance of precipitation 40 percent. No lightning risk.
+
+$$
+
+MEZ010-070845-
+Moosehead Lake-
+232 PM EDT Thu Jun 6 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Low around 44. Northwest winds 10 to 15 mph
+decreasing to 10 mph after midnight. Waves 1 foot. No lightning
+risk. 
+.FRIDAY...Sunny in the morning, then becoming partly sunny. A chance
+of showers in the afternoon. High around 68. Waves 2 feet. West
+winds 10 mph increasing to 10 to 15 mph in the afternoon. Chance of
+precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ001-070845-
+Allagash Wilderness Waterway-
+232 PM EDT Thu Jun 6 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear. Patchy frost after midnight. Low around 36.
+Northwest winds 10 mph. No lightning risk. 
+.FRIDAY...Partly sunny. A chance of showers in the afternoon. High
+around 70. West winds 15 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-070845-
+St Croix River-
+232 PM EDT Thu Jun 6 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear. Low around 44. North winds 10 mph. No
+lightning risk. 
+.FRIDAY...Sunny. High around 73. North winds 10 mph shifting to the
+west in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-070845-
+West Quoddy Head-
+232 PM EDT Thu Jun 6 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Patchy
+fog until midnight. Low around 44. North winds 10 mph. No lightning
+risk. Water temperature 43 degrees Fahrenheit. 
+.FRIDAY...Mostly sunny. High around 58. Northeast winds 10 mph
+shifting to the south in the afternoon. No lightning risk. Water
+temperature 43 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-070845-
+Upper Penobscot Watershed-
+232 PM EDT Thu Jun 6 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear, cooler with low around 44. North winds 10 mph. No
+lightning risk. 
+.FRIDAY...Sunny in the morning, then becoming partly sunny. A chance
+of showers in the afternoon. High around 73. Northwest winds 10 mph
+shifting to the west in the afternoon. Chance of precipitation
+40 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-070845-
+Lower Penobscot Watershed-
+232 PM EDT Thu Jun 6 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 47. North winds 10 mph. No
+lightning risk. 
+.FRIDAY...Sunny. High around 75. North winds 10 mph shifting to the
+west in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

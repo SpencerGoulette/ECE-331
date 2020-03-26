@@ -1,0 +1,185 @@
+
+538 
+SXUS41 KCAR 061942
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+242 PM EST Wed Dec 6 2017
+
+MEZ004-070945-
+Top of Mount Katahdin-
+242 PM EST Wed Dec 6 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear...then becoming mostly cloudy late this
+evening...then summit in and out of clouds. Brisk and much cooler
+with low around 12. West winds around 25 mph. Wind chill values as
+low as 7 below. No lightning risk. 
+.THURSDAY...Summit in and out of clouds. Brisk with high around 23.
+West winds 20 to 25 mph. Wind chill values as low as 3 below. No
+lightning risk. 
+
+$$
+
+MEZ005-070945-
+Katahdin Woods and Waters National Monument-
+242 PM EST Wed Dec 6 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly clear through early morning...then becoming partly
+cloudy. Cooler with low around 24. Light winds. No lightning risk. 
+.THURSDAY...Partly sunny. High around 36. Southwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ029-070945-
+Top of Cadillac Mountain-
+242 PM EST Wed Dec 6 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear, cooler with low around 31. West winds 10 to
+15 mph. Wind chill values as low as 20. No lightning risk. 
+.THURSDAY...Mostly sunny. Cooler with high around 38. West winds
+around 15 mph. No lightning risk. 
+
+$$
+
+MEZ001-070945-
+Top of Deboullie Mountain-
+242 PM EST Wed Dec 6 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly clear...then becoming mostly cloudy late this
+evening...then summit in and out of clouds. Cooler with low around
+21. West winds around 15 mph. Wind chill values as low as 7 above.
+No lightning risk. 
+.THURSDAY...Summit in and out of clouds in the morning...then
+becoming mostly cloudy. A slight chance of snow showers. High around
+29. Southwest winds around 15 mph. Wind chill values as low as 11. 
+No lightning risk. 
+
+$$
+
+MEZ006-070945-
+Top of Mars Hill Mountain-
+242 PM EST Wed Dec 6 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 23. Southwest winds 10 to 15 mph. No lightning
+risk. 
+.THURSDAY...Partly sunny. High around 32. Southwest winds 10 to
+15 mph. Wind chill values as low as 15. No lightning risk. 
+
+$$
+
+MEZ010-070945-
+Top of White Cap Mountain-
+242 PM EST Wed Dec 6 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly clear...then becoming mostly cloudy late this
+evening...then becoming partly cloudy...then becoming mostly cloudy
+late. Cooler with low around 20. West winds 15 to 20 mph. Wind chill
+values as low as 5 above. No lightning risk. 
+.THURSDAY...Summit in and out of clouds in the morning...then
+becoming mostly cloudy. High around 28. West winds around 15 mph.
+Wind chill values as low as 9 above. No lightning risk. 
+
+$$
+
+MEZ010-070945-
+Moosehead Lake-
+242 PM EST Wed Dec 6 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Cooler with low around 26. Southwest winds around 10 mph.
+Waves 1 foot. No lightning risk. 
+.THURSDAY...Mostly cloudy in the morning...then becoming partly
+sunny. High around 35. Waves 2 feet. Southwest winds around 10 mph.
+No lightning risk. 
+
+$$
+
+MEZ001-070945-
+Allagash Wilderness Waterway-
+242 PM EST Wed Dec 6 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly clear...then becoming partly cloudy through early
+morning...then becoming mostly cloudy. Cooler with low around 22.
+Southwest winds around 10 mph. No lightning risk. 
+.THURSDAY...Mostly cloudy. A slight chance of snow showers. High
+around 33. Southwest winds around 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ030-070945-
+St Croix River-
+242 PM EST Wed Dec 6 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear, cooler with low around 27. Light winds. No
+lightning risk. 
+.THURSDAY...Mostly sunny. High around 41. Southwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ030-070945-
+West Quoddy Head-
+242 PM EST Wed Dec 6 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear, cooler with low around 34. West winds around
+10 mph. No lightning risk. Water temperature 49 degrees Fahrenheit. 
+.THURSDAY...Mostly sunny. High around 44. West winds around 15 mph.
+No lightning risk. Water temperature 49 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-070945-
+Upper Penobscot Watershed-
+242 PM EST Wed Dec 6 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Cooler with low around 25. Light winds
+becoming southwest around 10 mph after midnight. No lightning risk. 
+.THURSDAY...Partly sunny. High around 38. Southwest winds around
+10 mph. Wind chill values as low as 20. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-070945-
+Lower Penobscot Watershed-
+242 PM EST Wed Dec 6 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear, cooler with low around 27. Southwest winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.THURSDAY...Mostly sunny. High around 41. Southwest winds around
+10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

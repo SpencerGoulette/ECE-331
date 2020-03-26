@@ -1,0 +1,224 @@
+
+977 
+SXUS41 KCAR 231944
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+244 PM EST Sat Dec 23 2017
+
+MEZ004-240945-
+Top of Mount Katahdin-
+244 PM EST Sat Dec 23 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured...then becoming mostly cloudy after
+midnight...then becoming partly cloudy. Freezing rain and snow early
+this evening...then a chance of freezing rain and snow late this
+evening. Very windy with low around 16. Southwest winds 20 to 25 mph
+shifting to the northwest 25 to 35 mph after midnight. Chance of
+precipitation 90 percent. Wind chill values as low as 3 above. No
+lightning risk. 
+.SUNDAY...Partly sunny and very windy. Cooler with high around 18.
+West winds 30 to 35 mph becoming northwest 15 to 30 mph in the
+afternoon. Wind chill values as low as 10 below. No lightning risk. 
+
+$$
+
+MEZ005-240945-
+Katahdin Woods and Waters National Monument-
+244 PM EST Sat Dec 23 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy until midnight...then becoming partly cloudy.
+Freezing rain and snow early this evening...then a chance of
+freezing rain and snow late this evening. Not as cool with low
+around 20. North winds around 10 mph shifting to the west after
+midnight. Chance of precipitation 90 percent. Wind chill values as
+low as 9 above. No lightning risk. 
+.SUNDAY...Partly sunny. High around 23. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ029-240945-
+Top of Cadillac Mountain-
+244 PM EST Sat Dec 23 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured until midnight...then becoming partly
+cloudy. Rain early this evening...then a chance of rain late this
+evening. Windy and not as cool with low around 27. Southwest winds
+around 30 mph shifting to the northwest after midnight. Chance of
+precipitation 80 percent. Wind chill values as low as 16. No
+lightning risk. 
+.SUNDAY...Partly sunny and brisk, cooler with high around 29.
+Northwest winds 20 to 25 mph decreasing to around 15 mph in the
+afternoon. Wind chill values as low as 11. No lightning risk. 
+
+$$
+
+MEZ001-240945-
+Top of Deboullie Mountain-
+244 PM EST Sat Dec 23 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds. Snow until midnight...then a
+slight chance of snow showers after midnight. Not as cool with low
+around 13. South winds 10 to 15 mph shifting to the west 15 to
+20 mph after midnight. Chance of precipitation near 100 percent.
+Wind chill values as low as 1 below. No lightning risk. 
+.SUNDAY...Mostly cloudy in the morning...then becoming partly sunny.
+High around 16. West winds 10 to 20 mph. Wind chill values as low as
+5 below. No lightning risk. 
+
+$$
+
+MEZ006-240945-
+Top of Mars Hill Mountain-
+244 PM EST Sat Dec 23 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured through early morning...then becoming
+mostly cloudy. Freezing rain and snow until midnight...then a slight
+chance of snow showers after midnight. Brisk and not as cool with
+low around 18. East winds 10 to 20 mph shifting to the northwest
+15 to 25 mph after midnight. Chance of precipitation 90 percent.
+Wind chill values as low as 5 above. No lightning risk. 
+.SUNDAY...Mostly cloudy in the morning...then becoming partly sunny.
+High around 21. Northwest winds 15 to 20 mph. Wind chill values as
+low as 1 below. No lightning risk. 
+
+$$
+
+MEZ010-240945-
+Top of White Cap Mountain-
+244 PM EST Sat Dec 23 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured...then becoming mostly cloudy after
+midnight...then becoming partly cloudy. Freezing rain and sleet
+early this evening...then a chance of freezing rain and snow late
+this evening. Windy with low around 17. South winds 10 to 20 mph
+increasing to northwest 25 to 30 mph after midnight. Chance of
+precipitation 90 percent. Wind chill values as low as 2 above. No
+lightning risk. 
+.SUNDAY...Partly sunny and windy, cooler with high around 18.
+Northwest winds 20 to 30 mph decreasing to 15 to 20 mph in the
+afternoon. Wind chill values as low as 4 below. No lightning risk. 
+
+$$
+
+MEZ010-240945-
+Moosehead Lake-
+244 PM EST Sat Dec 23 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Freezing rain and snow early this evening...then a chance of
+freezing rain and snow late this evening. Low around 21. North winds
+around 10 mph shifting to the west after midnight. Chance of
+precipitation 90 percent. Wind chill values as low as 10 above. No
+lightning risk. 
+.SUNDAY...Partly sunny. High around 23. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ001-240945-
+Allagash Wilderness Waterway-
+244 PM EST Sat Dec 23 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy through early morning...then becoming
+partly cloudy. Freezing rain and sleet early this evening. snow
+until midnight. a chance of freezing rain and sleet late this
+evening. Not as cool with low around 14. Light winds becoming west
+around 10 mph after midnight. Chance of precipitation 90 percent.
+Wind chill values as low as 2 above. No lightning risk. 
+.SUNDAY...Partly sunny. High around 19. Temperatures falling to
+around 10 above in the afternoon. West winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-240945-
+St Croix River-
+244 PM EST Sat Dec 23 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy until midnight...then becoming partly cloudy.
+Freezing rain and rain until midnight...then a slight chance of snow
+showers after midnight. Not as cool with low around 23. Northeast
+winds around 10 mph shifting to the northwest after midnight. Chance
+of precipitation 90 percent. Wind chill values as low as 14. No
+lightning risk. 
+.SUNDAY...Partly sunny. High around 29. Northwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ030-240945-
+West Quoddy Head-
+244 PM EST Sat Dec 23 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy through early morning...then becoming
+partly cloudy. Rain until midnight...then a slight chance of rain
+showers after midnight. Breezy and not as cool with low around 32.
+South winds 20 to 25 mph shifting to the west after midnight. Chance
+of precipitation 90 percent. No lightning risk. Water temperature
+47 degrees Fahrenheit. 
+.SUNDAY...Partly sunny. High around 36. Northwest winds 15 to
+20 mph. No lightning risk. Water temperature 47 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-240945-
+Upper Penobscot Watershed-
+244 PM EST Sat Dec 23 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Freezing rain...sleet AND snow early this evening...then a
+chance of freezing rain...snow AND sleet late this evening. Not as
+cool with low around 21. North winds around 10 mph shifting to the
+west after midnight. Chance of precipitation 90 percent. Wind chill
+values as low as 10 above. No lightning risk. 
+.SUNDAY...Partly sunny. High around 27. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-240945-
+Lower Penobscot Watershed-
+244 PM EST Sat Dec 23 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Freezing rain and rain early this evening...then a chance of
+freezing rain and rain late this evening. Not as cool with low
+around 24. North winds around 10 mph shifting to the west after
+midnight. Chance of precipitation 90 percent. No lightning risk. 
+.SUNDAY...Partly sunny. High around 29. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

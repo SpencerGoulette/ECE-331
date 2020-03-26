@@ -1,0 +1,96 @@
+
+463 
+SXUS41 KCAR 061840
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+240 PM EDT Sun Aug 6 2017
+
+MEZ004-070845-
+Top of Mount Katahdin-
+240 PM EDT Sun Aug 6 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Near steady
+temperatures around 42. Northwest winds 25 to 30 mph. No lightning
+risk. 
+.MONDAY...Mostly sunny. High around 51. West winds 15 to 25 mph. No
+lightning risk. 
+
+$$
+
+MEZ005-070845-
+Katahdin Woods and Waters National Monument-
+240 PM EDT Sun Aug 6 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Cooler with
+low around 49. West winds around 10 mph. No lightning risk. 
+.MONDAY...Mostly sunny. High around 70. West winds around 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-070845-
+Top of Cadillac Mountain-
+240 PM EDT Sun Aug 6 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 59. Northwest winds 15 to 20 mph. No
+lightning risk. 
+.MONDAY...Mostly sunny. High around 67. West winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-070845-
+Moosehead Lake-
+240 PM EDT Sun Aug 6 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear. Low around 49. West winds around 10 mph
+until midnight becoming light winds. Waves 2 feet. No lightning
+risk. 
+.MONDAY...Mostly sunny. High around 70. Waves 2 feet. West winds
+around 10 mph. No lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-070845-
+Upper Penobscot Watershed-
+240 PM EDT Sun Aug 6 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 51. West winds around 10 mph
+until midnight becoming light winds. No lightning risk. 
+.MONDAY...Sunny in the morning...then becoming partly sunny. High
+around 72. West winds around 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-070845-
+Lower Penobscot Watershed-
+240 PM EDT Sun Aug 6 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 53. West winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.MONDAY...Sunny in the morning...then becoming partly sunny. A
+slight chance of showers in the afternoon. High around 75. West
+winds around 10 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

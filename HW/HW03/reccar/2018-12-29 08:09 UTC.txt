@@ -1,0 +1,268 @@
+
+586 
+SXUS41 KCAR 290809
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+309 AM EST Sat Dec 29 2018
+
+MEZ004-292215-
+Top of Mount Katahdin-
+309 AM EST Sat Dec 29 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit in and out of clouds through early afternoon, then
+becoming mostly cloudy. Areas of fog until mid morning. A chance of
+rain showers until mid morning...then a slight chance of rain and
+snow showers late this morning. Not as cool with high around 33.
+Temperatures falling to around 13 this afternoon. Northwest winds
+15 to 25 mph. Chance of precipitation 30 percent. Wind chill values
+as low as 6 below. No lightning risk. 
+.TONIGHT...Partly cloudy. Much cooler with low around 3 above.
+Northwest winds 10 to 20 mph. Wind chill values as low as 13 below.
+No lightning risk. 
+.SUNDAY...Partly sunny. Much cooler with high around 9 above.
+Northwest winds 10 to 15 mph shifting to the west 10 mph in the
+afternoon. Wind chill values as low as 8 below. No lightning risk. 
+
+$$
+
+MEZ005-292215-
+Katahdin Woods and Waters National Monument-
+309 AM EST Sat Dec 29 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. Areas of fog until mid morning. A chance of rain showers
+until mid morning...then a slight chance of rain showers late this
+morning. Not as cool with high around 39. Temperatures falling to
+around 26 this afternoon. West winds 10 to 15 mph shifting to the
+northwest this afternoon. Chance of precipitation 30 percent. Wind
+chill values as low as 11. No lightning risk. 
+.TONIGHT...Partly cloudy. Much cooler with low around 3 above.
+Northwest winds 10 to 15 mph. Wind chill values as low as 6 below.
+No lightning risk. 
+.SUNDAY...Partly sunny. Much cooler with high around 14. Northwest
+winds 10 mph shifting to the west in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ029-292215-
+Top of Cadillac Mountain-
+309 AM EST Sat Dec 29 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Cloudy this morning, then becoming partly sunny. Widespread
+fog until mid morning...then areas of fog late this morning. High
+around 42. Temperatures falling to around 34 this afternoon. West
+winds 10 to 20 mph shifting to the northwest 20 to 25 mph this
+afternoon. Wind chill values as low as 20. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Much cooler with low around 13. North winds 10 to 25 mph. Wind chill
+values as low as 2 above. No lightning risk. 
+.SUNDAY...Partly sunny. Much cooler with high around 20. North winds
+10 to 15 mph shifting to the northwest in the afternoon. Wind chill
+values as low as 1 below in the morning. No lightning risk. 
+
+$$
+
+MEZ001-292215-
+Top of Deboullie Mountain-
+309 AM EST Sat Dec 29 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Summit obscured, then becoming mostly cloudy early this
+afternoon, then becoming partly sunny. Widespread fog until mid
+morning. A chance of rain showers until mid morning. A chance of
+snow showers this morning. Not as cool with high around 35.
+Temperatures falling to around 8 above this afternoon. Northwest
+winds 10 to 20 mph. Chance of precipitation 50 percent. Wind chill
+values as low as 9 below. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Much colder with low around 7 below. Northwest winds 10 to 20 mph.
+Wind chill values as low as 20 below. No lightning risk. 
+.SUNDAY...Mostly cloudy. Much cooler with high around 9 above. West
+winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ006-292215-
+Top of Mars Hill Mountain-
+309 AM EST Sat Dec 29 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Summit obscured through early afternoon, then becoming
+mostly cloudy. Widespread fog until mid morning. A chance of rain
+and snow showers this morning. Not as cool with high around 35.
+Temperatures falling to around 17 this afternoon. West winds 10 to
+20 mph shifting to the north 15 to 20 mph this afternoon. Chance of
+precipitation 40 percent. Wind chill values as low as 1 below. No
+lightning risk. 
+.TONIGHT...Partly cloudy. Much cooler with low around 2 below. North
+winds 10 to 20 mph. Wind chill values as low as 16 below. No
+lightning risk. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Much cooler with high around 8 above. North winds 10 to 15 mph
+shifting to the southwest in the afternoon. Wind chill values as low
+as 17 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-292215-
+Top of White Cap Mountain-
+309 AM EST Sat Dec 29 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Summit obscured, then summit in and out of clouds late this
+morning and early afternoon, then becoming mostly cloudy. Areas of
+fog until mid morning. A chance of rain showers until mid morning.
+High around 36. Temperatures falling to around 15 this afternoon.
+Northwest winds 15 to 25 mph. Chance of precipitation 30 percent.
+Wind chill values as low as 4 below. No lightning risk. 
+.TONIGHT...Partly cloudy. Much cooler with low around 4 above.
+Northwest winds 10 to 20 mph. Wind chill values as low as 10 below.
+No lightning risk. 
+.SUNDAY...Partly sunny. Much cooler with high around 11. Northwest
+winds 10 to 15 mph shifting to the west 10 mph in the afternoon.
+Wind chill values as low as 9 below in the morning. No lightning
+risk. 
+
+$$
+
+MEZ010-292215-
+Moosehead Lake-
+309 AM EST Sat Dec 29 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. Areas of fog until mid morning. A chance of rain showers
+until mid morning. High around 37. Temperatures falling to around
+21 this afternoon. West winds 10 to 15 mph. Chance of precipitation
+30 percent. Wind chill values as low as 5 above. No lightning risk. 
+.TONIGHT...Partly cloudy. Much cooler with low around 2 above.
+Northwest winds 10 to 15 mph. Wind chill values as low as 7 below.
+No lightning risk. 
+.SUNDAY...Partly sunny. Much cooler with high around 15. Northwest
+winds 10 mph shifting to the southwest in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ001-292215-
+Allagash Wilderness Waterway-
+309 AM EST Sat Dec 29 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Cloudy this morning, then becoming partly sunny. Areas of
+fog until mid morning. A chance of rain showers until mid morning. A
+chance of snow showers this morning. High around 36. Temperatures
+falling to around 15 this afternoon. Northwest winds 10 to 15 mph.
+Chance of precipitation 50 percent. Wind chill values as low as
+1 below. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Much colder with low around 7 below. Northwest winds 10 to 15 mph
+decreasing to 10 mph after midnight. Wind chill values as low as
+12 below. No lightning risk. 
+.SUNDAY...Mostly cloudy. Much cooler with high around 12. Southwest
+winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-292215-
+St Croix River-
+309 AM EST Sat Dec 29 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. A chance of snow showers with a slight chance of rain showers
+until mid morning. Widespread fog until mid morning...then areas of
+fog late this morning. High around 41. Temperatures falling to
+around 32 this afternoon. West winds 10 to 15 mph shifting to the
+north 10 to 20 mph this afternoon. Chance of precipitation
+40 percent. Wind chill values as low as 19. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Much cooler with low around 7 above. North winds 10 to 20 mph. Wind
+chill values as low as 5 below. No lightning risk. 
+.SUNDAY...Partly sunny. Much cooler with high around 16. North winds
+10 to 15 mph shifting to the northwest in the afternoon. Wind chill
+values as low as 8 below in the morning. No lightning risk. 
+
+$$
+
+MEZ030-292215-
+West Quoddy Head-
+309 AM EST Sat Dec 29 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny. A
+chance of rain showers until mid morning. Widespread fog until mid
+morning...then areas of fog late this morning. High around 43.
+Northwest winds 10 to 25 mph. Chance of precipitation 30 percent. No
+lightning risk. Water temperature 43 degrees Fahrenheit. 
+.TONIGHT...Mostly clear. Light freezing spray. Much cooler with low
+around 15. North winds 15 to 25 mph. Wind chill values as low as
+4 above. No lightning risk. Water temperature 43 degrees Fahrenheit.
+.SUNDAY...Partly sunny. Light freezing spray in the morning. Much
+cooler with high around 22. North winds 10 to 20 mph. Wind chill
+values as low as 1 below in the morning. No lightning risk. Water
+temperature 43 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-292215-
+Upper Penobscot Watershed-
+309 AM EST Sat Dec 29 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. Areas of fog until mid morning. A slight chance of rain and
+snow showers until mid morning. High around 39. Temperatures falling
+to around 29 this afternoon. West winds 10 to 15 mph shifting to the
+northwest 10 to 20 mph this afternoon. Chance of precipitation
+20 percent. Wind chill values as low as 13. No lightning risk. 
+.TONIGHT...Partly cloudy. Much cooler with low around 5 above. North
+winds 10 to 15 mph. Wind chill values as low as 4 below. No
+lightning risk. 
+.SUNDAY...Partly sunny. Much cooler with high around 16. North winds
+10 mph shifting to the west in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-292215-
+Lower Penobscot Watershed-
+309 AM EST Sat Dec 29 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+Widespread fog until mid morning. A slight chance of rain and snow
+showers until mid morning. Snow may be heavy at times until mid
+morning. High around 42. Temperatures falling to around 33 this
+afternoon. Northwest winds 10 to 20 mph. Chance of precipitation
+20 percent. Wind chill values as low as 20. No lightning risk. 
+.TONIGHT...Partly cloudy. Much cooler with low around 9 above. North
+winds 10 to 15 mph. Wind chill values as low as 1 above. No
+lightning risk. 
+.SUNDAY...Partly sunny. Much cooler with high around 19. North winds
+10 mph shifting to the west in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

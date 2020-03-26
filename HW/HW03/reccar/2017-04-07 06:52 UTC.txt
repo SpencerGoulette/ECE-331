@@ -1,0 +1,88 @@
+
+274 
+SXUS41 KCAR 070652
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+252 AM EDT Fri Apr 7 2017
+
+MEZ004-072100-
+Top of Mount Katahdin-
+252 AM EDT Fri Apr 7 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Cloudy with summit in and out of clouds. Rain and sleet 
+likely this morning...then numerous snow showers and scattered rain 
+showers this afternoon. High around 36. South winds 25 to 35 mph. 
+Chance of precipitation 70 percent. Wind chill values as low as 17. 
+.TONIGHT...Summit obscured. Scattered snow showers until midnight... 
+then numerous snow showers. Cooler with low around 25. Southwest 
+winds 15 to 20 mph. Chance of precipitation 70 percent. 
+.SATURDAY...Summit in and out of clouds. A chance of snow showers in
+the morning. Cooler. Near steady temperatures around 26. Northwest
+winds 10 to 15 mph. Chance of precipitation 50 percent. 
+
+$$
+
+MEZ029-072100-
+Top of Cadillac Mountain-
+252 AM EDT Fri Apr 7 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Summit in and out of clouds. Areas of fog this morning.
+Scattered showers this morning. High around 45. South winds 20 to
+25 mph. Chance of precipitation 30 percent. 
+.TONIGHT...Mostly cloudy until midnight...then summit becoming
+obscured. Scattered rain showers. Low around 36. Southwest winds
+15 to 25 mph. Chance of precipitation 40 percent. 
+.SATURDAY...Summit obscured. High around 40. West winds 10 to
+15 mph. 
+
+$$
+
+MEZ004&gt;006-010-011-031-072100-
+Upper Penobscot Watershed-
+252 AM EDT Fri Apr 7 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Areas of fog this morning. Scattered showers. Not
+as cool with high around 52. South winds around 10 mph. Chance of
+precipitation 50 percent. 
+.TONIGHT...Cloudy. Scattered rain showers. scattered rain and snow 
+showers after midnight. Low around 35. South winds around 10 mph 
+until midnight becoming light winds. Chance of precipitation 50 
+percent. 
+.SATURDAY...Cloudy. A chance of snow showers in the morning. High
+around 45. Northwest winds around 5 mph. Chance of precipitation
+40 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-072100-
+Lower Penobscot Watershed-
+252 AM EDT Fri Apr 7 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Areas of fog this morning. Scattered showers this
+morning...then isolated showers this afternoon. Not as cool with
+high around 53. South winds 10 to 15 mph. Chance of precipitation
+50 percent. 
+.TONIGHT...Cloudy. Scattered rain showers. Low around 37. South
+winds around 5 mph. Chance of precipitation 50 percent. 
+.SATURDAY...Cloudy. High around 47. West winds around 5 mph shifting
+to the northwest in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

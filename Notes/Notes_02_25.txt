@@ -1,0 +1,41 @@
+ECE 331
+Spencer Goulette
+Notes
+02/25/20
+
+									|Process 1 | Process 2 | Process 3|
+USERSPACE							|LIBS C, math, etc (3)			  |
+-user virtual address				|System Calls (2)	SWI (software interrupt) in 0x80|						
+______________________________________________________________________________________________________
+KERNELSPACE				VFS 	DEV Driver	 	Scheduler 	 MM			  NI	    LIB		RESOURCE MANAGER
+-kernel virtual address
+-physical RAM address
+
+______________________________________________________________________________________________________
+HARDWARE storeage (HD,SD,etc.)	I2C, I/O, SPI		CPU		RAM			ETHERNET
+
+Scheduler -> CPU
+Memory Manager (MM) -> RAM
+Network Interface -> TCP/IP Protocols, Appletalk, Network Drivers -> Ethernet
+VFS->fs = vfat, ext4->blockdrivers->storage(HD,SD,etc.)
+Dev Drive->Char = tty, sound audio -> Serial USB
+
+printk to print in kernelspace
+recommended to not open files
+
+Translate userspace address to kernelspace
+need goto in the kernel
+
+KERNEL CODE
+modular - extend its capability at run time (more complex, slower) (Bimbows)   )Linuxvv^^
+monolithic kernel - static can't change it at run time (faster, simpler)       )
+
+microkernel - osx mack bsd
+	- mm
+	- scheduler
+
+code execution - concurancy
+preumption
+global variables used in the stack
+
+

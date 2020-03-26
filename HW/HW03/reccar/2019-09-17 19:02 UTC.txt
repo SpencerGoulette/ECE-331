@@ -1,0 +1,193 @@
+
+297 
+SXUS41 KCAR 171902
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+302 PM EDT Tue Sep 17 2019
+
+MEZ004-180915-
+Top of Mount Katahdin-
+302 PM EDT Tue Sep 17 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds, then becoming mostly cloudy
+late this evening, then becoming mostly clear. Areas of frost after
+midnight. Low around 31. North winds 15 to 30 mph decreasing to 10 
+to 20 mph after midnight. No lightning risk. 
+.WEDNESDAY...Sunny. Widespread frost in the morning. High around 43.
+Northeast winds 10 to 20 mph shifting to the south at 10 mph in the 
+afternoon. No lightning risk. 
+
+$$
+
+MEZ005-180915-
+Katahdin Woods and Waters National Monument-
+302 PM EDT Tue Sep 17 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Patchy
+fog after midnight. Cooler with low around 37. North winds 10 to
+15 mph decreasing to 10 mph after midnight. No lightning risk. 
+.WEDNESDAY...Sunny. Patchy fog in the morning. High around 62. North
+winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ029-180915-
+Top of Cadillac Mountain-
+302 PM EDT Tue Sep 17 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Isolated showers early this evening. Low around 44.
+Northeast winds 10 to 15 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then clearing. High
+around 57. Northeast winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ001-180915-
+Top of Deboullie Mountain-
+302 PM EDT Tue Sep 17 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Patchy
+frost after midnight. areas of frost late. Low around 31. North
+winds 10 to 15 mph. No lightning risk. 
+.WEDNESDAY...Sunny. Widespread frost in the morning. High around 58.
+West winds 10 mph shifting to the north in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ006-180915-
+Top of Mars Hill Mountain-
+302 PM EDT Tue Sep 17 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Patchy
+frost after midnight. patchy fog after midnight. areas of frost
+late. Cooler with low around 33. North winds 10 to 15 mph decreasing
+to 10 mph after midnight. No lightning risk. 
+.WEDNESDAY...Sunny. Areas of frost with patchy fog in the morning.
+High around 59. North winds 15 mph. No lightning risk. 
+
+$$
+
+MEZ010-180915-
+Top of White Cap Mountain-
+302 PM EDT Tue Sep 17 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming mostly clear. Areas of frost after midnight.
+Low around 31. Northeast winds 10 to 20 mph. No lightning risk. 
+.WEDNESDAY...Sunny. Widespread frost in the morning. High around 49.
+Northeast winds 10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ010-180915-
+Moosehead Lake-
+302 PM EDT Tue Sep 17 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Cooler
+with low around 39. North winds 10 to 15 mph decreasing to 10 mph
+after midnight. Waves 1 foot. No lightning risk. Water temperature
+61 degrees Fahrenheit. 
+.WEDNESDAY...Sunny. High around 59. Waves 1 foot. North winds 10 to
+15 mph. No lightning risk. Water temperature 61 degrees Fahrenheit. 
+
+$$
+
+MEZ001-180915-
+Allagash Wilderness Waterway-
+302 PM EDT Tue Sep 17 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Areas of
+frost after midnight. patchy fog after midnight. widespread frost
+late. Much cooler with low around 27. North winds 10 mph. No
+lightning risk. 
+.WEDNESDAY...Sunny. Widespread frost with patchy fog in the morning.
+High around 62. North winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-180915-
+St Croix River-
+302 PM EDT Tue Sep 17 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming mostly clear. Patchy fog after midnight.
+patchy frost late. Much cooler with low around 35. North winds
+10 mph. No lightning risk. 
+.WEDNESDAY...Sunny. Areas of frost with patchy fog in the morning.
+High around 63. North winds 15 mph. No lightning risk. 
+
+$$
+
+MEZ030-180915-
+West Quoddy Head-
+302 PM EDT Tue Sep 17 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy through early morning, then clearing. Low
+around 44. Northeast winds 10 to 15 mph. No lightning risk. Water
+temperature 53 degrees Fahrenheit. 
+.WEDNESDAY...Sunny. High around 56. Northeast winds 10 to 15 mph. No
+lightning risk. Water temperature 53 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-180915-
+Upper Penobscot Watershed-
+302 PM EDT Tue Sep 17 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Patchy fog
+after midnight. patchy frost late. Much cooler with low around 35.
+North winds 15 mph becoming 10 mph after midnight. No lightning
+risk. 
+.WEDNESDAY...Sunny. Areas of frost with patchy fog in the morning.
+High around 61. North winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-180915-
+Lower Penobscot Watershed-
+302 PM EDT Tue Sep 17 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Patchy fog
+after midnight. Cooler with low around 39. North winds 10 mph. No
+lightning risk. 
+.WEDNESDAY...Sunny. Patchy fog in the morning. High around 63. North
+winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

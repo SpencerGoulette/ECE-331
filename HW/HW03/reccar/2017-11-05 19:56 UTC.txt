@@ -1,0 +1,229 @@
+
+227 
+SXUS41 KCAR 051956
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+256 PM EST Sun Nov 5 2017
+
+MEZ004-061000-
+Top of Mount Katahdin-
+256 PM EST Sun Nov 5 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy...then summit in and out of clouds late this
+evening...then summit becoming obscured. Rain. Patchy drizzle from 
+late evening on. Patchy fog from late evening on. Very windy and not 
+as cool with low around 37. Temperatures rising to around 47 after 
+midnight. Southwest winds around 40 mph. Chance of precipitation 90 
+percent. No lightning risk. 
+.MONDAY...Summit obscured in the morning...then becoming cloudy.
+Patchy fog in the morning. Patchy drizzle in the morning. Rain. Very
+windy and not as cool with high around 47. Southwest winds 30 to
+40 mph becoming west 20 to 25 mph in the afternoon. Chance of
+precipitation 90 percent. No lightning risk. 
+
+$$
+
+MEZ005-061000-
+Katahdin Woods and Waters National Monument-
+256 PM EST Sun Nov 5 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy, rain. patchy drizzle from late evening on. Patchy
+fog from late evening on. Not as cool with low around 45.
+Temperatures rising to around 55 after midnight. South winds 10 to
+20 mph. Chance of precipitation 90 percent. No lightning risk. 
+.MONDAY...Cloudy. Patchy fog in the morning. Patchy drizzle in the
+morning. Rain. Not as cool with high around 58. Southwest winds
+10 to 20 mph. Chance of precipitation 90 percent. No lightning risk.
+
+$$
+
+MEZ029-061000-
+Top of Cadillac Mountain-
+256 PM EST Sun Nov 5 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. A chance of rain through early morning.
+patchy drizzle from late evening on. rain likely late. Areas of fog
+from late evening on. Very windy and not as cool with low around 51.
+South winds 30 to 35 mph. Chance of precipitation 60 percent. No
+lightning risk. 
+.MONDAY...Summit obscured. Areas of fog in the morning. Patchy
+drizzle in the morning. Rain. Very windy with high around 58.
+Southwest winds 25 to 35 mph. Chance of precipitation 80 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-061000-
+Top of Deboullie Mountain-
+256 PM EST Sun Nov 5 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Rain. patchy drizzle from late evening
+on. Patchy fog from late evening on. Breezy and not as cool with low
+around 40. Temperatures rising to around 51 after midnight. South
+winds 20 to 25 mph. Chance of precipitation 90 percent. No lightning
+risk. 
+.MONDAY...Summit obscured. Patchy fog in the morning. Patchy drizzle
+in the morning. Rain, breezy and not as cool with high around 53.
+Temperatures falling to around 43 in the afternoon. Southwest winds
+20 to 25 mph becoming west 10 to 15 mph in the afternoon. Chance of
+precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ006-061000-
+Top of Mars Hill Mountain-
+256 PM EST Sun Nov 5 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. A chance of rain early this evening...
+then rain with patchy drizzle from late evening on. Patchy fog from
+late evening on. Windy and not as cool with low around 42.
+Temperatures rising to around 53 after midnight. South winds 25 to
+30 mph. Chance of precipitation 90 percent. No lightning risk. 
+.MONDAY...Summit obscured. Patchy fog in the morning. Patchy drizzle
+in the morning. Rain, windy and not as cool with high around 56.
+South winds 25 to 30 mph becoming west 15 to 20 mph in the
+afternoon. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+$$
+
+MEZ010-061000-
+Top of White Cap Mountain-
+256 PM EST Sun Nov 5 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. Rain. patchy drizzle from late evening
+on. Patchy fog from late evening on. Very windy and not as cool with
+low around 41. South winds 30 to 35 mph. Chance of precipitation
+90 percent. No lightning risk. 
+.MONDAY...Summit obscured in the morning...then becoming cloudy.
+Patchy fog in the morning. Patchy drizzle in the morning. Rain,
+windy with high around 50. Southwest winds 25 to 30 mph shifting to
+the west around 20 mph in the afternoon. Chance of precipitation
+90 percent. No lightning risk. 
+
+$$
+
+MEZ010-061000-
+Moosehead Lake-
+256 PM EST Sun Nov 5 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy, rain. patchy drizzle from late evening on. Patchy
+fog from late evening on. Not as cool with low around 47. South
+winds 10 to 15 mph. Waves 3 feet. Chance of precipitation
+90 percent. No lightning risk. Water temperature 59 degrees
+Fahrenheit. 
+.MONDAY...Cloudy. Patchy fog in the morning. Patchy drizzle in the
+morning. Rain. Not as cool with high around 57. Waves 3 feet.
+Southwest winds around 15 mph shifting to the west in the afternoon.
+Chance of precipitation 90 percent. No lightning risk. Water
+temperature 59 degrees Fahrenheit. 
+
+$$
+
+MEZ001-061000-
+Allagash Wilderness Waterway-
+256 PM EST Sun Nov 5 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy, rain. patchy drizzle from late evening on. Patchy
+fog from late evening on. Not as cool with low around 43.
+Temperatures rising to around 53 after midnight. South winds 10 to
+15 mph. Chance of precipitation 90 percent. No lightning risk. 
+.MONDAY...Cloudy. Patchy fog in the morning. Patchy drizzle in the
+morning. Rain. Not as cool with high around 56. Temperatures falling
+to around 46 in the afternoon. Southwest winds 10 to 15 mph shifting
+to the northwest in the afternoon. 26. Chance of precipitation near
+100 percent. No lightning risk. 
+
+$$
+
+MEZ030-061000-
+St Croix River-
+256 PM EST Sun Nov 5 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. A chance of rain until midnight. patchy drizzle
+from late evening on. rain likely after midnight. Patchy fog from
+late evening on. Not as cool with low around 48. South winds 10 to
+15 mph. Chance of precipitation 70 percent. No lightning risk. 
+.MONDAY...Cloudy. Patchy fog in the morning. Patchy drizzle in the
+morning. Rain. Not as cool with high around 61. Southwest winds
+10 to 15 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+$$
+
+MEZ030-061000-
+West Quoddy Head-
+256 PM EST Sun Nov 5 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. A chance of rain until midnight. patchy drizzle.
+rain likely after midnight. Areas of fog from late evening on.
+Breezy and not as cool with low around 52. South winds 20 to 25 mph.
+Chance of precipitation 70 percent. No lightning risk. Water
+temperature 53 degrees Fahrenheit. 
+.MONDAY...Cloudy. Areas of fog in the morning. Patchy drizzle in the
+morning. Rain, breezy with high around 59. Southwest winds 15 to
+25 mph. Chance of precipitation 80 percent. No lightning risk. Water
+temperature 53 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-061000-
+Upper Penobscot Watershed-
+256 PM EST Sun Nov 5 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+with patchy drizzle from late evening on. Patchy fog from late
+evening on. Not as cool with low around 48. South winds 10 to
+15 mph. Chance of precipitation 90 percent. No lightning risk. 
+.MONDAY...Cloudy. Patchy fog in the morning. Patchy drizzle in the
+morning. Rain. Not as cool with high around 60. Southwest winds
+10 to 20 mph. Chance of precipitation 90 percent. No lightning risk.
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-061000-
+Lower Penobscot Watershed-
+256 PM EST Sun Nov 5 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+likely with patchy drizzle from late evening on. Patchy fog from
+late evening on. Not as cool with low around 51. South winds 10 to
+15 mph. Chance of precipitation 70 percent. No lightning risk. 
+.MONDAY...Cloudy. Patchy fog in the morning. Patchy drizzle in the
+morning. Rain. Not as cool with high around 61. Southwest winds
+10 to 15 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

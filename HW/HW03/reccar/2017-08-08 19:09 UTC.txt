@@ -1,0 +1,103 @@
+
+111 
+SXUS41 KCAR 081909
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+309 PM EDT Tue Aug 8 2017
+
+MEZ004-090915-
+Top of Mount Katahdin-
+309 PM EDT Tue Aug 8 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then
+clearing. Low around 44. Northwest winds 10 to 15 mph. No lightning
+risk. 
+.WEDNESDAY...Mostly cloudy in the morning...then summit in and out
+of clouds. Isolated showers in the morning...then scattered showers
+in the afternoon. High around 56. West winds around 15 mph. Chance
+of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ005-090915-
+Katahdin Woods and Waters National Monument-
+309 PM EDT Tue Aug 8 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 50. Light
+winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. Isolated showers in the morning...then
+scattered showers in the afternoon. High around 76. Southwest winds
+around 10 mph. Chance of precipitation 30 percent. No lightning
+risk. 
+
+$$
+
+MEZ029-090915-
+Top of Cadillac Mountain-
+309 PM EDT Tue Aug 8 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Patchy fog
+after midnight. Low around 54. West winds 10 to 15 mph. No lightning
+risk. 
+.WEDNESDAY...Sunny. High around 72. Southwest winds 10 to 20 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-090915-
+Moosehead Lake-
+309 PM EDT Tue Aug 8 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 50. Light
+winds. Waves 1 foot. No lightning risk. 
+.WEDNESDAY...Partly sunny. Isolated showers in the morning...then
+scattered showers in the afternoon. High around 72. Waves 2 feet.
+West winds around 10 mph. Chance of precipitation 30 percent. No
+lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-090915-
+Upper Penobscot Watershed-
+309 PM EDT Tue Aug 8 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 51. Light
+winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. Isolated showers in the morning...then
+scattered showers in the afternoon. High around 78. Southwest winds
+around 10 mph. Chance of precipitation 30 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-090915-
+Lower Penobscot Watershed-
+309 PM EDT Tue Aug 8 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 52. Light
+winds. No lightning risk. 
+.WEDNESDAY...Mostly sunny. Isolated showers in the afternoon. Warmer
+with high around 80. Southwest winds around 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

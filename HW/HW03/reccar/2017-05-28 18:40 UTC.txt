@@ -1,0 +1,85 @@
+
+751 
+SXUS41 KCAR 281840
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+240 PM EDT Sun May 28 2017
+
+MEZ004-290845-
+Top of Mount Katahdin-
+240 PM EDT Sun May 28 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy. A chance of showers and isolated thunderstorms
+until midnight. Low around 44. South winds 10 to 15 mph. Chance of
+precipitation 30 percent. 
+.MEMORIAL DAY...Mostly cloudy. A chance of showers in the afternoon.
+High around 50. South winds 15 to 20 mph. Chance of precipitation
+30 percent. 
+
+$$
+
+MEZ029-290845-
+Top of Cadillac Mountain-
+240 PM EDT Sun May 28 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 45. South winds around 10 mph. 
+.MEMORIAL DAY...Summit obscured. Cooler with high around 50.
+Southeast winds 10 to 15 mph. 
+
+$$
+
+MEZ010-290845-
+Moosehead Lake-
+240 PM EDT Sun May 28 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. A slight chance of showers until midnight. Low
+around 47. Light winds. Waves 1 foot. Chance of precipitation
+20 percent. 
+.MEMORIAL DAY...Mostly cloudy. A chance of showers in the afternoon.
+Cooler with high around 57. Waves 1 foot. Southeast winds around
+10 mph. Chance of precipitation 30 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-290845-
+Upper Penobscot Watershed-
+240 PM EDT Sun May 28 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. A slight chance of showers until midnight.
+Low around 46. South winds around 10 mph until midnight becoming
+light winds. Chance of precipitation 20 percent. 
+.MEMORIAL DAY...Mostly cloudy. Cooler with high around 60. Southeast
+winds around 10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-290845-
+Lower Penobscot Watershed-
+240 PM EDT Sun May 28 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 46. South winds around 10 mph until midnight
+becoming light winds. 
+.MEMORIAL DAY...Partly sunny. High around 61. Southeast winds around
+10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

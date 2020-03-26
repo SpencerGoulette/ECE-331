@@ -1,0 +1,79 @@
+
+539 
+SXUS41 KCAR 022027
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+427 PM EDT Tue May 2 2017
+
+MEZ004-031000-
+Top of Mount Katahdin-
+427 PM EDT Tue May 2 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds. Numerous rain showers until 
+midnight. Isolated rain and snow showers after midnight. Low around 
+31. West winds 20 to 35 mph increasing to 35 to 40 mph after 
+midnight. Chance of precipitation 70 percent. Wind chill values as 
+low as 16. 
+.WEDNESDAY...Summit in and out of clouds. Scattered rain showers in 
+the afternoon. Cooler with high around 38. West winds 35 to 45 mph 
+decreasing to 30 to 35 mph in the afternoon. Chance of precipitation 
+40 percent. Wind chill values as low as 19. 
+
+$$
+
+MEZ029-031000-
+Top of Cadillac Mountain-
+427 PM EDT Tue May 2 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured until midnight...then becoming mostly
+cloudy. Scattered showers until midnight. Low around 45. West winds 
+30 to 40 mph. Chance of precipitation 30 percent. 
+.WEDNESDAY...Partly sunny. Scattered showers in the afternoon. High
+around 51. West winds 30 to 35 mph. Chance of precipitation
+30 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-031000-
+Upper Penobscot Watershed-
+427 PM EDT Tue May 2 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Patchy fog. Scattered showers until
+midnight. isolated showers after midnight. Low around 42. West winds
+around 10 mph. Chance of precipitation 50 percent. 
+.WEDNESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. Scattered showers in the afternoon. High around 58. West
+winds 10 to 20 mph. Chance of precipitation 40 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-031000-
+Lower Penobscot Watershed-
+427 PM EDT Tue May 2 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Scattered showers until midnight. Patchy fog. Low around 43.
+West winds around 10 mph. Chance of precipitation 50 percent. 
+.WEDNESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. Scattered showers in the afternoon. High around 60. West
+winds 10 to 20 mph. Chance of precipitation 40 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

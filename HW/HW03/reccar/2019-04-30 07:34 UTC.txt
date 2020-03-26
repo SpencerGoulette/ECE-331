@@ -1,0 +1,209 @@
+
+341 
+SXUS41 KCAR 300734
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+334 AM EDT Tue Apr 30 2019
+
+MEZ004-302145-
+Top of Mount Katahdin-
+334 AM EDT Tue Apr 30 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly cloudy, then summit becoming obscured late this
+morning, then becoming cloudy, then becoming partly sunny late.
+Windy with high around 25. Northwest winds 15 to 35 mph. Wind chill
+values as low as 4 above. No lightning risk. 
+.TONIGHT...Clear and very windy. Low around 20. Northwest winds
+30 to 45 mph. Wind chill values as low as 1 below. No lightning
+risk. 
+.WEDNESDAY...Mostly sunny and very windy. High around 29. Northwest
+winds 25 to 40 mph decreasing to 20 to 25 mph in the afternoon. Wind
+chill values as low as 2 above in the morning. No lightning risk. 
+
+$$
+
+MEZ005-302145-
+Katahdin Woods and Waters National Monument-
+334 AM EDT Tue Apr 30 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Partly sunny. High around 48. Northwest winds 10 to 15 mph.
+No lightning risk. 
+.TONIGHT...Clear. Low around 27. Northwest winds 10 to 15 mph. Wind
+chill values as low as 23. No lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 49. Northwest winds 10 to
+15 mph. Wind chill values as low as 20 in the morning. No lightning
+risk. 
+
+$$
+
+MEZ029-302145-
+Top of Cadillac Mountain-
+334 AM EDT Tue Apr 30 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly cloudy. A slight chance of rain through early
+afternoon. High around 46. Southwest winds 10 mph increasing to
+northwest 10 to 25 mph this afternoon. Chance of precipitation
+20 percent. No lightning risk. 
+.TONIGHT...Clear, windy with low around 35. North winds 25 to
+35 mph. No lightning risk. 
+.WEDNESDAY...Sunny in the morning, then becoming partly sunny. Windy
+with high around 47. Northwest winds 20 to 35 mph. No lightning
+risk. 
+
+$$
+
+MEZ001-302145-
+Top of Deboullie Mountain-
+334 AM EDT Tue Apr 30 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Partly sunny. High around 40. Northwest winds 10 to 20 mph.
+Wind chill values as low as 16. No lightning risk. 
+.TONIGHT...Clear. Low around 23. Northwest winds 10 to 20 mph. Wind
+chill values as low as 15. No lightning risk. 
+.WEDNESDAY...Sunny. High around 41. Northwest winds 10 to 15 mph.
+Wind chill values as low as 12 in the morning. No lightning risk. 
+
+$$
+
+MEZ006-302145-
+Top of Mars Hill Mountain-
+334 AM EDT Tue Apr 30 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Partly sunny. High around 44. Northwest winds 10 to 20 mph.
+Wind chill values as low as 20. No lightning risk. 
+.TONIGHT...Clear. Low around 26. Northwest winds 15 to 20 mph. Wind
+chill values as low as 18. No lightning risk. 
+.WEDNESDAY...Sunny. High around 43. Northwest winds 10 to 20 mph.
+Wind chill values as low as 14 in the morning. No lightning risk. 
+
+$$
+
+MEZ010-302145-
+Top of White Cap Mountain-
+334 AM EDT Tue Apr 30 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Cloudy through early afternoon, then becoming partly sunny.
+Windy with high around 33. Northwest winds 15 to 25 mph increasing
+to 15 to 35 mph this afternoon. Wind chill values as low as 13. No
+lightning risk. 
+.TONIGHT...Clear and very windy. Low around 23. North winds 30 to
+45 mph. Wind chill values as low as 8 above. No lightning risk. 
+.WEDNESDAY...Sunny in the morning, then becoming partly sunny. Very
+windy with high around 36. Northwest winds 20 to 40 mph. Wind chill
+values as low as 6 above in the morning. No lightning risk. 
+
+$$
+
+MEZ010-302145-
+Moosehead Lake-
+334 AM EDT Tue Apr 30 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. High around 46. West winds 15 mph shifting to the northwest
+this afternoon. No lightning risk. 
+.TONIGHT...Clear. Low around 27. Northwest winds 10 to 15 mph
+decreasing to 10 mph after midnight. No lightning risk. 
+.WEDNESDAY...Sunny in the morning, then becoming partly sunny. High
+around 49. Northwest winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ001-302145-
+Allagash Wilderness Waterway-
+334 AM EDT Tue Apr 30 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Partly sunny. High around 46. Northwest winds 10 to 15 mph.
+No lightning risk. 
+.TONIGHT...Clear. Low around 24. Northwest winds 10 to 15 mph. Wind
+chill values as low as 19. No lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 47. Northwest winds 10 mph.
+No lightning risk. 
+
+$$
+
+MEZ030-302145-
+St Croix River-
+334 AM EDT Tue Apr 30 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Partly sunny. High around 51. West winds 10 to 15 mph. No
+lightning risk. 
+.TONIGHT...Clear. Low around 30. Northwest winds 10 to 15 mph
+decreasing to 10 mph after midnight. No lightning risk. 
+.WEDNESDAY...Sunny. High around 52. Northwest winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-302145-
+West Quoddy Head-
+334 AM EDT Tue Apr 30 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Partly sunny. High around 50. West winds 10 to 15 mph. No
+lightning risk. Water temperature 38 degrees Fahrenheit. 
+.TONIGHT...Clear. Low around 35. Northwest winds 10 to 15 mph. No
+lightning risk. Water temperature 38 degrees Fahrenheit. 
+.WEDNESDAY...Sunny. High around 49. Northwest winds 10 to 20 mph. No
+lightning risk. Water temperature 38 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-302145-
+Upper Penobscot Watershed-
+334 AM EDT Tue Apr 30 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny, then becoming mostly cloudy late this morning
+and early afternoon, then becoming partly sunny. High around 50.
+Northwest winds 15 mph. No lightning risk. 
+.TONIGHT...Clear. Low around 29. Northwest winds 10 to 15 mph
+decreasing to 10 mph after midnight. No lightning risk. 
+.WEDNESDAY...Sunny in the morning, then becoming partly sunny. High
+around 51. Northwest winds 10 to 15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-302145-
+Lower Penobscot Watershed-
+334 AM EDT Tue Apr 30 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. A slight chance of rain this morning. High around 52.
+Northwest winds 15 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.TONIGHT...Clear. Low around 32. Northwest winds 10 to 15 mph
+decreasing to 10 mph after midnight. No lightning risk. 
+.WEDNESDAY...Sunny in the morning, then becoming partly sunny. High
+around 54. Northwest winds 10 to 15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

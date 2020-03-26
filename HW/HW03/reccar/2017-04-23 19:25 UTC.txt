@@ -1,0 +1,71 @@
+
+024 
+SXUS41 KCAR 231925
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+325 PM EDT Sun Apr 23 2017
+
+MEZ004-240930-
+Top of Mount Katahdin-
+325 PM EDT Sun Apr 23 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Isolated rain and snow showers after midnight. Low around
+26. West winds 20 to 30 mph. Chance of precipitation 20 percent.
+Wind chill values as low as 15. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+High around 29. West winds 15 to 25 mph decreasing to 10 to 15 mph
+in the afternoon. 
+
+$$
+
+MEZ029-240930-
+Top of Cadillac Mountain-
+325 PM EDT Sun Apr 23 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear. Patchy fog after midnight. Near steady
+temperatures around 42. Southwest winds 15 to 20 mph. 
+.MONDAY...Mostly sunny. Patchy fog in the morning. High around 49.
+Northwest winds 10 to 15 mph in the morning becoming light winds. 
+
+$$
+
+MEZ004&gt;006-010-011-031-240930-
+Upper Penobscot Watershed-
+325 PM EDT Sun Apr 23 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Patchy fog after midnight. Low around 35. Southwest winds
+around 10 mph shifting to the west after midnight. 
+.MONDAY...Partly sunny. High around 52. Northwest winds around
+10 mph in the morning becoming light winds. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-240930-
+Lower Penobscot Watershed-
+325 PM EDT Sun Apr 23 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear until midnight...then becoming partly cloudy.
+Patchy fog after midnight. Low around 37. Southwest winds around
+10 mph. 
+.MONDAY...Partly sunny. High around 57. Northwest winds around
+10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,84 @@
+
+987 
+SXUS41 KCAR 120651
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+251 AM EDT Fri May 12 2017
+
+MEZ004-122100-
+Top of Mount Katahdin-
+251 AM EDT Fri May 12 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+High around 44. Northeast winds around 10 mph. 
+.TONIGHT...Partly cloudy. Low around 38. Light winds. 
+.SATURDAY...Mostly sunny. High around 44. Light winds becoming
+southeast around 10 mph in the afternoon. 
+
+$$
+
+MEZ029-122100-
+Top of Cadillac Mountain-
+251 AM EDT Fri May 12 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Summit in and out of clouds this morning...then becoming
+mostly cloudy. High around 54. Northeast winds around 10 mph this
+morning becoming light winds. 
+.TONIGHT...Mostly cloudy until midnight...then summit becoming
+obscured. Low around 42. Light winds. 
+.SATURDAY...Summit obscured in the morning...then summit in and out
+of clouds. High around 49. Southeast winds around 10 mph. 
+
+$$
+
+MEZ010-122100-
+Moosehead Lake-
+251 AM EDT Fri May 12 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+High around 59. Northeast winds around 10 mph. Waves 1 foot. 
+.TONIGHT...Partly cloudy. Low around 41. Waves 1 foot. Light winds. 
+.SATURDAY...Mostly sunny. High around 61. Waves 1 foot. Light winds.
+
+$$
+
+MEZ004&gt;006-010-011-031-122100-
+Upper Penobscot Watershed-
+251 AM EDT Fri May 12 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Not as cool with high around 62. Northeast winds around 10 mph. 
+.TONIGHT...Partly cloudy. Low around 40. Light winds. 
+.SATURDAY...Mostly sunny. High around 64. Light winds. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-122100-
+Lower Penobscot Watershed-
+251 AM EDT Fri May 12 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+High around 62. North winds around 10 mph this morning becoming
+light winds. 
+.TONIGHT...Partly cloudy. Low around 42. Light winds. 
+.SATURDAY...Partly sunny. High around 63. Light winds. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

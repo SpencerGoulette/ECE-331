@@ -1,0 +1,86 @@
+
+802 
+SXUS41 KCAR 151839
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+239 PM EDT Thu Jun 15 2017
+
+MEZ004-160845-
+Top of Mount Katahdin-
+239 PM EDT Thu Jun 15 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 43. Light winds becoming south 10 to 15 mph after
+midnight. No lightning risk. 
+.FRIDAY...Cloudy in the morning...then summit becoming obscured.
+Showers. High around 47. South winds 20 to 30 mph. Chance of
+precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ029-160845-
+Top of Cadillac Mountain-
+239 PM EDT Thu Jun 15 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy. Not as cool with low around 53. South
+winds around 10 mph. No lightning risk. 
+.FRIDAY...Cloudy. A chance of showers. High around 57. South winds
+10 to 15 mph. Chance of precipitation 40 percent. No lightning risk.
+
+$$
+
+MEZ010-160845-
+Moosehead Lake-
+239 PM EDT Thu Jun 15 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. A slight chance of showers after midnight. Not as cool with
+low around 48. Light winds. Waves 1 foot. Chance of precipitation
+20 percent. No lightning risk. 
+.FRIDAY...Cloudy, showers, cooler with high around 56. Waves 3 feet.
+South winds 10 to 15 mph. Chance of precipitation 80 percent. No
+lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-160845-
+Upper Penobscot Watershed-
+239 PM EDT Thu Jun 15 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Not as cool with low around 47. Light
+winds. No lightning risk. 
+.FRIDAY...Cloudy. Showers likely. Cooler with high around 58. South
+winds 10 to 15 mph. Chance of precipitation 70 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-160845-
+Lower Penobscot Watershed-
+239 PM EDT Thu Jun 15 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Not as cool with low around 49. Light
+winds. No lightning risk. 
+.FRIDAY...Cloudy. Showers likely. Cooler with high around 60. South
+winds around 10 mph. Chance of precipitation 70 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

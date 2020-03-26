@@ -1,0 +1,223 @@
+
+568 
+SXUS41 KCAR 062223
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+523 PM EST Tue Feb 6 2018
+
+MEZ004-071200-
+Top of Mount Katahdin-
+523 PM EST Tue Feb 6 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy...then becoming partly cloudy. Isolated snow 
+showers early this evening. Windy with low around zero. West winds 20
+to 30 mph. Chance of precipitation 20 percent. Wind chill values as 
+low as 22 below. No lightning risk. 
+.WEDNESDAY...Cloudy...then summit becoming obscured. A chance of 
+snow in the morning...then snow in the afternoon. Windy with high 
+around 14. Southwest winds 10 to 20 mph shifting to the south 15 to 
+30 mph in the afternoon. Chance of precipitation near 100 percent. 
+Wind chill values as low as 17 below. No lightning risk. 
+
+$$
+
+MEZ005-071200-
+Katahdin Woods and Waters National Monument-
+523 PM EST Tue Feb 6 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy...then becoming mostly clear after
+midnight...then becoming partly cloudy. Isolated snow showers early
+this evening. Low around 5 above. Light winds. Chance of
+precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Cloudy. A chance of snow in the morning...then snow in
+the afternoon. High around 18. Light winds becoming southeast around
+10 mph in the afternoon. Chance of precipitation near 100 percent.
+No lightning risk. 
+
+$$
+
+MEZ029-071200-
+Top of Cadillac Mountain-
+523 PM EST Tue Feb 6 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy...then becoming mostly clear through early
+morning...then becoming partly cloudy. Brisk with low around 17.
+West winds 15 to 25 mph shifting to the northwest 10 to 15 mph after
+midnight. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning...then summit in and out
+of clouds. Snow, windy with high around 31. South winds 10 to 20 mph
+increasing to 15 to 30 mph in the afternoon. Chance of precipitation
+near 100 percent. Wind chill values as low as 5 above. No lightning
+risk. 
+
+$$
+
+MEZ001-071200-
+Top of Deboullie Mountain-
+523 PM EST Tue Feb 6 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Isolated snow showers early this evening. Low around
+2 below. West winds around 10 mph. Chance of precipitation
+20 percent. Wind chill values as low as 13 below. No lightning risk.
+.WEDNESDAY...Mostly cloudy in the morning...then summit in and out
+of clouds. A slight chance of snow in the morning...then snow in the
+afternoon. High around 13. Light winds becoming southeast around
+10 mph in the afternoon. Chance of precipitation 90 percent. No
+lightning risk. 
+
+$$
+
+MEZ006-071200-
+Top of Mars Hill Mountain-
+523 PM EST Tue Feb 6 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy early this evening...then becoming partly
+cloudy. Isolated snow showers early this evening. Low around
+3 above. West winds 10 to 15 mph. Chance of precipitation
+20 percent. Wind chill values as low as 10 below. No lightning risk.
+.WEDNESDAY...Partly sunny in the morning...then becoming cloudy. A
+slight chance of snow in the morning...then snow in the afternoon.
+High around 17. Light winds becoming southeast 10 to 15 mph in the
+afternoon. Chance of precipitation 90 percent. No lightning risk. 
+
+$$
+
+MEZ010-071200-
+Top of White Cap Mountain-
+523 PM EST Tue Feb 6 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy...then summit in and out of clouds late this
+evening...then becoming partly cloudy. Isolated snow showers early
+this evening. Brisk with low around 5 above. Northwest winds 15 to
+25 mph. Chance of precipitation 20 percent. Wind chill values as low
+as 14 below. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning...then summit in and out
+of clouds. A chance of snow in the morning...then snow in the
+afternoon. Windy with high around 15. West winds 10 to 15 mph
+increasing to south 15 to 30 mph in the afternoon. Chance of
+precipitation near 100 percent. Wind chill values as low as
+11 below. No lightning risk. 
+
+$$
+
+MEZ010-071200-
+Moosehead Lake-
+523 PM EST Tue Feb 6 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy early this evening...then becoming partly
+cloudy. Isolated snow showers early this evening. Low around
+4 above. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+.WEDNESDAY...Cloudy, snow. High around 17. Southeast winds 10 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ001-071200-
+Allagash Wilderness Waterway-
+523 PM EST Tue Feb 6 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy early this evening...then becoming partly
+cloudy. Isolated snow showers early this evening. Low around
+4 below. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+.WEDNESDAY...Mostly cloudy. A chance of snow in the morning...then
+snow in the afternoon. High around 15. Light winds becoming
+southeast around 10 mph in the afternoon. Chance of precipitation
+90 percent. No lightning risk. 
+
+$$
+
+MEZ030-071200-
+St Croix River-
+523 PM EST Tue Feb 6 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy early this evening...then clearing. Low
+around 7 above. Light winds. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. A chance of snow in the morning...then
+snow in the afternoon. High around 24. Light winds becoming east
+around 10 mph in the afternoon. Chance of precipitation near
+100 percent. No lightning risk. 
+
+$$
+
+MEZ030-071200-
+West Quoddy Head-
+523 PM EST Tue Feb 6 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Isolated
+snow showers early this evening. Low around 18. Northwest winds
+10 to 15 mph. Chance of precipitation 20 percent. Wind chill values
+as low as 8 above. No lightning risk. Water temperature 41 degrees
+Fahrenheit. 
+.WEDNESDAY...Mostly cloudy. A chance of snow in the morning...then
+snow in the afternoon. High around 34. Northeast winds around 10 mph
+shifting to the southeast 10 to 20 mph in the afternoon. Chance of
+precipitation near 100 percent. Wind chill values as low as 12. No
+lightning risk. Water temperature 41 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-071200-
+Upper Penobscot Watershed-
+523 PM EST Tue Feb 6 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy...then becoming mostly clear after
+midnight...then becoming partly cloudy. Isolated snow showers early
+this evening. Low around 6 above. Light winds. Chance of
+precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Cloudy. A chance of snow in the morning...then snow in
+the afternoon. High around 20. Light winds becoming east around
+10 mph in the afternoon. Chance of precipitation near 100 percent.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-071200-
+Lower Penobscot Watershed-
+523 PM EST Tue Feb 6 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy...then becoming mostly clear through early
+morning...then becoming partly cloudy. Low around 9 above. Light
+winds. No lightning risk. 
+.WEDNESDAY...Cloudy. A chance of snow in the morning...then snow in
+the afternoon. High around 24. Light winds becoming east around
+10 mph in the afternoon. Chance of precipitation near 100 percent.
+Wind chill values as low as 6 above. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

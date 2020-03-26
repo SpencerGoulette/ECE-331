@@ -1,0 +1,93 @@
+
+388 
+SXUS41 KCAR 270717
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+317 AM EDT Mon Mar 27 2017
+
+MEZ004-272130-
+Top of Mount Katahdin-
+317 AM EDT Mon Mar 27 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit obscured. Snow. sleet this afternoon. High around
+28. Southeast winds around 10 mph. Chance of precipitation
+90 percent. 
+.TONIGHT...Summit obscured. Freezing rain...snow AND sleet until
+midnight...then a chance of freezing rain...snow AND sleet after
+midnight. Patchy fog after midnight. Not as cool with low around 28.
+Southeast winds around 10 mph. Chance of precipitation 80 percent. 
+.TUESDAY...Summit obscured. Patchy fog in the morning. A chance of
+sleet...rain AND freezing rain in the morning...then rain likely in
+the afternoon. High around 36. West winds 10 to 15 mph. Chance of
+precipitation 60 percent. 
+
+$$
+
+MEZ029-272130-
+Top of Cadillac Mountain-
+317 AM EDT Mon Mar 27 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Cloudy. Freezing rain and sleet with snow likely. High
+around 33. Southeast winds 10 to 15 mph. Chance of precipitation
+90 percent. 
+.TONIGHT...Summit obscured. Freezing rain and sleet with rain likely
+until midnight...then a chance of rain after midnight. Patchy fog
+after midnight. Low around 32. East winds 10 to 15 mph. Chance of
+precipitation 80 percent. 
+.TUESDAY...Summit obscured. Patchy fog in the morning. A chance of
+rain in the afternoon. High around 39. Northeast winds around 10 mph
+in the morning becoming light winds. Chance of precipitation
+30 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-272130-
+Upper Penobscot Watershed-
+317 AM EDT Mon Mar 27 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Snow and sleet. freezing rain this afternoon. High
+around 30. Light winds becoming southeast around 10 mph this
+afternoon. Chance of precipitation near 100 percent. 
+.TONIGHT...Cloudy. Freezing rain...sleet AND snow until midnight...
+then a chance of freezing rain...sleet AND snow after midnight.
+Patchy fog after midnight. Near steady temperatures around 29. Light
+winds. Chance of precipitation 90 percent. 
+.TUESDAY...Cloudy. Patchy fog in the morning. A chance of freezing
+rain and sleet in the morning. a chance of rain. High around 39.
+Light winds. Chance of precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-272130-
+Lower Penobscot Watershed-
+317 AM EDT Mon Mar 27 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Snow and sleet. freezing rain this afternoon. High
+around 32. Southeast winds around 10 mph. Chance of precipitation
+near 100 percent. 
+.TONIGHT...Cloudy. Freezing rain...sleet AND snow until midnight...
+then a chance of freezing rain and sleet after midnight. Patchy fog
+after midnight. Near steady temperatures around 31. East winds
+around 10 mph until midnight becoming light winds. Chance of
+precipitation 90 percent. 
+.TUESDAY...Cloudy. Patchy fog in the morning. A chance of rain in
+the afternoon. High around 41. Light winds. Chance of precipitation
+50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

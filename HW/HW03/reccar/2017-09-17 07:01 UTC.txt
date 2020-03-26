@@ -1,0 +1,238 @@
+
+028 
+SXUS41 KCAR 170701
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+301 AM EDT Sun Sep 17 2017
+
+MEZ004-172115-
+Top of Mount Katahdin-
+301 AM EDT Sun Sep 17 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly cloudy. Patchy drizzle this morning. isolated
+showers. High around 60. West winds around 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Areas of fog after midnight. Low around
+53. West winds around 10 mph. No lightning risk. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Areas of fog in the morning. High around 58. Southwest winds 10 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ005-172115-
+Katahdin Woods and Waters National Monument-
+301 AM EDT Sun Sep 17 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Isolated showers with patchy drizzle this morning. High around 76.
+Light winds. Chance of precipitation 20 percent. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Areas of fog after midnight. Low around 57. Light winds. No
+lightning risk. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Areas of fog in the morning. High around 73. Light winds becoming
+south around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-172115-
+Top of Cadillac Mountain-
+301 AM EDT Sun Sep 17 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Cloudy this morning...then becoming partly sunny. Areas of
+dense fog this morning. High around 67. Light winds. No lightning
+risk. 
+.TONIGHT...Cloudy. Areas of fog after midnight. Low around 58. South
+winds around 10 mph until midnight becoming light winds. No
+lightning risk. 
+.MONDAY...Cloudy in the morning...then summit becoming obscured.
+Areas of fog in the morning. High around 62. South winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ001-172115-
+Top of Deboullie Mountain-
+301 AM EDT Sun Sep 17 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Summit obscured this morning...then becoming cloudy. Patchy
+drizzle this morning. scattered showers. High around 70. Southwest
+winds around 10 mph. Chance of precipitation 30 percent. No
+lightning risk. 
+.TONIGHT...Mostly cloudy until midnight...then summit in and out of
+clouds. Isolated showers. Areas of fog after midnight. Low around
+55. Light winds. Chance of precipitation 20 percent. No lightning
+risk. 
+.MONDAY...Summit obscured in the morning...then becoming mostly
+cloudy. Areas of fog in the morning. High around 72. Light winds. No
+lightning risk. 
+
+$$
+
+MEZ006-172115-
+Top of Mars Hill Mountain-
+301 AM EDT Sun Sep 17 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Summit in and out of clouds this morning. Scattered showers
+with patchy drizzle this morning...then isolated showers this 
+afternoon. High around 70. Southwest winds around 5 mph. Chance of 
+precipitation 30 percent. No lightning risk. 
+.TONIGHT...Summit obscured until midnight...then summit in and out
+of clouds. Isolated showers. Areas of fog after midnight. Low around
+54. South winds around 10 mph until midnight becoming light winds.
+Chance of precipitation 20 percent. No lightning risk. 
+.MONDAY...Cloudy in the morning...then summit becoming obscured.
+Areas of fog in the morning. High around 70. Light winds becoming
+south around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-172115-
+Top of White Cap Mountain-
+301 AM EDT Sun Sep 17 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly cloudy. Areas of fog this morning. High around 67.
+Southwest winds around 10 mph. No lightning risk. 
+.TONIGHT...Summit obscured. Areas of fog after midnight. Low around
+57. Southwest winds 10 to 15 mph. No lightning risk. 
+.MONDAY...Summit in and out of clouds in the morning...then becoming
+mostly cloudy. Areas of fog in the morning. High around 63.
+Southwest winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ010-172115-
+Moosehead Lake-
+301 AM EDT Sun Sep 17 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Partly sunny. Areas of fog this morning. High around 77.
+Light winds. Waves 1 foot. No lightning risk. Water temperature
+67 degrees Fahrenheit. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Areas of fog after midnight. Low around 56. Waves 1 foot.
+Light winds. No lightning risk. Water temperature 67 degrees
+Fahrenheit. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Areas of fog in the morning. A slight chance of showers in the
+afternoon. High around 72. Waves 2 feet. Light winds becoming south
+around 10 mph in the afternoon. Chance of precipitation 20 percent.
+No lightning risk. Water temperature 67 degrees Fahrenheit. 
+
+$$
+
+MEZ001-172115-
+Allagash Wilderness Waterway-
+301 AM EDT Sun Sep 17 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Mostly cloudy. Patchy drizzle this morning. isolated
+showers. High around 75. Light winds becoming southwest around
+10 mph this afternoon. Chance of precipitation 20 percent. No
+lightning risk. 
+.TONIGHT...Mostly cloudy. Isolated showers. Areas of fog after
+midnight. Low around 52. Light winds. Chance of precipitation
+20 percent. No lightning risk. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Areas of fog in the morning. A slight chance of showers in the
+afternoon. High around 76. Light winds becoming southwest around
+10 mph in the afternoon. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-172115-
+St Croix River-
+301 AM EDT Sun Sep 17 2017
+
+...ST CROIX RIVER...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Areas of fog this morning. High around 75. Light winds. No lightning
+risk. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Areas of fog after midnight. Low around 55. Light winds. No
+lightning risk. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Areas of fog in the morning. High around 71. Light winds becoming
+south around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-172115-
+West Quoddy Head-
+301 AM EDT Sun Sep 17 2017
+
+...WEST QUODDY HEAD...
+
+.TODAY...Mostly cloudy. Areas of dense fog this morning. High around
+64. Light winds. No lightning risk. Water temperature 58 degrees
+Fahrenheit. 
+.TONIGHT...Mostly cloudy. Areas of fog after midnight. Low around
+54. Light winds. No lightning risk. Water temperature 58 degrees
+Fahrenheit. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Areas of fog in the morning. High around 65. Light winds. No
+lightning risk. Water temperature 58 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-172115-
+Upper Penobscot Watershed-
+301 AM EDT Sun Sep 17 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Areas of fog this morning. High around 78. Light winds. No lightning
+risk. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Areas of fog after midnight. Low around 56. Light winds. No
+lightning risk. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Areas of fog in the morning. High around 72. Light winds becoming
+south around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-172115-
+Lower Penobscot Watershed-
+301 AM EDT Sun Sep 17 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. Areas of fog this morning. High around 79.
+Light winds. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Areas of fog after midnight. Low around 57. Light winds. No
+lightning risk. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Areas of fog in the morning. High around 72. Light winds becoming
+south around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

@@ -1,0 +1,86 @@
+
+121 
+SXUS41 KCAR 160640
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+240 AM EDT Tue May 16 2017
+
+MEZ004-162045-
+Top of Mount Katahdin-
+240 AM EDT Tue May 16 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+High around 47. Northwest winds 25 to 30 mph. 
+.TONIGHT...Clear. Low around 42. Northwest winds 15 to 25 mph. 
+.WEDNESDAY...Mostly sunny in the morning...then becoming mostly
+cloudy. High around 57. West winds 15 to 20 mph. 
+
+$$
+
+MEZ029-162045-
+Top of Cadillac Mountain-
+240 AM EDT Tue May 16 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly sunny. High around 66. Northwest winds 15 to 20 mph.
+
+.TONIGHT...Clear. Low around 54. Northwest winds around 20 mph 
+decreasing to 10 to 15 mph after midnight. 
+.WEDNESDAY...Mostly sunny. High around 61. West winds around 10 mph
+shifting to the southwest in the afternoon. 
+
+$$
+
+MEZ010-162045-
+Moosehead Lake-
+240 AM EDT Tue May 16 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Partly sunny. High around 64. Northwest winds 10 to 15 mph.
+Waves 4 feet. 
+.TONIGHT...Clear. Low around 46. Waves 3 feet. Northwest winds 10 to
+15 mph until midnight becoming light winds. 
+.WEDNESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. High around 70. Waves 2 feet. Light winds becoming southwest
+around 10 mph in the afternoon. 
+
+$$
+
+MEZ004&gt;006-010-011-031-162045-
+Upper Penobscot Watershed-
+240 AM EDT Tue May 16 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. High around 69. Northwest winds 10 to 15 mph.
+.TONIGHT...Clear. Low around 47. Northwest winds 10 to 15 mph. 
+.WEDNESDAY...Mostly sunny in the morning...then becoming mostly
+cloudy. High around 72. Light winds becoming southwest around 10 mph
+in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-162045-
+Lower Penobscot Watershed-
+240 AM EDT Tue May 16 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 70. Northwest winds 10 to 15 mph.
+.TONIGHT...Clear. Low around 48. West winds 10 to 15 mph. 
+.WEDNESDAY...Partly sunny. High around 73. Light winds becoming
+southwest around 10 mph in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

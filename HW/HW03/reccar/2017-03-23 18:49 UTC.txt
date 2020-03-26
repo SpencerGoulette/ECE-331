@@ -1,0 +1,77 @@
+
+693 
+SXUS41 KCAR 231849
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+249 PM EDT Thu Mar 23 2017
+
+MEZ004-240900-
+Top of Mount Katahdin-
+249 PM EDT Thu Mar 23 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear until midnight...then becoming partly cloudy. Low
+around 1 above. Northwest winds around 25 mph shifting to the west
+after midnight. Wind chill values as low as 22 below. 
+.FRIDAY...Cloudy. A chance of snow showers in the morning...then
+snow showers likely in the afternoon. High around 23. Southwest 
+winds 15 to 30 mph becoming around 25 mph in the afternoon. Chance of
+precipitation 60 percent. Wind chill values as low as 7 below. 
+
+$$
+
+MEZ029-240900-
+Top of Cadillac Mountain-
+249 PM EDT Thu Mar 23 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 16. West winds 15 to 25 mph. Wind chill
+values as low as 1 below. 
+.FRIDAY...Mostly cloudy. Snow and rain showers in the afternoon. High
+around 34. Southwest winds 10 to 25 mph increasing to 25 to 30 mph 
+in the afternoon. Chance of precipitation 80 percent. Wind chill 
+values as low as zero in the morning. 
+
+$$
+
+MEZ004&gt;006-010-011-031-240900-
+Upper Penobscot Watershed-
+249 PM EDT Thu Mar 23 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear until midnight...then becoming partly cloudy. Low
+around 9 above. Northwest winds 10 to 15 mph until midnight becoming
+light winds. 
+.FRIDAY...Cloudy. A chance of snow showers in the morning...then
+snow and rain showers likely in the afternoon. High around 33. South
+winds 10 to 15 mph. Chance of precipitation 70 percent. Wind chill
+values as low as 2 above in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-240900-
+Lower Penobscot Watershed-
+249 PM EDT Thu Mar 23 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear until midnight...then becoming partly cloudy. Low
+around 11. Northwest winds around 10 mph until midnight becoming
+light winds. 
+.FRIDAY...Cloudy. A chance of snow showers in the morning...then
+rain and snow showers likely in the afternoon. High around 36. South
+winds 10 to 15 mph. Chance of precipitation 70 percent. Wind chill
+values as low as 4 above in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

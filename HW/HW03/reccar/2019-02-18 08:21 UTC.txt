@@ -1,0 +1,238 @@
+
+224 
+SXUS41 KCAR 180821
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+321 AM EST Mon Feb 18 2019
+
+MEZ004-182230-
+Top of Mount Katahdin-
+321 AM EST Mon Feb 18 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny until mid morning, then becoming mostly
+cloudy. A slight chance of snow early this afternoon. High around
+3 above. Light winds becoming west 15 mph this afternoon. Chance of
+precipitation 20 percent. Wind chill values as low as 24 below. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+4 below. Northwest winds 10 to 25 mph. Wind chill values as low as
+26 below. No lightning risk. 
+.TUESDAY...Partly sunny and very windy. High around zero. Northwest
+winds 20 to 40 mph increasing to 30 to 40 mph in the afternoon. Wind
+chill values as low as 31 below. No lightning risk. 
+
+$$
+
+MEZ005-182230-
+Katahdin Woods and Waters National Monument-
+321 AM EST Mon Feb 18 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Partly sunny until mid morning, then becoming mostly
+cloudy. High around 17. North winds 10 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+2 below. Northwest winds 10 to 15 mph. Wind chill values as low as
+14 below. No lightning risk. 
+.TUESDAY...Partly sunny. High around 13. Northwest winds 10 to
+20 mph. Wind chill values as low as 18 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ029-182230-
+Top of Cadillac Mountain-
+321 AM EST Mon Feb 18 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Cloudy. A slight chance of snow until mid morning...then a
+chance of snow from late morning on. High around 23. Northeast winds
+10 to 20 mph. Chance of precipitation 50 percent. Wind chill values
+as low as 4 above. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Cooler with
+low around 5 above. Northwest winds 15 to 25 mph. Wind chill values
+as low as 15 below after midnight. No lightning risk. 
+.TUESDAY...Sunny and very windy. High around 17. Northwest winds
+20 to 40 mph. Wind chill values as low as 19 below in the morning.
+No lightning risk. 
+
+$$
+
+MEZ001-182230-
+Top of Deboullie Mountain-
+321 AM EST Mon Feb 18 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Partly sunny this morning, then becoming mostly cloudy.
+High around 6 above. North winds 10 mph shifting to the northwest
+10 to 15 mph this afternoon. Wind chill values as low as 23 below.
+No lightning risk. 
+.TONIGHT...Clear, cold with low around 9 below. Northwest winds
+10 to 20 mph. Wind chill values as low as 25 below. No lightning
+risk. 
+.TUESDAY...Partly sunny. High around 6 above. Northwest winds 10 to
+20 mph. Wind chill values as low as 28 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ006-182230-
+Top of Mars Hill Mountain-
+321 AM EST Mon Feb 18 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Partly sunny this morning, then becoming mostly cloudy.
+High around 11. North winds 10 mph shifting to the northwest 10 to
+15 mph this afternoon. Wind chill values as low as 12 below. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Cold with
+low around 5 below. Northwest winds 10 to 20 mph. Wind chill values
+as low as 21 below. No lightning risk. 
+.TUESDAY...Partly sunny. High around 9 above. Northwest winds 15 to
+20 mph. Wind chill values as low as 24 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ010-182230-
+Top of White Cap Mountain-
+321 AM EST Mon Feb 18 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly cloudy. A chance of snow late this morning and early
+afternoon. a slight chance of snow late. High around 5 above.
+Northeast winds 10 mph. Chance of precipitation 30 percent. No
+lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then clearing. Cold with
+low around 5 below. Northwest winds 10 to 25 mph. Wind chill values
+as low as 26 below. No lightning risk. 
+.TUESDAY...Mostly sunny and very windy. High around 2 above.
+Northwest winds 25 to 45 mph. Wind chill values as low as 31 below.
+No lightning risk. 
+
+$$
+
+MEZ010-182230-
+Moosehead Lake-
+321 AM EST Mon Feb 18 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy. A slight chance of snow late this morning. A
+chance of snow early this afternoon...then a slight chance of snow
+late. High around 17. North winds 10 mph. Chance of precipitation
+40 percent. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Cold with
+low around 5 below. Northwest winds 10 to 15 mph. Wind chill values
+as low as 22 below after midnight. No lightning risk. 
+.TUESDAY...Partly sunny. High around 12. Northwest winds 10 to
+20 mph. Wind chill values as low as 23 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ001-182230-
+Allagash Wilderness Waterway-
+321 AM EST Mon Feb 18 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Partly sunny. High around 15. North winds 10 mph. No
+lightning risk. 
+.TONIGHT...Clear, cold with low around 10 below. Northwest winds
+10 mph increasing to 10 to 15 mph after midnight. Wind chill values
+as low as 26 below after midnight. No lightning risk. 
+.TUESDAY...Partly sunny. High around 10 above. West winds 10 to
+20 mph. Wind chill values as low as 26 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-182230-
+St Croix River-
+321 AM EST Mon Feb 18 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Partly sunny until mid morning, then becoming mostly
+cloudy. A slight chance of snow early this afternoon. High around
+24. North winds 10 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+zero. Northwest winds 10 to 15 mph. Wind chill values as low as
+17 below after midnight. No lightning risk. 
+.TUESDAY...Mostly sunny. High around 18. Northwest winds 10 to
+20 mph. Wind chill values as low as 17 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-182230-
+West Quoddy Head-
+321 AM EST Mon Feb 18 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Mostly cloudy. A slight chance of snow from late morning
+on. High around 30. Northeast winds 10 to 15 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 8 above. No
+lightning risk. Water temperature 38 degrees Fahrenheit. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+9 above. Northwest winds 15 to 25 mph. Wind chill values as low as
+11 below after midnight. No lightning risk. Water temperature
+38 degrees Fahrenheit. 
+.TUESDAY...Sunny. High around 24. Northwest winds 15 to 25 mph. Wind
+chill values as low as 10 below in the morning. No lightning risk.
+Water temperature 38 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-182230-
+Upper Penobscot Watershed-
+321 AM EST Mon Feb 18 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. A slight chance of snow from late morning
+on. High around 21. North winds 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+1 below. Northwest winds 10 to 15 mph. Wind chill values as low as
+17 below after midnight. No lightning risk. 
+.TUESDAY...Mostly sunny. High around 16. Northwest winds 10 to
+20 mph. Wind chill values as low as 18 below in the morning. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-182230-
+Lower Penobscot Watershed-
+321 AM EST Mon Feb 18 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. A slight chance of snow this morning...then
+a chance of snow early this afternoon. a slight chance of snow late.
+High around 26. Northeast winds 10 mph. Chance of precipitation
+40 percent. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+2 above. Northwest winds 10 to 15 mph. Wind chill values as low as
+12 below after midnight. No lightning risk. 
+.TUESDAY...Sunny. High around 19. Northwest winds 10 to 20 mph. Wind
+chill values as low as 13 below in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

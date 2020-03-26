@@ -1,0 +1,219 @@
+
+593 
+SXUS41 KCAR 062027
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+327 PM EST Tue Nov 6 2018
+
+MEZ004-071030-
+Top of Mount Katahdin-
+327 PM EST Tue Nov 6 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy, then summit in and out of clouds late this
+evening, then summit becoming obscured, then becoming mostly cloudy
+late. Rain with a chance of snow until midnight...then scattered
+rain showers after midnight. Rain may be heavy at times early this
+evening. Windy with low around 33. Southwest winds 20 to 30 mph.
+Chance of precipitation 80 percent. Wind chill values as low as 20.
+No lightning risk. 
+.WEDNESDAY...Summit in and out of clouds in the morning, then
+becoming mostly cloudy. Windy, cooler with high around 35. West
+winds 25 to 30 mph. Wind chill values as low as 18. No lightning
+risk. 
+
+$$
+
+MEZ005-071030-
+Katahdin Woods and Waters National Monument-
+327 PM EST Tue Nov 6 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Rain likely early this evening...then scattered showers
+through early morning. Low around 43. Light winds becoming southwest
+around 10 mph after midnight. Chance of precipitation 70 percent. No
+lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then becoming partly
+sunny. High around 50. West winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ029-071030-
+Top of Cadillac Mountain-
+327 PM EST Tue Nov 6 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Areas of fog early this evening. Rain
+early this evening...then rain likely late this evening. isolated
+showers after midnight. Rain may be heavy at times early this
+evening. Low around 46. Southwest winds 15 to 20 mph. Chance of
+precipitation 90 percent. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then becoming mostly
+sunny. Breezy with high around 53. West winds 20 to 25 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-071030-
+Top of Deboullie Mountain-
+327 PM EST Tue Nov 6 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured through early morning, then summit in and
+out of clouds. Rain with a chance of snow until midnight...then
+scattered rain showers with a slight chance of snow showers after
+midnight. Low around 34. Southwest winds around 15 mph. Chance of
+precipitation 70 percent. No lightning risk. 
+.WEDNESDAY...Summit obscured. Isolated showers. High around 44.
+Southwest winds 15 to 20 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ006-071030-
+Top of Mars Hill Mountain-
+327 PM EST Tue Nov 6 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured through early morning, then summit in and
+out of clouds. Rain until midnight...then scattered showers after
+midnight. isolated showers late. Low around 42. South winds 10 to
+15 mph. Chance of precipitation 80 percent. No lightning risk. 
+.WEDNESDAY...Cloudy. High around 48. Southwest winds 15 to 20 mph.
+No lightning risk. 
+
+$$
+
+MEZ010-071030-
+Top of White Cap Mountain-
+327 PM EST Tue Nov 6 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured, then becoming mostly cloudy late this
+evening, then becoming partly cloudy. Areas of fog early this
+evening. Rain likely early this evening...then scattered showers
+late this evening. isolated showers after midnight. Rain may be
+heavy at times early this evening. Low around 36. Southwest winds
+around 20 mph. Chance of precipitation 70 percent. No lightning
+risk. 
+.WEDNESDAY...Summit obscured. Breezy with high around 48.
+Temperatures falling to around 38 in the afternoon. West winds 20 to
+25 mph. No lightning risk. 
+
+$$
+
+MEZ010-071030-
+Moosehead Lake-
+327 PM EST Tue Nov 6 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Rain likely early this evening...then scattered showers late
+this evening. isolated showers after midnight. Low around 41. Light
+winds becoming southwest around 10 mph after midnight. Waves 1 foot.
+Chance of precipitation 60 percent. No lightning risk. Water
+temperature 56 degrees Fahrenheit. 
+.WEDNESDAY...Mostly cloudy in the morning, then becoming partly
+sunny. High around 49. Waves 3 feet. West winds 10 to 20 mph. No
+lightning risk. Water temperature 56 degrees Fahrenheit. 
+
+$$
+
+MEZ001-071030-
+Allagash Wilderness Waterway-
+327 PM EST Tue Nov 6 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. Rain likely early this evening...then
+scattered showers through early morning. isolated showers late. Low
+around 41. South winds around 10 mph. Chance of precipitation
+70 percent. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. Isolated showers in the morning...then
+scattered showers in the afternoon. High around 47. West winds 10 to
+15 mph. Chance of precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ030-071030-
+St Croix River-
+327 PM EST Tue Nov 6 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Rain until midnight...then isolated showers after midnight.
+Not as cool with low around 46. Light winds becoming southwest
+around 10 mph after midnight. Chance of precipitation 90 percent. No
+lightning risk. 
+.WEDNESDAY...Partly sunny. High around 55. West winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ030-071030-
+West Quoddy Head-
+327 PM EST Tue Nov 6 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy. Areas of fog early this evening. Rain
+until midnight...then scattered showers after midnight. isolated
+showers late. Rain may be heavy at times early this evening. Low
+around 50. Southwest winds 15 to 20 mph. Chance of precipitation
+90 percent. No lightning risk. Water temperature 52 degrees
+Fahrenheit. 
+.WEDNESDAY...Mostly sunny. High around 56. Southwest winds 15 to
+20 mph. No lightning risk. Water temperature 52 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-071030-
+Upper Penobscot Watershed-
+327 PM EST Tue Nov 6 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy until midnight, then becoming partly cloudy. Areas
+of fog early this evening. Rain likely early this evening...then
+scattered showers late this evening. isolated showers after
+midnight. Not as cool. Near steady temperatures around 46. Light
+winds becoming southwest around 10 mph after midnight. Chance of
+precipitation 70 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 52. West winds 10 to 15 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-071030-
+Lower Penobscot Watershed-
+327 PM EST Tue Nov 6 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Areas of fog early this evening. Rain likely early this
+evening...then scattered showers late this evening. Rain may be
+heavy at times early this evening. Not as cool with low around 46.
+Light winds becoming southwest around 10 mph after midnight. Chance
+of precipitation 70 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 55. West winds 10 to 15 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

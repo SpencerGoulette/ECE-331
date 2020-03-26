@@ -1,0 +1,75 @@
+
+463 
+SXUS41 KCAR 040742
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+342 AM EDT Thu May 4 2017
+
+MEZ004-042145-
+Top of Mount Katahdin-
+342 AM EDT Thu May 4 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Sunny. High around 40. West winds 10 to 15 mph. Wind chill
+values as low as 14. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Not as cool with low around 33. Southwest winds 10 to
+15 mph. 
+.FRIDAY...Cloudy. Rain likely in the afternoon. High around 40.
+South winds 10 to 20 mph. Chance of precipitation 60 percent. 
+
+$$
+
+MEZ029-042145-
+Top of Cadillac Mountain-
+342 AM EDT Thu May 4 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny. High around 52. Northwest winds around 10 mph
+shifting to the southwest this afternoon. 
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Low around 42. Southwest winds around 15 mph. 
+.FRIDAY...Mostly cloudy. Rain likely in the afternoon. High around
+48. South winds 10 to 15 mph. Chance of precipitation 70 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-042145-
+Upper Penobscot Watershed-
+342 AM EDT Thu May 4 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 59. Northwest winds around 10 mph. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 42. Light winds. 
+.FRIDAY...Cloudy. Rain likely in the afternoon. High around 54.
+South winds around 10 mph. Chance of precipitation 70 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-042145-
+Lower Penobscot Watershed-
+342 AM EDT Thu May 4 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 61. West winds around 10 mph. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 42. South winds around 10 mph. 
+.FRIDAY...Cloudy. Rain likely in the afternoon. High around 55.
+South winds around 10 mph. Chance of precipitation 70 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+HEWITT

@@ -1,0 +1,222 @@
+
+688 
+SXUS41 KCAR 241939
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+339 PM EDT Sun Jun 24 2018
+
+MEZ004-250945-
+Top of Mount Katahdin-
+339 PM EDT Sun Jun 24 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. A chance of rain early this evening...
+then rain from late evening on. Rain may be heavy at times after
+midnight. Low around 40. Northeast winds 10 to 15 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+.MONDAY...Summit obscured in the morning, then becoming cloudy. Rain
+in the morning...then a chance of showers in the afternoon. Rain may
+be heavy at times in the morning. Cooler. Near steady temperatures
+around 43. Northeast winds 10 to 15 mph. Chance of precipitation
+80 percent. No lightning risk. 
+
+$$
+
+MEZ005-250945-
+Katahdin Woods and Waters National Monument-
+339 PM EDT Sun Jun 24 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+from late evening on. Rain may be heavy at times after midnight. Low
+around 51. Northeast winds around 10 mph. Chance of precipitation
+near 100 percent. No lightning risk. 
+.MONDAY...Mostly cloudy. Rain in the morning...then a chance of
+showers in the afternoon. Rain may be heavy at times in the morning.
+High around 63. Northeast winds around 10 mph. Chance of
+precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ029-250945-
+Top of Cadillac Mountain-
+339 PM EDT Sun Jun 24 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy, then summit in and out of clouds after midnight,
+then summit becoming obscured. A chance of rain late this evening.
+rain after midnight. Low around 52. West winds around 10 mph
+shifting to the north 10 mph after midnight. Chance of precipitation
+near 100 percent. No lightning risk. 
+.MONDAY...Summit obscured. Rain in the morning. High around 60.
+North winds 15 to 20 mph. Chance of precipitation 80 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-250945-
+Top of Deboullie Mountain-
+339 PM EDT Sun Jun 24 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy through early morning, then summit becoming
+obscured. A chance of rain until midnight...then rain after
+midnight. Low around 49. North winds around 10 mph until midnight
+becoming light winds. Chance of precipitation 90 percent. No
+lightning risk. 
+.MONDAY...Summit obscured in the morning, then becoming mostly
+cloudy. Rain likely in the morning...then a chance of showers in the
+afternoon. High around 58. Northeast winds around 10 mph. Chance of
+precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ006-250945-
+Top of Mars Hill Mountain-
+339 PM EDT Sun Jun 24 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy until midnight, then summit becoming obscured. A
+slight chance of rain early this evening...then rain from late
+evening on. Low around 49. Northeast winds around 10 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+.MONDAY...Summit obscured in the morning, then becoming partly
+sunny. Rain likely in the morning...then a chance of showers in the
+afternoon. High around 60. Northeast winds around 10 mph. Chance of
+precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ010-250945-
+Top of White Cap Mountain-
+339 PM EDT Sun Jun 24 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. A chance of rain early this evening...
+then rain from late evening on. Rain may be heavy at times after
+midnight. Low around 45. Northeast winds 10 to 15 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+.MONDAY...Summit obscured. Rain in the morning...then a chance of
+showers in the afternoon. Rain may be heavy at times in the morning.
+Cooler with high around 50. Northeast winds 10 to 15 mph. Chance of
+precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ010-250945-
+Moosehead Lake-
+339 PM EDT Sun Jun 24 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+from late evening on. Rain may be heavy at times after midnight. Low
+around 53. Light winds becoming north around 10 mph after midnight.
+Waves 1 foot. Chance of precipitation near 100 percent. No lightning
+risk. Water temperature 59 degrees Fahrenheit. 
+.MONDAY...Mostly cloudy. Rain in the morning...then a chance of
+showers in the afternoon. High around 60. Waves 1 foot. North winds
+around 10 mph. Chance of precipitation 80 percent. No lightning
+risk. Water temperature 59 degrees Fahrenheit. 
+
+$$
+
+MEZ001-250945-
+Allagash Wilderness Waterway-
+339 PM EDT Sun Jun 24 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+from late evening on. Low around 51. Light winds. Chance of
+precipitation near 100 percent. No lightning risk. 
+.MONDAY...Mostly cloudy. A chance of showers. High around 62. Light
+winds. Chance of precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ030-250945-
+St Croix River-
+339 PM EDT Sun Jun 24 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. A slight chance of rain early this evening...then
+a chance of rain late this evening. rain after midnight. Rain may be
+heavy at times late. Low around 51. Light winds becoming northeast
+around 10 mph after midnight. Chance of precipitation near
+100 percent. No lightning risk. 
+.MONDAY...Cloudy in the morning, then becoming partly sunny. Rain in
+the morning...then a slight chance of showers in the afternoon. High
+around 62. Northeast winds around 10 mph. Chance of precipitation
+90 percent. No lightning risk. 
+
+$$
+
+MEZ030-250945-
+West Quoddy Head-
+339 PM EDT Sun Jun 24 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. A chance of rain late this evening. rain after
+midnight. Rain may be heavy at times late. Low around 52. Southwest
+winds around 10 mph shifting to the east after midnight. Chance of
+precipitation near 100 percent. No lightning risk. Water temperature
+50 degrees Fahrenheit. 
+.MONDAY...Cloudy. Rain in the morning...then a chance of showers in
+the afternoon. High around 59. North winds 15 to 20 mph. Chance of
+precipitation 90 percent. No lightning risk. Water temperature
+50 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-250945-
+Upper Penobscot Watershed-
+339 PM EDT Sun Jun 24 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+likely late this evening. rain after midnight. Rain may be heavy at
+times after midnight. Low around 52. Light winds becoming northeast
+around 10 mph after midnight. Chance of precipitation near
+100 percent. No lightning risk. 
+.MONDAY...Mostly cloudy. Rain in the morning...then a chance of
+showers in the afternoon. Rain may be heavy at times in the morning.
+High around 63. Northeast winds around 10 mph. Chance of
+precipitation 80 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-250945-
+Lower Penobscot Watershed-
+339 PM EDT Sun Jun 24 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A slight chance of rain early this evening...then
+a chance of rain late this evening. rain after midnight. Rain may be
+heavy at times late. Low around 54. Light winds becoming northeast
+10 mph after midnight. Chance of precipitation near 100 percent. No
+lightning risk. 
+.MONDAY...Mostly cloudy. Rain in the morning...then a slight chance
+of showers in the afternoon. Rain may be heavy at times in the
+morning. High around 65. North winds around 10 mph. Chance of
+precipitation 80 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

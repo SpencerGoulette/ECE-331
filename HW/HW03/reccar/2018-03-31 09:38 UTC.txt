@@ -1,0 +1,252 @@
+
+452 
+SXUS41 KCAR 310938
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+538 AM EDT Sat Mar 31 2018
+
+MEZ004-010000-
+Top of Mount Katahdin-
+538 AM EDT Sat Mar 31 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly sunny and windy. Much cooler with high around 23.
+West winds 20 to 30 mph. Wind chill values as low as 8 below. No
+lightning risk. 
+.TONIGHT...Mostly clear until midnight, then summit becoming 
+obscured. A chance of snow after midnight. Very windy. Near steady 
+temperatures around 22. Southwest winds 20 to 30 mph increasing to 30
+to 40 mph after midnight. Chance of precipitation 50 percent. Wind 
+chill values as low as 4 above. No lightning risk. 
+.SUNDAY...Summit in and out of clouds. A chance of snow in the 
+morning. Strong winds with high around 28. West winds 40 to 45 mph. 
+Chance of precipitation 50 percent. Wind chill values as low as 3 
+above. No lightning risk. 
+
+$$
+
+MEZ005-010000-
+Katahdin Woods and Waters National Monument-
+538 AM EDT Sat Mar 31 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly sunny. High around 41. West winds 10 to 20 mph. Wind
+chill values as low as 14. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming mostly cloudy.
+A chance of snow after midnight. Low around 30. Southwest winds
+around 10 mph. Chance of precipitation 50 percent. No lightning 
+risk. 
+.SUNDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Snow likely with a slight chance of rain in the morning. High around
+42. West winds 10 to 20 mph. Chance of precipitation 60 percent. No
+lightning risk. 
+
+$$
+
+MEZ029-010000-
+Top of Cadillac Mountain-
+538 AM EDT Sat Mar 31 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly sunny, breezy with high around 41. Northwest winds 
+20 to 25 mph shifting to the west around 15 mph this afternoon. Wind 
+chill values as low as 17. No lightning risk. 
+.TONIGHT...Clear until midnight, then becoming mostly cloudy. A
+chance of rain after midnight. Very windy with low around 37.
+Southwest winds 15 to 25 mph increasing to 25 to 35 mph after
+midnight. Chance of precipitation 40 percent. No lightning risk. 
+.SUNDAY...Summit in and out of clouds. Rain likely in the 
+morning...then a slight chance of rain in the afternoon. Windy with 
+high around 44. Southwest winds 20 to 30 mph. Chance of precipitation
+60 percent. No lightning risk.
+
+$$
+
+MEZ001-010000-
+Top of Deboullie Mountain-
+538 AM EDT Sat Mar 31 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Mostly sunny. High around 34. West winds 15 to 20 mph. Wind
+chill values as low as 5 above. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming cloudy. A
+slight chance of snow until midnight...then snow likely after
+midnight. Not as cool with low around 32. Southwest winds 10 to
+15 mph. Chance of precipitation 70 percent. No lightning risk. 
+.SUNDAY...Summit obscured in the morning, then becoming mostly
+cloudy. Snow likely in the morning. A slight chance of rain. Windy 
+with high around 36. Southwest winds around 20 mph shifting to the 
+west 25 to 30 mph in the afternoon. Chance of precipitation 70 
+percent. Wind chill values as low as 21. No lightning risk. 
+
+$$
+
+MEZ006-010000-
+Top of Mars Hill Mountain-
+538 AM EDT Sat Mar 31 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Mostly sunny. High around 37. Northwest winds 15 to 20 mph.
+Wind chill values as low as 9 above. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming cloudy. Snow
+likely after midnight. Low around 31. Southwest winds 10 to 20 mph.
+Chance of precipitation 60 percent. No lightning risk. 
+.SUNDAY...Summit in and out of clouds in the morning, then becoming
+mostly cloudy. Snow likely in the morning. A slight chance of rain. 
+Breezy with high around 41. Southwest winds 20 to 25 mph. Chance of 
+precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ010-010000-
+Top of White Cap Mountain-
+538 AM EDT Sat Mar 31 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly sunny and windy, cooler with high around 30.
+Northwest winds 25 to 30 mph shifting to the west 15 to 25 mph this
+afternoon. Wind chill values as low as 2 below. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then summit becoming 
+obscured. A chance of snow after midnight. Very windy with low 
+around 26. Southwest winds 15 to 25 mph increasing to 30 to 40 mph 
+after midnight. Chance of precipitation 40 percent. Wind chill values
+as low as 12. No lightning risk. 
+.SUNDAY...Summit in and out of clouds. A chance of snow in the 
+morning. Very windy with high around 30. West winds 30 to 35 mph. 
+Chance of precipitation 40 percent. Wind chill values as low as 11. 
+No lightning risk. 
+
+$$
+
+MEZ010-010000-
+Moosehead Lake-
+538 AM EDT Sat Mar 31 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly sunny. High around 41. West winds 10 to 20 mph. Wind
+chill values as low as 13. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming mostly cloudy.
+A chance of snow after midnight. Low around 27. South winds around
+10 mph. Chance of precipitation 50 percent. Wind chill values as low
+as 21. No lightning risk. 
+.SUNDAY...Mostly cloudy in the morning, then becoming partly sunny.
+A chance of snow in the morning. High around 40. Southwest winds
+around 10 mph shifting to the west in the afternoon. Chance of
+precipitation 40 percent. Wind chill values as low as 24. No
+lightning risk. 
+
+$$
+
+MEZ001-010000-
+Allagash Wilderness Waterway-
+538 AM EDT Sat Mar 31 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Mostly sunny. High around 39. West winds 10 to 20 mph. Wind
+chill values as low as 12. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming cloudy. A
+slight chance of snow until midnight...then snow likely after
+midnight. Low around 27. South winds around 10 mph. Chance of
+precipitation 70 percent. No lightning risk. 
+.SUNDAY...Cloudy in the morning, then becoming partly sunny. Snow
+likely in the morning. A slight chance of rain. Breezy with high 
+around 41. Southwest winds 10 to 25 mph shifting to the west 20 to 25
+mph in the afternoon. Chance of precipitation 70 percent. Wind chill
+values as low as 21. No lightning risk. 
+
+$$
+
+MEZ030-010000-
+St Croix River-
+538 AM EDT Sat Mar 31 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Mostly sunny. High around 44. Northwest winds 10 to 20 mph.
+Wind chill values as low as 20. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming mostly cloudy.
+A chance of snow after midnight. Low around 30. Light winds becoming
+south 10 to 15 mph after midnight. Chance of precipitation
+50 percent. No lightning risk. 
+.SUNDAY...Cloudy in the morning, then becoming partly sunny. Snow
+likely with a chance of rain in the morning...then a slight chance
+of rain in the afternoon. High around 47. Southwest winds 10 to
+15 mph. Chance of precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ030-010000-
+West Quoddy Head-
+538 AM EDT Sat Mar 31 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Mostly sunny. High around 46. Northwest winds 10 to 20 mph.
+No lightning risk. Water temperature 39 degrees Fahrenheit. 
+.TONIGHT...Mostly clear until midnight, then becoming mostly cloudy.
+A chance of rain and snow after midnight. Breezy with low around 36.
+Southwest winds 10 to 15 mph increasing to 15 to 25 mph after
+midnight. Chance of precipitation 50 percent. No lightning risk.
+Water temperature 39 degrees Fahrenheit. 
+.SUNDAY...Mostly cloudy. Rain in the morning...then a chance of rain
+in the afternoon. High around 48. Southwest winds 10 to 20 mph.  
+Chance of precipitation 80 percent. No lightning risk. Water 
+temperature 39 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-010000-
+Upper Penobscot Watershed-
+538 AM EDT Sat Mar 31 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 43. West winds 10 to 20 mph with 
+gusts to around 25 mph. Wind chill values as low as 15. No lightning 
+risk. 
+.TONIGHT...Mostly clear until midnight, then becoming mostly cloudy.
+A chance of snow after midnight. Low around 30. Southwest winds
+around 10 mph. Chance of precipitation 50 percent. No lightning 
+risk. 
+.SUNDAY...Mostly cloudy in the morning, then becoming partly sunny.
+A chance of snow with a slight chance of rain in the morning. High
+around 45. West winds 10 to 20 mph. Chance of precipitation
+50 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-010000-
+Lower Penobscot Watershed-
+538 AM EDT Sat Mar 31 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 46. West winds 10 to 20 mph. Wind
+chill values as low as 19. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming mostly cloudy.
+A chance of rain and snow after midnight. Low around 32. South winds
+10 to 15 mph. Chance of precipitation 40 percent. No lightning risk.
+.SUNDAY...Mostly cloudy in the morning, then becoming partly sunny.
+A chance of rain and snow in the morning. High around 49. South
+winds 10 to 15 mph shifting to the west in the afternoon. Chance of
+precipitation 50 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

@@ -1,0 +1,39 @@
+ECE 331
+Spencer Goulette
+02/27/20
+Notes
+
+Went over Project 2
+-Check for matrix struct pointing at NULL and matrix pointing at NULL
+-Also need to try for allocating and free what has been allocated if full
+
+KERNEL
+- Resource Manager
+
+- Concurrancy errors
+- Race Conditions (Last to finish wins)
+- Locking
+
+	- Dead lock occurs when locked and no one can access it
+
+static - lives in the heap and persistent across function calls
+		 outside of function can be only accessed by that file
+
+volatile - compiler it can change at any time
+
+interrupts - for data more than processor could change upper half of variable
+
+atomic - instructions and variables same across all cores
+Must have memory, cache, and registers are consistent across cores
+
+LOCKS
+- spinlocks			sits in while 1 loop until unlocked r u done r u done
+- mutexes			related to semaphore (mutual exclusion) unlock and lock state if lock not being held grants you a lock. Gives you status of lock so you can go to sleep if lock is taken.
+- semaphores		Similar to mutexes but can be more than 1 state. lock, unlock, semilocked.
+- atomic vars		Need a variable that can be coherent across all processors
+
+spinlocks are quick, a lot of overhead with mutexes
+
+
+
+

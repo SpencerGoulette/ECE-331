@@ -1,0 +1,206 @@
+
+250 
+SXUS41 KCAR 121858
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+258 PM EDT Sat Oct 12 2019
+
+MEZ004-130900-
+Top of Mount Katahdin-
+258 PM EDT Sat Oct 12 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Patchy fog. Scattered showers until
+midnight. patchy drizzle. isolated showers after midnight. Low
+around 38. North winds 10 to 15 mph shifting to the northwest 10 to
+20 mph after midnight. Chance of precipitation 30 percent. No
+lightning risk. 
+.SUNDAY...Summit obscured in the morning then summit in and out of 
+clouds during the afternoon. Isolated showers in the morning. High 
+around 45. Northwest winds 15 to 25 mph. Chance of precipitation 20 
+percent. No lightning risk. 
+
+$$
+
+MEZ005-130900-
+Katahdin Woods and Waters National Monument-
+258 PM EDT Sat Oct 12 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Patchy fog through early morning. Scattered
+showers early this evening. patchy drizzle through early morning.
+isolated showers through early morning. Low around 44. Northwest
+winds 10 mph. Chance of precipitation 30 percent. No lightning risk.
+.SUNDAY...Cloudy in the morning, then becoming partly sunny. High
+around 59. Northwest winds 10 mph shifting to the west in the
+afternoon. No lightning risk. 
+
+$$
+
+MEZ029-130900-
+Top of Cadillac Mountain-
+258 PM EDT Sat Oct 12 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured until midnight, then summit in and out of
+clouds. Isolated showers with patchy drizzle early this evening.
+Patchy fog until midnight. Near steady temperatures around 48. North
+winds 10 to 20 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+.SUNDAY...Summit in and out of clouds. High around 58. Northwest
+winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ001-130900-
+Top of Deboullie Mountain-
+258 PM EDT Sat Oct 12 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Patchy fog. Scattered showers until
+midnight. patchy drizzle. isolated showers after midnight. Low
+around 40. Northeast winds 10 mph shifting to the west after
+midnight. Chance of precipitation 30 percent. No lightning risk. 
+.SUNDAY...Summit obscured. High around 55. West winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ006-130900-
+Top of Mars Hill Mountain-
+258 PM EDT Sat Oct 12 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy. Patchy fog through early morning. Scattered
+showers until midnight. patchy drizzle through early morning.
+isolated showers after midnight. Low around 43. Northwest winds
+10 mph. Chance of precipitation 30 percent. No lightning risk. 
+.SUNDAY...Mostly cloudy. High around 57. Northwest winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-130900-
+Top of White Cap Mountain-
+258 PM EDT Sat Oct 12 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. Patchy fog. Scattered showers early this
+evening. patchy drizzle. isolated showers from late evening on. Low
+around 39. Northeast winds 10 to 20 mph shifting to the northwest
+10 to 25 mph after midnight. Chance of precipitation 30 percent. No
+lightning risk. 
+.SUNDAY...Summit obscured in the morning, then becoming mostly
+cloudy. Breezy with high around 48. Northwest winds 20 to 30 mph
+decreasing to 15 to 25 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-130900-
+Moosehead Lake-
+258 PM EDT Sat Oct 12 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Patchy fog. Isolated showers with patchy drizzle.
+Low around 42. Northeast winds 10 mph shifting to the northwest
+after midnight. Waves 1 foot. Chance of precipitation 20 percent. No
+lightning risk. 
+.SUNDAY...Mostly cloudy in the morning, then becoming mostly sunny.
+High around 58. Waves 1 foot. Northwest winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-130900-
+Allagash Wilderness Waterway-
+258 PM EDT Sat Oct 12 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Patchy fog. Scattered showers early this evening.
+patchy drizzle. isolated showers from late evening on. Low around
+40. Northeast winds 10 mph until midnight becoming light winds.
+Chance of precipitation 30 percent. No lightning risk. 
+.SUNDAY...Cloudy in the morning, then becoming partly sunny. High
+around 57. Southwest winds 10 mph shifting to the west in the
+afternoon. No lightning risk. 
+
+$$
+
+MEZ030-130900-
+St Croix River-
+258 PM EDT Sat Oct 12 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Patchy fog through early morning. Scattered
+showers early this evening. patchy drizzle through early morning.
+isolated showers through early morning. Low around 44. North winds
+10 mph. Chance of precipitation 30 percent. No lightning risk. 
+.SUNDAY...Mostly cloudy. High around 61. Northwest winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-130900-
+West Quoddy Head-
+258 PM EDT Sat Oct 12 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Patchy fog until midnight. Isolated showers with
+patchy drizzle until midnight. Low around 48. North winds 10 to
+15 mph. Chance of precipitation 20 percent. No lightning risk. Water
+temperature 53 degrees Fahrenheit. 
+.SUNDAY...Cloudy in the morning, then becoming partly sunny. High
+around 58. Northwest winds 10 to 15 mph shifting to the west 10 mph
+in the afternoon. No lightning risk. Water temperature 53 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-130900-
+Upper Penobscot Watershed-
+258 PM EDT Sat Oct 12 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog through early morning. Isolated
+showers with patchy drizzle through early morning. Low around 44.
+Northwest winds 10 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.SUNDAY...Cloudy in the morning, then becoming partly sunny. High
+around 60. Northwest winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-130900-
+Lower Penobscot Watershed-
+258 PM EDT Sat Oct 12 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog until midnight. Isolated showers with
+patchy drizzle until midnight. Low around 46. Northwest winds
+10 mph. Chance of precipitation 20 percent. No lightning risk. 
+.SUNDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 63. Northwest winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

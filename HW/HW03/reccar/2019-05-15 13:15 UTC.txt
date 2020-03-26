@@ -1,0 +1,232 @@
+
+854 
+SXUS41 KCAR 151315
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+Issued by National Weather Service Gray ME
+915 AM EDT Wed May 15 2019
+
+MEZ004-160315-
+Top of Mount Katahdin-
+915 AM EDT Wed May 15 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.REST OF TODAY...Summit obscured late this morning and early
+afternoon, then summit in and out of clouds. Snow showers likely
+late this morning...then scattered snow showers this afternoon. Near
+steady temperatures around 24. North winds 15 to 20 mph. Chance of
+precipitation 60 percent. Missing.
+.TONIGHT...Summit in and out of clouds until midnight, then becoming
+cloudy. Scattered snow showers until midnight. Low around 26. North
+winds 10 to 20 mph. Chance of precipitation 30 percent. Missing.
+.THURSDAY...Cloudy in the morning, then summit becoming obscured. A
+slight chance of snow showers. High around 33. Northwest winds 10 to
+20 mph. Chance of precipitation 20 percent. Missing.
+
+$$
+
+MEZ005-160315-
+Katahdin Woods and Waters National Monument-
+915 AM EDT Wed May 15 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.REST OF TODAY...Cloudy. Scattered rain showers. High around 43.
+North winds 10 to 15 mph. Chance of precipitation 50 percent.
+Missing.
+.TONIGHT...Mostly cloudy. Isolated rain showers until midnight. Low
+around 36. North winds 10 to 15 mph shifting to the northwest 10 mph
+after midnight. Chance of precipitation 20 percent. Missing.
+.THURSDAY...Mostly cloudy. High around 52. Northwest winds 10 mph.
+Missing.
+
+$$
+
+MEZ029-160315-
+Top of Cadillac Mountain-
+915 AM EDT Wed May 15 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.REST OF TODAY...Summit obscured late this morning, then becoming
+cloudy. Scattered showers late this morning...then isolated showers
+this afternoon. High around 46. Northwest winds 15 to 20 mph. Chance
+of precipitation 30 percent. Missing.
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 39. Northwest winds 10 to 20 mph. Missing.
+.THURSDAY...Partly sunny. High around 50. Northwest winds 10 mph
+shifting to the southwest 10 to 15 mph in the afternoon. Missing.
+
+$$
+
+MEZ001-160315-
+Top of Deboullie Mountain-
+915 AM EDT Wed May 15 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.REST OF TODAY...Summit obscured. Scattered snow showers late this
+morning and early afternoon. scattered rain showers this afternoon.
+High around 40. North winds 10 to 15 mph. Chance of precipitation
+50 percent. Missing.
+.TONIGHT...Summit obscured. A slight chance of rain showers. a
+slight chance of snow showers after midnight. Low around 33. North
+winds 10 to 15 mph decreasing to 10 mph after midnight. Chance of
+precipitation 20 percent. Missing.
+.THURSDAY...Summit obscured in the morning, then becoming cloudy. A
+slight chance of snow showers in the morning. a slight chance of
+rain showers. High around 46. Northwest winds 10 to 15 mph shifting
+to the west in the afternoon. Chance of precipitation 20 percent.
+Missing.
+
+$$
+
+MEZ006-160315-
+Top of Mars Hill Mountain-
+915 AM EDT Wed May 15 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.REST OF TODAY...Summit obscured. Rain and snow showers likely late
+this morning...then scattered snow showers early this afternoon.
+scattered rain showers this afternoon. High around 40. North winds
+15 to 20 mph. Chance of precipitation 60 percent. Missing.
+.TONIGHT...Summit obscured until midnight, then summit in and out of
+clouds. Isolated rain showers until midnight. Low around 34. North
+winds 10 to 20 mph. Chance of precipitation 20 percent. Missing.
+.THURSDAY...Summit obscured in the morning, then summit in and out
+of clouds. A slight chance of snow showers in the morning. a slight
+chance of rain showers. High around 47. Northwest winds 10 to
+15 mph. Chance of precipitation 20 percent. Missing.
+
+$$
+
+MEZ010-160315-
+Top of White Cap Mountain-
+915 AM EDT Wed May 15 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.REST OF TODAY...Summit obscured. Scattered snow showers late this
+morning and early afternoon...then isolated snow showers late. High
+around 32. North winds 15 to 20 mph. Chance of precipitation
+50 percent. Missing.
+.TONIGHT...Summit obscured until midnight, then becoming cloudy.
+Isolated snow showers until midnight. Near steady temperatures
+around 32. Northwest winds 10 to 15 mph. Chance of precipitation
+20 percent. Missing.
+.THURSDAY...Mostly cloudy. High around 41. Northwest winds 10 to
+20 mph. Missing.
+
+$$
+
+MEZ010-160315-
+Moosehead Lake-
+915 AM EDT Wed May 15 2019
+
+...MOOSEHEAD LAKE...
+
+.REST OF TODAY...Mostly cloudy. Scattered showers late this morning
+and early afternoon...then isolated showers late. High around 45.
+North winds 10 to 15 mph. Chance of precipitation 30 percent.
+Missing.
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 35. North winds 15 mph shifting to the northwest
+after midnight. Missing.
+.THURSDAY...Partly sunny. High around 53. Northwest winds 10 to
+15 mph shifting to the west in the afternoon. Missing.
+
+$$
+
+MEZ001-160315-
+Allagash Wilderness Waterway-
+915 AM EDT Wed May 15 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.REST OF TODAY...Cloudy. Scattered showers. High around 44. North
+winds 10 to 15 mph. Chance of precipitation 40 percent. Missing.
+.TONIGHT...Cloudy. Isolated rain showers until midnight. Low around
+34. North winds 10 mph. Chance of precipitation 20 percent. Missing.
+.THURSDAY...Mostly cloudy. A slight chance of rain showers in the
+morning. High around 52. Northwest winds 10 mph. Chance of
+precipitation 20 percent. Missing.
+
+$$
+
+MEZ030-160315-
+St Croix River-
+915 AM EDT Wed May 15 2019
+
+...ST CROIX RIVER...
+
+.REST OF TODAY...Cloudy. Scattered showers. High around 44. North
+winds 10 to 15 mph. Chance of precipitation 50 percent. Missing.
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Isolated rain showers until midnight. Low around 35.
+Northwest winds 10 to 15 mph decreasing to 10 mph after midnight.
+Chance of precipitation 20 percent. Missing.
+.THURSDAY...Mostly cloudy. Not as cool with high around 55.
+Northwest winds 10 mph. Missing.
+
+$$
+
+MEZ030-160315-
+West Quoddy Head-
+915 AM EDT Wed May 15 2019
+
+...WEST QUODDY HEAD...
+
+.REST OF TODAY...Cloudy. Scattered showers late this morning and
+early afternoon...then isolated showers late. High around 45. North
+winds 15 to 20 mph. Chance of precipitation 40 percent. Missing.
+.TONIGHT...Mostly cloudy. Low around 39. Northwest winds 10 to
+20 mph. Missing.
+.THURSDAY...Partly sunny. High around 50. West winds 10 to 15 mph
+shifting to the southwest in the afternoon. Missing.
+
+$$
+
+MEZ004&gt;006-010-011-031-160315-
+Upper Penobscot Watershed-
+915 AM EDT Wed May 15 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.REST OF TODAY...Cloudy. Scattered rain showers late this morning
+and early afternoon...then isolated rain showers late. High around
+46. North winds 10 to 15 mph. Chance of precipitation 40 percent.
+Missing.
+.TONIGHT...Mostly cloudy. Isolated rain showers until midnight. Low
+around 36. North winds 15 mph shifting to the northwest after
+midnight. Chance of precipitation 20 percent. Missing.
+.THURSDAY...Partly sunny in the morning, then becoming mostly
+cloudy. High around 55. Northwest winds 10 to 15 mph. Missing.
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-160315-
+Lower Penobscot Watershed-
+915 AM EDT Wed May 15 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.REST OF TODAY...Cloudy. Scattered showers late this morning...then
+isolated showers this afternoon. High around 49. North winds 10 to
+15 mph. Chance of precipitation 40 percent. Missing.
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 36. North winds 15 mph shifting to the west after
+midnight. Missing.
+.THURSDAY...Partly sunny. High around 58. Northwest winds 10 mph.
+Missing.
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

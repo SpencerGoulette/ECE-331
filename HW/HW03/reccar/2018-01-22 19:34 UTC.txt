@@ -1,0 +1,222 @@
+
+820 
+SXUS41 KCAR 221934
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+234 PM EST Mon Jan 22 2018
+
+MEZ004-230945-
+Top of Mount Katahdin-
+234 PM EST Mon Jan 22 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds through early morning...then
+summit becoming obscured. Snow, windy with low around 15. Southwest
+winds 10 to 15 mph increasing to south 15 to 30 mph after midnight.
+Chance of precipitation 90 percent. Wind chill values as low as
+zero. No lightning risk. 
+.TUESDAY...Summit in and out of clouds in the morning...then summit
+becoming obscured. Snow...sleet AND freezing rain in the morning.
+Rain. Very windy and not as cool with high around 38. South winds
+25 to 40 mph. Chance of precipitation near 100 percent. Wind chill
+values as low as 4 above in the morning. No lightning risk. 
+
+$$
+
+MEZ005-230945-
+Katahdin Woods and Waters National Monument-
+234 PM EST Mon Jan 22 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy, snow. Low around 12. Light winds. Chance of
+precipitation near 100 percent. No lightning risk. 
+.TUESDAY...Cloudy. Snow in the morning. sleet and freezing rain.
+rain in the afternoon. Not as cool with high around 38. Southeast
+winds around 10 mph. Chance of precipitation near 100 percent. Wind
+chill values as low as 6 above in the morning. No lightning risk. 
+
+$$
+
+MEZ029-230945-
+Top of Cadillac Mountain-
+234 PM EST Mon Jan 22 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy until midnight...then summit becoming obscured.
+Snow. freezing rain after midnight. rain late. Low around 21.
+Temperatures rising to around 32 after midnight. Southeast winds
+15 to 20 mph. Chance of precipitation 80 percent. Wind chill values
+as low as 8 above. No lightning risk. 
+.TUESDAY...Summit obscured. Rain. Patchy fog in the afternoon. Rain
+may be heavy at times in the afternoon. Very windy and not as cool
+with high around 47. South winds 20 to 30 mph increasing to around
+35 mph in the afternoon. Chance of precipitation 90 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-230945-
+Top of Deboullie Mountain-
+234 PM EST Mon Jan 22 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy through early morning...then summit in and out of
+clouds. Snow. Low around 4 above. Light winds becoming east around
+10 mph after midnight. Chance of precipitation near 100 percent. No
+lightning risk. 
+.TUESDAY...Summit obscured. Snow. sleet and freezing rain in the
+afternoon. Not as cool with high around 30. Southeast winds 10 to
+15 mph. Chance of precipitation near 100 percent. Wind chill values
+as low as 6 below in the morning. No lightning risk. 
+
+$$
+
+MEZ006-230945-
+Top of Mars Hill Mountain-
+234 PM EST Mon Jan 22 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy through early morning...then summit in and out of
+clouds. A chance of snow early this evening...then snow from late
+evening on. Low around 8 above. Light winds becoming southeast
+around 10 mph after midnight. Chance of precipitation near
+100 percent. No lightning risk. 
+.TUESDAY...Summit obscured. Snow and sleet. freezing rain and rain
+in the afternoon. Not as cool with high around 37. Southeast winds
+10 to 20 mph. Chance of precipitation near 100 percent. Wind chill
+values as low as 2 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-230945-
+Top of White Cap Mountain-
+234 PM EST Mon Jan 22 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured...then summit in and out of clouds after
+midnight...then summit becoming obscured. Snow. Low around 14.
+Southeast winds 10 to 20 mph. Chance of precipitation 90 percent.
+Wind chill values as low as 2 below. No lightning risk. 
+.TUESDAY...Summit obscured. Snow...sleet AND freezing rain in the
+morning. Rain, brisk and not as cool with high around 41. South
+winds 20 to 25 mph decreasing to 10 to 25 mph in the afternoon.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 8 above in the morning. No lightning risk. 
+
+$$
+
+MEZ010-230945-
+Moosehead Lake-
+234 PM EST Mon Jan 22 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy, snow. sleet late. Low around 14. Light winds
+becoming southeast around 10 mph after midnight. Chance of
+precipitation 90 percent. No lightning risk. 
+.TUESDAY...Cloudy. Sleet and snow in the morning. freezing rain.
+rain in the afternoon. Not as cool with high around 37. South winds
+10 mph. Chance of precipitation near 100 percent. Wind chill values
+as low as 8 above in the morning. No lightning risk. 
+
+$$
+
+MEZ001-230945-
+Allagash Wilderness Waterway-
+234 PM EST Mon Jan 22 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy, snow. Low around 6 above. East winds around
+10 mph. Chance of precipitation near 100 percent. No lightning risk.
+.TUESDAY...Cloudy. Snow and sleet. freezing rain in the afternoon.
+Not as cool with high around 29. Southeast winds 10 to 15 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 5 below in the morning. No lightning risk. 
+
+$$
+
+MEZ030-230945-
+St Croix River-
+234 PM EST Mon Jan 22 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy, snow. Low around 14. Light winds becoming east
+around 10 mph after midnight. Chance of precipitation 90 percent. No
+lightning risk. 
+.TUESDAY...Cloudy. Snow...freezing rain AND sleet and rain in the
+morning...then rain in the afternoon. Patchy fog in the afternoon.
+Rain may be heavy at times in the afternoon. Not as cool with high
+around 45. South winds 10 to 15 mph. Chance of precipitation near
+100 percent. Wind chill values as low as 9 above in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-230945-
+West Quoddy Head-
+234 PM EST Mon Jan 22 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. A chance of snow early this evening...then snow
+from late evening on. rain late. Low around 23. East winds 10 to
+20 mph. Chance of precipitation 90 percent. No lightning risk. Water
+temperature 43 degrees Fahrenheit. 
+.TUESDAY...Cloudy, rain. Patchy fog in the afternoon. Very windy and
+not as cool with high around 48. South winds 20 to 30 mph increasing
+to 30 to 35 mph in the afternoon. Chance of precipitation
+90 percent. No lightning risk. Water temperature 43 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-230945-
+Upper Penobscot Watershed-
+234 PM EST Mon Jan 22 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy, snow. Low around 14. Light winds becoming east
+around 10 mph after midnight. Chance of precipitation near
+100 percent. No lightning risk. 
+.TUESDAY...Cloudy. Snow and sleet in the morning. freezing rain.
+rain in the afternoon. Not as cool with high around 41. East winds
+around 10 mph shifting to the south in the afternoon. Chance of
+precipitation near 100 percent. Wind chill values as low as 7 above
+in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-230945-
+Lower Penobscot Watershed-
+234 PM EST Mon Jan 22 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy, snow. freezing rain and sleet late. Low around
+18. East winds around 10 mph. Chance of precipitation 90 percent.
+Wind chill values as low as 6 above. No lightning risk. 
+.TUESDAY...Cloudy. Freezing rain...snow AND rain and sleet in the
+morning...then rain in the afternoon. Patchy fog in the afternoon.
+Rain may be heavy at times in the afternoon. Not as cool with high
+around 45. East winds around 10 mph shifting to the south in the
+afternoon. Chance of precipitation near 100 percent. Wind chill
+values as low as 14 in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

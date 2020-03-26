@@ -1,0 +1,214 @@
+
+897 
+SXUS41 KCAR 130732
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+332 AM EDT Wed Mar 13 2019
+
+MEZ004-132145-
+Top of Mount Katahdin-
+332 AM EDT Wed Mar 13 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny. Not as cool with high around 30. West winds
+10 to 20 mph. Wind chill values as low as 4 below. No lightning
+risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly clear.
+Not as cool with low around 24. West winds 10 to 15 mph decreasing
+to 10 mph after midnight. Wind chill values as low as 6 above until
+midnight. No lightning risk. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. High around 35. Southwest winds 10 to 20 mph. Wind chill
+values as low as 16. No lightning risk. 
+
+$$
+
+MEZ005-132145-
+Katahdin Woods and Waters National Monument-
+332 AM EDT Wed Mar 13 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Partly sunny. Not as cool with high around 41. Southwest
+winds 10 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+21. Southwest winds 10 mph. No lightning risk. 
+.THURSDAY...Partly sunny. High around 44. Southwest winds 10 mph
+shifting to the south in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-132145-
+Top of Cadillac Mountain-
+332 AM EDT Wed Mar 13 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny this morning, then clearing. High around 34.
+Northwest winds 10 to 15 mph shifting to the southwest this
+afternoon. Wind chill values as low as 8 above. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming cloudy. A
+slight chance of snow showers until midnight. Not as cool with low
+around 29. Southwest winds 10 to 20 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.THURSDAY...Summit obscured. High around 38. Southwest winds 10 to
+25 mph. No lightning risk. 
+
+$$
+
+MEZ001-132145-
+Top of Deboullie Mountain-
+332 AM EDT Wed Mar 13 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Partly sunny. Not as cool with high around 36. Southwest
+winds 10 to 15 mph. Wind chill values as low as 6 below. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Not as cool
+with low around 16. West winds 10 to 15 mph. Wind chill values as
+low as 10 above. No lightning risk. 
+.THURSDAY...Mostly cloudy in the morning, then summit in and out of
+clouds. High around 38. Southwest winds 10 mph shifting to the south
+10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-132145-
+Top of Mars Hill Mountain-
+332 AM EDT Wed Mar 13 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Partly sunny. High around 36. West winds 10 mph shifting to
+the southwest 10 to 15 mph this afternoon. Wind chill values as low
+as 1 below. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Not as cool
+with low around 18. Southwest winds 10 to 15 mph decreasing to
+10 mph after midnight. No lightning risk. 
+.THURSDAY...Mostly sunny in the morning, then becoming mostly
+cloudy. High around 41. Southwest winds 10 mph shifting to the south
+10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-132145-
+Top of White Cap Mountain-
+332 AM EDT Wed Mar 13 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Partly sunny. Not as cool with high around 30. West winds
+10 to 15 mph. Wind chill values as low as 2 above. No lightning
+risk. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Not as cool. Near steady temperatures around 24. West winds
+10 to 15 mph decreasing to 10 mph after midnight. No lightning risk.
+.THURSDAY...Partly sunny. High around 34. Southwest winds 10 to
+25 mph. No lightning risk. 
+
+$$
+
+MEZ010-132145-
+Moosehead Lake-
+332 AM EDT Wed Mar 13 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Partly sunny. High around 40. Southwest winds 10 mph. No
+lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 17. Southwest winds 10 mph. No lightning risk. 
+.THURSDAY...Partly sunny. High around 43. South winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-132145-
+Allagash Wilderness Waterway-
+332 AM EDT Wed Mar 13 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Partly sunny. High around 40. Southwest winds 10 mph
+increasing to 10 to 15 mph this afternoon. Wind chill values as low
+as 8 below. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Not as cool
+with low around 16. Southwest winds 10 to 15 mph decreasing to
+10 mph after midnight. No lightning risk. 
+.THURSDAY...Partly sunny. High around 43. South winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-132145-
+St Croix River-
+332 AM EDT Wed Mar 13 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Partly sunny this morning, then clearing. High around 42.
+West winds 10 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly clear.
+Low around 19. Southwest winds 10 mph. No lightning risk. 
+.THURSDAY...Partly sunny. High around 46. South winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-132145-
+West Quoddy Head-
+332 AM EDT Wed Mar 13 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Mostly sunny. High around 40. Northwest winds 10 to 15 mph
+shifting to the southwest this afternoon. Wind chill values as low
+as 13. No lightning risk. Water temperature 37 degrees Fahrenheit. 
+.TONIGHT...Partly cloudy. Low around 29. Southwest winds 10 to
+15 mph. No lightning risk. Water temperature 37 degrees Fahrenheit. 
+.THURSDAY...Mostly sunny. High around 41. Southwest winds 10 to
+15 mph. No lightning risk. Water temperature 37 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-132145-
+Upper Penobscot Watershed-
+332 AM EDT Wed Mar 13 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. High around 41. Southwest winds 10 mph. No
+lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 20. Southwest winds 10 mph. No lightning risk. 
+.THURSDAY...Partly sunny. High around 44. Southwest winds 10 mph
+shifting to the south in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-132145-
+Lower Penobscot Watershed-
+332 AM EDT Wed Mar 13 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. High around 42. Southwest winds 10 mph. No
+lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. A slight chance of snow showers until midnight. Not as cool
+with low around 24. Southwest winds 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.THURSDAY...Partly sunny. High around 46. Southwest winds 10 mph
+shifting to the south in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

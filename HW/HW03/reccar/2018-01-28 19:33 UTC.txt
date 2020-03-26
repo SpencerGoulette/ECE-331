@@ -1,0 +1,196 @@
+
+564 
+SXUS41 KCAR 281933
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+233 PM EST Sun Jan 28 2018
+
+MEZ004-290945-
+Top of Mount Katahdin-
+233 PM EST Sun Jan 28 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy...then becoming partly cloudy after
+midnight...then becoming mostly clear. Much cooler with low around
+8 above. Northwest winds 10 to 15 mph. Wind chill values as low as
+3 below. No lightning risk. 
+.MONDAY...Partly sunny. Much cooler with high around 12. North winds
+around 10 mph in the morning becoming light winds. No lightning
+risk. 
+
+$$
+
+MEZ005-290945-
+Katahdin Woods and Waters National Monument-
+233 PM EST Sun Jan 28 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy through early morning...then clearing. Much
+cooler with low around 9 above. Light winds. No lightning risk. 
+.MONDAY...Mostly sunny. Much cooler with high around 21. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ029-290945-
+Top of Cadillac Mountain-
+233 PM EST Sun Jan 28 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy. Much cooler with low around 21. North
+winds 10 to 15 mph. Wind chill values as low as 9 above. No
+lightning risk. 
+.MONDAY...Partly sunny in the morning...then becoming mostly cloudy.
+Much cooler with high around 24. Northeast winds around 15 mph. Wind
+chill values as low as 8 above. No lightning risk. 
+
+$$
+
+MEZ001-290945-
+Top of Deboullie Mountain-
+233 PM EST Sun Jan 28 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy...then becoming partly cloudy late this evening...
+then becoming clear. Much cooler with low around zero. North winds
+around 10 mph until midnight becoming light winds. Wind chill values
+as low as 10 below. No lightning risk. 
+.MONDAY...Partly sunny. Much cooler with high around 12. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ006-290945-
+Top of Mars Hill Mountain-
+233 PM EST Sun Jan 28 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy...then becoming mostly cloudy late this
+evening...then becoming partly cloudy...then becoming clear late.
+Much cooler with low around 6 above. North winds around 10 mph. Wind
+chill values as low as 6 below. No lightning risk. 
+.MONDAY...Mostly sunny. Much cooler with high around 16. North winds
+around 10 mph. Wind chill values as low as 2 below. No lightning
+risk. 
+
+$$
+
+MEZ010-290945-
+Top of White Cap Mountain-
+233 PM EST Sun Jan 28 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. Much cooler with low around 10 above.
+Northwest winds 10 to 15 mph until midnight becoming light winds.
+Wind chill values as low as 2 above. No lightning risk. 
+.MONDAY...Summit in and out of clouds in the morning...then becoming
+partly sunny. Much cooler with high around 13. Light winds becoming
+northeast around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-290945-
+Moosehead Lake-
+233 PM EST Sun Jan 28 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy through early morning...then becoming
+mostly clear. Much cooler with low around 10 above. Light winds. No
+lightning risk. 
+.MONDAY...Partly sunny. Much cooler with high around 20. Light winds
+becoming northeast around 10 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ001-290945-
+Allagash Wilderness Waterway-
+233 PM EST Sun Jan 28 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy early this evening...then clearing. Much
+cooler with low around zero. North winds around 10 mph until
+midnight becoming light winds. Wind chill values as low as 5 below.
+No lightning risk. 
+.MONDAY...Mostly sunny. Much cooler with high around 17. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ030-290945-
+St Croix River-
+233 PM EST Sun Jan 28 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear. Much cooler with low around 15. Northwest
+winds around 10 mph shifting to the north after midnight. Wind chill
+values as low as 4 above. No lightning risk. 
+.MONDAY...Mostly sunny. Much cooler with high around 26. Northeast
+winds around 10 mph. Wind chill values as low as 3 above in the
+morning. No lightning risk. 
+
+$$
+
+MEZ030-290945-
+West Quoddy Head-
+233 PM EST Sun Jan 28 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy through early morning...then becoming
+mostly clear. Cooler with low around 26. Northwest winds around
+10 mph shifting to the north after midnight. Wind chill values as
+low as 15. No lightning risk. Water temperature 41 degrees
+Fahrenheit. 
+.MONDAY...Partly sunny. Much cooler with high around 31. Northeast
+winds around 15 mph. No lightning risk. Water temperature 41 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-290945-
+Upper Penobscot Watershed-
+233 PM EST Sun Jan 28 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Much cooler
+with low around 12. Light winds becoming northeast around 10 mph
+after midnight. Wind chill values as low as zero. No lightning risk.
+.MONDAY...Partly sunny. Much cooler with high around 23. Northeast
+winds around 10 mph. Wind chill values as low as 1 below in the
+morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-290945-
+Lower Penobscot Watershed-
+233 PM EST Sun Jan 28 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Much cooler with low around 18. Light winds
+becoming north around 10 mph after midnight. Wind chill values as
+low as 6 above. No lightning risk. 
+.MONDAY...Partly sunny. Much cooler with high around 27. Northeast
+winds around 10 mph. Wind chill values as low as 9 above. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

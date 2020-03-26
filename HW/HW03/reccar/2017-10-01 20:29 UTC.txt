@@ -1,0 +1,179 @@
+
+396 
+SXUS41 KCAR 012029
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+429 PM EDT Sun Oct 1 2017
+
+MEZ004-021200-
+Top of Mount Katahdin-
+429 PM EDT Sun Oct 1 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear. Low around 38. North winds 25 to 35 mph. No
+lightning risk. 
+.MONDAY...Mostly sunny. High around 41. North winds 15 to 25 mph. No
+lightning risk. 
+
+$$
+
+MEZ005-021200-
+Katahdin Woods and Waters National Monument-
+429 PM EDT Sun Oct 1 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly clear. Low around 40. Northwest winds around 10 
+mph until midnight becoming light winds. No lightning risk. 
+.MONDAY...Mostly sunny. High around 59. North winds around 10 mph.
+No lightning risk. 
+
+$$
+
+MEZ029-021200-
+Top of Cadillac Mountain-
+429 PM EDT Sun Oct 1 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 49. North winds 20 to 30 mph. No
+lightning risk. 
+.MONDAY...Sunny. High around 54. North winds 20 to 25 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-021200-
+Top of Deboullie Mountain-
+429 PM EDT Sun Oct 1 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear until midnight...then becoming mostly cloudy. Low 
+around 32. Northwest winds 10 to 15 mph. No lightning risk. 
+.MONDAY...Partly sunny in the morning...then clearing. Cooler with 
+high around 49. North winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ006-021200-
+Top of Mars Hill Mountain-
+429 PM EDT Sun Oct 1 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear until midnight...then becoming mostly cloudy.
+Low around 35. Northwest winds around 15 mph. No lightning risk.
+.MONDAY...Summit in and out of clouds in the morning...then
+clearing. High around 49. North winds 10 to 15 mph. No lightning 
+risk. 
+
+$$
+
+MEZ010-021200-
+Top of White Cap Mountain-
+429 PM EDT Sun Oct 1 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly clear. Low around 41. Northwest winds 30 to 40 mph
+becoming north 20 to 30 mph after midnight. No lightning risk. 
+.MONDAY...Summit in and out of clouds in the morning...then
+clearing. High around 45. North winds 10 to 20 mph. No lightning
+risk. 
+
+$$
+
+MEZ010-021200-
+Moosehead Lake-
+429 PM EDT Sun Oct 1 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear. Low around 38. Northwest winds around 10 
+mph. Waves 3 feet. No lightning risk. Water temperature 66 degrees 
+Fahrenheit. 
+.MONDAY...Partly sunny in the morning...then clearing. High around
+59. Waves 1 foot. Light winds becoming north around 10 mph in the
+afternoon. No lightning risk. Water temperature 66 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-021200-
+Allagash Wilderness Waterway-
+429 PM EDT Sun Oct 1 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear until midnight...then becoming partly cloudy. Low 
+around 31. West winds around 10 mph until midnight becoming light 
+winds. No lightning risk. 
+.MONDAY...Mostly sunny. High around 59. Light winds becoming north 
+around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-021200-
+St Croix River-
+429 PM EDT Sun Oct 1 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Low around 37. Northwest winds around 10 mph. No 
+lightning risk. 
+.MONDAY...Sunny. High around 61. North winds around 10 mph. No 
+lightning risk. 
+
+$$
+
+MEZ030-021200-
+West Quoddy Head-
+429 PM EDT Sun Oct 1 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Low around 42. West winds around 10 mph shifting
+to the northwest after midnight. No lightning risk. Water
+temperature 58 degrees Fahrenheit. 
+.MONDAY...Sunny. High around 60. North winds 10 to 15 mph. No
+lightning risk. Water temperature 58 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-021200-
+Upper Penobscot Watershed-
+429 PM EDT Sun Oct 1 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 40. Northwest winds around 10 
+mph until midnight becoming light winds. No lightning risk. 
+.MONDAY...Mostly sunny. High around 61. North winds around 10 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-021200-
+Lower Penobscot Watershed-
+429 PM EDT Sun Oct 1 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 39. Northwest winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.MONDAY...Mostly sunny. High around 64. North winds around 10 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

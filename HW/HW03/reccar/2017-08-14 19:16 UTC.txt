@@ -1,0 +1,112 @@
+
+192 
+SXUS41 KCAR 141916
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+316 PM EDT Mon Aug 14 2017
+
+MEZ004-150930-
+Top of Mount Katahdin-
+316 PM EDT Mon Aug 14 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured until midnight...then becoming partly
+cloudy. Near steady temperatures around 55. Southwest winds 15 to
+20 mph. No lightning risk. 
+.TUESDAY...Summit in and out of clouds in the morning...then
+becoming cloudy. Showers likely with scattered thunderstorms in the
+afternoon. Some thunderstorms may produce gusty winds and small hail
+in the afternoon. High around 63. Southwest winds 15 to 30 mph.
+Chance of precipitation 60 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ005-150930-
+Katahdin Woods and Waters National Monument-
+316 PM EDT Mon Aug 14 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy. Low around 58. Light winds. No lightning
+risk. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. Showers likely with scattered thunderstorms in the
+afternoon. Some thunderstorms may produce gusty winds and small hail
+in the afternoon. High around 78. Light winds becoming south 10 to
+15 mph in the afternoon. Chance of precipitation 60 percent.
+Lightning risk is elevated. 
+
+$$
+
+MEZ029-150930-
+Top of Cadillac Mountain-
+316 PM EDT Mon Aug 14 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy. Low around 62. Southwest winds 15 to
+20 mph. No lightning risk. 
+.TUESDAY...Mostly cloudy. High around 69. Southwest winds around
+15 mph increasing to 20 to 25 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ010-150930-
+Moosehead Lake-
+316 PM EDT Mon Aug 14 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy. Low around 59. Light winds. Waves 1 foot.
+No lightning risk. 
+.TUESDAY...Partly sunny in the morning...then becoming cloudy.
+Isolated showers in the morning...then showers and scattered
+thunderstorms in the afternoon. Some thunderstorms may produce gusty
+winds and small hail in the afternoon. High around 76. Waves 2 feet.
+Light winds becoming south around 10 mph in the afternoon. Chance of
+precipitation 90 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ004&gt;006-010-011-031-150930-
+Upper Penobscot Watershed-
+316 PM EDT Mon Aug 14 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 59. Light winds. No lightning
+risk. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. Scattered showers with a chance of thunderstorms in the
+afternoon. Some thunderstorms may produce gusty winds and small hail
+in the afternoon. High around 79. South winds around 5 mph
+increasing to 10 to 15 mph in the afternoon. Chance of precipitation
+50 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-150930-
+Lower Penobscot Watershed-
+316 PM EDT Mon Aug 14 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 60. Southwest winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. A chance of showers and thunderstorms in the afternoon. Some
+thunderstorms may produce gusty winds and small hail in the
+afternoon. High around 79. South winds around 10 mph. Chance of
+precipitation 40 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

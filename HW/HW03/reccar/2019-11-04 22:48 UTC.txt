@@ -1,0 +1,209 @@
+
+833 
+SXUS41 KCAR 042248
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+548 PM EST Mon Nov 4 2019
+
+MEZ004-051300-
+Top of Mount Katahdin-
+548 PM EST Mon Nov 4 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Becoming cloudy. A chance of snow through early 
+morning. a slight chance of snow late. Very windy with low around 23.
+Southwest winds 15 to 30 mph increasing to 30 to 40 mph late. Chance
+of precipitation 30 percent. Wind chill values as low as 7 above. No
+lightning risk. 
+.TUESDAY...Cloudy in the morning, then summit becoming obscured.
+Snow showers. Very windy with high around 33. Southwest winds 35 to
+45 mph. Chance of precipitation 80 percent. Wind chill values as low
+as 12. No lightning risk. 
+
+$$
+
+MEZ005-051300-
+Katahdin Woods and Waters National Monument-
+548 PM EST Mon Nov 4 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.OVERNIGHT...Partly sunny early this evening, then becoming mostly
+cloudy. A chance of snow and rain through early morning. a slight
+chance of rain and snow late. Low around 32. South winds 10 mph
+increasing to 10 to 15 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+.TUESDAY...Cloudy. Scattered snow showers in the morning. Rain.
+High around 46. South winds 10 to 20 mph. Chance of precipitation 80
+percent. No lightning risk. 
+
+$$
+
+MEZ029-051300-
+Top of Cadillac Mountain-
+548 PM EST Mon Nov 4 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Low around 37. Southwest winds 15 to 25 mph. No lightning
+risk. 
+.TUESDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. Scattered showers in the morning...then rain
+likely in the afternoon. Windy with high around 51. South winds
+25 to 35 mph. Chance of precipitation 70 percent. No lightning risk.
+
+$$
+
+MEZ001-051300-
+Top of Deboullie Mountain-
+548 PM EST Mon Nov 4 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.OVERNIGHT...Partly sunny, then becoming mostly cloudy through early
+morning, then summit in and out of clouds. A chance of snow through
+early morning. a slight chance of snow late. Low around 29. South
+winds 10 to 20 mph. Chance of precipitation 40 percent. No lightning
+risk. 
+.TUESDAY...Summit obscured. Scattered snow showers in the morning.
+Rain. High around 42. South winds 15 to 20 mph. Chance of
+precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ006-051300-
+Top of Mars Hill Mountain-
+548 PM EST Mon Nov 4 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.OVERNIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. A chance of snow and rain. a slight chance of rain and snow
+late. Low around 32. South winds 10 mph increasing to 10 to 15 mph.
+Chance of precipitation 30 percent. No lightning risk. 
+.TUESDAY...Summit obscured. Rain. High around 45. South winds 15 to
+25 mph. Chance of precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ010-051300-
+Top of White Cap Mountain-
+548 PM EST Mon Nov 4 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.OVERNIGHT...Mostly cloudy. A chance of snow late this evening. a
+slight chance of snow. Windy with low around 28. South winds 10 to 
+20 mph increasing to 20 to 35 mph. Chance of precipitation 30 
+percent. Wind chill values as low as 13. No lightning risk. 
+.TUESDAY...Summit obscured. Snow showers likely in the morning.
+Rain, windy with high around 39. South winds 30 to 40 mph. Chance of
+precipitation 80 percent. Wind chill values as low as 21. No 
+lightning risk. 
+
+$$
+
+MEZ010-051300-
+Moosehead Lake-
+548 PM EST Mon Nov 4 2019
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Mostly cloudy. A chance of rain and snow late this
+evening. a slight chance of rain and snow. isolated rain showers
+late. Low around 34. South winds 10 mph increasing to 10 to 15 mph.
+Waves 2 feet. Chance of precipitation 40 percent. No lightning risk.
+.TUESDAY...Cloudy. Isolated snow showers in the morning. rain
+likely. High around 46. Waves 3 feet. South winds 10 to 15 mph.
+Chance of precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ001-051300-
+Allagash Wilderness Waterway-
+548 PM EST Mon Nov 4 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.OVERNIGHT...Mostly cloudy. A chance of snow through early morning.
+a slight chance of snow late. Low around 28. South winds 10 mph
+increasing to 10 to 15 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+.TUESDAY...Cloudy. Scattered snow showers in the morning. Rain. High
+around 45. South winds 10 to 15 mph. Chance of precipitation
+80 percent. No lightning risk. 
+
+$$
+
+MEZ030-051300-
+St Croix River-
+548 PM EST Mon Nov 4 2019
+
+...ST CROIX RIVER...
+
+.OVERNIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Low around 31. South winds 10 mph increasing to 10 to
+15 mph. No lightning risk. 
+.TUESDAY...Cloudy. Scattered rain showers in the morning...then rain
+in the afternoon. High around 51. South winds 10 to 20 mph. Chance
+of precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ030-051300-
+West Quoddy Head-
+548 PM EST Mon Nov 4 2019
+
+...WEST QUODDY HEAD...
+
+.OVERNIGHT...Mostly sunny, then becoming partly cloudy until
+midnight, then becoming mostly cloudy. Low around 40. Southwest
+winds 10 to 25 mph. No lightning risk. Water temperature 52 degrees
+Fahrenheit. 
+.TUESDAY...Cloudy. Isolated showers in the morning...then rain in
+the afternoon. Breezy with high around 54. South winds 20 to 30 mph.
+Chance of precipitation 80 percent. No lightning risk. Water
+temperature 52 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-051300-
+Upper Penobscot Watershed-
+548 PM EST Mon Nov 4 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Partly sunny early this evening, then becoming mostly
+cloudy. A slight chance of snow through early morning. a slight
+chance of rain. Low around 32. South winds 10 mph increasing to
+10 to 15 mph. Chance of precipitation 20 percent. No lightning risk.
+.TUESDAY...Cloudy, rain. High around 48. South winds 10 to 15 mph.
+Chance of precipitation 80 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-051300-
+Lower Penobscot Watershed-
+548 PM EST Mon Nov 4 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Partly sunny early this evening, then becoming mostly
+cloudy. Low around 35. South winds 10 mph increasing to 10 to
+15 mph. No lightning risk. 
+.TUESDAY...Cloudy. Rain likely. High around 51. South winds 10 to
+20 mph. Chance of precipitation 70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

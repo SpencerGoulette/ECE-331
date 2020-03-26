@@ -1,0 +1,114 @@
+
+266 
+SXUS41 KCAR 020658
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+258 AM EDT Fri Jun 2 2017
+
+MEZ004-022100-
+Top of Mount Katahdin-
+258 AM EDT Fri Jun 2 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Scattered rain showers this morning. Isolated thunderstorms and 
+numerous rain showers this afternoon. Some thunderstorms may produce 
+small hail. Much cooler with high around 39. West winds 15 to 20 mph.
+Chance of precipitation 70 percent. 
+.TONIGHT...Cloudy. Scattered rain showers until midnight...then scattered
+snow showers. Low around 32. Northwest winds 15 to 20 mph. Chance of
+precipitation 50 percent. 
+.SATURDAY...Summit obscured in the morning...then summit in and out
+of clouds. A chance of snow showers in the morning. A chance of rain
+showers with scattered thunderstorms in the afternoon. High around 
+45. North winds around 15 mph. Chance of precipitation 40 percent. 
+
+$$
+
+MEZ029-022100-
+Top of Cadillac Mountain-
+258 AM EDT Fri Jun 2 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny. Scattered showers and isolated thunderstorms
+this afternoon. Some thunderstorms may produce small hail this
+afternoon. High around 57. West winds 15 to 25 mph. Chance of
+precipitation 50 percent. 
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Scattered showers until midnight. Low around 47. Northwest
+winds 15 to 25 mph. Chance of precipitation 40 percent. 
+.SATURDAY...Mostly cloudy. A chance of showers in the morning...then
+showers likely with scattered thunderstorms in the afternoon. High
+around 55. Northwest winds 10 to 15 mph. Chance of precipitation
+60 percent. 
+
+$$
+
+MEZ010-022100-
+Moosehead Lake-
+258 AM EDT Fri Jun 2 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Scattered showers this morning. Isolated thunderstorms with numerous
+showers this afternoon. Some thunderstorms may produce small hail. 
+High around 56. West winds around 10 mph. Waves 1 foot. Chance of 
+precipitation 70 percent. 
+.TONIGHT...Mostly cloudy. Scattered showers. Low around 43. Waves
+1 foot. Light winds. Chance of precipitation 50 percent. 
+.SATURDAY...Mostly cloudy. A chance of showers in the morning. High
+around 59. Waves 1 foot. Northwest winds around 10 mph. Chance of
+precipitation 40 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-022100-
+Upper Penobscot Watershed-
+258 AM EDT Fri Jun 2 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Scattered showers this morning. Isolated thunderstorms with numerous
+showers this afternoon. Some thunderstorms may produce small hail. 
+High around 61. West winds around 10 mph. Chance of precipitation 70 
+percent. 
+.TONIGHT...Mostly cloudy. Scattered showers. Low around 44. West
+winds around 10 mph until midnight becoming light winds. Chance of
+precipitation 50 percent. 
+.SATURDAY...Cloudy. A chance of showers. Scattered thunderstorms in 
+the afternoon. High around 62. Northwest winds around 10 mph. Chance 
+of precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-022100-
+Lower Penobscot Watershed-
+258 AM EDT Fri Jun 2 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Isolated showers this morning. Isolated thunderstorms with numerous 
+showers this afternoon. Some thunderstorms may produce small hail. 
+Cooler with high around 63. West winds around 10 mph. Chance of 
+precipitation 70 percent. 
+.TONIGHT...Mostly cloudy. Scattered showers. Low around 45. West
+winds around 10 mph until midnight becoming light winds. Chance of
+precipitation 50 percent. 
+.SATURDAY...Mostly cloudy. A chance of showers. Scattered 
+thunderstorms in the afternoon. High around 64. Northwest winds 
+around 10 mph. Chance of precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

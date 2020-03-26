@@ -1,0 +1,213 @@
+
+721 
+SXUS41 KCAR 110125
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+925 PM EDT Mon Sep 10 2018
+
+MEZ004-111530-
+Top of Mount Katahdin-
+925 PM EDT Mon Sep 10 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Cloudy through early morning, then summit in and out of
+clouds. A chance of rain late this evening...then rain. Windy and
+not as cool with low around 42. South winds 25 to 35 mph. Chance of 
+precipitation near 100 percent. No lightning risk. 
+.TUESDAY...Summit obscured. Patchy fog in the morning. Rain. Very
+windy and not as cool with high around 57. South winds 25 to 40 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ005-111530-
+Katahdin Woods and Waters National Monument-
+925 PM EDT Mon Sep 10 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.OVERNIGHT...Cloudy. A slight chance of rain late this evening...
+then rain. Not as cool with low around 50. Light winds becoming
+south around 10 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Rain. High around 63.
+Southeast winds around 10 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+
+$$
+
+MEZ029-111530-
+Top of Cadillac Mountain-
+925 PM EDT Mon Sep 10 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Cloudy through early morning, then summit becoming
+obscured. A chance of rain late this evening...then rain. Breezy and
+not as cool. Near steady temperatures around 56. Southeast winds
+15 to 25 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+.TUESDAY...Summit obscured. Patchy fog. Rain, windy, warmer with
+high around 66. Southeast winds 20 to 30 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ001-111530-
+Top of Deboullie Mountain-
+925 PM EDT Mon Sep 10 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.OVERNIGHT...Cloudy. A chance of rain. rain likely late. Not as cool
+with low around 46. South winds around 15 mph. Chance of
+precipitation 70 percent. No lightning risk. 
+.TUESDAY...Summit obscured. Patchy fog in the morning. Rain. High
+around 59. South winds 10 to 15 mph. Chance of precipitation
+90 percent. No lightning risk. 
+
+$$
+
+MEZ006-111530-
+Top of Mars Hill Mountain-
+925 PM EDT Mon Sep 10 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.OVERNIGHT...Cloudy. A chance of rain. rain likely late. Not as
+cool. Near steady temperatures around 50. South winds 10 to 15 mph.
+Chance of precipitation 70 percent. No lightning risk. 
+.TUESDAY...Summit obscured. Patchy fog in the morning. Rain. High
+around 61. Southeast winds 15 to 20 mph. Chance of precipitation
+near 100 percent. No lightning risk. 
+
+$$
+
+MEZ010-111530-
+Top of White Cap Mountain-
+925 PM EDT Mon Sep 10 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.OVERNIGHT...Cloudy late this evening, then summit becoming
+obscured. A chance of rain late this evening...then rain. Windy and
+not as cool with low around 46. South winds 25 to 35 mph. Chance of 
+precipitation near 100 percent. No lightning risk. 
+.TUESDAY...Summit obscured. Patchy fog in the morning. Rain. Rain
+may be heavy at times in the morning. Windy with high around 60.
+South winds 15 to 35 mph. Chance of precipitation near 100 percent. 
+No lightning risk. 
+
+$$
+
+MEZ010-111530-
+Moosehead Lake-
+925 PM EDT Mon Sep 10 2018
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Cloudy. A chance of rain late this evening...then rain.
+Patchy fog late. Not as cool with low around 50. Southeast winds
+around 10 mph. Waves 1 foot. Chance of precipitation near
+100 percent. No lightning risk. Water temperature 64 degrees
+Fahrenheit. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Rain. High around 64.
+Waves 4 feet. Southeast winds 10 to 15 mph. Chance of precipitation
+near 100 percent. No lightning risk. Water temperature 64 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-111530-
+Allagash Wilderness Waterway-
+925 PM EDT Mon Sep 10 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.OVERNIGHT...Cloudy. A slight chance of rain late this evening...
+then a chance of rain. rain likely late. Not as cool with low around
+46. Light winds. Chance of precipitation 70 percent. No lightning
+risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Rain. High around 61.
+Southeast winds around 10 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+
+$$
+
+MEZ030-111530-
+St Croix River-
+925 PM EDT Mon Sep 10 2018
+
+...ST CROIX RIVER...
+
+.OVERNIGHT...Cloudy. A chance of rain. rain late. Rain may be heavy
+at times late. Not as cool. Near steady temperatures around 51.
+Light winds. Chance of precipitation near 100 percent. No lightning
+risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Rain. Rain may be
+heavy at times in the morning. High around 66. Southeast winds
+around 10 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-111530-
+West Quoddy Head-
+925 PM EDT Mon Sep 10 2018
+
+...WEST QUODDY HEAD...
+
+.OVERNIGHT...Cloudy. A chance of rain. rain late. Not as cool. Near
+steady temperatures around 56. East winds around 10 mph. Chance of
+precipitation 80 percent. No lightning risk. Water temperature
+55 degrees Fahrenheit. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Rain. High around 64.
+Southeast winds 10 to 15 mph. Chance of precipitation near
+100 percent. No lightning risk. Water temperature 55 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-111530-
+Upper Penobscot Watershed-
+925 PM EDT Mon Sep 10 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Cloudy. A slight chance of rain late this evening...
+then rain. Not as cool with low around 51. Light winds becoming
+southeast around 10 mph. Chance of precipitation near 100 percent.
+No lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Rain. Rain may be
+heavy at times in the morning. High around 64. Southeast winds
+10 mph. Chance of precipitation near 100 percent. No lightning risk.
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-111530-
+Lower Penobscot Watershed-
+925 PM EDT Mon Sep 10 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Cloudy. A chance of rain late this evening...then rain.
+Not as cool with low around 53. Light winds becoming southeast
+around 10 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Rain. Rain may be
+heavy at times in the morning. High around 67. Southeast winds
+around 10 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

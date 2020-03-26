@@ -1,0 +1,106 @@
+
+070 
+SXUS41 KCAR 130616
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+216 AM EDT Thu Jul 13 2017
+
+MEZ004-132015-
+Top of Mount Katahdin-
+216 AM EDT Thu Jul 13 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit obscured. Widespread showers this morning...then
+scattered showers this afternoon. High around 56. Light winds.
+Chance of precipitation 80 percent. No lightning risk. 
+.TONIGHT...Clear. Low around 49. Light winds. No lightning risk. 
+.FRIDAY...Sunny in the morning...then becoming mostly cloudy. High
+around 59. Light winds. No lightning risk. 
+
+$$
+
+MEZ005-132015-
+Katahdin Woods and Waters National Monument-
+216 AM EDT Thu Jul 13 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Cloudy. Widespread showers this morning...then scattered
+showers this afternoon. High around 68. Light winds. Chance of
+precipitation 80 percent. No lightning risk. 
+.TONIGHT...Clear. Low around 50. Light winds. No lightning risk. 
+.FRIDAY...Sunny. High around 75. Light winds. No lightning risk. 
+
+$$
+
+MEZ029-132015-
+Top of Cadillac Mountain-
+216 AM EDT Thu Jul 13 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Cloudy. Numerous showers this morning...then scattered
+showers this afternoon. Cooler with high around 63. Northeast winds
+10 to 20 mph. Chance of precipitation 60 percent. No lightning risk.
+.TONIGHT...Summit obscured until midnight...then becoming partly
+cloudy. Low around 55. Light winds. No lightning risk. 
+.FRIDAY...Partly sunny. High around 70. East winds around 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-132015-
+Moosehead Lake-
+216 AM EDT Thu Jul 13 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Cloudy. Widespread showers this morning...then scattered
+showers this afternoon. High around 64. Light winds. Waves 1 foot.
+Chance of precipitation 80 percent. No lightning risk. 
+.TONIGHT...Clear. Low around 49. Waves 1 foot. Light winds. No
+lightning risk. 
+.FRIDAY...Mostly sunny. High around 71. Waves 1 foot. Light winds.
+No lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-132015-
+Upper Penobscot Watershed-
+216 AM EDT Thu Jul 13 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Widespread showers this morning...then scattered
+showers this afternoon. High around 67. Light winds. Chance of
+precipitation 80 percent. No lightning risk. 
+.TONIGHT...Clear. Low around 49. Light winds. No lightning risk. 
+.FRIDAY...Mostly sunny. High around 75. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-132015-
+Lower Penobscot Watershed-
+216 AM EDT Thu Jul 13 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Widespread showers. Not as warm with high around
+66. Northeast winds around 10 mph this morning becoming light winds.
+Chance of precipitation 80 percent. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+50. Light winds. No lightning risk. 
+.FRIDAY...Mostly sunny. Warmer with high around 76. Light winds. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

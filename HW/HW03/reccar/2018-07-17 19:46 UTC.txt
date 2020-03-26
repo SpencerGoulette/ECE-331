@@ -1,0 +1,214 @@
+
+828 
+SXUS41 KCAR 171946
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+346 PM EDT Tue Jul 17 2018
+
+MEZ004-181000-
+Top of Mount Katahdin-
+346 PM EDT Tue Jul 17 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds until midnight, then becoming
+mostly cloudy. Areas of fog through early morning. Numerous showers
+early this evening. isolated thunderstorms through early morning.
+scattered showers through early morning. Low around 52. West winds
+10 to 15 mph. Chance of precipitation 60 percent. Lightning risk is
+elevated. 
+.WEDNESDAY...Partly sunny and cooler. Near steady temperatures
+around 54. Northwest winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ005-181000-
+Katahdin Woods and Waters National Monument-
+346 PM EDT Tue Jul 17 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Numerous showers early this evening. isolated
+thunderstorms through early morning. scattered showers through early
+morning. Areas of fog. Low around 63. Southwest winds around 10 mph
+until midnight becoming light winds. Chance of precipitation
+60 percent. Lightning risk is elevated. 
+.WEDNESDAY...Partly sunny. High around 76. Northwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ029-181000-
+Top of Cadillac Mountain-
+346 PM EDT Tue Jul 17 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured, then summit in and out of clouds after
+midnight, then becoming cloudy. Areas of fog. Numerous showers
+through early morning. isolated thunderstorms after midnight...then
+scattered showers late. Low around 65. Southwest winds 10 to 20 mph.
+Chance of precipitation 70 percent. Lightning risk is elevated. 
+.WEDNESDAY...Cloudy in the morning, then becoming partly sunny.
+Areas of fog in the morning. A chance of showers in the morning.
+High around 73. Northwest winds around 10 mph. Chance of
+precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ001-181000-
+Top of Deboullie Mountain-
+346 PM EDT Tue Jul 17 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured, then becoming cloudy after midnight,
+then becoming partly cloudy. Numerous showers early this evening.
+isolated thunderstorms until midnight. scattered showers late this
+evening. Areas of fog through early morning. Low around 55. West
+winds around 10 mph shifting to the northwest after midnight. Chance
+of precipitation 60 percent. Lightning risk is elevated. 
+.WEDNESDAY...Mostly cloudy. High around 68. Northwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ006-181000-
+Top of Mars Hill Mountain-
+346 PM EDT Tue Jul 17 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured until midnight, then becoming cloudy.
+Areas of fog. Numerous showers until midnight. isolated
+thunderstorms. scattered showers after midnight. Low around 60.
+Southwest winds 10 to 15 mph shifting to the west after midnight.
+Chance of precipitation 60 percent. Lightning risk is elevated. 
+.WEDNESDAY...Mostly cloudy. High around 73. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ010-181000-
+Top of White Cap Mountain-
+346 PM EDT Tue Jul 17 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured, then summit in and out of clouds late
+this evening, then becoming mostly cloudy. Areas of fog through
+early morning. Numerous showers early this evening. isolated
+thunderstorms through early morning. scattered showers through early
+morning. Low around 56. West winds around 15 mph shifting to the
+northwest after midnight. Chance of precipitation 60 percent.
+Lightning risk is elevated. 
+.WEDNESDAY...Partly sunny. High around 59. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ010-181000-
+Moosehead Lake-
+346 PM EDT Tue Jul 17 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Areas of fog. Numerous showers until midnight. isolated
+thunderstorms. isolated showers after midnight. Low around 60. Light
+winds. Waves 1 foot. Chance of precipitation 60 percent. Lightning
+risk is elevated. Water temperature 62 degrees Fahrenheit. 
+.WEDNESDAY...Partly sunny. High around 71. Waves 2 feet. Northwest
+winds around 10 mph. No lightning risk. Water temperature 62 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-181000-
+Allagash Wilderness Waterway-
+346 PM EDT Tue Jul 17 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered showers early this evening. isolated thunderstorms
+until midnight. isolated showers late this evening. Areas of fog
+through early morning. Low around 58. Light winds. Chance of
+precipitation 50 percent. Lightning risk is elevated. 
+.WEDNESDAY...Partly sunny. High around 73. Northwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ030-181000-
+St Croix River-
+346 PM EDT Tue Jul 17 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Areas of fog. Widespread showers. isolated
+thunderstorms after midnight. Low around 66. South winds around
+10 mph until midnight becoming light winds. Chance of precipitation
+80 percent. Lightning risk is elevated. 
+.WEDNESDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Areas of fog in the morning. A slight chance of showers in
+the morning. High around 79. Northwest winds 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ030-181000-
+West Quoddy Head-
+346 PM EDT Tue Jul 17 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Widespread fog. Scattered showers early this
+evening. numerous showers from late evening on. isolated
+thunderstorms after midnight. Near steady temperatures around 60.
+South winds 10 to 15 mph. Chance of precipitation 70 percent.
+Lightning risk is elevated. Water temperature 54 degrees Fahrenheit.
+.WEDNESDAY...Cloudy in the morning, then becoming partly sunny.
+Areas of fog in the morning. A chance of showers in the morning.
+High around 70. Light winds. Chance of precipitation 40 percent. No
+lightning risk. Water temperature 54 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-181000-
+Upper Penobscot Watershed-
+346 PM EDT Tue Jul 17 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Numerous showers until midnight.
+isolated thunderstorms. scattered showers after midnight. Low around
+64. Southwest winds 10 mph until midnight becoming light winds.
+Chance of precipitation 70 percent. Lightning risk is elevated. 
+.WEDNESDAY...Partly sunny. High around 78. Northwest winds around
+10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-181000-
+Lower Penobscot Watershed-
+346 PM EDT Tue Jul 17 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Numerous showers until midnight.
+isolated thunderstorms. scattered showers after midnight. Low around
+67. South winds around 10 mph until midnight becoming light winds.
+Chance of precipitation 70 percent. Lightning risk is elevated. 
+.WEDNESDAY...Partly sunny. High around 80. Northwest winds around
+10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

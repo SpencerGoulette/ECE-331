@@ -1,0 +1,77 @@
+
+065 
+SXUS41 KCAR 300634
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+234 AM EDT Thu Mar 30 2017
+
+MEZ004-302045-
+Top of Mount Katahdin-
+234 AM EDT Thu Mar 30 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Colder with high around 15. North winds 20 to 25 mph. Wind chill 
+values as low as 6 below. 
+.TONIGHT...Clear. Low around 13. North winds around 20 mph shifting
+to the northeast 10 to 15 mph after midnight. Wind chill values as
+low as 2 below. 
+.FRIDAY...Mostly sunny. High around 23. Northeast winds around
+10 mph. Wind chill values as low as 1 above in the morning. 
+
+$$
+
+MEZ029-302045-
+Top of Cadillac Mountain-
+234 AM EDT Thu Mar 30 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Summit in and out of clouds this morning...then clearing.
+High around 37. North winds 20 to 25 mph. Wind chill values as low
+as 13. 
+.TONIGHT...Clear. Low around 26. North winds 15 to 20 mph. Wind
+chill values as low as 17. 
+.FRIDAY...Partly sunny. High around 36. North winds 10 to 15 mph.
+Wind chill values as low as 14 in the morning. 
+
+$$
+
+MEZ004&gt;006-010-011-031-302045-
+Upper Penobscot Watershed-
+234 AM EDT Thu Mar 30 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. High around 39. North winds 10 to 15 mph.
+Wind chill values as low as 14 this morning.
+.TONIGHT...Clear. Low around 20. North winds 10 to 15 mph. Wind
+chill values as low as 16. 
+.FRIDAY...Mostly sunny. High around 40. North winds around 10 mph.
+Wind chill values as low as 11 in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-302045-
+Lower Penobscot Watershed-
+234 AM EDT Thu Mar 30 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 42. North winds 10 to 15 mph.
+Wind chill values as low as 17 this morning. 
+.TONIGHT...Clear. Low around 22. North winds 10 to 15 mph. 
+.FRIDAY...Partly sunny. High around 41. North winds around 10 mph in
+the morning becoming light winds. Wind chill values as low as 15 in
+the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

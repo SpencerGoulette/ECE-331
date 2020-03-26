@@ -1,0 +1,244 @@
+
+198 
+SXUS41 KCAR 210732
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+332 AM EDT Sat Apr 21 2018
+
+MEZ004-212145-
+Top of Mount Katahdin-
+332 AM EDT Sat Apr 21 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Cloudy this morning, then summit in and out of clouds.
+Isolated snow showers this morning. scattered snow showers this
+afternoon. Near steady temperatures around 26. Northwest winds 15 to
+25 mph. Chance of precipitation 30 percent. Wind chill values as low
+as 10 above. No lightning risk. 
+.TONIGHT...Summit in and out of clouds until midnight, then becoming
+cloudy. Scattered snow showers until midnight...then isolated snow
+showers after midnight. Low around 19. North winds 15 to 20 mph.
+Chance of precipitation 30 percent. Wind chill values as low as
+6 above. No lightning risk. 
+.SUNDAY...Mostly sunny and brisk. High around 27. North winds 15 to
+25 mph. Wind chill values as low as 1 above in the morning. No
+lightning risk. 
+
+$$
+
+MEZ005-212145-
+Katahdin Woods and Waters National Monument-
+332 AM EDT Sat Apr 21 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly cloudy. Isolated rain showers this afternoon. High 
+around 43. Northwest winds 10 to 15 mph with gusts to around 25 mph. 
+Chance of precipitation 20 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Isolated rain showers until midnight.
+isolated snow showers. Low around 26. Northwest winds 10 to 15 mph.
+Chance of precipitation 20 percent. No lightning risk.
+.SUNDAY...Mostly sunny. High around 49. Northwest winds around
+10 mph. Wind chill values as low as 18 in the morning. No lightning
+risk. 
+
+$$
+
+MEZ029-212145-
+Top of Cadillac Mountain-
+332 AM EDT Sat Apr 21 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly cloudy. Isolated rain showers late. High around 42. 
+Northwest winds around 15 mph. Chance of precipitation 20 percent. No
+lightning risk.
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Isolated rain showers until midnight. Low around 33.
+Northwest winds 10 to 15 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.SUNDAY...Mostly sunny. High around 47. Northwest winds 15 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ001-212145-
+Top of Deboullie Mountain-
+332 AM EDT Sat Apr 21 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Mostly cloudy. Isolated rain and snow showers late. High
+around 37. Northwest winds around 15 mph. Chance of precipitation
+20 percent. Wind chill values as low as 14. No lightning risk. 
+.TONIGHT...Mostly cloudy. Isolated rain showers until midnight.
+isolated snow showers. Low around 22. Northwest winds 10 to 15 mph.
+Chance of precipitation 20 percent. Wind chill values as low as 16.
+No lightning risk. 
+.SUNDAY...Mostly sunny. High around 41. Northwest winds 10 to
+15 mph. Wind chill values as low as 10 above in the morning. No
+lightning risk. 
+
+$$
+
+MEZ006-212145-
+Top of Mars Hill Mountain-
+332 AM EDT Sat Apr 21 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Mostly cloudy. Isolated rain showers late. High around 41.
+Northwest winds around 15 mph. Chance of precipitation 20 percent.
+No lightning risk. 
+.TONIGHT...Cloudy. Isolated rain showers until midnight. isolated
+snow showers after midnight. Low around 26. Northwest winds 10 to 15
+mph. Chance of precipitation 20 percent. No lightning risk. 
+.SUNDAY...Partly sunny. High around 46. Northwest winds 10 to
+15 mph. Wind chill values as low as 16 in the morning. No lightning
+risk. 
+
+$$
+
+MEZ010-212145-
+Top of White Cap Mountain-
+332 AM EDT Sat Apr 21 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Summit in and out of clouds this morning, then becoming
+cloudy. Isolated snow showers this morning. scattered snow showers
+this afternoon. High around 29. Northwest winds 15 to 20 mph. Chance
+of precipitation 30 percent. Wind chill values as low as 13. No
+lightning risk. 
+.TONIGHT...Cloudy. Isolated snow showers. Low around 24. Northwest
+winds 15 to 20 mph. Chance of precipitation 20 percent. Wind chill
+values as low as 13. No lightning risk. 
+.SUNDAY...Mostly sunny and brisk. High around 35. Northwest winds
+15 to 25 mph. Wind chill values as low as 8 above in the morning. No
+lightning risk. 
+
+$$
+
+MEZ010-212145-
+Moosehead Lake-
+332 AM EDT Sat Apr 21 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy. Isolated snow showers this morning. isolated
+rain showers this afternoon. High around 41. Northwest winds 10 to 
+15 mph with gusts to around 25 mph. Chance of precipitation 20 
+percent. No lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Isolated rain and snow showers until midnight. Low around
+25. Northwest winds 10 to 15 mph until midnight becoming light
+winds. Chance of precipitation 20 percent. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 47. Northwest winds around
+10 mph. Wind chill values as low as 17 in the morning. No lightning 
+risk. 
+
+$$
+
+MEZ001-212145-
+Allagash Wilderness Waterway-
+332 AM EDT Sat Apr 21 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Mostly cloudy. Isolated rain showers this afternoon. High
+around 42. Northwest winds 10 to 15 mph. Chance of precipitation
+20 percent. Wind chill values as low as 19. No lightning risk. 
+.TONIGHT...Mostly cloudy. Isolated rain and snow showers until
+midnight. Low around 23. Northwest winds 10 to 15 mph until midnight
+becoming light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+.SUNDAY...Mostly sunny. High around 47. Northwest winds around
+10 mph. Wind chill values as low as 16 in the morning. No lightning
+risk. 
+
+$$
+
+MEZ030-212145-
+St Croix River-
+332 AM EDT Sat Apr 21 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Mostly cloudy, then becoming partly sunny late this
+morning, then becoming mostly cloudy. Isolated rain showers late.
+High around 46. Northwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Isolated rain and snow showers until
+midnight. Low around 27. Northwest winds around 10 mph until
+midnight becoming light winds. Chance of precipitation 20 percent.
+No lightning risk. 
+.SUNDAY...Partly sunny. High around 51. Northwest winds around
+10 mph. No lightning risk.
+
+
+$$
+
+MEZ030-212145-
+West Quoddy Head-
+332 AM EDT Sat Apr 21 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Mostly cloudy. High around 47. Northwest winds 10 to
+15 mph. No lightning risk. Water temperature 38 degrees Fahrenheit. 
+.TONIGHT...Mostly cloudy. Isolated rain and snow showers until
+midnight. Low around 32. Northwest winds around 10 mph. Chance of
+precipitation 20 percent. No lightning risk. Water temperature
+38 degrees Fahrenheit. 
+.SUNDAY...Partly sunny. High around 51. Northwest winds 10 to
+15 mph. No lightning risk. Water temperature 38 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-212145-
+Upper Penobscot Watershed-
+332 AM EDT Sat Apr 21 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy, then becoming partly sunny late this
+morning, then becoming mostly cloudy. Isolated rain showers this
+afternoon. High around 45. Northwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Isolated rain and snow showers until
+midnight. Low around 27. Northwest winds 10 to 15 mph until midnight
+becoming light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+.SUNDAY...Mostly sunny. High around 51. Northwest winds around
+10 mph. No lightning risk.
+
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-212145-
+Lower Penobscot Watershed-
+332 AM EDT Sat Apr 21 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. Isolated rain showers this afternoon. High 
+around 48. Northwest winds around 10 mph. Chance of precipitation 20 
+percent. No lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Isolated rain showers until midnight. Low around 28.
+Northwest winds around 10 mph with gusts to around 20 mph until
+midnight becoming light winds. Chance of precipitation 20 percent.
+No lightning risk. 
+.SUNDAY...Mostly sunny. High around 53. Northwest winds around
+10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

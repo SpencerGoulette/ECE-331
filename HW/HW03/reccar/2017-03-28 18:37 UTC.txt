@@ -1,0 +1,74 @@
+
+165 
+SXUS41 KCAR 281837
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+237 PM EDT Tue Mar 28 2017
+
+MEZ004-290845-
+Top of Mount Katahdin-
+237 PM EDT Tue Mar 28 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured until midnight...then becoming cloudy.
+Snow and rain showers likely until midnight...then scattered snow
+showers after midnight. Low around 22. Northwest winds 10 to 15 mph.
+Chance of precipitation 70 percent. 
+.WEDNESDAY...Mostly cloudy. Scattered snow showers in the afternoon.
+High around 25. North winds 10 to 20 mph. Chance of precipitation
+30 percent. Wind chill values as low as 7 above. 
+
+$$
+
+MEZ029-290845-
+Top of Cadillac Mountain-
+237 PM EDT Tue Mar 28 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Scattered rain showers. a slight chance
+of snow showers and sleet after midnight. Low around 32. Southeast
+winds around 10 mph until midnight becoming light winds. Chance of
+precipitation 30 percent. 
+.WEDNESDAY...Summit obscured in the morning...then summit in and out
+of clouds. High around 39. North winds 10 to 15 mph. 
+
+$$
+
+MEZ004&gt;006-010-011-031-290845-
+Upper Penobscot Watershed-
+237 PM EDT Tue Mar 28 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Sleet and rain showers likely until midnight.
+scattered snow showers. Low around 29. Light winds. Chance of
+precipitation 70 percent. 
+.WEDNESDAY...Mostly cloudy. High around 42. North winds around
+10 mph. Wind chill values as low as 20 in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-290845-
+Lower Penobscot Watershed-
+237 PM EDT Tue Mar 28 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Scattered rain showers with a chance of sleet
+until midnight...then a slight chance of rain and snow showers after
+midnight. Low around 31. Light winds. Chance of precipitation
+50 percent. 
+.WEDNESDAY...Mostly cloudy. High around 44. North winds around
+10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

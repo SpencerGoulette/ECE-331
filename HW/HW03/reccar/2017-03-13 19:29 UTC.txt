@@ -1,0 +1,85 @@
+
+693 
+SXUS41 KCAR 131929
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+329 PM EDT Mon Mar 13 2017
+
+MEZ004-140930-
+Top of Mount Katahdin-
+329 PM EDT Mon Mar 13 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 4 above. West winds around 10 mph. Wind chill
+values as low as 12 below. 
+.TUESDAY...Mostly cloudy. A chance of snow in the morning...then
+snow in the afternoon. Areas of blowing snow in the afternoon. Snow
+may be heavy at times in the afternoon. One quarter mile or less at
+times in the afternoon. High around 15. Southwest winds around
+10 mph increasing to southeast 15 to 30 mph in the afternoon. Chance
+of precipitation near 100 percent. Wind chill values as low as
+9 below. 
+
+$$
+
+MEZ029-140930-
+Top of Cadillac Mountain-
+329 PM EDT Mon Mar 13 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Not as cool. Near steady temperatures around 19. West winds
+around 10 mph until midnight becoming light winds. 
+.TUESDAY...Cloudy in the morning...then summit becoming obscured.
+Snow likely in the morning...then snow in the afternoon. Areas of
+blowing snow in the afternoon. Snow may be heavy at times in the
+afternoon. One quarter mile or less at times in the afternoon. High
+around 29. East winds 10 to 20 mph increasing to 30 to 45 mph in the
+afternoon. Chance of precipitation near 100 percent. Wind chill
+values as low as 7 above. 
+
+$$
+
+MEZ004&gt;006-010-011-031-140930-
+Upper Penobscot Watershed-
+329 PM EDT Mon Mar 13 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 5 above. Light winds. 
+.TUESDAY...Cloudy. A chance of snow in the morning...then snow in
+the afternoon. Areas of blowing snow in the afternoon. Snow may be
+heavy at times in the afternoon. One quarter mile or less at times
+in the afternoon. High around 23. Light winds becoming northeast
+10 to 20 mph in the afternoon. Chance of precipitation near
+100 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-140930-
+Lower Penobscot Watershed-
+329 PM EDT Mon Mar 13 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 8 above. Light winds. 
+.TUESDAY...Cloudy. Snow likely in the morning...then snow in the
+afternoon. Areas of blowing snow in the afternoon. Snow may be heavy
+at times in the afternoon. One quarter mile or less at times in the
+afternoon. High around 26. Northeast winds around 5 mph increasing
+to 10 to 20 mph in the afternoon. Chance of precipitation near
+100 percent. Wind chill values as low as 5 above. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

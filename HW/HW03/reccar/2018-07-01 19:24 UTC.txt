@@ -1,0 +1,207 @@
+
+994 
+SXUS41 KCAR 011924
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+324 PM EDT Sun Jul 1 2018
+
+MEZ004-020930-
+Top of Mount Katahdin-
+324 PM EDT Sun Jul 1 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds early this evening, then
+summit becoming obscured. A chance of showers and thunderstorms from
+late evening on. Low around 64. Southwest winds 10 to 20 mph. Chance
+of precipitation 40 percent. Lightning risk is elevated. 
+.MONDAY...Summit obscured in the morning, then becoming partly
+sunny. A chance of showers and thunderstorms in the morning. A slight
+chance of showers and thunderstorms in the afternoon. Windy with 
+high around 71. Southwest winds 20 to 30 mph. Chance of precipitation
+30 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ005-020930-
+Katahdin Woods and Waters National Monument-
+324 PM EDT Sun Jul 1 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A slight chance of showers and thunderstorms from late
+evening on. Low around 65. Light winds becoming southeast around
+10 mph after midnight. Chance of precipitation 20 percent. Lightning
+risk is elevated. 
+.MONDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 88. South winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ029-020930-
+Top of Cadillac Mountain-
+324 PM EDT Sun Jul 1 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy through early
+morning, then becoming mostly cloudy. Low around 61. East winds
+10 to 15 mph. No lightning risk. 
+.MONDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 65. Southeast winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ001-020930-
+Top of Deboullie Mountain-
+324 PM EDT Sun Jul 1 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy after
+midnight, then summit becoming obscured. A slight chance of showers
+and thunderstorms after midnight. a chance of showers and
+thunderstorms late. Low around 65. Southeast winds 10 to 15 mph.
+Chance of precipitation 30 percent. Lightning risk is elevated. 
+.MONDAY...Summit obscured in the morning, then summit in and out of
+clouds. A chance of showers and thunderstorms in the morning. A
+slight chance of showers and thunderstorms in the afternoon. High 
+around 82. South winds around 15 mph. Chance of precipitation 30 
+percent. Lightning risk is elevated. 
+
+$$
+
+MEZ006-020930-
+Top of Mars Hill Mountain-
+324 PM EDT Sun Jul 1 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Low around 61. Southeast winds 10 to 15 mph. No lightning
+risk. 
+.MONDAY...Cloudy in the morning, then summit becoming obscured. A
+slight chance of showers and thunderstorms in the morning. High
+around 81. South winds around 15 mph. Chance of precipitation
+20 percent. Lightning risk is limited. 
+
+$$
+
+MEZ010-020930-
+Top of White Cap Mountain-
+324 PM EDT Sun Jul 1 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. A slight chance of showers and
+thunderstorms late this evening. A chance of showers and 
+thunderstorms after midnight. Low around 66. South winds 10 to 20 
+mph. Chance of precipitation 30 percent. Lightning risk is elevated. 
+.MONDAY...Summit obscured in the morning, then summit in and out of
+clouds. A slight chance of showers and thunderstorms in the morning.
+Breezy with high around 72. Southwest winds 20 to 25 mph. Chance of
+precipitation 20 percent. Lightning risk is limited. 
+
+$$
+
+MEZ010-020930-
+Moosehead Lake-
+324 PM EDT Sun Jul 1 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A slight chance of showers and thunderstorms late this
+evening. A chance of showers and thunderstorms after midnight. Low 
+around 65. Light winds becoming south around 10 mph after midnight. 
+Waves 1 foot. Chance of precipitation 30 percent. Lightning risk is 
+elevated. Water temperature 60 degrees Fahrenheit. 
+.MONDAY...Partly sunny. High around 86. Waves 3 feet. South winds
+10 to 15 mph. Lightning risk is limited. Water temperature
+60 degrees Fahrenheit. 
+
+$$
+
+MEZ001-020930-
+Allagash Wilderness Waterway-
+324 PM EDT Sun Jul 1 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A chance of showers and thunderstorms after midnight. Low
+around 64. Southeast winds around 10 mph. Chance of precipitation
+40 percent. Lightning risk is elevated. 
+.MONDAY...Mostly cloudy in the morning, then becoming partly sunny.
+A chance of showers and thunderstorms in the morning. A slight 
+chance of showers and thunderstorms in the afternoon. Warmer with 
+high around 92. South winds 10 to 15 mph. Chance of precipitation 40 
+percent. Lightning risk is elevated. 
+
+$$
+
+MEZ030-020930-
+St Croix River-
+324 PM EDT Sun Jul 1 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Low around 59. Light winds. No lightning risk. 
+.MONDAY...Partly sunny. High around 85. Light winds becoming south
+around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-020930-
+West Quoddy Head-
+324 PM EDT Sun Jul 1 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Areas of fog. Low around 53. East winds around 10 mph. No lightning
+risk. Water temperature 49 degrees Fahrenheit. 
+.MONDAY...Partly sunny. Areas of fog. High around 68. Light winds
+becoming south around 10 mph in the afternoon. No lightning risk.
+Water temperature 49 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-020930-
+Upper Penobscot Watershed-
+324 PM EDT Sun Jul 1 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A slight chance of showers and thunderstorms after midnight.
+Low around 64. Light winds. Chance of precipitation 20 percent.
+Lightning risk is limited. 
+.MONDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 88. South winds 10 to 15 mph. No lightning risk.
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-020930-
+Lower Penobscot Watershed-
+324 PM EDT Sun Jul 1 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 64. Light winds. No lightning
+risk.
+.MONDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 87. Light winds becoming south around 10 mph in the
+afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

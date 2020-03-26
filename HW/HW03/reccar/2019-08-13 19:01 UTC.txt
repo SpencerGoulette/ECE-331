@@ -1,0 +1,176 @@
+
+574 
+SXUS41 KCAR 131901
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+301 PM EDT Tue Aug 13 2019
+
+MEZ004-140915-
+Top of Mount Katahdin-
+301 PM EDT Tue Aug 13 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Low around 45. North winds 10 to 20 mph. No
+lightning risk. 
+.WEDNESDAY...Mostly sunny in the morning, then becoming mostly
+cloudy. High around 53. North winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ005-140915-
+Katahdin Woods and Waters National Monument-
+301 PM EDT Tue Aug 13 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear, cooler with low around 51. North winds 10 mph. No
+lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 72. North winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-140915-
+Top of Cadillac Mountain-
+301 PM EDT Tue Aug 13 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Isolated showers early this evening. Low around 58.
+Southwest winds 10 mph shifting to the north 10 to 15 mph after
+midnight. Chance of precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 73. Northeast winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ001-140915-
+Top of Deboullie Mountain-
+301 PM EDT Tue Aug 13 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear. Patchy fog late. Low around 44. Northwest winds
+10 mph. No lightning risk. 
+.WEDNESDAY...Mostly sunny. Patchy fog in the morning. High around
+67. North winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ006-140915-
+Top of Mars Hill Mountain-
+301 PM EDT Tue Aug 13 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear. Patchy fog late. Low around 46. North winds 10 to
+15 mph decreasing to 10 mph after midnight. No lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 69. North winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-140915-
+Top of White Cap Mountain-
+301 PM EDT Tue Aug 13 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Low around 50. North winds 10 to 15 mph. No
+lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 61. North winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-140915-
+Moosehead Lake-
+301 PM EDT Tue Aug 13 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Low around 51. North winds 10 mph. Waves 1 foot.
+No lightning risk. Water temperature 60 degrees Fahrenheit. 
+.WEDNESDAY...Mostly sunny. High around 67. Waves 1 foot. Northwest
+winds 10 mph. No lightning risk. Water temperature 60 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-140915-
+Allagash Wilderness Waterway-
+301 PM EDT Tue Aug 13 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear. Patchy fog from late evening on. Low around 42.
+North winds 10 mph. No lightning risk. 
+.WEDNESDAY...Mostly sunny. Patchy fog in the morning. High around
+71. Northwest winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-140915-
+St Croix River-
+301 PM EDT Tue Aug 13 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Low
+around 52. North winds 10 mph. No lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 75. North winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-140915-
+West Quoddy Head-
+301 PM EDT Tue Aug 13 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy. Patchy fog late. Low around 53. Southwest
+winds 10 to 15 mph shifting to the north 10 mph after midnight. No
+lightning risk. Water temperature 52 degrees Fahrenheit. 
+.WEDNESDAY...Mostly sunny. Patchy fog in the morning. High around
+65. Northeast winds 10 to 15 mph decreasing to 10 mph in the
+afternoon. No lightning risk. Water temperature 52 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-140915-
+Upper Penobscot Watershed-
+301 PM EDT Tue Aug 13 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 51. North winds 10 mph. No
+lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 74. North winds 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-140915-
+Lower Penobscot Watershed-
+301 PM EDT Tue Aug 13 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+55. North winds 10 mph. No lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 76. North winds 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

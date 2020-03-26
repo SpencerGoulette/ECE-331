@@ -1,0 +1,76 @@
+
+345 
+SXUS41 KCAR 041910
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+310 PM EDT Tue Apr 4 2017
+
+MEZ004-050915-
+Top of Mount Katahdin-
+310 PM EDT Tue Apr 4 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds. Snow. Low around 20.
+Southeast winds 20 to 30 mph. Chance of precipitation 80 percent.
+Wind chill values as low as 3 above. 
+.WEDNESDAY...Summit obscured. Snow in the morning...then a chance of
+snow showers in the afternoon. High around 27. South winds 10 to
+20 mph. Chance of precipitation 80 percent. Wind chill values as low
+as 10 above. 
+
+$$
+
+MEZ029-050915-
+Top of Cadillac Mountain-
+310 PM EDT Tue Apr 4 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Rain likely until midnight. Snow. Low
+around 32. East winds 25 to 30 mph. Chance of precipitation near
+100 percent. Wind chill values as low as 18. 
+.WEDNESDAY...Summit obscured. Snow in the morning...then a chance of
+rain and snow showers in the afternoon. High around 36. Northeast
+winds 15 to 25 mph. Chance of precipitation 90 percent. Wind chill
+values as low as 20. 
+
+$$
+
+MEZ004&gt;006-010-011-031-050915-
+Upper Penobscot Watershed-
+310 PM EDT Tue Apr 4 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain likely until midnight. Snow. Low around 29.
+East winds around 10 mph. Chance of precipitation near 100 percent. 
+.WEDNESDAY...Cloudy. Snow in the morning...then a chance of rain and
+snow showers in the afternoon. High around 38. East winds around
+10 mph in the morning becoming light winds. Chance of precipitation
+80 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-050915-
+Lower Penobscot Watershed-
+310 PM EDT Tue Apr 4 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain likely until midnight. Snow. Low around 31.
+East winds around 10 mph. Chance of precipitation near 100 percent. 
+.WEDNESDAY...Cloudy. Snow in the morning. a chance of rain showers.
+a chance of snow showers in the afternoon. High around 40. East
+winds around 10 mph in the morning becoming light winds. Chance of
+precipitation 90 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

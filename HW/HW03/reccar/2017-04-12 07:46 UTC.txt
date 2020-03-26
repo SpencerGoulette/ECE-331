@@ -1,0 +1,87 @@
+
+703 
+SXUS41 KCAR 120746
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+346 AM EDT Wed Apr 12 2017
+
+MEZ004-122200-
+Top of Mount Katahdin-
+346 AM EDT Wed Apr 12 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Cloudy. Areas of fog this morning. A chance of showers this
+morning...then showers this afternoon. High around 46. Southwest
+winds 10 to 15 mph. Chance of precipitation near 100 percent. 
+.TONIGHT...Summit obscured until midnight...then becoming cloudy.
+Rain showers likely until midnight. Much cooler with low around 26.
+West winds around 15 mph increasing to 20 to 25 mph after midnight.
+Chance of precipitation 70 percent. Wind chill values as low as
+12 after midnight. 
+.THURSDAY...Summit obscured in the morning...then summit in and out
+of clouds. Much cooler. Near steady temperatures around 28.
+Northwest winds 25 to 35 mph. Wind chill values as low as 11. 
+
+$$
+
+MEZ029-122200-
+Top of Cadillac Mountain-
+346 AM EDT Wed Apr 12 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Cloudy. Showers this afternoon. Much cooler with high
+around 50. Light winds. Chance of precipitation 90 percent. 
+.TONIGHT...Summit obscured until midnight...then becoming mostly
+cloudy. Areas of fog until midnight. Showers likely until midnight.
+Low around 41. West winds 10 to 15 mph. Chance of precipitation
+70 percent. 
+.THURSDAY...Partly sunny. High around 48. Northwest winds 20 to
+35 mph becoming around 25 mph in the afternoon. 
+
+$$
+
+MEZ004&gt;006-010-011-031-122200-
+Upper Penobscot Watershed-
+346 AM EDT Wed Apr 12 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Areas of fog this morning. A chance of showers this
+morning...then showers this afternoon. High around 54. Light winds.
+Chance of precipitation near 100 percent. 
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. A chance of rain showers until midnight. Low around 37.
+Light winds becoming west around 10 mph after midnight. Chance of
+precipitation 50 percent. 
+.THURSDAY...Mostly cloudy. High around 52. Northwest winds 10 to
+15 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-122200-
+Lower Penobscot Watershed-
+346 AM EDT Wed Apr 12 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. A chance of showers this morning...then showers
+this afternoon. Much cooler with high around 58. Light winds. Chance
+of precipitation near 100 percent. 
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. A chance of showers until midnight. Low around 40. Light
+winds becoming west around 10 mph after midnight. Chance of
+precipitation 50 percent. 
+.THURSDAY...Partly sunny. High around 54. Northwest winds 10 to
+15 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

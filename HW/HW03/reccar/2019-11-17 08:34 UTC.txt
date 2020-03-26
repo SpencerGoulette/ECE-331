@@ -1,0 +1,224 @@
+
+347 
+SXUS41 KCAR 170834
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+334 AM EST Sun Nov 17 2019
+
+MEZ004-172245-
+Top of Mount Katahdin-
+334 AM EST Sun Nov 17 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Sunny. Not as cold with high around 24. Southwest winds
+10 to 20 mph. Wind chill values as low as 5 below. No lightning
+risk. 
+.TONIGHT...Clear. Not as cold with low around 17. Temperatures
+rising to around 26 after midnight. South winds 10 to 20 mph. Wind
+chill values as low as 3 above. No lightning risk. 
+.MONDAY...Cloudy in the morning, then summit in and out of clouds. A
+chance of freezing rain in the morning...then freezing rain or a
+chance of rain in the afternoon. Windy with high around 33. East
+winds 15 to 25 mph increasing to 20 to 35 mph in the afternoon.
+Chance of precipitation 90 percent. Wind chill values as low as 12.
+No lightning risk. 
+
+$$
+
+MEZ005-172245-
+Katahdin Woods and Waters National Monument-
+334 AM EST Sun Nov 17 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Sunny. High around 27. Light winds. No lightning risk. 
+.TONIGHT...Clear, cold with low around 11. Light winds. No lightning
+risk. 
+.MONDAY...Cloudy. A slight chance of freezing rain in the morning...
+then freezing rain or rain in the afternoon. High around 33.
+Northeast winds 10 mph increasing to 10 to 15 mph in the afternoon.
+Chance of precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ029-172245-
+Top of Cadillac Mountain-
+334 AM EST Sun Nov 17 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny. High around 31. East winds 10 to 15 mph. Wind chill
+values as low as 2 below. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming mostly cloudy.
+A chance of rain after midnight. Brisk and not as cool with low
+around 27. East winds 15 to 30 mph. Chance of precipitation
+40 percent. No lightning risk. 
+.MONDAY...Summit obscured. A chance of freezing rain in the morning.
+Rain, windy with high around 40. Northeast winds 20 to 35 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 22. No lightning risk. 
+
+$$
+
+MEZ001-172245-
+Top of Deboullie Mountain-
+334 AM EST Sun Nov 17 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Sunny. High around 27. South winds 10 mph. No lightning
+risk. 
+.TONIGHT...Clear. Not as cold with low around 8 above. Southeast
+winds 10 mph. No lightning risk. 
+.MONDAY...Mostly cloudy. Freezing rain likely in the afternoon. High
+around 30. East winds 10 mph shifting to the northeast 10 to 15 mph
+in the afternoon. Chance of precipitation 60 percent. No lightning
+risk. 
+
+$$
+
+MEZ006-172245-
+Top of Mars Hill Mountain-
+334 AM EST Sun Nov 17 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Sunny, cold with high around 24. Light winds. No lightning
+risk. 
+.TONIGHT...Clear, cold with low around 10 above. Light winds. No
+lightning risk. 
+.MONDAY...Cloudy. Freezing rain in the afternoon. High around 33.
+Northeast winds 10 mph increasing to 10 to 15 mph in the afternoon.
+Chance of precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ010-172245-
+Top of White Cap Mountain-
+334 AM EST Sun Nov 17 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Sunny. Not as cold with high around 24. Southwest winds
+10 to 20 mph. Wind chill values as low as 3 below. No lightning
+risk. 
+.TONIGHT...Clear. Not as cold with low around 19. South winds 10 to
+25 mph. Wind chill values as low as 5 above. No lightning risk. 
+.MONDAY...Cloudy in the morning, then summit in and out of clouds. A
+slight chance of freezing rain in the morning...then freezing rain
+or rain likely in the afternoon. Windy with high around 33. East
+winds 15 to 25 mph increasing to 20 to 35 mph in the afternoon.
+Chance of precipitation 90 percent. Wind chill values as low as 12.
+No lightning risk. 
+
+$$
+
+MEZ010-172245-
+Moosehead Lake-
+334 AM EST Sun Nov 17 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Sunny. High around 32. Light winds becoming southeast
+10 mph this afternoon. Waves 1 foot. No lightning risk. 
+.TONIGHT...Clear. Not as cold with low around 17. Waves 1 foot.
+Light winds. No lightning risk. 
+.MONDAY...Cloudy. A slight chance of freezing rain in the morning...
+then freezing rain or a chance of rain in the afternoon. High around
+33. Waves 3 feet. Northeast winds 10 to 20 mph. Chance of
+precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ001-172245-
+Allagash Wilderness Waterway-
+334 AM EST Sun Nov 17 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Sunny. High around 29. South winds 10 mph. No lightning
+risk. 
+.TONIGHT...Clear. Not as cold with low around 4 above. Southeast
+winds 10 mph. No lightning risk. 
+.MONDAY...Mostly cloudy. Freezing rain likely in the afternoon. High
+around 32. East winds 10 mph shifting to the northeast in the
+afternoon. Chance of precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ030-172245-
+St Croix River-
+334 AM EST Sun Nov 17 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Sunny. High around 30. Light winds. No lightning risk. 
+.TONIGHT...Mostly clear. Not as cold with low around 15. Northeast
+winds 10 mph. No lightning risk. 
+.MONDAY...Cloudy. A chance of freezing rain in the morning...then
+rain or freezing rain likely in the afternoon. High around 38.
+Northeast winds 10 to 20 mph. Chance of precipitation near
+100 percent. Wind chill values as low as 11 in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-172245-
+West Quoddy Head-
+334 AM EST Sun Nov 17 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Sunny. High around 37. Northeast winds 10 mph. No lightning
+risk. Water temperature 50 degrees Fahrenheit. 
+.TONIGHT...Clear until midnight, then becoming partly cloudy. A
+slight chance of rain after midnight. Not as cool with low around
+33. East winds 10 to 20 mph. Chance of precipitation 20 percent. No
+lightning risk. Water temperature 50 degrees Fahrenheit. 
+.MONDAY...Cloudy, rain, windy with high around 45. Northeast winds
+20 to 35 mph. Chance of precipitation near 100 percent. No lightning
+risk. Water temperature 50 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-172245-
+Upper Penobscot Watershed-
+334 AM EST Sun Nov 17 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 29. Light winds. No lightning risk. 
+.TONIGHT...Clear, cold with low around 13. Northeast winds 10 mph.
+No lightning risk. 
+.MONDAY...Cloudy. A slight chance of freezing rain in the morning...
+then rain or a chance of freezing rain in the afternoon. High around
+35. Northeast winds 10 to 20 mph. Chance of precipitation
+90 percent. Wind chill values as low as 7 above in the morning. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-172245-
+Lower Penobscot Watershed-
+334 AM EST Sun Nov 17 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 31. Light winds. No lightning risk. 
+.TONIGHT...Clear until midnight, then becoming partly cloudy. Cold
+with low around 16. Northeast winds 10 mph. No lightning risk. 
+.MONDAY...Cloudy. A chance of freezing rain in the morning...then
+rain or freezing rain likely in the afternoon. High around 37.
+Northeast winds 10 to 20 mph. Chance of precipitation near
+100 percent. Wind chill values as low as 17. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

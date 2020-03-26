@@ -1,0 +1,75 @@
+
+556 
+SXUS41 KCAR 130752
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+352 AM EDT Thu Apr 13 2017
+
+MEZ004-132200-
+Top of Mount Katahdin-
+352 AM EDT Thu Apr 13 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit in and out of clouds this morning...then summit
+becoming obscured. Much cooler. Near steady temperatures around 28.
+Northwest winds 20 to 25 mph. 
+.TONIGHT...Summit obscured until midnight...then clearing. Low
+around 24. North winds around 20 mph shifting to the northwest 10 to
+15 mph after midnight. 
+.FRIDAY...Mostly sunny. High around 29. Northwest winds 15 to
+25 mph. Wind chill values as low as 13. 
+
+$$
+
+MEZ029-132200-
+Top of Cadillac Mountain-
+352 AM EDT Thu Apr 13 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly sunny this morning...then becoming mostly cloudy.
+High around 50. West winds around 15 mph. 
+.TONIGHT...Mostly cloudy until midnight...then clearing. Low around
+36. Northwest winds 10 to 15 mph. 
+.FRIDAY...Sunny. High around 48. Northwest winds 15 to 20 mph. 
+
+$$
+
+MEZ004&gt;006-010-011-031-132200-
+Upper Penobscot Watershed-
+352 AM EDT Thu Apr 13 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. High around 50. West winds 10 to 15 mph. 
+.TONIGHT...Mostly cloudy until midnight...then clearing. Low around
+31. Northwest winds around 10 mph until midnight becoming light
+winds. 
+.FRIDAY...Mostly sunny. High around 52. Northwest winds around
+10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-132200-
+Lower Penobscot Watershed-
+352 AM EDT Thu Apr 13 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. High around 55. West winds 10 to 15 mph. 
+.TONIGHT...Mostly cloudy until midnight...then clearing. Low around
+33. Northwest winds around 10 mph until midnight becoming light
+winds. 
+.FRIDAY...Mostly sunny. High around 55. Northwest winds around
+10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

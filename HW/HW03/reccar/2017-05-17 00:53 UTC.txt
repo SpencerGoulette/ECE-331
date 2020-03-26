@@ -1,0 +1,82 @@
+
+191 
+SXUS41 KCAR 170053
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+853 PM EDT Tue May 16 2017
+
+MEZ004-171500-
+Top of Mount Katahdin-
+853 PM EDT Tue May 16 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Clear. Low around 42. Northwest winds 20 to 30 mph 
+decreasing to 10 to 15 mph. 
+.WEDNESDAY...Partly sunny in the morning...then becoming cloudy.
+High around 58. Southwest winds around 10 mph. 
+
+$$
+
+MEZ029-171500-
+Top of Cadillac Mountain-
+853 PM EDT Tue May 16 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Clear. Not as cool with low around 54. Northwest winds
+10 to 15 mph. 
+.WEDNESDAY...Partly sunny. High around 62. Southwest winds 10 to
+15 mph. 
+
+$$
+
+MEZ010-171500-
+Moosehead Lake-
+853 PM EDT Tue May 16 2017
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Clear. Low around 46. Northwest winds around 10 mph
+late this evening becoming light winds. Waves 1 foot. 
+.WEDNESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. High around 70. Waves 2 feet. Southwest winds around 5 mph. 
+
+$$
+
+MEZ004&gt;006-010-011-031-171500-
+Upper Penobscot Watershed-
+853 PM EDT Tue May 16 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Clear. Low around 47. Northwest winds around 10 mph
+late this evening becoming light winds. 
+.WEDNESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. High around 72. Southwest winds around 5 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-171500-
+Lower Penobscot Watershed-
+853 PM EDT Tue May 16 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Clear. Low around 48. Northwest winds around 10 mph
+late this evening becoming light winds. 
+.WEDNESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. High around 73. Southwest winds around 5 mph increasing to
+10 to 15 mph in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

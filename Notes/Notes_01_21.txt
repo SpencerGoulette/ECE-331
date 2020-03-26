@@ -1,0 +1,56 @@
+ECE 331
+01/21/2020
+Lecture 1
+Spencer Goulette
+
+Gcc compile
+-Wall		turns on almost all warnings
+-g		debugging
+-o		name output
+-O2		optimizer
+-l		link
+-L(path)	link library with path
+-V		tells you what is going on
+
+Makefile extensions are important
+.h		c header
+.c		c file
+.s		source (assembly) file
+.cpp		c++ file
+.hh/.H		c++ header
+.o		output file
+
+Linux Commands
+mkdir		make directory
+cd		change directory
+ls		list files
+history		shows past commands
+man		manual
+cat		displays contents of file
+reset		screen reset
+
+C Coding:
+
+vi/vim		text editor
+nano		text editor
+
+Libraries
+erro.h
+stdlib.h
+stdio.h
+stdint.h
+fcntl.h
+string.h
+
+int main(int argc, char *argv[])
+{
+	uint8_t i = 0;
+
+	return i;
+}
+
+0		returned correctly
+!0		didn't return correctly
+
+For multiple C files, it is best to have a Makefile
+

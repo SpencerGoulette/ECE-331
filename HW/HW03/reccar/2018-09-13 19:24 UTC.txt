@@ -1,0 +1,171 @@
+
+443 
+SXUS41 KCAR 131924
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+324 PM EDT Thu Sep 13 2018
+
+MEZ004-140930-
+Top of Mount Katahdin-
+324 PM EDT Thu Sep 13 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Low around 57. Light winds. No lightning risk. 
+.FRIDAY...Sunny. High around 61. Light winds. No lightning risk. 
+
+$$
+
+MEZ005-140930-
+Katahdin Woods and Waters National Monument-
+324 PM EDT Thu Sep 13 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 54. Light
+winds. No lightning risk. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 84. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ029-140930-
+Top of Cadillac Mountain-
+324 PM EDT Thu Sep 13 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy early this evening, then clearing. Patchy
+fog after midnight. Low around 60. Light winds. No lightning risk. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 71. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ001-140930-
+Top of Deboullie Mountain-
+324 PM EDT Thu Sep 13 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 53. Light
+winds. No lightning risk. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 79. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ006-140930-
+Top of Mars Hill Mountain-
+324 PM EDT Thu Sep 13 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 55. Light
+winds. No lightning risk. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 80. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ010-140930-
+Top of White Cap Mountain-
+324 PM EDT Thu Sep 13 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 59. Light
+winds. No lightning risk. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 68. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ010-140930-
+Moosehead Lake-
+324 PM EDT Thu Sep 13 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Patchy fog after midnight. Not as cool with low
+around 56. Light winds. Waves 1 foot. No lightning risk. Water
+temperature 64 degrees Fahrenheit. 
+.FRIDAY...Sunny. Areas of fog in the morning. High around 77. Waves
+1 foot. Light winds. No lightning risk. Water temperature 64 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-140930-
+Allagash Wilderness Waterway-
+324 PM EDT Thu Sep 13 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 49. Light
+winds. No lightning risk. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 82. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ030-140930-
+St Croix River-
+324 PM EDT Thu Sep 13 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 49. Light
+winds. No lightning risk. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 82. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ030-140930-
+West Quoddy Head-
+324 PM EDT Thu Sep 13 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Areas of fog from late evening on. Low around 52.
+Light winds. No lightning risk. Water temperature 55 degrees
+Fahrenheit. 
+.FRIDAY...Sunny. Areas of fog in the morning. High around 69. Light
+winds. No lightning risk. Water temperature 55 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-140930-
+Upper Penobscot Watershed-
+324 PM EDT Thu Sep 13 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 53. Light
+winds. No lightning risk. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 83. Light
+winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-140930-
+Lower Penobscot Watershed-
+324 PM EDT Thu Sep 13 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 55. Light
+winds. No lightning risk. 
+.FRIDAY...Sunny. Patchy fog in the morning. High around 82. Light
+winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

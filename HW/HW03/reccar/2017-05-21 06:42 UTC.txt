@@ -1,0 +1,89 @@
+
+282 
+SXUS41 KCAR 210642
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+242 AM EDT Sun May 21 2017
+
+MEZ004-212045-
+Top of Mount Katahdin-
+242 AM EDT Sun May 21 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Sunny. High around 44. North winds 10 to 15 mph.
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Low around 35. Light winds. 
+.MONDAY...Cloudy in the morning...then summit becoming obscured. A
+chance of rain showers in the afternoon. High around 45. South winds
+10 to 20 mph increasing to 20 to 25 mph in the afternoon. Chance of
+precipitation 30 percent. 
+
+$$
+
+MEZ029-212045-
+Top of Cadillac Mountain-
+242 AM EDT Sun May 21 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny. High around 61. North winds 10 to 15 mph. 
+.TONIGHT...Clear until midnight...then becoming partly cloudy. Low
+around 47. Light winds. 
+.MONDAY...Cloudy. A chance of showers in the afternoon. High around
+55. Southwest winds around 5 mph increasing to 10 to 15 mph in the
+afternoon. Chance of precipitation 30 percent. 
+
+$$
+
+MEZ010-212045-
+Moosehead Lake-
+242 AM EDT Sun May 21 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Sunny. High around 66. North winds around 5 mph. Waves 1 
+foot. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Not as cool with low around 45. Waves 1 foot. Light winds. 
+.MONDAY...Cloudy. A chance of showers. Cooler with high around 54.
+Waves 3 feet. Southeast winds around 10 mph. Chance of precipitation
+40 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-212045-
+Upper Penobscot Watershed-
+242 AM EDT Sun May 21 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 69. North winds around 5 mph. 
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Not as cool with low around 45. Light winds. 
+.MONDAY...Cloudy, cooler with high around 58. South winds around
+5 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-212045-
+Lower Penobscot Watershed-
+242 AM EDT Sun May 21 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 70. North winds around 5 mph. 
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Not as cool with low around 46. Light winds. 
+.MONDAY...Cloudy, cooler with high around 58. Light winds becoming
+south around 10 mph in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

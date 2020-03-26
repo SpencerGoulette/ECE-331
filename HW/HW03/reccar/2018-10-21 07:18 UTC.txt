@@ -1,0 +1,233 @@
+
+106 
+SXUS41 KCAR 210718
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+318 AM EDT Sun Oct 21 2018
+
+MEZ004-212130-
+Top of Mount Katahdin-
+318 AM EDT Sun Oct 21 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny, then becoming mostly cloudy late this
+morning, then summit in and out of clouds, then becoming cloudy
+late. Isolated snow showers this morning...then scattered snow
+showers this afternoon. Brisk and much cooler with high around 24.
+Northwest winds 20 to 35 mph. Chance of precipitation 30 percent. 
+Wind chill values as low as 1 above. No lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Isolated snow showers until midnight. Windy, cooler with low
+around 10 above. Northwest winds 25 to 35 mph. Chance of 
+precipitation 20 percent. Wind chill values as low as 10 below. No 
+lightning risk.
+.MONDAY...Partly sunny and brisk. High around 19. Northwest winds
+15 to 25 mph. Wind chill values as low as 11 below in the morning.
+No lightning risk. 
+
+$$
+
+MEZ005-212130-
+Katahdin Woods and Waters National Monument-
+318 AM EDT Sun Oct 21 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Partly sunny. Isolated rain showers this afternoon.
+isolated snow showers late. Much cooler with high around 40.
+Northwest winds 10 to 15 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Cooler with
+low around 22. Northwest winds 10 to 15 mph. Wind chill values as
+low as 13. No lightning risk. 
+.MONDAY...Partly sunny. High around 39. West winds 10 to 15 mph.
+Wind chill values as low as 11 in the morning. No lightning risk. 
+
+$$
+
+MEZ029-212130-
+Top of Cadillac Mountain-
+318 AM EDT Sun Oct 21 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny, then becoming mostly cloudy late this
+morning, then becoming partly sunny. Cooler with high around 42.
+Northwest winds 15 to 30 mph. No lightning risk. 
+.TONIGHT...Clear, brisk, cooler with low around 26. Northwest winds
+20 to 35 mph. Wind chill values as low as 15. No lightning risk. 
+.MONDAY...Mostly sunny. High around 40. West winds 15 to 25 mph. 
+Wind chill values as low as 12 in the morning. No lightning risk. 
+
+$$
+
+MEZ001-212130-
+Top of Deboullie Mountain-
+318 AM EDT Sun Oct 21 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Summit in and out of clouds this morning, then becoming
+mostly cloudy. Isolated snow showers from late morning on. Much
+cooler with high around 33. West winds 15 to 25 mph. Chance of 
+precipitation 20 percent. No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 20. Northwest winds 15 to
+25 mph. Wind chill values as low as 8 above. No lightning risk. 
+.MONDAY...Partly sunny. High around 32. West winds 10 to 15 mph.
+Wind chill values as low as 6 above in the morning. No lightning
+risk. 
+
+$$
+
+MEZ006-212130-
+Top of Mars Hill Mountain-
+318 AM EDT Sun Oct 21 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Partly sunny through early afternoon, then becoming mostly
+cloudy. Isolated rain and snow showers this afternoon. Much cooler
+with high around 37. Northwest winds 15 to 25 mph. Chance of 
+precipitation 20 percent. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly clear.
+Cooler with low around 20. Northwest winds 10 to 20 mph until 
+midnight becoming light winds. No lightning risk. 
+.MONDAY...Partly sunny. High around 35. Northwest winds 10 to
+15 mph. Wind chill values as low as 9 above in the morning. No
+lightning risk. 
+
+$$
+
+MEZ010-212130-
+Top of White Cap Mountain-
+318 AM EDT Sun Oct 21 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Partly sunny, then becoming mostly cloudy late this
+morning, then summit in and out of clouds. Isolated snow showers
+through early afternoon...then scattered snow showers late. Brisk
+and much cooler with high around 26. Northwest winds 20 to 35 mph. 
+Chance of precipitation 30 percent. Wind chill values as low as 8 
+above. No lightning risk. 
+.TONIGHT...Summit in and out of clouds. Isolated snow showers until
+midnight. Windy with low around 15. Northwest winds 25 to 35 mph. 
+Chance of precipitation 20 percent. Wind chill values as low as zero.
+No lightning risk. 
+.MONDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Brisk with high around 26. Northwest winds 15 to 25 mph. Wind chill
+values as low as 4 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-212130-
+Moosehead Lake-
+318 AM EDT Sun Oct 21 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Partly sunny through early afternoon, then becoming mostly
+cloudy. Isolated rain and snow showers this afternoon. Much cooler
+with high around 39. Northwest winds 10 to 15 mph. Waves 4 feet.
+Chance of precipitation 20 percent. No lightning risk. Water
+temperature 59 degrees Fahrenheit. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+23. Waves 4 feet. Northwest winds 10 to 15 mph. No lightning risk.
+Water temperature 59 degrees Fahrenheit. 
+.MONDAY...Partly sunny. High around 39. Waves 3 feet. Northwest
+winds around 10 mph. Wind chill values as low as 12 in the morning.
+No lightning risk. Water temperature 59 degrees Fahrenheit. 
+
+$$
+
+MEZ001-212130-
+Allagash Wilderness Waterway-
+318 AM EDT Sun Oct 21 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Partly sunny this morning, then becoming mostly cloudy.
+Isolated rain and snow showers this afternoon. Much cooler with high
+around 37. West winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly clear.
+Low around 20. West winds 10 to 15 mph. No lightning risk. 
+.MONDAY...Partly sunny. High around 37. West winds 10 to 15 mph.
+Wind chill values as low as 9 above in the morning. No lightning
+risk. 
+
+$$
+
+MEZ030-212130-
+St Croix River-
+318 AM EDT Sun Oct 21 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Partly sunny. Cooler with high around 46. Northwest winds
+10 to 15 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Cooler with
+low around 25. Northwest winds 10 to 15 mph. Wind chill values as
+low as 20. No lightning risk. 
+.MONDAY...Mostly sunny. High around 41. West winds around 10 mph.
+Wind chill values as low as 15 in the morning. No lightning risk. 
+
+$$
+
+MEZ030-212130-
+West Quoddy Head-
+318 AM EDT Sun Oct 21 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Partly sunny. High around 49. Northwest winds 10 to 15 mph.
+No lightning risk. Water temperature 53 degrees Fahrenheit. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Cooler with
+low around 29. Northwest winds 15 to 20 mph. Wind chill values as
+low as 23. No lightning risk. Water temperature 53 degrees
+Fahrenheit. 
+.MONDAY...Mostly sunny. High around 43. West winds around 15 mph.
+Wind chill values as low as 17 in the morning. No lightning risk.
+Water temperature 53 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-212130-
+Upper Penobscot Watershed-
+318 AM EDT Sun Oct 21 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. Isolated rain showers late. Much cooler with
+high around 42. Northwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.TONIGHT...Mostly clear. Cooler with low around 24. Northwest winds
+10 to 15 mph. Wind chill values as low as 17. No lightning risk. 
+.MONDAY...Partly sunny. High around 41. West winds around 10 mph.
+Wind chill values as low as 13 in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-212130-
+Lower Penobscot Watershed-
+318 AM EDT Sun Oct 21 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. Much cooler with high around 45. Northwest
+winds 10 to 15 mph. No lightning risk. 
+.TONIGHT...Clear, cooler with low around 25. Northwest winds 10 to
+15 mph. Wind chill values as low as 20. No lightning risk. 
+.MONDAY...Partly sunny. High around 43. West winds around 10 mph.
+Wind chill values as low as 16 in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

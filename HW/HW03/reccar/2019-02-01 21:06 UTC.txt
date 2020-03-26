@@ -1,0 +1,194 @@
+
+465 
+SXUS41 KCAR 012106
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+406 PM EST Fri Feb 1 2019
+
+MEZ004-021115-
+Top of Mount Katahdin-
+406 PM EST Fri Feb 1 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear, brisk and not as cool with low around 5 below.
+West winds 20 to 30 mph. Wind chill values as low as 30 below. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. A chance of snow. High around 4 above.
+West winds 20 to 25 mph. Chance of precipitation 50 percent. Wind
+chill values as low as 26 below. No lightning risk. 
+
+$$
+
+MEZ005-021115-
+Katahdin Woods and Waters National Monument-
+406 PM EST Fri Feb 1 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Low around 2 below. West winds 10 to 20 mph. Wind
+chill values as low as 20 below. No lightning risk. 
+.SATURDAY...Mostly cloudy. A chance of snow. High around 14. West
+winds 10 to 15 mph. Chance of precipitation 50 percent. Wind chill
+values as low as 15 below in the morning. No lightning risk. 
+
+$$
+
+MEZ029-021115-
+Top of Cadillac Mountain-
+406 PM EST Fri Feb 1 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 4 above. West winds 15 to 25 mph. Wind
+chill values as low as 15 below. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then summit in and out of
+clouds. A chance of snow. High around 21. West winds 15 to 20 mph.
+Chance of precipitation 40 percent. Wind chill values as low as
+12 below in the morning. No lightning risk. 
+
+$$
+
+MEZ001-021115-
+Top of Deboullie Mountain-
+406 PM EST Fri Feb 1 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear. A slight chance of snow late. Cold with low around
+8 below. West winds 15 to 20 mph. Chance of precipitation
+20 percent. Wind chill values as low as 29 below. No lightning risk.
+.SATURDAY...Mostly cloudy in the morning, then summit in and out of
+clouds. A chance of snow. High around 9 above. West winds 15 to
+20 mph. Chance of precipitation 50 percent. Wind chill values as low
+as 28 below in the morning. No lightning risk. 
+
+$$
+
+MEZ006-021115-
+Top of Mars Hill Mountain-
+406 PM EST Fri Feb 1 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear. A slight chance of snow late. Cold with low around
+7 below. West winds 10 to 20 mph. Chance of precipitation
+20 percent. Wind chill values as low as 22 below. No lightning risk.
+.SATURDAY...Mostly cloudy in the morning, then summit in and out of
+clouds. A chance of snow. High around 11. West winds 10 to 20 mph.
+Chance of precipitation 50 percent. Wind chill values as low as
+22 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-021115-
+Top of White Cap Mountain-
+406 PM EST Fri Feb 1 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Low around 4 below. West winds 15 to 20 mph. Wind
+chill values as low as 25 below. No lightning risk. 
+.SATURDAY...Mostly cloudy. A chance of snow. High around 7 above.
+West winds 15 to 25 mph. Chance of precipitation 40 percent. Wind
+chill values as low as 20 below. No lightning risk. 
+
+$$
+
+MEZ010-021115-
+Moosehead Lake-
+406 PM EST Fri Feb 1 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear. Low around 3 below. West winds 10 to
+15 mph. Wind chill values as low as 22 below. No lightning risk. 
+.SATURDAY...Mostly cloudy. A chance of snow. High around 14. West
+winds 10 to 15 mph. Chance of precipitation 50 percent. Wind chill
+values as low as 19 below in the morning. No lightning risk. 
+
+$$
+
+MEZ001-021115-
+Allagash Wilderness Waterway-
+406 PM EST Fri Feb 1 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear. A slight chance of snow late. Cold with low around
+7 below. West winds 10 to 20 mph. Chance of precipitation
+20 percent. Wind chill values as low as 26 below. No lightning risk.
+.SATURDAY...Mostly cloudy. A chance of snow. High around 13. West
+winds 10 to 15 mph. Chance of precipitation 50 percent. Wind chill
+values as low as 24 below in the morning. No lightning risk. 
+
+$$
+
+MEZ030-021115-
+St Croix River-
+406 PM EST Fri Feb 1 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Low around zero. West winds 10 to 15 mph. Wind
+chill values as low as 15 below. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. A chance of snow. High around 17. West winds 10 to 15 mph.
+Chance of precipitation 50 percent. Wind chill values as low as
+15 below in the morning. No lightning risk. 
+
+$$
+
+MEZ030-021115-
+West Quoddy Head-
+406 PM EST Fri Feb 1 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear, brisk with low around 9 above. West winds 15 to
+30 mph. Wind chill values as low as 8 below. No lightning risk.
+Water temperature 38 degrees Fahrenheit. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. A chance of snow in the morning...then snow likely in the
+afternoon. High around 23. West winds 15 to 20 mph. Chance of
+precipitation 60 percent. Wind chill values as low as 7 below in the
+morning. No lightning risk. Water temperature 38 degrees Fahrenheit.
+
+$$
+
+MEZ004&gt;006-010-011-031-021115-
+Upper Penobscot Watershed-
+406 PM EST Fri Feb 1 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 2 below. West winds 10 to 20 mph. Wind
+chill values as low as 18 below. No lightning risk. 
+.SATURDAY...Mostly cloudy. A chance of snow. High around 16. West
+winds 10 to 15 mph. Chance of precipitation 50 percent. Wind chill
+values as low as 16 below in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-021115-
+Lower Penobscot Watershed-
+406 PM EST Fri Feb 1 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 1 above. West winds 10 to 15 mph. Wind
+chill values as low as 14 below. No lightning risk. 
+.SATURDAY...Mostly cloudy. A slight chance of snow in the morning. A
+chance of snow in the afternoon. High around 19. Southwest winds
+10 to 15 mph. Chance of precipitation 50 percent. Wind chill values
+as low as 13 below in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

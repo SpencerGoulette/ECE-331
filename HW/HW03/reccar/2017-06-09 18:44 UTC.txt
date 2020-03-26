@@ -1,0 +1,89 @@
+
+217 
+SXUS41 KCAR 091844
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+244 PM EDT Fri Jun 9 2017
+
+MEZ004-100845-
+Top of Mount Katahdin-
+244 PM EDT Fri Jun 9 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy until midnight...then clearing. Scattered showers
+and isolated thunderstorms until midnight. Low around 41. Northwest
+winds 15 to 20 mph. Chance of precipitation 50 percent. Lightning
+risk is limited. 
+.SATURDAY...Sunny. High around 53. West winds around 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-100845-
+Top of Cadillac Mountain-
+244 PM EDT Fri Jun 9 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured until midnight...then becoming mostly
+clear. Numerous showers until midnight. Low around 54. West winds
+around 20 mph shifting to the northwest 10 to 15 mph after midnight.
+Chance of precipitation 60 percent. No lightning risk. 
+.SATURDAY...Sunny. High around 62. Northwest winds around 10 mph
+shifting to the south in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-100845-
+Moosehead Lake-
+244 PM EDT Fri Jun 9 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy until midnight...then clearing. Scattered
+showers and isolated thunderstorms until midnight. Low around 47.
+Northwest winds around 10 mph until midnight becoming light winds.
+Waves 2 feet. Chance of precipitation 50 percent. Lightning risk is
+limited. 
+.SATURDAY...Sunny. High around 71. Waves 1 foot. Light winds
+becoming west around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-100845-
+Upper Penobscot Watershed-
+244 PM EDT Fri Jun 9 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy until midnight...then clearing. Scattered
+showers and isolated thunderstorms until midnight. Low around 49.
+West winds around 10 mph. Chance of precipitation 50 percent.
+Lightning risk is limited. 
+.SATURDAY...Sunny. High around 74. West winds around 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-100845-
+Lower Penobscot Watershed-
+244 PM EDT Fri Jun 9 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy until midnight...then clearing. Scattered showers
+until midnight. Low around 50. West winds around 10 mph. Chance of
+precipitation 50 percent. Lightning risk is limited. 
+.SATURDAY...Sunny, warmer with high around 76. Light winds becoming
+southwest around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

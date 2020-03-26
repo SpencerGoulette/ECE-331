@@ -1,0 +1,214 @@
+
+231 
+SXUS41 KCAR 031846
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+246 PM EDT Mon Jun 3 2019
+
+MEZ004-040900-
+Top of Mount Katahdin-
+246 PM EDT Mon Jun 3 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy, then summit in and out of clouds late this
+evening, then becoming cloudy. Scattered rain showers and isolated
+thunderstorms early this evening...then isolated rain showers late
+this evening. Windy with low around 31. West winds 25 to 35 mph.
+Chance of precipitation 50 percent. Wind chill values as low as 16.
+Lightning risk is limited. 
+.TUESDAY...Mostly cloudy. Scattered rain showers in the afternoon.
+Windy with high around 39. West winds 15 to 35 mph decreasing to
+10 to 20 mph in the afternoon. Chance of precipitation 30 percent.
+Wind chill values as low as 17 in the morning. No lightning risk. 
+
+$$
+
+MEZ005-040900-
+Katahdin Woods and Waters National Monument-
+246 PM EDT Mon Jun 3 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy. Scattered showers and isolated
+thunderstorms early this evening. Cooler with low around 42. West
+winds 10 to 15 mph. Chance of precipitation 40 percent. Lightning
+risk is limited. 
+.TUESDAY...Partly sunny. Isolated showers in the afternoon. High
+around 61. West winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ029-040900-
+Top of Cadillac Mountain-
+246 PM EDT Mon Jun 3 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear and breezy. Low around 44. West winds 20 to
+30 mph. No lightning risk. 
+.TUESDAY...Mostly sunny and breezy. High around 56. West winds 15 to
+30 mph. No lightning risk. 
+
+$$
+
+MEZ001-040900-
+Top of Deboullie Mountain-
+246 PM EDT Mon Jun 3 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy late this
+evening, then summit in and out of clouds. Scattered showers and
+isolated thunderstorms early this evening...then isolated showers
+late this evening. Cooler with low around 39. West winds 10 to
+15 mph. Chance of precipitation 40 percent. Lightning risk is
+limited. 
+.TUESDAY...Summit in and out of clouds in the morning, then becoming
+partly sunny. Isolated showers in the afternoon. High around 54.
+West winds 10 to 15 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ006-040900-
+Top of Mars Hill Mountain-
+246 PM EDT Mon Jun 3 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming mostly cloudy, then summit in and out of
+clouds late. Numerous showers and isolated thunderstorms early this
+evening...then isolated showers late this evening. Cooler with low
+around 40. West winds 10 to 15 mph. Chance of precipitation
+60 percent. Lightning risk is limited. 
+.TUESDAY...Summit in and out of clouds in the morning, then becoming
+partly sunny. Scattered showers in the afternoon. High around 57.
+West winds 10 to 15 mph. Chance of precipitation 30 percent. No
+lightning risk. 
+
+$$
+
+MEZ010-040900-
+Top of White Cap Mountain-
+246 PM EDT Mon Jun 3 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy late this
+evening, then summit becoming obscured. Scattered rain showers and
+isolated thunderstorms early this evening. Windy with low around 35.
+West winds 20 to 35 mph. Chance of precipitation 40 percent.
+Lightning risk is limited. 
+.TUESDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Isolated rain showers in the afternoon. Breezy with high around 46.
+West winds 15 to 30 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ010-040900-
+Moosehead Lake-
+246 PM EDT Mon Jun 3 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy through early
+morning, then becoming partly cloudy. Scattered showers and isolated
+thunderstorms early this evening. Low around 41. West winds 10 to
+15 mph. Waves 2 feet. Chance of precipitation 30 percent. Lightning
+risk is limited. 
+.TUESDAY...Partly sunny. Isolated showers in the afternoon. High
+around 58. Waves 3 feet. West winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-040900-
+Allagash Wilderness Waterway-
+246 PM EDT Mon Jun 3 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Scattered showers and isolated thunderstorms early this
+evening...then isolated showers late this evening. Cooler with low
+around 40. West winds 10 to 15 mph. Chance of precipitation
+40 percent. Lightning risk is limited. 
+.TUESDAY...Partly sunny. Isolated showers in the afternoon. High
+around 59. West winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ030-040900-
+St Croix River-
+246 PM EDT Mon Jun 3 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy. Scattered showers and isolated
+thunderstorms early this evening...then isolated showers late this
+evening. Low around 42. West winds 10 to 15 mph decreasing to 10 mph
+after midnight. Chance of precipitation 50 percent. Lightning risk
+is limited. 
+.TUESDAY...Partly sunny. Isolated showers in the afternoon. High
+around 64. West winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ030-040900-
+West Quoddy Head-
+246 PM EDT Mon Jun 3 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear. Low around 44. Southwest winds 10 to
+20 mph. No lightning risk. Water temperature 44 degrees Fahrenheit. 
+.TUESDAY...Mostly sunny. High around 56. Southwest winds 10 to
+20 mph. No lightning risk. Water temperature 44 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-040900-
+Upper Penobscot Watershed-
+246 PM EDT Mon Jun 3 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Scattered showers and isolated
+thunderstorms early this evening. Cooler with low around 42. West
+winds 10 to 15 mph decreasing to 10 mph after midnight. Chance of
+precipitation 50 percent. Lightning risk is limited. 
+.TUESDAY...Partly sunny. Isolated showers in the afternoon. High
+around 62. West winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-040900-
+Lower Penobscot Watershed-
+246 PM EDT Mon Jun 3 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Scattered showers early this evening. Low
+around 43. West winds 10 to 15 mph decreasing to 10 mph after
+midnight. Chance of precipitation 50 percent. Lightning risk is
+limited. 
+.TUESDAY...Partly sunny. Isolated showers in the afternoon. High
+around 64. West winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

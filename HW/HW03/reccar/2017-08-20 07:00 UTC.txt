@@ -1,0 +1,115 @@
+
+930 
+SXUS41 KCAR 200700
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+300 AM EDT Sun Aug 20 2017
+
+MEZ004-202100-
+Top of Mount Katahdin-
+300 AM EDT Sun Aug 20 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Cloudy this morning...then becoming partly sunny. Patchy
+fog this morning. Isolated showers this morning. Near steady
+temperatures around 54. West winds 35 to 40 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 52. Northwest winds 25 to 40 mph
+decreasing to 15 to 20 mph after midnight. No lightning risk. 
+.MONDAY...Sunny in the morning...then becoming mostly cloudy. High
+around 60. West winds around 15 mph. No lightning risk. 
+
+$$
+
+MEZ005-202100-
+Katahdin Woods and Waters National Monument-
+300 AM EDT Sun Aug 20 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Patchy fog this morning. Isolated showers this morning. High around
+75. West winds 10 to 20 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.TONIGHT...Mostly clear. Low around 58. West winds 10 to 15 mph. No
+lightning risk. 
+.MONDAY...Mostly sunny. High around 82. West winds around 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-202100-
+Top of Cadillac Mountain-
+300 AM EDT Sun Aug 20 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny. Patchy fog this morning. High around 72. West
+winds 10 to 15 mph. No lightning risk. 
+.TONIGHT...Clear. Low around 63. Northwest winds around 15 mph. No
+lightning risk. 
+.MONDAY...Sunny. High around 73. West winds 10 to 20 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-202100-
+Moosehead Lake-
+300 AM EDT Sun Aug 20 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Patchy fog this morning. Isolated showers this morning. High around
+73. West winds 10 to 20 mph. Waves 2 to 4 feet. Chance of 
+precipitation 20 percent. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+57. Waves 3 feet...subsiding to around 1 foot. West winds around 15 
+mph until midnight becoming light winds. No lightning risk. 
+.MONDAY...Mostly sunny. High around 80. Waves 2 feet. West winds
+around 10 mph. No lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-202100-
+Upper Penobscot Watershed-
+300 AM EDT Sun Aug 20 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Patchy fog this morning. Isolated showers this morning. High around
+77. West winds 10 to 15 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.TONIGHT...Mostly clear. Low around 58. West winds around 15 mph
+until midnight becoming light winds. No lightning risk. 
+.MONDAY...Sunny. High around 84. West winds around 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-202100-
+Lower Penobscot Watershed-
+300 AM EDT Sun Aug 20 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning...then becoming mostly sunny.
+Patchy fog this morning. Isolated showers this morning. High around
+80. West winds 10 to 15 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.TONIGHT...Clear. Low around 59. West winds around 5 mph until
+midnight becoming light winds. No lightning risk. 
+.MONDAY...Sunny. High around 85. West winds around 5 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

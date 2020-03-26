@@ -1,0 +1,200 @@
+
+341 
+SXUS41 KCAR 210153
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+953 PM EDT Thu Jun 20 2019
+
+MEZ004-211600-
+Top of Mount Katahdin-
+953 PM EDT Thu Jun 20 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.REST OF TONIGHT...Summit obscured. Patchy fog. Rain through early
+morning. scattered showers late. Low around 48. East winds 10 to
+20 mph. Chance of precipitation near 100 percent. No lightning risk.
+.FRIDAY...Summit in and out of clouds. Scattered showers. High
+around 50. North winds 15 to 25 mph. Chance of precipitation
+50 percent. No lightning risk. 
+
+$$
+
+MEZ005-211600-
+Katahdin Woods and Waters National Monument-
+953 PM EDT Thu Jun 20 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.REST OF TONIGHT...Cloudy. Patchy fog. Rain. Low around 56. East
+winds 10 mph shifting to the northeast. Chance of precipitation near
+100 percent. No lightning risk. 
+.FRIDAY...Cloudy. Rain likely in the morning...then scattered
+showers in the afternoon. High around 66. North winds 10 to 20 mph.
+Chance of precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ029-211600-
+Top of Cadillac Mountain-
+953 PM EDT Thu Jun 20 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.REST OF TONIGHT...Summit obscured through early morning, then
+summit in and out of clouds. Areas of fog. Rain. Near steady
+temperatures around 54. Southeast winds 10 to 15 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+.FRIDAY...Summit obscured. Areas of fog in the morning. Rain. High
+around 62. North winds 10 to 25 mph. Chance of precipitation
+80 percent. No lightning risk. 
+
+$$
+
+MEZ001-211600-
+Top of Deboullie Mountain-
+953 PM EDT Thu Jun 20 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.REST OF TONIGHT...Summit obscured. Patchy fog. Rain. Low around 49.
+Northeast winds 10 to 15 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.FRIDAY...Summit obscured in the morning, then summit in and out of
+clouds. Scattered showers in the morning...then isolated showers in
+the afternoon. High around 64. North winds 10 to 20 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ006-211600-
+Top of Mars Hill Mountain-
+953 PM EDT Thu Jun 20 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.REST OF TONIGHT...Summit obscured. Patchy fog. Rain. Low around 54.
+Southeast winds 10 to 20 mph shifting to the northeast 10 to 15 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+.FRIDAY...Summit obscured. Rain likely in the morning...then
+scattered showers in the afternoon. High around 64. North winds
+10 to 20 mph. Chance of precipitation 70 percent. No lightning risk.
+
+$$
+
+MEZ010-211600-
+Top of White Cap Mountain-
+953 PM EDT Thu Jun 20 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.REST OF TONIGHT...Summit obscured. Patchy fog. Rain through early
+morning. scattered showers late. Low around 51. Southeast winds
+10 to 20 mph shifting to the northeast. Chance of precipitation near
+100 percent. No lightning risk. 
+.FRIDAY...Summit obscured. Scattered showers. High around 54. North
+winds 10 to 25 mph. Chance of precipitation 50 percent. No lightning
+risk. 
+
+$$
+
+MEZ010-211600-
+Moosehead Lake-
+953 PM EDT Thu Jun 20 2019
+
+...MOOSEHEAD LAKE...
+
+.REST OF TONIGHT...Cloudy. Patchy fog. Rain late this evening.
+scattered showers. Low around 53. East winds 10 mph shifting to the
+northeast 10 to 15 mph. Waves 1 foot. Chance of precipitation near
+100 percent. No lightning risk. 
+.FRIDAY...Mostly cloudy. Scattered showers. High around 65. Waves
+4 feet. North winds 10 to 20 mph. Chance of precipitation
+50 percent. No lightning risk. 
+
+$$
+
+MEZ001-211600-
+Allagash Wilderness Waterway-
+953 PM EDT Thu Jun 20 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.REST OF TONIGHT...Cloudy. Patchy fog. Rain through early morning.
+scattered showers late. Low around 52. Northeast winds 10 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+.FRIDAY...Cloudy in the morning, then becoming partly sunny.
+Scattered showers in the morning...then isolated showers in the
+afternoon. High around 68. North winds 10 to 20 mph. Chance of
+precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ030-211600-
+St Croix River-
+953 PM EDT Thu Jun 20 2019
+
+...ST CROIX RIVER...
+
+.REST OF TONIGHT...Cloudy. Patchy fog. Rain. Rain may be heavy at
+times through early morning. Low around 56. East winds 10 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+.FRIDAY...Cloudy. Rain likely. High around 66. North winds 10 to
+20 mph. Chance of precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ030-211600-
+West Quoddy Head-
+953 PM EDT Thu Jun 20 2019
+
+...WEST QUODDY HEAD...
+
+.REST OF TONIGHT...Cloudy. Areas of fog. Rain. Rain may be heavy at
+times late this evening. Near steady temperatures around 50. East
+winds 10 to 15 mph. Chance of precipitation near 100 percent. No
+lightning risk. Water temperature 46 degrees Fahrenheit. 
+.FRIDAY...Cloudy, rain. High around 58. Northeast winds 10 to
+25 mph. Chance of precipitation 90 percent. No lightning risk. Water
+temperature 46 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-211600-
+Upper Penobscot Watershed-
+953 PM EDT Thu Jun 20 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.REST OF TONIGHT...Cloudy. Patchy fog through early morning. patchy
+fog late. Rain. Low around 56. Northeast winds 10 to 15 mph. Chance
+of precipitation near 100 percent. No lightning risk. 
+.FRIDAY...Cloudy. Rain likely in the morning...then scattered
+showers in the afternoon. High around 67. North winds 10 to 15 mph.
+Chance of precipitation 70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-211600-
+Lower Penobscot Watershed-
+953 PM EDT Thu Jun 20 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.REST OF TONIGHT...Cloudy. Patchy fog late this evening. patchy fog.
+Rain through early morning. scattered showers late. Low around 56.
+East winds 10 to 15 mph shifting to the northeast 10 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+.FRIDAY...Cloudy. Rain likely in the morning...then scattered
+showers in the afternoon. High around 68. North winds 10 to 20 mph.
+Chance of precipitation 70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,75 @@
+
+097 
+SXUS41 KCAR 311916
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+316 PM EDT Fri Mar 31 2017
+
+MEZ004-010930-
+Top of Mount Katahdin-
+316 PM EDT Fri Mar 31 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Not as cool with low around 20. East winds around 10 mph. 
+.SATURDAY...Cloudy. A chance of light snow in the afternoon. Much
+cooler. Near steady temperatures around 21. East winds around
+10 mph. Chance of precipitation 30 percent. 
+
+$$
+
+MEZ029-010930-
+Top of Cadillac Mountain-
+316 PM EDT Fri Mar 31 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy. A chance of light snow after midnight. Low
+around 30. East winds around 5 mph increasing to around 15 mph after
+midnight. Chance of precipitation 30 percent. Wind chill values as
+low as 18. 
+.SATURDAY...Cloudy in the morning...then summit in and out of
+clouds. Light snow likely. High around 34. East winds 15 to 20 mph.
+Chance of precipitation 60 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-010930-
+Upper Penobscot Watershed-
+316 PM EDT Fri Mar 31 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. A slight chance of light snow after midnight. Low around 26.
+Light winds becoming east around 10 mph after midnight. Chance of
+precipitation 20 percent. 
+.SATURDAY...Cloudy. A chance of light snow. a chance of light rain
+in the afternoon. High around 36. East winds around 10 mph. Chance
+of precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-010930-
+Lower Penobscot Watershed-
+316 PM EDT Fri Mar 31 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. A slight chance of light snow after
+midnight. Low around 28. East winds around 5 mph. Chance of
+precipitation 20 percent. 
+.SATURDAY...Cloudy. A chance of light snow. a chance of light rain
+in the afternoon. High around 37. Northeast winds around 10 mph.
+Chance of precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

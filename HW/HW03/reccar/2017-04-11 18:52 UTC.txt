@@ -1,0 +1,73 @@
+
+668 
+SXUS41 KCAR 111852
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+252 PM EDT Tue Apr 11 2017
+
+MEZ004-120900-
+Top of Mount Katahdin-
+252 PM EDT Tue Apr 11 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then summit
+becoming obscured. Showers likely. Low around 42. Light winds.
+Chance of precipitation 70 percent. 
+.WEDNESDAY...Cloudy, showers. High around 47. Light winds becoming
+southeast 10 to 15 mph in the afternoon. Chance of precipitation
+80 percent. 
+
+$$
+
+MEZ029-120900-
+Top of Cadillac Mountain-
+252 PM EDT Tue Apr 11 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy. A chance of showers. Low around 43. Light
+winds. Chance of precipitation 40 percent. 
+.WEDNESDAY...Cloudy. A chance of showers in the morning...then
+showers likely in the afternoon. High around 51. Light winds
+becoming southeast around 10 mph in the afternoon. Chance of
+precipitation 60 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-120900-
+Upper Penobscot Watershed-
+252 PM EDT Tue Apr 11 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A chance of showers until midnight...then showers
+after midnight. Low around 42. Light winds. Chance of precipitation
+80 percent. 
+.WEDNESDAY...Cloudy, showers, cooler with high around 54. Light
+winds. Chance of precipitation 90 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-120900-
+Lower Penobscot Watershed-
+252 PM EDT Tue Apr 11 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A chance of showers until midnight...then showers
+after midnight. Low around 45. Light winds. Chance of precipitation
+80 percent. 
+.WEDNESDAY...Cloudy. A chance of showers in the morning...then
+showers likely in the afternoon. Cooler with high around 57. Light
+winds. Chance of precipitation 70 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

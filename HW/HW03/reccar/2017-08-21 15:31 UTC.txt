@@ -1,0 +1,221 @@
+
+435 
+SXUS41 KCAR 211531
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+1131 AM EDT Mon Aug 21 2017
+
+MEZ004-220545-
+Top of Mount Katahdin-
+1131 AM EDT Mon Aug 21 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Sunny. High around 60. West winds 10 to 15 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy. Isolated showers and thunderstorms until
+midnight. Patchy fog after midnight. Low around 57. West winds 10 to
+20 mph. Chance of precipitation 20 percent. Lightning risk is
+limited. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. A chance of showers and isolated thunderstorms in the
+afternoon. High around 66. Southwest winds 10 to 20 mph. Chance of
+precipitation 30 percent. Lightning risk is limited. 
+
+$$
+
+MEZ005-220545-
+Katahdin Woods and Waters National Monument-
+1131 AM EDT Mon Aug 21 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Sunny. High around 81. West winds around 10 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy. Isolated showers and thunderstorms until
+midnight. Patchy fog after midnight. Low around 62. West winds
+around 10 mph until midnight becoming light winds. Chance of
+precipitation 20 percent. Lightning risk is limited. 
+.TUESDAY...Partly sunny. A slight chance of showers in the
+afternoon. High around 84. Light winds becoming south around 10 mph
+in the afternoon. Chance of precipitation 20 percent. No lightning
+risk. 
+
+$$
+
+MEZ029-220545-
+Top of Cadillac Mountain-
+1131 AM EDT Mon Aug 21 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny. High around 73. West winds 10 to 20 mph. No
+lightning risk. 
+.TONIGHT...Clear. Low around 66. Southwest winds around 20 mph
+shifting to the west 10 to 15 mph after midnight. No lightning risk.
+.TUESDAY...Sunny. High around 77. Southwest winds 10 to 20 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-220545-
+Top of Deboullie Mountain-
+1131 AM EDT Mon Aug 21 2017
+
+...TOP OF DEBOULLIE MOUTAIN (1981')...
+
+.TODAY...Sunny. High around 75. West winds around 15 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Isolated showers and thunderstorms until midnight. Patchy
+fog after midnight. Low around 60. West winds 10 to 15 mph. Chance
+of precipitation 20 percent. Lightning risk is limited. 
+.TUESDAY...Mostly cloudy. A chance of showers and isolated
+thunderstorms in the afternoon. High around 77. Light winds becoming
+south 10 to 15 mph in the afternoon. Chance of precipitation
+40 percent. Lightning risk is limited. 
+
+$$
+
+MEZ006-220545-
+Top of Mars Hill Mountain-
+1131 AM EDT Mon Aug 21 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Sunny. High around 76. West winds around 15 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy. Isolated showers and thunderstorms. Patchy
+fog after midnight. Low around 63. West winds 10 to 15 mph. Chance
+of precipitation 20 percent. Lightning risk is limited. 
+.TUESDAY...Mostly cloudy. High around 81. Light winds becoming south
+around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-220545-
+Top of White Cap Mountain-
+1131 AM EDT Mon Aug 21 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Sunny. High around 68. West winds around 15 mph. No
+lightning risk. 
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 62. West winds 10 to 15 mph. No lightning risk. 
+.TUESDAY...Mostly sunny in the morning...then summit in and out of
+clouds. A chance of showers and isolated thunderstorms in the
+afternoon. High around 72. Southwest winds 10 to 20 mph. Chance of
+precipitation 30 percent. Lightning risk is limited. 
+
+$$
+
+MEZ010-220545-
+Moosehead Lake-
+1131 AM EDT Mon Aug 21 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly sunny. High around 79. Light winds becoming west
+around 10 mph this afternoon. Waves 2 feet. No lightning risk. Water
+temperature 71 degrees Fahrenheit. 
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 62. Waves 1 foot. West winds around 10 mph until
+midnight becoming light winds. No lightning risk. Water temperature
+71 degrees Fahrenheit. 
+.TUESDAY...Partly sunny. A chance of showers and isolated
+thunderstorms in the afternoon. High around 84. Waves 2 feet. Light
+winds becoming south around 10 mph in the afternoon. Chance of
+precipitation 30 percent. Lightning risk is limited. Water
+temperature 71 degrees Fahrenheit. 
+
+$$
+
+MEZ001-220545-
+Allagash Wilderness Waterway-
+1131 AM EDT Mon Aug 21 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Sunny. High around 80. West winds 10 to 15 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy. Isolated showers and thunderstorms until
+midnight. Patchy fog after midnight. Low around 61. West winds
+around 10 mph until midnight becoming light winds. Chance of
+precipitation 20 percent. Lightning risk is limited. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. A chance of showers and isolated thunderstorms in the
+afternoon. High around 82. Light winds becoming south around 10 mph
+in the afternoon. Chance of precipitation 40 percent. Lightning risk
+is limited. 
+
+$$
+
+MEZ030-220545-
+St Croix River-
+1131 AM EDT Mon Aug 21 2017
+
+...ST CROIX RIVER...
+
+.TODAY...Sunny. High around 84. West winds around 10 mph. No
+lightning risk. 
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 62. Light winds. No lightning risk. 
+.TUESDAY...Mostly sunny. High around 86. Light winds becoming south
+around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-220545-
+West Quoddy Head-
+1131 AM EDT Mon Aug 21 2017
+
+...WEST QUODDY HEAD...
+
+.TODAY...Sunny. High around 77. Southwest winds 10 to 15 mph. No
+lightning risk. Water temperature 58 degrees Fahrenheit. 
+.TONIGHT...Mostly clear. Low around 58. Southwest winds 10 to
+15 mph. No lightning risk. Water temperature 58 degrees Fahrenheit. 
+.TUESDAY...Sunny. High around 74. South winds 10 to 15 mph. No
+lightning risk. Water temperature 58 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-220545-
+Upper Penobscot Watershed-
+1131 AM EDT Mon Aug 21 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 83. West winds around 10 mph. No
+lightning risk. 
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 63. West winds around 10 mph until midnight
+becoming light winds. Lightning risk is limited. 
+.TUESDAY...Mostly sunny. High around 86. Light winds becoming south
+around 10 mph in the afternoon. Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-220545-
+Lower Penobscot Watershed-
+1131 AM EDT Mon Aug 21 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 84. Light winds becoming west around
+10 mph this afternoon. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 63. Southwest winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.TUESDAY...Mostly sunny. High around 86. Light winds becoming south
+around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

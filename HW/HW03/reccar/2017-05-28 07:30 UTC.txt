@@ -1,0 +1,101 @@
+
+058 
+SXUS41 KCAR 280730
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+330 AM EDT Sun May 28 2017
+
+MEZ004-282130-
+Top of Mount Katahdin-
+330 AM EDT Sun May 28 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly cloudy. A chance of showers this afternoon. High
+around 58. Light winds. Chance of precipitation 20 percent. 
+.TONIGHT...Cloudy. Scattered showers. Low around 44. South winds
+around 10 mph. Chance of precipitation 30 percent. 
+.MEMORIAL DAY...Mostly cloudy. A chance of showers. Cooler with high
+around 47. South winds 10 to 20 mph. Chance of precipitation
+50 percent. 
+
+$$
+
+MEZ029-282130-
+Top of Cadillac Mountain-
+330 AM EDT Sun May 28 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly cloudy this morning...then becoming mostly sunny.
+Patchy fog this morning. Not as cool with high around 63. Light
+winds becoming south around 10 mph this afternoon. 
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 46. South winds around 10 mph. 
+.MEMORIAL DAY...Cloudy in the morning...then summit becoming
+obscured. A chance of showers. Cooler with high around 50. Southeast
+winds 10 to 15 mph. Chance of precipitation 50 percent. 
+
+$$
+
+MEZ010-282130-
+Moosehead Lake-
+330 AM EDT Sun May 28 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Patchy fog this morning. A chance of showers this afternoon. High
+around 69. Light winds. Waves 1 foot. Chance of precipitation
+30 percent. 
+.TONIGHT...Cloudy. Patchy fog after midnight. Scattered showers
+after midnight. Low around 48. Waves 1 foot. Light winds. Chance of
+precipitation 40 percent. 
+.MEMORIAL DAY...Cloudy. A chance of showers in the morning...then
+showers likely in the afternoon. Cooler with high around 57. Waves
+1 foot. Southeast winds around 10 mph. Chance of precipitation
+70 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-282130-
+Upper Penobscot Watershed-
+330 AM EDT Sun May 28 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Patchy fog this morning. Isolated showers this afternoon. High
+around 70. Light winds. Chance of precipitation 20 percent. 
+.TONIGHT...Mostly cloudy. Patchy fog after midnight. Low around 47.
+South winds around 10 mph until midnight becoming light winds. 
+.MEMORIAL DAY...Mostly cloudy. Patchy fog in the morning. A chance
+of showers. Cooler with high around 60. Southeast winds around
+10 mph. Chance of precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-282130-
+Lower Penobscot Watershed-
+330 AM EDT Sun May 28 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. Patchy fog this morning. High around 69.
+Light winds. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Patchy fog after midnight. Low around 48. South winds around
+10 mph until midnight becoming light winds. 
+.MEMORIAL DAY...Mostly cloudy. Patchy fog in the morning. A chance
+of showers. High around 61. Southeast winds around 10 mph. Chance of
+precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

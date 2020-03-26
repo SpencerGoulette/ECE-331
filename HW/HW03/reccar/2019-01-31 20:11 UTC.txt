@@ -1,0 +1,194 @@
+
+477 
+SXUS41 KCAR 312011
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+311 PM EST Thu Jan 31 2019
+
+MEZ004-011015-
+Top of Mount Katahdin-
+311 PM EST Thu Jan 31 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy. Areas of blowing snow early this evening.
+Brisk, cold with low around 19 below. West winds 25 to 30 mph
+decreasing to 15 to 25 mph after midnight. Wind chill values as low
+as 49 below. No lightning risk. 
+.FRIDAY...Partly sunny. Patchy blowing snow. Windy and not as cool
+with high around 1 above. West winds 25 to 35 mph. Wind chill values
+as low as 50 below in the morning. No lightning risk. 
+
+$$
+
+MEZ005-011015-
+Katahdin Woods and Waters National Monument-
+311 PM EST Thu Jan 31 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy. Areas of blowing snow early this evening.
+Cold with low around 5 below. Southwest winds 10 to 20 mph. Wind
+chill values as low as 26 below. No lightning risk. 
+.FRIDAY...Partly sunny. Patchy blowing snow. High around 9 above.
+West winds 10 to 20 mph. Wind chill values as low as 26 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ029-011015-
+Top of Cadillac Mountain-
+311 PM EST Thu Jan 31 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+clear. Brisk with low around 3 above. West winds 25 to 30 mph. Wind
+chill values as low as 20 below. No lightning risk. 
+.FRIDAY...Sunny. High around 15. West winds 15 to 25 mph. Wind chill
+values as low as 18 below in the morning. No lightning risk. 
+
+$$
+
+MEZ001-011015-
+Top of Deboullie Mountain-
+311 PM EST Thu Jan 31 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy. Areas of blowing snow early this evening.
+Cold with low around 15 below. Southwest winds 10 to 20 mph. Wind
+chill values as low as 37 below. No lightning risk. 
+.FRIDAY...Partly sunny. Patchy blowing snow. High around 1 above.
+West winds 20 to 25 mph. Wind chill values as low as 41 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ006-011015-
+Top of Mars Hill Mountain-
+311 PM EST Thu Jan 31 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy. Areas of blowing snow early this evening.
+Cold with low around 9 below. Southwest winds 10 to 20 mph. Wind
+chill values as low as 27 below. No lightning risk. 
+.FRIDAY...Partly sunny. Patchy blowing snow. High around 5 above.
+West winds 10 to 20 mph. Wind chill values as low as 30 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ010-011015-
+Top of White Cap Mountain-
+311 PM EST Thu Jan 31 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy. Areas of blowing snow early this evening.
+Cold with low around 13 below. West winds 15 to 25 mph. Wind chill
+values as low as 32 below. No lightning risk. 
+.FRIDAY...Mostly sunny. Patchy blowing snow. Brisk with high around
+2 above. West winds 20 to 30 mph. Wind chill values as low as
+41 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-011015-
+Moosehead Lake-
+311 PM EST Thu Jan 31 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy. Areas of blowing snow early this evening.
+Cold with low around 7 below. West winds 10 to 20 mph. Wind chill
+values as low as 29 below. No lightning risk. 
+.FRIDAY...Mostly sunny. Patchy blowing snow. High around 8 above.
+West winds 10 to 20 mph. Wind chill values as low as 27 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ001-011015-
+Allagash Wilderness Waterway-
+311 PM EST Thu Jan 31 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy. Areas of blowing snow early this evening.
+Cold with low around 12 below. West winds 10 to 20 mph. Wind chill
+values as low as 35 below. No lightning risk. 
+.FRIDAY...Partly sunny. Patchy blowing snow. High around 5 above.
+West winds 10 to 20 mph. Wind chill values as low as 35 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ030-011015-
+St Croix River-
+311 PM EST Thu Jan 31 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy. Areas of blowing snow early this evening.
+Low around 1 below. Southwest winds 10 to 20 mph. Wind chill values
+as low as 21 below. No lightning risk. 
+.FRIDAY...Mostly sunny. Patchy blowing snow. High around 14. West
+winds 10 to 20 mph. Wind chill values as low as 20 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ030-011015-
+West Quoddy Head-
+311 PM EST Thu Jan 31 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy and windy. Low around 9 above. West winds
+25 to 35 mph. Wind chill values as low as 12 below. No lightning
+risk. Water temperature 39 degrees Fahrenheit. 
+.FRIDAY...Mostly sunny and brisk. High around 19. West winds 20 to
+30 mph. Wind chill values as low as 11 below in the morning. No
+lightning risk. Water temperature 39 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-011015-
+Upper Penobscot Watershed-
+311 PM EST Thu Jan 31 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Areas of blowing snow early this evening.
+Low around 4 below. Southwest winds 10 to 20 mph. Wind chill values
+as low as 25 below. No lightning risk. 
+.FRIDAY...Mostly sunny. Patchy blowing snow. High around 11. West
+winds 10 to 20 mph. Wind chill values as low as 24 below in the
+morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-011015-
+Lower Penobscot Watershed-
+311 PM EST Thu Jan 31 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Areas of blowing snow early this evening.
+Low around 1 above. Southwest winds 10 to 20 mph. Wind chill values
+as low as 18 below. No lightning risk. 
+.FRIDAY...Mostly sunny. High around 15. West winds 10 to 20 mph.
+Wind chill values as low as 18 below in the morning. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

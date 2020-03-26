@@ -1,0 +1,192 @@
+
+236 
+SXUS41 KCAR 221907
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+307 PM EDT Sat Jun 22 2019
+
+MEZ004-230915-
+Top of Mount Katahdin-
+307 PM EDT Sat Jun 22 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy. Scattered showers early this evening...
+then isolated showers from late evening on. Windy with low around
+46. Northwest winds 25 to 35 mph. Chance of precipitation
+30 percent. No lightning risk. 
+.SUNDAY...Partly sunny. Isolated showers in the morning. Windy with
+high around 54. Northwest winds 25 to 40 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ005-230915-
+Katahdin Woods and Waters National Monument-
+307 PM EDT Sat Jun 22 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy. Isolated showers early this evening. Low
+around 55. Northwest winds 10 to 20 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 73. Northwest winds 10 to
+25 mph. No lightning risk. 
+
+$$
+
+MEZ029-230915-
+Top of Cadillac Mountain-
+307 PM EDT Sat Jun 22 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Scattered
+showers early this evening...then isolated showers late this
+evening. Low around 57. Northwest winds 15 to 20 mph. Chance of
+precipitation 30 percent. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 73. Northwest winds 15 to
+25 mph. No lightning risk. 
+
+$$
+
+MEZ001-230915-
+Top of Deboullie Mountain-
+307 PM EDT Sat Jun 22 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy. Isolated showers. Low around 53. Northwest
+winds 15 to 20 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+.SUNDAY...Mostly sunny. High around 65. Northwest winds 20 to
+25 mph. No lightning risk. 
+
+$$
+
+MEZ006-230915-
+Top of Mars Hill Mountain-
+307 PM EDT Sat Jun 22 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy. Isolated showers. Low around 52. Northwest
+winds 15 to 20 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+.SUNDAY...Mostly sunny and breezy. High around 67. Northwest winds
+15 to 30 mph. No lightning risk. 
+
+$$
+
+MEZ010-230915-
+Top of White Cap Mountain-
+307 PM EDT Sat Jun 22 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy. Scattered showers early this evening...
+then isolated showers late this evening. Breezy with low around 51.
+Northwest winds 20 to 30 mph. Chance of precipitation 30 percent. No
+lightning risk. 
+.SUNDAY...Partly sunny and windy. High around 61. Northwest winds
+25 to 35 mph. No lightning risk. 
+
+$$
+
+MEZ010-230915-
+Moosehead Lake-
+307 PM EDT Sat Jun 22 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+clear. Scattered showers early this evening. Low around 53.
+Northwest winds 10 to 20 mph. Waves 4 feet. Chance of precipitation
+30 percent. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 72. Waves 5 feet. Northwest
+winds 10 to 25 mph. No lightning risk. 
+
+$$
+
+MEZ001-230915-
+Allagash Wilderness Waterway-
+307 PM EDT Sat Jun 22 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy. Isolated showers early this evening.
+isolated showers after midnight. Low around 52. Northwest winds
+10 to 20 mph. Chance of precipitation 20 percent. No lightning risk.
+.SUNDAY...Mostly sunny. High around 71. Northwest winds 10 to
+25 mph. No lightning risk. 
+
+$$
+
+MEZ030-230915-
+St Croix River-
+307 PM EDT Sat Jun 22 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+clear. Isolated showers early this evening. Low around 55. Northwest
+winds 10 to 20 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+.SUNDAY...Mostly sunny. High around 75. Northwest winds 10 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ030-230915-
+West Quoddy Head-
+307 PM EDT Sat Jun 22 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Isolated
+showers early this evening. Low around 53. Northwest winds 10 to
+20 mph. Chance of precipitation 20 percent. No lightning risk. Water
+temperature 46 degrees Fahrenheit. 
+.SUNDAY...Mostly sunny. High around 67. Northwest winds 15 to
+20 mph. No lightning risk. Water temperature 46 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-230915-
+Upper Penobscot Watershed-
+307 PM EDT Sat Jun 22 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy, then becoming mostly clear late this
+evening, then becoming partly cloudy. Isolated showers early this
+evening. Low around 55. Northwest winds 10 to 20 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 76. Northwest winds 10 to
+25 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-230915-
+Lower Penobscot Watershed-
+307 PM EDT Sat Jun 22 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Isolated
+showers early this evening. Low around 56. Northwest winds 10 to
+15 mph. Chance of precipitation 20 percent. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 79. Northwest winds 10 to
+20 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

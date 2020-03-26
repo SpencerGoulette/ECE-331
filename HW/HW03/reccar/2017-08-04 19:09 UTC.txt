@@ -1,0 +1,119 @@
+
+164 
+SXUS41 KCAR 041909
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+309 PM EDT Fri Aug 4 2017
+
+MEZ004-050915-
+Top of Mount Katahdin-
+309 PM EDT Fri Aug 4 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds. Isolated thunderstorms until
+midnight. isolated showers. patchy drizzle after midnight. Patchy
+fog after midnight. Low around 56. Southwest winds 20 to 25 mph.
+Chance of precipitation 20 percent. Lightning risk is limited. 
+.SATURDAY...Cloudy. Patchy fog in the morning. Isolated showers in
+the morning...then scattered showers and thunderstorms in the
+afternoon. Locally heavy rainfall possible in the afternoon. High
+around 59. South winds around 25 mph. Chance of precipitation
+50 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ005-050915-
+Katahdin Woods and Waters National Monument-
+309 PM EDT Fri Aug 4 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Patchy fog after midnight. Patchy drizzle
+after midnight. Low around 62. South winds around 10 mph. Lightning
+risk is limited. 
+.SATURDAY...Cloudy. Patchy fog in the morning. Isolated showers in
+the morning...then scattered showers and thunderstorms in the
+afternoon. Locally heavy rainfall possible in the afternoon. High
+around 74. South winds 10 to 15 mph. Chance of precipitation
+40 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ029-050915-
+Top of Cadillac Mountain-
+309 PM EDT Fri Aug 4 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy. Patchy fog. Patchy drizzle after midnight. Low
+around 61. South winds around 15 mph. No lightning risk. 
+.SATURDAY...Cloudy in the morning...then summit becoming obscured.
+Patchy fog in the morning. Scattered showers and thunderstorms in
+the afternoon. Locally heavy rainfall possible in the afternoon.
+High around 66. South winds 15 to 20 mph. Chance of precipitation
+30 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ010-050915-
+Moosehead Lake-
+309 PM EDT Fri Aug 4 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Scattered showers and isolated thunderstorms
+until midnight...then isolated showers with patchy drizzle after
+midnight. Patchy fog after midnight. Low around 62. South winds
+around 10 mph. Waves 2 feet. Chance of precipitation 40 percent.
+Lightning risk is limited. 
+.SATURDAY...Cloudy. Patchy fog in the morning. Scattered showers in
+the morning...then numerous showers and scattered thunderstorms in
+the afternoon. Locally heavy rainfall possible in the afternoon.
+High around 72. Waves 3 feet. South winds 10 to 15 mph. Chance of
+precipitation 70 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ004&gt;006-010-011-031-050915-
+Upper Penobscot Watershed-
+309 PM EDT Fri Aug 4 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Isolated showers and thunderstorms until
+midnight. patchy drizzle after midnight. Patchy fog after midnight.
+Low around 62. South winds around 10 mph. Chance of precipitation
+20 percent. Lightning risk is limited. 
+.SATURDAY...Cloudy. Patchy fog in the morning. Isolated showers in
+the morning...then scattered showers and thunderstorms in the
+afternoon. Locally heavy rainfall possible in the afternoon. High
+around 75. South winds 10 to 15 mph. Chance of precipitation
+50 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-050915-
+Lower Penobscot Watershed-
+309 PM EDT Fri Aug 4 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Patchy fog after midnight. Patchy drizzle
+after midnight. Low around 63. South winds around 10 mph. Lightning
+risk is limited. 
+.SATURDAY...Cloudy. Patchy fog in the morning. Isolated showers in
+the morning...then scattered showers and thunderstorms in the
+afternoon. Locally heavy rainfall possible in the afternoon. High
+around 75. South winds around 10 mph. Chance of precipitation
+50 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,182 @@
+
+136 
+SXUS41 KCAR 291947
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+247 PM EST Thu Nov 29 2018
+
+MEZ004-301000-
+Top of Mount Katahdin-
+247 PM EST Thu Nov 29 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy and very windy. Low around 18. North winds
+30 to 45 mph decreasing to 20 to 35 mph after midnight. Wind chill
+values as low as zero. No lightning risk. 
+.FRIDAY...Partly sunny. High around 23. Northwest winds 10 to
+20 mph. Wind chill values as low as 8 above. No lightning risk. 
+
+$$
+
+MEZ005-301000-
+Katahdin Woods and Waters National Monument-
+247 PM EST Thu Nov 29 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy. Patchy freezing fog from late evening on.
+Low around 21. Northwest winds 10 to 20 mph. Wind chill values as
+low as 11. No lightning risk. 
+.FRIDAY...Partly sunny. High around 31. Northwest winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-301000-
+Top of Cadillac Mountain-
+247 PM EST Thu Nov 29 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Strong winds with low around 25. North winds 30 to 50 mph
+decreasing to 15 to 30 mph after midnight. Wind chill values as low
+as 12. No lightning risk. 
+.FRIDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. High around 33. North winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-301000-
+Top of Deboullie Mountain-
+247 PM EST Thu Nov 29 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy early this evening, then summit becoming obscured.
+Low around 18. Northwest winds 10 to 20 mph. No lightning risk. 
+.FRIDAY...Summit obscured in the morning, then summit in and out of
+clouds. High around 26. Northwest winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ006-301000-
+Top of Mars Hill Mountain-
+247 PM EST Thu Nov 29 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. Patchy freezing fog from late evening
+on. Low around 20. North winds 10 to 25 mph. No lightning risk. 
+.FRIDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. Patchy freezing fog in the morning. High around
+27. North winds 10 to 15 mph shifting to the northwest 10 mph in the
+afternoon. No lightning risk. 
+
+$$
+
+MEZ010-301000-
+Top of White Cap Mountain-
+247 PM EST Thu Nov 29 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy with strong winds. Low around 19. North
+winds 35 to 50 mph decreasing to 20 to 35 mph after midnight. Wind
+chill values as low as 3 below. No lightning risk. 
+.FRIDAY...Partly sunny. High around 23. North winds 10 to 25 mph.
+Wind chill values as low as 7 above. No lightning risk. 
+
+$$
+
+MEZ010-301000-
+Moosehead Lake-
+247 PM EST Thu Nov 29 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy. Patchy freezing fog from late evening on.
+Low around 23. Northwest winds 10 to 25 mph. Waves 3 feet. No
+lightning risk. 
+.FRIDAY...Partly sunny. Patchy freezing fog in the morning. High
+around 31. Waves 1 foot. Northwest winds 10 to 15 mph decreasing to
+10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-301000-
+Allagash Wilderness Waterway-
+247 PM EST Thu Nov 29 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy. Patchy freezing fog from late evening on.
+Cooler with low around 17. Northwest winds 10 to 15 mph decreasing
+to 10 mph after midnight. No lightning risk. 
+.FRIDAY...Partly sunny. Patchy freezing fog in the morning. High
+around 30. Northwest winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-301000-
+St Croix River-
+247 PM EST Thu Nov 29 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy. Patchy freezing fog from late evening on.
+Low around 23. Northwest winds 10 to 20 mph. No lightning risk. 
+.FRIDAY...Partly sunny. High around 34. Northwest winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-301000-
+West Quoddy Head-
+247 PM EST Thu Nov 29 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Low around 30. North winds 15 to 25 mph. No lightning risk.
+Water temperature 47 degrees Fahrenheit. 
+.FRIDAY...Partly sunny. High around 36. North winds 10 to 20 mph. No
+lightning risk. Water temperature 47 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-301000-
+Upper Penobscot Watershed-
+247 PM EST Thu Nov 29 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Patchy freezing fog from late evening on.
+Low around 22. Northwest winds 10 to 20 mph. No lightning risk. 
+.FRIDAY...Partly sunny. High around 33. Northwest winds 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-301000-
+Lower Penobscot Watershed-
+247 PM EST Thu Nov 29 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Cooler with low around 23. Northwest winds
+10 to 20 mph. No lightning risk. 
+.FRIDAY...Partly sunny. High around 35. North winds 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

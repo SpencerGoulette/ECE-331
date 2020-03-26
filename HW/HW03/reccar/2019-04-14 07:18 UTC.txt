@@ -1,0 +1,248 @@
+
+840 
+SXUS41 KCAR 140718
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+318 AM EDT Sun Apr 14 2019
+
+MEZ004-142130-
+Top of Mount Katahdin-
+318 AM EDT Sun Apr 14 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny through early afternoon, then becoming mostly
+cloudy. A chance of snow late. Brisk, cooler with high around 34.
+West winds 20 to 30 mph decreasing to 10 to 25 mph this afternoon.
+Chance of precipitation 30 percent. Wind chill values as low as
+10 above. No lightning risk. 
+.TONIGHT...Cloudy until midnight, then summit becoming obscured.
+Freezing rain likely with a chance of snow until midnight. sleet or
+rain. Patchy fog after midnight. Low around 30. Southwest winds
+10 to 15 mph shifting to the southeast 15 to 20 mph after midnight.
+Chance of precipitation near 100 percent. No lightning risk. 
+.MONDAY...Summit obscured. Patchy fog. Rain. High around 42. East
+winds 10 to 20 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+
+$$
+
+MEZ005-142130-
+Katahdin Woods and Waters National Monument-
+318 AM EDT Sun Apr 14 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Partly sunny through early afternoon, then becoming mostly
+cloudy. A chance of rain late. Cooler with high around 50. West
+winds 10 to 15 mph. Chance of precipitation 30 percent. No lightning
+risk. 
+.TONIGHT...Cloudy, rain. Patchy fog after midnight. Low around 37.
+Northwest winds 10 mph shifting to the east after midnight. Chance
+of precipitation near 100 percent. No lightning risk. 
+.MONDAY...Cloudy. Patchy fog. Rain. High around 47. Northeast winds
+10 to 15 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+$$
+
+MEZ029-142130-
+Top of Cadillac Mountain-
+318 AM EDT Sun Apr 14 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly sunny. A slight chance of rain late. High around 51.
+Northwest winds 10 to 15 mph shifting to the southwest this
+afternoon. Chance of precipitation 20 percent. No lightning risk. 
+.TONIGHT...Cloudy until midnight, then summit in and out of clouds.
+Rain. Patchy fog after midnight. Low around 40. Southeast winds
+10 to 20 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+.MONDAY...Summit obscured. Patchy fog. Rain and isolated
+thunderstorms. High around 52. South winds 15 to 20 mph. Chance of
+precipitation near 100 percent. Lightning risk is limited. 
+
+$$
+
+MEZ001-142130-
+Top of Deboullie Mountain-
+318 AM EDT Sun Apr 14 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Partly sunny. A slight chance of rain late. Much cooler
+with high around 43. West winds 10 to 20 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 20. No
+lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then summit becoming
+obscured. Rain likely. sleet after midnight. Patchy fog after
+midnight. Low around 32. Northwest winds 10 mph shifting to the east
+10 to 15 mph after midnight. Chance of precipitation near
+100 percent. No lightning risk. 
+.MONDAY...Summit obscured. Patchy fog. Sleet in the morning. rain
+and snow. High around 37. Northeast winds 10 to 20 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ006-142130-
+Top of Mars Hill Mountain-
+318 AM EDT Sun Apr 14 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Partly sunny. A slight chance of rain late. Much cooler
+with high around 46. West winds 10 to 20 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.TONIGHT...Cloudy until midnight, then summit becoming obscured.
+Rain. Patchy fog after midnight. Low around 36. Northwest winds
+10 mph shifting to the east 10 to 15 mph after midnight. Chance of
+precipitation near 100 percent. No lightning risk. 
+.MONDAY...Summit obscured. Patchy fog. Rain. High around 44. East
+winds 10 to 20 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+
+$$
+
+MEZ010-142130-
+Top of White Cap Mountain-
+318 AM EDT Sun Apr 14 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Partly sunny through early afternoon, then becoming mostly
+cloudy. A chance of rain late. Much cooler with high around 39. West
+winds 10 to 25 mph. Chance of precipitation 30 percent. Wind chill
+values as low as 18. No lightning risk. 
+.TONIGHT...Cloudy until midnight, then summit becoming obscured.
+Rain. sleet after midnight. Patchy fog after midnight. Low around
+33. South winds 10 to 20 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.MONDAY...Summit obscured. Patchy fog. Rain. High around 45. South
+winds 10 to 15 mph shifting to the northeast 10 to 20 mph in the
+afternoon. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+$$
+
+MEZ010-142130-
+Moosehead Lake-
+318 AM EDT Sun Apr 14 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Partly sunny this morning, then becoming mostly cloudy. A
+chance of rain late. Cooler with high around 48. Northwest winds
+10 to 15 mph. Chance of precipitation 30 percent. No lightning risk.
+.TONIGHT...Cloudy, rain. Patchy fog after midnight. Low around 35.
+Northeast winds 10 mph shifting to the east after midnight. Chance
+of precipitation near 100 percent. No lightning risk. 
+.MONDAY...Cloudy. Patchy fog. Rain. High around 46. Northeast winds
+10 to 15 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+$$
+
+MEZ001-142130-
+Allagash Wilderness Waterway-
+318 AM EDT Sun Apr 14 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Partly sunny. A slight chance of rain late. Much cooler
+with high around 47. West winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.TONIGHT...Cloudy, rain. Patchy fog after midnight. Low around 34.
+Northwest winds 10 mph shifting to the east after midnight. Chance
+of precipitation near 100 percent. No lightning risk. 
+.MONDAY...Cloudy. Patchy fog. Rain. High around 42. Northeast winds
+10 to 15 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+$$
+
+MEZ030-142130-
+St Croix River-
+318 AM EDT Sun Apr 14 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Mostly sunny. A slight chance of rain late. High around 55.
+West winds 10 to 15 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.TONIGHT...Cloudy, rain. Patchy fog after midnight. Low around 39.
+East winds 10 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+.MONDAY...Cloudy. Patchy fog. Rain. isolated thunderstorms in the
+afternoon. High around 52. East winds 10 to 15 mph decreasing to
+10 mph in the afternoon. Chance of precipitation near 100 percent.
+Lightning risk is limited. 
+
+$$
+
+MEZ030-142130-
+West Quoddy Head-
+318 AM EDT Sun Apr 14 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Sunny through early afternoon, then becoming partly sunny.
+A slight chance of rain late. High around 49. West winds 10 to
+15 mph. Chance of precipitation 20 percent. No lightning risk. Water
+temperature 39 degrees Fahrenheit. 
+.TONIGHT...Cloudy, rain. Patchy fog after midnight. Low around 40.
+South winds 10 mph shifting to the east 10 to 15 mph after midnight.
+Chance of precipitation 90 percent. No lightning risk. Water
+temperature 39 degrees Fahrenheit. 
+.MONDAY...Cloudy. Patchy fog. Rain and isolated thunderstorms. High
+around 50. Southeast winds 10 to 20 mph shifting to the south in the
+afternoon. Chance of precipitation near 100 percent. Lightning risk
+is limited. Water temperature 39 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-142130-
+Upper Penobscot Watershed-
+318 AM EDT Sun Apr 14 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny through early afternoon, then becoming mostly
+cloudy. A chance of rain late. Cooler with high around 52. West
+winds 10 to 15 mph. Chance of precipitation 30 percent. No lightning
+risk. 
+.TONIGHT...Cloudy, rain. Patchy fog after midnight. Low around 38.
+Northeast winds 10 mph shifting to the east after midnight. Chance
+of precipitation near 100 percent. No lightning risk. 
+.MONDAY...Cloudy. Patchy fog. Rain. High around 49. Northeast winds
+10 to 15 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-142130-
+Lower Penobscot Watershed-
+318 AM EDT Sun Apr 14 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny through early afternoon, then becoming mostly
+cloudy. A chance of rain late. High around 56. West winds 10 to
+15 mph. Chance of precipitation 30 percent. No lightning risk. 
+.TONIGHT...Cloudy, rain. Patchy fog after midnight. Low around 40.
+Southeast winds 10 mph shifting to the east after midnight. Chance
+of precipitation near 100 percent. No lightning risk. 
+.MONDAY...Cloudy. Patchy fog. Rain. High around 54. East winds 10 to
+15 mph shifting to the northeast in the afternoon. Chance of
+precipitation near 100 percent. Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

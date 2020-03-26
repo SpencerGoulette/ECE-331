@@ -1,0 +1,208 @@
+
+952 
+SXUS41 KCAR 292231
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+631 PM EDT Sun Apr 29 2018
+
+MEZ004-301245-
+Top of Mount Katahdin-
+631 PM EDT Sun Apr 29 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Summit obscured. Patchy fog. Isolated thunderstorms
+early this evening. Rain. Low around 34. Southeast winds 15 to
+20 mph. Chance of precipitation near 100 percent. Lightning risk is
+limited. 
+.MONDAY...Summit obscured in the morning, then summit in and out of
+clouds. Patchy fog. Snow and rain likely in the morning. scattered
+rain and snow showers in the afternoon. High around 36. Southeast
+winds 10 to 15 mph. Chance of precipitation 60 percent. No lightning
+risk. 
+
+$$
+
+MEZ005-301245-
+Katahdin Woods and Waters National Monument-
+631 PM EDT Sun Apr 29 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.OVERNIGHT...Cloudy. Patchy fog. Isolated thunderstorms early this
+evening. Rain. Low around 43. East winds around 10 mph. Chance of
+precipitation near 100 percent. Lightning risk is limited. 
+.MONDAY...Cloudy. Patchy fog. Rain likely in the morning. scattered
+showers in the afternoon. Cooler with high around 51. Light winds.
+Chance of precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ029-301245-
+Top of Cadillac Mountain-
+631 PM EDT Sun Apr 29 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Summit obscured. Patchy fog. Rain until midnight.
+scattered showers...then isolated showers late. Low around 43. South
+winds around 10 mph. Chance of precipitation 80 percent. No
+lightning risk. 
+.MONDAY...Summit obscured in the morning, then becoming mostly
+cloudy. Patchy fog. Isolated showers. High around 46. South winds
+around 10 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+
+$$
+
+MEZ001-301245-
+Top of Deboullie Mountain-
+631 PM EDT Sun Apr 29 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.OVERNIGHT...Cloudy until midnight, then summit becoming obscured.
+Scattered showers early this evening...then rain from late evening
+on. Patchy fog. Low around 37. East winds around 15 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+.MONDAY...Summit obscured. Patchy fog. Rain in the morning.
+scattered rain showers in the afternoon. Cooler with high around 43.
+East winds 10 to 15 mph. Chance of precipitation 90 percent. No
+lightning risk. 
+
+$$
+
+MEZ006-301245-
+Top of Mars Hill Mountain-
+631 PM EDT Sun Apr 29 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.OVERNIGHT...Cloudy early this evening, then summit becoming
+obscured. Scattered showers early this evening...then rain from late
+evening on. Patchy fog. Low around 40. East winds around 15 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+.MONDAY...Summit obscured. Patchy fog. Rain in the morning.
+scattered showers in the afternoon. Much cooler with high around 47.
+East winds 10 to 15 mph. Chance of precipitation 90 percent. No
+lightning risk. 
+
+$$
+
+MEZ010-301245-
+Top of White Cap Mountain-
+631 PM EDT Sun Apr 29 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.OVERNIGHT...Summit obscured. Patchy fog. Isolated thunderstorms
+early this evening. Rain. Low around 36. Southeast winds around
+15 mph. Chance of precipitation near 100 percent. Lightning risk is
+limited. 
+.MONDAY...Summit obscured. Patchy fog. Scattered rain showers. High
+around 40. East winds 10 to 15 mph. Chance of precipitation
+50 percent. No lightning risk. 
+
+$$
+
+MEZ010-301245-
+Moosehead Lake-
+631 PM EDT Sun Apr 29 2018
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Cloudy. Patchy fog. Isolated thunderstorms early this
+evening. Rain. Low around 41. Light winds becoming east around
+10 mph. Chance of precipitation near 100 percent. Lightning risk is
+limited. 
+.MONDAY...Cloudy. Patchy fog. Scattered showers. High around 49.
+Light winds. Chance of precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ001-301245-
+Allagash Wilderness Waterway-
+631 PM EDT Sun Apr 29 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.OVERNIGHT...Cloudy. Scattered showers early this evening...then
+rain from late evening on. Patchy fog. Low around 40. East winds
+around 10 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+.MONDAY...Cloudy. Patchy fog. Rain likely in the morning. scattered
+showers in the afternoon. Cooler with high around 48. Northeast
+winds around 10 mph in the morning becoming light winds. Chance of
+precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ030-301245-
+St Croix River-
+631 PM EDT Sun Apr 29 2018
+
+...ST CROIX RIVER...
+
+.OVERNIGHT...Cloudy. Patchy fog. Rain. Low around 45. East winds
+around 10 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+.MONDAY...Mostly cloudy. Patchy fog. Scattered showers. Cooler with
+high around 54. Light winds. Chance of precipitation 50 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-301245-
+West Quoddy Head-
+631 PM EDT Sun Apr 29 2018
+
+...WEST QUODDY HEAD...
+
+.OVERNIGHT...Cloudy. Patchy fog. Rain. Low around 43. Southeast
+winds around 10 mph. Chance of precipitation 90 percent. No
+lightning risk. Water temperature 41 degrees Fahrenheit. 
+.MONDAY...Mostly cloudy. Patchy fog. Scattered showers in the
+morning. isolated showers in the afternoon. High around 47. Light
+winds. Chance of precipitation 40 percent. No lightning risk. Water
+temperature 41 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-301245-
+Upper Penobscot Watershed-
+631 PM EDT Sun Apr 29 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Cloudy. Patchy fog. Isolated thunderstorms early this
+evening. Rain. Low around 44. Southeast winds around 10 mph. Chance
+of precipitation near 100 percent. Lightning risk is limited. 
+.MONDAY...Cloudy. Patchy fog. Scattered showers. Cooler with high
+around 53. Light winds. Chance of precipitation 50 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-301245-
+Lower Penobscot Watershed-
+631 PM EDT Sun Apr 29 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Cloudy. Patchy fog. Isolated thunderstorms early this
+evening. rain through early morning. scattered showers late. Low
+around 45. Southeast winds around 10 mph. Chance of precipitation
+near 100 percent. Lightning risk is limited. 
+.MONDAY...Mostly cloudy. Patchy fog. Scattered showers. Cooler with
+high around 55. Light winds. Chance of precipitation 40 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

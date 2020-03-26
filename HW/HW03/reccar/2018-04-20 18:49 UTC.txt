@@ -1,0 +1,206 @@
+
+821 
+SXUS41 KCAR 201849
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+249 PM EDT Fri Apr 20 2018
+
+MEZ004-210900-
+Top of Mount Katahdin-
+249 PM EDT Fri Apr 20 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. A chance of snow showers until
+midnight...then a slight chance of snow showers after midnight. Very
+windy with low around 16. Northwest winds 30 to 35 mph. Chance of
+precipitation 40 percent. Wind chill values as low as 4 below. No
+lightning risk. 
+.SATURDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. A slight chance of snow showers. Very windy with
+high around 25. Northwest winds 35 to 40 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 2 below. No
+lightning risk. 
+
+$$
+
+MEZ005-210900-
+Katahdin Woods and Waters National Monument-
+249 PM EDT Fri Apr 20 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. A chance of rain showers until midnight. a slight
+chance of snow showers through early morning. Low around 29.
+Northwest winds around 10 mph with gusts to around 20 mph until
+midnight becoming light winds. Chance of precipitation 40 percent.
+No lightning risk. 
+.SATURDAY...Cloudy. A slight chance of rain showers in the
+afternoon. High around 43. Northwest winds 10 to 15 mph with gusts
+to around 25 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+
+$$
+
+MEZ029-210900-
+Top of Cadillac Mountain-
+249 PM EDT Fri Apr 20 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy. A slight chance of snow showers after midnight.
+Low around 32. Northwest winds around 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy. High around 42. Northwest winds 15 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ001-210900-
+Top of Deboullie Mountain-
+249 PM EDT Fri Apr 20 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy, then summit in and out of clouds through early
+morning, then becoming cloudy. Low around 24. Northwest winds 10 to
+15 mph. Wind chill values as low as 12. No lightning risk. 
+.SATURDAY...Cloudy. High around 37. Northwest winds 15 to 20 mph.
+Wind chill values as low as 11 in the morning. No lightning risk. 
+
+$$
+
+MEZ006-210900-
+Top of Mars Hill Mountain-
+249 PM EDT Fri Apr 20 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy. Low around 27. Northwest winds 10 to 15 mph. Wind
+chill values as low as 16. No lightning risk. 
+.SATURDAY...Cloudy. High around 40. Northwest winds 15 to 20 mph.
+Wind chill values as low as 14 in the morning. No lightning risk. 
+
+$$
+
+MEZ010-210900-
+Top of White Cap Mountain-
+249 PM EDT Fri Apr 20 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds early this evening, then
+summit becoming obscured. A chance of snow showers until midnight...
+then a slight chance of snow showers after midnight. Windy with low
+around 22. Northwest winds 25 to 30 mph. Chance of precipitation
+40 percent. Wind chill values as low as 7 above. No lightning risk. 
+.SATURDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. A slight chance of snow showers. Windy with high
+around 30. Northwest winds 25 to 30 mph. Chance of precipitation
+20 percent. Wind chill values as low as 8 above. No lightning risk. 
+
+$$
+
+MEZ010-210900-
+Moosehead Lake-
+249 PM EDT Fri Apr 20 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. A chance of rain showers until midnight. a chance
+of snow showers late this evening...then a slight chance of snow
+showers after midnight. Low around 29. North winds around 10 mph
+until midnight becoming light winds. Chance of precipitation
+40 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy. A slight chance of snow showers in the
+morning...then a slight chance of rain showers in the afternoon.
+High around 41. Northwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 19 in the
+morning. No lightning risk. 
+
+$$
+
+MEZ001-210900-
+Allagash Wilderness Waterway-
+249 PM EDT Fri Apr 20 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. A chance of rain and snow showers early this
+evening...then a slight chance of snow showers late this evening.
+Low around 27. North winds 10 to 15 mph. Chance of precipitation
+50 percent. No lightning risk. 
+.SATURDAY...Cloudy. High around 42. Northwest winds 10 to 15 mph.
+Wind chill values as low as 16 in the morning. No lightning risk. 
+
+$$
+
+MEZ030-210900-
+St Croix River-
+249 PM EDT Fri Apr 20 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Low around 30. Northwest winds around 10 mph
+until midnight becoming light winds. No lightning risk. 
+.SATURDAY...Cloudy. High around 46. Northwest winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-210900-
+West Quoddy Head-
+249 PM EDT Fri Apr 20 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. A slight chance of rain showers early this
+evening. Low around 34. Light winds. Chance of precipitation
+20 percent. No lightning risk. Water temperature 38 degrees
+Fahrenheit. 
+.SATURDAY...Cloudy. High around 47. Northwest winds around 10 mph.
+No lightning risk. Water temperature 38 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-210900-
+Upper Penobscot Watershed-
+249 PM EDT Fri Apr 20 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A chance of rain showers until midnight. Low
+around 30. Northwest winds around 10 mph with gusts to around 20 mph
+until midnight becoming light winds. Chance of precipitation
+40 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy. A slight chance of rain showers in the
+afternoon. High around 45. Northwest winds 10 to 15 mph with gusts
+to around 25 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-210900-
+Lower Penobscot Watershed-
+249 PM EDT Fri Apr 20 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A slight chance of rain showers until midnight. a
+slight chance of snow showers after midnight. Low around 32.
+Northwest winds around 10 mph until midnight becoming light winds.
+Chance of precipitation 20 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy. A slight chance of rain showers in the
+afternoon. High around 48. Northwest winds 10 to 15 mph with gusts
+to around 25 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

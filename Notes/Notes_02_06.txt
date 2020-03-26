@@ -1,0 +1,34 @@
+ECE 331
+Notes
+Spencer Goulette
+02/06/20
+
+RE for Zip Code
+
+'^[0-9]{5}(-[0-9]\{4\})?$'
+
+import re
+re.split()
+re.search()
+
+phone number
+r'^(\([0-9]{3}\)|[0-9]{3})[- ]?[0-9]{3}[- ]?[0-9]{4}$
+
+Numpy
+#!/usr/bin/python
+from numpy import *
+from numpy.linalg import inv
+
+a = array([ [1, 2, 3], [-5, 3, -9], [-2, 6, 4] ])
+b = array([-3, 5, -8])
+print inv(a).dot(b)
+
+#!/usr/bin/python
+from numpy import *
+import matplotlib.pyplot as plt
+a=random.rand(100000,1)
+plt.hist(a,200,normed=true)
+plt.title('Random numbers on RPi')
+plt.xlabel('Bin')
+plt.ylabel('Distribution')
+plt.show()

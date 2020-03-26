@@ -1,0 +1,221 @@
+
+796 
+SXUS41 KCAR 061851
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+251 PM EDT Wed Sep 6 2017
+
+MEZ004-070900-
+Top of Mount Katahdin-
+251 PM EDT Wed Sep 6 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Showers with a chance of thunderstorms.
+Areas of fog after midnight. Locally heavy rainfall possible after
+midnight. Near steady temperatures around 53. South winds 10 to
+20 mph. Chance of precipitation near 100 percent. Lightning risk is
+elevated. 
+.THURSDAY...Summit obscured in the morning...then becoming cloudy.
+Areas of fog in the morning. A chance of thunderstorms in the
+morning. Showers. High around 54. Southwest winds 15 to 20 mph.
+Chance of precipitation near 100 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ005-070900-
+Katahdin Woods and Waters National Monument-
+251 PM EDT Wed Sep 6 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Showers with a chance of thunderstorms. Locally
+heavy rainfall possible after midnight. Low around 58. Light winds.
+Chance of precipitation near 100 percent. Lightning risk is
+elevated. 
+.THURSDAY...Cloudy. Areas of fog in the morning. A chance of
+thunderstorms in the morning. Showers. High around 63. Light winds.
+Chance of precipitation near 100 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ029-070900-
+Top of Cadillac Mountain-
+251 PM EDT Wed Sep 6 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then summit
+becoming obscured. Areas of fog. Showers with a chance of
+thunderstorms. Locally heavy rainfall possible. Near steady
+temperatures around 63. South winds around 25 mph. Chance of
+precipitation near 100 percent. Lightning risk is elevated. 
+.THURSDAY...Summit obscured in the morning...then becoming cloudy.
+Areas of fog. A chance of thunderstorms in the morning. Showers.
+High around 64. Southwest winds 20 to 30 mph. Chance of
+precipitation near 100 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ001-070900-
+Top of Deboullie Mountain-
+251 PM EDT Wed Sep 6 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Showers. Areas of fog after midnight.
+Low around 53. Light winds. Chance of precipitation near
+100 percent. No lightning risk. 
+.THURSDAY...Summit obscured in the morning...then becoming cloudy.
+Areas of fog in the morning. Showers. High around 55. North winds
+around 10 mph in the morning becoming light winds. Chance of
+precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ006-070900-
+Top of Mars Hill Mountain-
+251 PM EDT Wed Sep 6 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. Showers with a chance of thunderstorms.
+Locally heavy rainfall possible after midnight. Near steady
+temperatures around 59. Light winds becoming south around 10 mph
+after midnight. Chance of precipitation near 100 percent. Lightning
+risk is elevated. 
+.THURSDAY...Summit obscured. Areas of fog in the morning. A chance
+of thunderstorms in the morning. Showers. High around 62. South
+winds 10 to 15 mph. Chance of precipitation near 100 percent.
+Lightning risk is elevated. 
+
+$$
+
+MEZ010-070900-
+Top of White Cap Mountain-
+251 PM EDT Wed Sep 6 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. Showers with a chance of thunderstorms.
+Areas of fog after midnight. Locally heavy rainfall possible after
+midnight. Near steady temperatures around 56. Light winds becoming
+south around 10 mph after midnight. Chance of precipitation near
+100 percent. Lightning risk is elevated. 
+.THURSDAY...Summit obscured in the morning...then becoming cloudy.
+Areas of fog in the morning. A chance of thunderstorms in the
+morning. Showers. High around 57. Southwest winds around 10 mph.
+Chance of precipitation near 100 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ010-070900-
+Moosehead Lake-
+251 PM EDT Wed Sep 6 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy, showers. Areas of fog after midnight. Low around
+56. Light winds. Waves 1 foot. Chance of precipitation near
+100 percent. No lightning risk. Water temperature 68 degrees
+Fahrenheit. 
+.THURSDAY...Cloudy. Areas of fog in the morning. Showers. High
+around 61. Waves 1 foot. Light winds. Chance of precipitation near
+100 percent. No lightning risk. Water temperature 68 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-070900-
+Allagash Wilderness Waterway-
+251 PM EDT Wed Sep 6 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Areas of fog. Showers. Low around 55. Light
+winds. Chance of precipitation near 100 percent. No lightning risk. 
+.THURSDAY...Cloudy, showers. High around 59. Light winds. Chance of
+precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ030-070900-
+St Croix River-
+251 PM EDT Wed Sep 6 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Areas of fog. Showers with a chance of
+thunderstorms. Locally heavy rainfall possible. Low around 64. South
+winds around 10 mph. Chance of precipitation near 100 percent.
+Lightning risk is elevated. 
+.THURSDAY...Cloudy. Areas of fog in the morning. A chance of
+thunderstorms in the morning. Showers. High around 66. South winds
+around 10 mph. Chance of precipitation near 100 percent. Lightning
+risk is elevated. 
+
+$$
+
+MEZ030-070900-
+West Quoddy Head-
+251 PM EDT Wed Sep 6 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Areas of fog. Showers with a chance of
+thunderstorms. Locally heavy rainfall possible. Near steady
+temperatures around 60. South winds 10 to 15 mph. Chance of
+precipitation near 100 percent. Lightning risk is elevated. Water
+temperature 57 degrees Fahrenheit. 
+.THURSDAY...Cloudy. Areas of fog. A chance of thunderstorms in the
+morning. Showers. High around 62. South winds around 15 mph. Chance
+of precipitation near 100 percent. Lightning risk is elevated. Water
+temperature 57 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-070900-
+Upper Penobscot Watershed-
+251 PM EDT Wed Sep 6 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Showers with a chance of
+thunderstorms. Locally heavy rainfall possible. Near steady
+temperatures around 61. Light winds. Chance of precipitation near
+100 percent. Lightning risk is elevated. 
+.THURSDAY...Cloudy. Areas of fog in the morning. A chance of
+thunderstorms in the morning. Showers. High around 65. Light winds.
+Chance of precipitation near 100 percent. Lightning risk is
+elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-070900-
+Lower Penobscot Watershed-
+251 PM EDT Wed Sep 6 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Showers with a chance of
+thunderstorms. Locally heavy rainfall possible. Near steady
+temperatures around 64. Light winds becoming south around 5 mph
+after midnight. Chance of precipitation near 100 percent. Lightning
+risk is elevated. 
+.THURSDAY...Cloudy. Areas of fog in the morning. A chance of
+thunderstorms in the morning. Showers. High around 67. South winds
+around 10 mph. Chance of precipitation near 100 percent. Lightning
+risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

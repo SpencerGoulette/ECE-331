@@ -1,0 +1,200 @@
+
+521 
+SXUS41 KCAR 292044
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+444 PM EDT Tue Oct 29 2019
+
+MEZ004-301200-
+Top of Mount Katahdin-
+444 PM EDT Tue Oct 29 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Patchy drizzle. Breezy with low around 
+42. West winds 15 to 30 mph. No lightning risk. 
+.WEDNESDAY...Summit in and out of clouds. Isolated showers with 
+patchy drizzle in the morning...then scattered showers in the 
+afternoon. Breezy with high around 46. West winds 15 to 30 mph. 
+Chance of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ005-301200-
+Katahdin Woods and Waters National Monument-
+444 PM EDT Tue Oct 29 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Patchy fog. Patchy drizzle. Near steady
+temperatures around 44. South winds 10 to 15 mph decreasing to
+10 mph after midnight. No lightning risk. 
+.WEDNESDAY...Cloudy. Patchy fog in the morning. Isolated showers
+with patchy drizzle in the morning...then scattered showers in the
+afternoon. High around 56. Southwest winds 10 mph. Chance of
+precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ029-301200-
+Top of Cadillac Mountain-
+444 PM EDT Tue Oct 29 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Patchy drizzle from late evening on. 
+Breezy. Near steady temperatures around 47. Southwest winds 15 to 30 
+mph. No lightning risk. 
+.WEDNESDAY...Summit obscured. Patchy drizzle in the morning. Breezy 
+with high around 53. West winds 20 to 30 mph. No lightning risk. 
+
+$$
+
+MEZ001-301200-
+Top of Deboullie Mountain-
+444 PM EDT Tue Oct 29 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Patchy drizzle. Isolated showers late. 
+Near steady temperatures around 43. South winds 10 to 15 mph. Chance 
+of precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Summit obscured in the morning, then becoming cloudy.
+Isolated showers with patchy drizzle in the morning...then scattered
+showers in the afternoon. High around 51. Southwest winds 10 to 15 
+mph. Chance of precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ006-301200-
+Top of Mars Hill Mountain-
+444 PM EDT Tue Oct 29 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. Patchy drizzle. Near steady temperatures
+around 44. South winds 10 to 15 mph. No lightning risk.
+.WEDNESDAY...Summit obscured in the morning, then summit in and out
+of clouds. Isolated showers with patchy drizzle in the 
+morning...then scattered showers in the afternoon. High around 54. 
+South winds 10 to 15 mph shifting to the southwest 10 mph in the 
+afternoon. Chance of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ010-301200-
+Top of White Cap Mountain-
+444 PM EDT Tue Oct 29 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. Patchy drizzle. Breezy. Near steady 
+temperatures around 40. West winds 15 to 30 mph. No lightning risk. 
+.WEDNESDAY...Summit in and out of clouds. Patchy drizzle in the 
+morning. Isolated showers. High around 48. West winds 10 to 25 mph. 
+Chance of precipitation 20 percent. No lightning risk.
+
+$$
+
+MEZ010-301200-
+Moosehead Lake-
+444 PM EDT Tue Oct 29 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Patchy fog. Patchy drizzle. Low around 44. South
+winds 10 to 15 mph decreasing to 10 mph after midnight. Waves
+1 foot. No lightning risk. 
+.WEDNESDAY...Cloudy. Patchy fog in the morning. Isolated showers
+with patchy drizzle in the morning...then scattered showers in the
+afternoon. High around 56. Waves 1 foot. Southwest winds 10 mph.
+Chance of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ001-301200-
+Allagash Wilderness Waterway-
+444 PM EDT Tue Oct 29 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Patchy fog. Patchy drizzle. Isolated showers 
+late. Low around 43. South winds 10 to 15 mph decreasing to 10 mph 
+after midnight. Chance of precipitation 20 percent. No lightning 
+risk. 
+.WEDNESDAY...Cloudy. Patchy fog in the morning. Patchy drizzle in
+the morning. Scattered showers. High around 55. Southwest winds 10 
+to 15 mph decreasing to 10 mph in the afternoon. Chance of 
+precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ030-301200-
+St Croix River-
+444 PM EDT Tue Oct 29 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Patchy fog. Patchy drizzle. Low around 43. South
+winds 10 to 15 mph decreasing to 10 mph after midnight. No lightning
+risk. 
+.WEDNESDAY...Cloudy. Patchy fog in the morning. Patchy drizzle in
+the morning. High around 57. Southwest winds 10 mph. No lightning
+risk. 
+
+$$
+
+MEZ030-301200-
+West Quoddy Head-
+444 PM EDT Tue Oct 29 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy. Patchy fog from late evening on. Patchy
+drizzle from late evening on. Low around 44. Southwest winds 10 to
+15 mph. No lightning risk. Water temperature 53 degrees Fahrenheit. 
+.WEDNESDAY...Cloudy. Patchy fog in the morning. Patchy drizzle in
+the morning. High around 54. Southwest winds 10 to 15 mph. No
+lightning risk. Water temperature 53 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-301200-
+Upper Penobscot Watershed-
+444 PM EDT Tue Oct 29 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog. Patchy drizzle. Low around 45. South
+winds 10 to 15 mph decreasing to 10 mph after midnight. No lightning
+risk. 
+.WEDNESDAY...Cloudy. Patchy fog in the morning. Patchy drizzle in
+the morning...then isolated showers in the afternoon. High around
+56. Southwest winds 10 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-301200-
+Lower Penobscot Watershed-
+444 PM EDT Tue Oct 29 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog. Patchy drizzle. Low around 46. South
+winds 10 to 15 mph decreasing to 10 mph after midnight. No lightning
+risk. 
+.WEDNESDAY...Cloudy. Patchy fog in the morning. Patchy drizzle in
+the morning. Isolated showers in the afternoon. High around 58. 
+Southwest winds 10 mph. Chance of precipitation 20 percent. No 
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

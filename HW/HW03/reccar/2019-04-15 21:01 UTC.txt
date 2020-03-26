@@ -1,0 +1,231 @@
+
+125 
+SXUS41 KCAR 152101
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+501 PM EDT Mon Apr 15 2019
+
+MEZ004-161215-
+Top of Mount Katahdin-
+501 PM EDT Mon Apr 15 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Numerous rain showers until midnight. 
+Numerous snow showers from late evening on. Very windy and cooler 
+with low around 19. Northwest winds 25 to 35 mph increasing to 30 to 
+45 mph after midnight. Chance of precipitation 70 percent. Wind chill
+values as low as 2 below. No lightning risk. 
+.TUESDAY...Summit in and out of clouds. Scattered snow showers.
+Strong winds and much cooler with high around 25. Northwest winds
+40 to 50 mph decreasing to 35 to 40 mph in the afternoon. Chance of
+precipitation 40 percent. Wind chill values as low as 2 below. No
+lightning risk. 
+
+$$
+
+MEZ005-161215-
+Katahdin Woods and Waters National Monument-
+501 PM EDT Mon Apr 15 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Areas of fog early this evening. Numerous rain
+showers through early morning. Scattered snow and rain showers late.
+Low around 34. Northwest winds 10 to 25 mph. Chance of precipitation
+70 percent. No lightning risk. 
+.TUESDAY...Mostly cloudy. Scattered snow showers in the morning.
+Scattered rain showers. Breezy with high around 45. Northwest winds 
+15 to 30 mph. Chance of precipitation 50 percent. No lightning risk.
+
+$$
+
+MEZ029-161215-
+Top of Cadillac Mountain-
+501 PM EDT Mon Apr 15 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured early this evening, then becoming cloudy.
+Numerous showers and isolated thunderstorms until midnight...then 
+scattered showers after midnight. Strong winds with low around 36. 
+Northwest winds 20 to 40 mph increasing to 40 to 50 mph after 
+midnight. Chance of precipitation 70 percent. Wind chill values as 
+low as 20. Lightning risk is limited. 
+.TUESDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Strong winds with high around 44. Northwest winds 40 to 50 mph. Wind
+chill values as low as 24. No lightning risk. 
+
+$$
+
+MEZ001-161215-
+Top of Deboullie Mountain-
+501 PM EDT Mon Apr 15 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Numerous rain showers until midnight. 
+Numerous snow showers from late evening on. Low around 29. North 
+winds 10 to 20 mph shifting to the west 15 to 25 mph after midnight. 
+Chance of precipitation 70 percent. Wind chill values as low as 16. 
+No lightning risk. 
+.TUESDAY...Summit obscured. Scattered snow showers. Windy with high
+around 37. Northwest winds 20 to 35 mph. Chance of precipitation
+50 percent. Wind chill values as low as 18. No lightning risk. 
+
+$$
+
+MEZ006-161215-
+Top of Mars Hill Mountain-
+501 PM EDT Mon Apr 15 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. Numerous rain showers through early 
+morning. Numerous snow showers after midnight...then scattered snow 
+showers late. Low around 32. Northwest winds 10 to 25 mph. Chance of 
+precipitation 70 percent. Wind chill values as low as 19. No 
+lightning risk. 
+.TUESDAY...Summit obscured in the morning, then summit in and out of
+clouds. Scattered snow showers. Scattered rain showers in the 
+afternoon. Windy with high around 40. Northwest winds 20 to 35 mph. 
+Chance of precipitation 40 percent. Wind chill values as low as 22. 
+No lightning risk. 
+
+$$
+
+MEZ010-161215-
+Top of White Cap Mountain-
+501 PM EDT Mon Apr 15 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. Numerous rain showers until midnight. 
+Numerous snow showers late this evening...then scattered snow 
+showers after midnight. Very windy with low around 24. Northwest 
+winds 25 to 40 mph increasing to 35 to 45 mph after midnight. Chance 
+of precipitation 70 percent. Wind chill values as low as 4 above. No 
+lightning risk. 
+.TUESDAY...Summit obscured. Scattered snow showers. Strong winds and
+much cooler with high around 30. Northwest winds 40 to 50 mph.
+Chance of precipitation 30 percent. Wind chill values as low as
+6 above. No lightning risk. 
+
+$$
+
+MEZ010-161215-
+Moosehead Lake-
+501 PM EDT Mon Apr 15 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Areas of fog early this evening. Numerous rain
+showers through early morning. Numerous snow showers after 
+midnight...then scattered snow showers late. Low around 32. Northwest
+winds 10 to 25 mph. Chance of precipitation 70 percent. Wind chill 
+values as low as 17. No lightning risk. 
+.TUESDAY...Mostly cloudy. Scattered snow showers in the morning...
+then scattered rain showers in the afternoon. Breezy with high
+around 41. Northwest winds 15 to 30 mph. Chance of precipitation
+50 percent. Wind chill values as low as 21. No lightning risk. 
+
+$$
+
+MEZ001-161215-
+Allagash Wilderness Waterway-
+501 PM EDT Mon Apr 15 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Areas of fog early this evening. Numerous rain
+showers until midnight. Numerous snow showers after midnight. Low 
+around 31. Northwest winds 10 to 20 mph. Chance of precipitation 70 
+percent. Wind chill values as low as 19. No lightning risk. 
+.TUESDAY...Mostly cloudy. Scattered snow showers in the morning...
+then scattered rain showers in the afternoon. Breezy with high
+around 42. Northwest winds 15 to 30 mph. Chance of precipitation
+50 percent. Wind chill values as low as 23. No lightning risk. 
+
+$$
+
+MEZ030-161215-
+St Croix River-
+501 PM EDT Mon Apr 15 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Areas of fog early this evening. Isolated
+thunderstorms early this evening. Widespread showers until 
+midnight...then scattered showers after midnight. Low around 36. 
+Southwest winds 10 to 15 mph shifting to the northwest 10 to 20 mph 
+after midnight. Chance of precipitation 80 percent. Lightning risk is
+limited. 
+.TUESDAY...Mostly cloudy. Scattered rain and snow showers in the
+morning...then isolated rain showers in the afternoon. Breezy with
+high around 47. Northwest winds 15 to 30 mph. Chance of
+precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ030-161215-
+West Quoddy Head-
+501 PM EDT Mon Apr 15 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Areas of fog early this evening. Isolated
+thunderstorms early this evening. Widespread showers until 
+midnight...then scattered showers after midnight. Low around 38. 
+Southwest winds 15 to 20 mph shifting to the northwest after 
+midnight. Chance of precipitation 80 percent. Lightning risk is 
+limited. Water temperature 39 degrees Fahrenheit. 
+.TUESDAY...Mostly cloudy. Isolated showers in the morning. Breezy
+with high around 47. Northwest winds 20 to 30 mph. Chance of
+precipitation 20 percent. No lightning risk. Water temperature
+39 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-161215-
+Upper Penobscot Watershed-
+501 PM EDT Mon Apr 15 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog early this evening. Numerous rain
+showers and isolated thunderstorms until midnight...then scattered
+rain and snow showers after midnight. Low around 35. West winds
+10 to 25 mph. Chance of precipitation 70 percent. Lightning risk is
+limited. 
+.TUESDAY...Mostly cloudy. Scattered snow showers in the morning.
+Scattered rain showers. High around 46. Northwest winds 15 to 25 
+mph. Chance of precipitation 50 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-161215-
+Lower Penobscot Watershed-
+501 PM EDT Mon Apr 15 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Areas of fog early this evening. Numerous
+rain showers and isolated thunderstorms until midnight...then
+scattered rain showers after midnight. Low around 36. West winds
+10 to 25 mph. Chance of precipitation 70 percent. Lightning risk is
+limited. 
+.TUESDAY...Mostly cloudy. Isolated snow showers in the morning.
+Isolated rain showers. High around 49. Northwest winds 15 to 25 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

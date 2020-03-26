@@ -1,0 +1,105 @@
+
+574 
+SXUS41 KCAR 260636
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+236 AM EDT Mon Jun 26 2017
+
+MEZ004-262045-
+Top of Mount Katahdin-
+236 AM EDT Mon Jun 26 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy. A
+slight chance of showers this morning. Cooler with high around 54.
+West winds around 10 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. A chance of showers after midnight. Low around 44. Light
+winds. Chance of precipitation 40 percent. No lightning risk. 
+.TUESDAY...Summit in and out of clouds. Showers likely. a chance of
+thunderstorms in the afternoon. High around 50. South winds 10 to
+15 mph. Chance of precipitation 60 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ029-262045-
+Top of Cadillac Mountain-
+236 AM EDT Mon Jun 26 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny this morning...then clearing. High around 68.
+West winds 10 to 15 mph. No lightning risk. 
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Low around 57. Southwest winds 10 to 15 mph until midnight
+becoming light winds. No lightning risk. 
+.TUESDAY...Partly sunny. High around 64. South winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ010-262045-
+Moosehead Lake-
+236 AM EDT Mon Jun 26 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Partly sunny. High around 67. Northwest winds around 5 mph.
+Waves 1 foot. No lightning risk. 
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. A chance of showers after midnight. Low around 51. Waves
+1 foot. Light winds. Chance of precipitation 40 percent. No
+lightning risk. 
+.TUESDAY...Mostly cloudy. A chance of showers in the morning...then
+showers likely with a chance of thunderstorms in the afternoon. High
+around 68. Waves 1 foot. Light winds. Chance of precipitation
+60 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ004&gt;006-010-011-031-262045-
+Upper Penobscot Watershed-
+236 AM EDT Mon Jun 26 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. High around 72. West winds around 5 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. A chance of showers after midnight. Low around 52. Light
+winds. Chance of precipitation 40 percent. No lightning risk. 
+.TUESDAY...Mostly cloudy. A chance of showers. a chance of
+thunderstorms in the afternoon. High around 72. Light winds becoming
+south around 10 mph in the afternoon. Chance of precipitation
+50 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-262045-
+Lower Penobscot Watershed-
+236 AM EDT Mon Jun 26 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. High around 74. West winds around 5 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 54. Southwest winds around 5 mph until midnight
+becoming light winds. No lightning risk. 
+.TUESDAY...Partly sunny. A chance of showers. a chance of
+thunderstorms in the afternoon. High around 73. South winds around
+10 mph. Chance of precipitation 50 percent. Lightning risk is
+elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

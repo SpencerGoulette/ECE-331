@@ -1,0 +1,173 @@
+
+435 
+SXUS41 KCAR 211909
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+309 PM EDT Mon Oct 21 2019
+
+MEZ004-212015-
+Top of Mount Katahdin-
+309 PM EDT Mon Oct 21 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Low around 39. North winds 10 to 15 mph shifting
+to the northeast 10 mph after midnight. No lightning risk. 
+.TUESDAY...Partly sunny. High around 43. Southeast winds 10 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ005-212015-
+Katahdin Woods and Waters National Monument-
+309 PM EDT Mon Oct 21 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Low around 37. North winds 10 mph. No lightning
+risk. 
+.TUESDAY...Partly sunny. High around 55. Southeast winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ029-212015-
+Top of Cadillac Mountain-
+309 PM EDT Mon Oct 21 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy early this evening, then clearing. Low
+around 45. Southwest winds 10 mph shifting to the northeast after
+midnight. No lightning risk. 
+.TUESDAY...Partly sunny. High around 52. East winds 10 to 20 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-212015-
+Top of Deboullie Mountain-
+309 PM EDT Mon Oct 21 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear. Low around 33. North winds 10 mph shifting to the
+northeast after midnight. No lightning risk. 
+.TUESDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 50. Southeast winds 10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ006-212015-
+Top of Mars Hill Mountain-
+309 PM EDT Mon Oct 21 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear. Low around 34. North winds 10 mph. No lightning
+risk. 
+.TUESDAY...Partly sunny. High around 52. East winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-212015-
+Top of White Cap Mountain-
+309 PM EDT Mon Oct 21 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Low around 40. Northeast winds 10 mph. No
+lightning risk. 
+.TUESDAY...Partly sunny. High around 44. Southeast winds 10 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ010-212015-
+Moosehead Lake-
+309 PM EDT Mon Oct 21 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Low around 38. North winds 10 mph shifting to the
+northeast after midnight. Waves 1 foot. No lightning risk. 
+.TUESDAY...Partly sunny. High around 54. Waves 1 foot. Southeast
+winds 15 mph. No lightning risk. 
+
+$$
+
+MEZ001-212015-
+Allagash Wilderness Waterway-
+309 PM EDT Mon Oct 21 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear. Low around 32. North winds 10 mph shifting to the
+east after midnight. No lightning risk. 
+.TUESDAY...Partly sunny. High around 54. Southeast winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ030-212015-
+St Croix River-
+309 PM EDT Mon Oct 21 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Low around 37. North winds 10 mph. No lightning
+risk. 
+.TUESDAY...Partly sunny. High around 56. East winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-212015-
+West Quoddy Head-
+309 PM EDT Mon Oct 21 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Low around 45. West winds 10 mph shifting to the
+north after midnight. No lightning risk. Water temperature
+53 degrees Fahrenheit. 
+.TUESDAY...Partly sunny. High around 55. East winds 10 to 20 mph. No
+lightning risk. Water temperature 53 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-212015-
+Upper Penobscot Watershed-
+309 PM EDT Mon Oct 21 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 37. Northeast winds 10 mph. No
+lightning risk. 
+.TUESDAY...Partly sunny. High around 56. East winds 10 mph shifting
+to the southeast in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-212015-
+Lower Penobscot Watershed-
+309 PM EDT Mon Oct 21 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 38. Northeast winds 10 mph. No
+lightning risk. 
+.TUESDAY...Partly sunny. High around 58. Northeast winds 10 mph
+shifting to the east 10 to 15 mph in the afternoon. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

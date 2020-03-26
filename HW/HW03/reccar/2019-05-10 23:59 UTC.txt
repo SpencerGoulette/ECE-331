@@ -1,0 +1,210 @@
+
+147 
+SXUS41 KCAR 102359
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+759 PM EDT Fri May 10 2019
+
+MEZ004-111400-
+Top of Mount Katahdin-
+759 PM EDT Fri May 10 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Summit obscured until midnight, then summit in and out
+of clouds. Areas of fog through early morning. Rain likely until
+midnight. patchy drizzle. scattered rain showers. Windy with low
+around 32. West winds 25 to 35 mph. Chance of precipitation
+70 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy. Isolated rain showers in the morning.
+Windy with high around 35. Northwest winds 30 to 40 mph. Chance of 
+precipitation 20 percent. Wind chill values as low as 19. No 
+lightning risk. 
+
+$$
+
+MEZ005-111400-
+Katahdin Woods and Waters National Monument-
+759 PM EDT Fri May 10 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.OVERNIGHT...Cloudy. Areas of fog. Rain likely until midnight.
+patchy drizzle. scattered showers. Low around 40. Southwest winds
+10 to 20 mph. Chance of precipitation 70 percent. No lightning risk.
+.SATURDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Not as cool with high around 54. Northwest winds 10 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ029-111400-
+Top of Cadillac Mountain-
+759 PM EDT Fri May 10 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Summit in and out of clouds until midnight, then
+becoming cloudy. Areas of fog. Rain until midnight. patchy drizzle
+from late evening on. scattered showers. Low around 38. Southwest
+winds 15 to 25 mph shifting to the west 10 to 20 mph. Chance of 
+precipitation 90 percent. No lightning risk. 
+.SATURDAY...Partly sunny. Not as cool with high around 60. Northwest
+winds 15 to 25 mph. No lightning risk. 
+
+$$
+
+MEZ001-111400-
+Top of Deboullie Mountain-
+759 PM EDT Fri May 10 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.OVERNIGHT...Summit obscured. Areas of fog. Rain through early
+morning. patchy drizzle. scattered rain showers late. Low around 37.
+Southwest winds 15 to 25 mph. Chance of precipitation 90 percent. No
+lightning risk. 
+.SATURDAY...Summit obscured in the morning, then becoming mostly
+cloudy. Areas of fog in the morning. Isolated showers in the
+morning. High around 46. Northwest winds 15 to 25 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ006-111400-
+Top of Mars Hill Mountain-
+759 PM EDT Fri May 10 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.OVERNIGHT...Summit in and out of clouds. Areas of fog. Rain until
+midnight. scattered showers with patchy drizzle. Low around 38.
+South winds 10 to 25 mph. Chance of precipitation 90 percent. No
+lightning risk. 
+.SATURDAY...Summit in and out of clouds in the morning, then
+becoming mostly cloudy. Isolated showers in the morning. Not as cool
+with high around 54. Northwest winds 15 to 25 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ010-111400-
+Top of White Cap Mountain-
+759 PM EDT Fri May 10 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.OVERNIGHT...Summit obscured until midnight, then summit in and out
+of clouds. Areas of fog. Rain likely until midnight. patchy drizzle.
+isolated showers. Breezy with low around 35. West winds 20 to
+30 mph. Chance of precipitation 60 percent. No lightning risk. 
+.SATURDAY...Summit in and out of clouds. Areas of fog in the
+morning. Windy with high around 39. Northwest winds 25 to 35 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-111400-
+Moosehead Lake-
+759 PM EDT Fri May 10 2019
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Cloudy. Areas of fog. Scattered showers until midnight.
+patchy drizzle. isolated showers. Low around 40. South winds 10 to
+15 mph shifting to the southwest. Waves 3 feet. Chance of
+precipitation 50 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy in the morning, then becoming partly
+sunny. High around 49. Waves 4 feet. Northwest winds 10 to 25 mph.
+No lightning risk. 
+
+$$
+
+MEZ001-111400-
+Allagash Wilderness Waterway-
+759 PM EDT Fri May 10 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.OVERNIGHT...Cloudy. Areas of fog. Rain until midnight. scattered
+showers with patchy drizzle. Low around 39. South winds 10 to 15 mph
+shifting to the southwest. Chance of precipitation 90 percent. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. Not as cool with high around 53. West
+winds 10 to 25 mph. No lightning risk. 
+
+$$
+
+MEZ030-111400-
+St Croix River-
+759 PM EDT Fri May 10 2019
+
+...ST CROIX RIVER...
+
+.OVERNIGHT...Cloudy. Areas of fog. Rain until midnight. patchy
+drizzle. scattered showers. Low around 41. South winds 10 to 15 mph
+decreasing to 10 mph. Chance of precipitation 90 percent. No
+lightning risk. 
+.SATURDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Not as cool with high around 61. West winds 10 to 20 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-111400-
+West Quoddy Head-
+759 PM EDT Fri May 10 2019
+
+...WEST QUODDY HEAD...
+
+.OVERNIGHT...Cloudy. Areas of fog. Rain through early morning.
+patchy drizzle. scattered showers late. Low around 42. South winds
+10 to 20 mph. Chance of precipitation near 100 percent. No lightning
+risk. Water temperature 41 degrees Fahrenheit. 
+.SATURDAY...Partly sunny. Areas of fog in the morning. Isolated
+showers in the morning. Not as cool with high around 55. West winds
+10 to 25 mph. Chance of precipitation 20 percent. No lightning risk.
+Water temperature 41 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-111400-
+Upper Penobscot Watershed-
+759 PM EDT Fri May 10 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Cloudy. Areas of fog through early morning. patchy fog
+late. Rain likely until midnight. patchy drizzle. isolated showers.
+Low around 41. South winds 10 to 15 mph. Chance of precipitation
+70 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Not as cool with high around 57. Northwest winds 10 to
+20 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-111400-
+Lower Penobscot Watershed-
+759 PM EDT Fri May 10 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Cloudy. Areas of fog through early morning. patchy fog
+late. Rain likely until midnight. patchy drizzle. isolated showers.
+Low around 43. South winds 10 to 15 mph shifting to the southwest.
+Chance of precipitation 70 percent. No lightning risk. 
+.SATURDAY...Partly sunny. Not as cool with high around 61. Northwest
+winds 10 to 20 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

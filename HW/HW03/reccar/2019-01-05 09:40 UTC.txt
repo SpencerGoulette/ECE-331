@@ -1,0 +1,248 @@
+
+759 
+SXUS41 KCAR 050940
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+440 AM EST Sat Jan 5 2019
+
+MEZ004-060000-
+Top of Mount Katahdin-
+440 AM EST Sat Jan 5 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit in and out of clouds. High around 28. Southwest 
+winds 10 to 15 mph shifting to the south 10 mph this afternoon. No 
+lightning risk. 
+.TONIGHT...Summit in and out of clouds. A slight chance of snow 
+until midnight...then scattered snow showers after midnight. Low 
+around 17. East winds 10 mph shifting to the northwest after 
+midnight. Chance of precipitation 30 percent. No lightning risk. 
+.SUNDAY...Summit in and out of clouds. A chance of snow showers. 
+High around 19. Temperatures falling to around 10 above in the 
+afternoon. Northwest winds 10 to 25 mph. Chance of precipitation 30 
+percent. Wind chill values as low as 10 below in the afternoon. No 
+lightning risk. 
+
+$$
+
+MEZ005-060000-
+Katahdin Woods and Waters National Monument-
+440 AM EST Sat Jan 5 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Cloudy. High around 36. Southwest winds 10 mph shifting to
+the east this afternoon. No lightning risk. 
+.TONIGHT...Cloudy. A slight chance of snow until midnight...then
+scattered snow showers after midnight. Low around 25. Northeast
+winds 10 mph shifting to the northwest after midnight. Chance of
+precipitation 30 percent. No lightning risk. 
+.SUNDAY...Cloudy. A chance of snow showers. High around 31.
+Northwest winds 10 to 20 mph. Chance of precipitation 40 percent.
+Wind chill values as low as 14. No lightning risk. 
+
+$$
+
+MEZ029-060000-
+Top of Cadillac Mountain-
+440 AM EST Sat Jan 5 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny, then becoming cloudy late this morning, then
+summit becoming obscured. Patchy freezing fog until mid morning. A
+chance of rain late. High around 37. Northeast winds 10 to 20 mph.
+Chance of precipitation 30 percent. No lightning risk. 
+.TONIGHT...Summit obscured until midnight, then summit in and out of
+clouds. A chance of sleet until midnight. A chance of rain and snow.
+Low around 30. Northeast winds 15 to 20 mph. Chance of precipitation
+50 percent. No lightning risk. 
+.SUNDAY...Summit in and out of clouds in the morning, then becoming
+cloudy. A slight chance of snow showers. A slight chance of rain 
+showers in the afternoon. High around 33. Northwest winds 15 to 20 
+mph. Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-060000-
+Top of Deboullie Mountain-
+440 AM EST Sat Jan 5 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Summit in and out of clouds. High around 33. Southwest 
+winds 10 mph shifting to the southeast this afternoon. No lightning 
+risk. 
+.TONIGHT...Summit in and out of clouds. A slight chance of snow 
+until midnight... then scattered snow showers after midnight. Low 
+around 21. East winds 10 mph shifting to the north 10 to 15 mph after
+midnight. Chance of precipitation 40 percent. No lightning risk. 
+.SUNDAY...Summit in and out of clouds. A chance of snow showers. 
+High around 24. Northwest winds 10 to 20 mph. Chance of precipitation
+40 percent. Wind chill values as low as zero in the afternoon. No 
+lightning risk. 
+
+$$
+
+MEZ006-060000-
+Top of Mars Hill Mountain-
+440 AM EST Sat Jan 5 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Summit in and out of clouds. High around 33. Light winds 
+becoming northeast 10 mph this afternoon. No lightning risk. 
+.TONIGHT...Summit in and out of clouds. A chance of snow until 
+midnight...then scattered snow showers after midnight. Low around 23.
+Northeast winds 10 mph shifting to the north 10 to 15 mph after 
+midnight. Chance of precipitation 40 percent. No lightning risk. 
+.SUNDAY...Summit in and out of clouds. A chance of snow showers. 
+High around 27. Northwest winds 10 to 25 mph. Chance of precipitation
+40 percent. Wind chill values as low as 10 above. No lightning risk.
+
+
+$$
+
+MEZ010-060000-
+Top of White Cap Mountain-
+440 AM EST Sat Jan 5 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Summit in and out of clouds. High around 29. Southwest 
+winds 10 mph shifting to the southeast this afternoon. No lightning 
+risk. 
+.TONIGHT...Summit in and out of clouds. A slight chance of snow 
+after midnight. Low around 21. East winds 10 mph shifting to the 
+north after midnight. Chance of precipitation 20 percent. No 
+lightning risk. 
+.SUNDAY...Summit in and out of clouds. A chance of snow showers. 
+High around 22. Northwest winds 10 to 20 mph. Chance of precipitation
+30 percent. Wind chill values as low as 3 below in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ010-060000-
+Moosehead Lake-
+440 AM EST Sat Jan 5 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Cloudy. High around 35. Light winds becoming east 10 mph
+this afternoon. No lightning risk. 
+.TONIGHT...Cloudy. Scattered snow showers after midnight. Low around
+24. East winds 10 mph shifting to the northwest 10 to 15 mph after
+midnight. Chance of precipitation 30 percent. No lightning risk. 
+.SUNDAY...Cloudy. A chance of snow showers. High around 29.
+Northwest winds 10 to 20 mph. Chance of precipitation 30 percent.
+Wind chill values as low as 12. No lightning risk. 
+
+$$
+
+MEZ001-060000-
+Allagash Wilderness Waterway-
+440 AM EST Sat Jan 5 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Cloudy. High around 36. Southwest winds 10 mph shifting to
+the southeast this afternoon. No lightning risk. 
+.TONIGHT...Cloudy. A slight chance of snow until midnight...then
+scattered snow showers after midnight. Low around 22. East winds
+10 mph shifting to the northwest 10 to 15 mph after midnight. Chance
+of precipitation 40 percent. No lightning risk. 
+.SUNDAY...Cloudy. A chance of snow showers. High around 28.
+Northwest winds 10 to 20 mph. Chance of precipitation 40 percent.
+Wind chill values as low as 9 above. No lightning risk. 
+
+$$
+
+MEZ030-060000-
+St Croix River-
+440 AM EST Sat Jan 5 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Mostly cloudy. Patchy freezing fog until mid morning. High
+around 37. Northeast winds 10 mph. No lightning risk. 
+.TONIGHT...Cloudy. A chance of snow and freezing rain with a slight
+chance of rain until midnight...then scattered snow showers after
+midnight. Low around 26. Northeast winds 10 mph shifting to the
+north 10 to 15 mph after midnight. Chance of precipitation
+30 percent. No lightning risk. 
+.SUNDAY...Cloudy. A chance of snow showers. A chance of rain showers
+in the afternoon. High around 34. Northwest winds 10 mph increasing
+to 10 to 15 mph in the afternoon. Chance of precipitation
+30 percent. No lightning risk. 
+
+$$
+
+MEZ030-060000-
+West Quoddy Head-
+440 AM EST Sat Jan 5 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Partly sunny until mid morning, then becoming mostly
+cloudy. Patchy freezing fog until mid morning. A chance of rain
+late. High around 40. North winds 10 mph shifting to the northeast
+this afternoon. Chance of precipitation 30 percent. No lightning
+risk. Water temperature 43 degrees Fahrenheit. 
+.TONIGHT...Cloudy. A chance of rain and snow until midnight...then
+scattered snow and rain showers after midnight. Low around 31.
+Northeast winds 15 to 20 mph. Chance of precipitation 50 percent. No
+lightning risk. Water temperature 43 degrees Fahrenheit. 
+.SUNDAY...Cloudy. A chance of rain and snow showers. High around 37.
+Northwest winds 15 to 20 mph. Chance of precipitation 30 percent. No
+lightning risk. Water temperature 43 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-060000-
+Upper Penobscot Watershed-
+440 AM EST Sat Jan 5 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Patchy freezing fog until mid morning. High around
+36. Northeast winds 10 mph. No lightning risk. 
+.TONIGHT...Cloudy. A slight chance of freezing rain until midnight.
+A slight chance of snow. Low around 24. Northeast winds 10 mph 
+shifting to the north 10 to 15 mph after midnight. Chance of 
+precipitation 20 percent. No lightning risk. 
+.SUNDAY...Cloudy. A chance of snow showers. High around 33.
+Northwest winds 10 to 20 mph. Chance of precipitation 40 percent.
+Wind chill values as low as 14. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-060000-
+Lower Penobscot Watershed-
+440 AM EST Sat Jan 5 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. Patchy freezing fog until mid morning. A
+slight chance of rain late. High around 37. Northeast winds 10 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+.TONIGHT...Cloudy. A slight chance of rain, freezing rain and snow
+until midnight. Isolated snow showers after midnight. Low around 26.
+Northeast winds 10 mph shifting to the north 10 to 15 mph after 
+midnight. Chance of precipitation 20 percent. No lightning risk. 
+.SUNDAY...Cloudy. A slight chance of rain and snow showers. High
+around 36. Northwest winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

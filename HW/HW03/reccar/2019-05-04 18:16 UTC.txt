@@ -1,0 +1,177 @@
+
+735 
+SXUS41 KCAR 041816
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+216 PM EDT Sat May 4 2019
+
+MEZ004-050830-
+Top of Mount Katahdin-
+216 PM EDT Sat May 4 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds, then mostly cloudy late this
+evening, then becoming partly cloudy, then becoming mostly clear 
+late. Low around 35. Northwest winds 10 mph. No lightning risk.
+
+.SUNDAY...Sunny. High around 43. Northwest winds 10 mph in the
+morning becoming light winds. No lightning risk. 
+
+$$
+
+MEZ005-050830-
+Katahdin Woods and Waters National Monument-
+216 PM EDT Sat May 4 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly clear. Low around 37. North winds 10 mph. No
+lightning risk. 
+.SUNDAY...Sunny. High around 62. Northeast winds 10 mph shifting to
+the southeast in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-050830-
+Top of Cadillac Mountain-
+216 PM EDT Sat May 4 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Low around 45. Southwest winds 10 mph. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 52. Northeast winds 10 mph
+shifting to the southeast 10 to 15 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ001-050830-
+Top of Deboullie Mountain-
+216 PM EDT Sat May 4 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear. Low around 32. North winds 10 mph. No lightning
+risk. 
+.SUNDAY...Sunny. High around 58. Northeast winds 10 mph shifting to
+the southwest in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-050830-
+Top of Mars Hill Mountain-
+216 PM EDT Sat May 4 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear. Low around 35. North winds 10 mph. No
+lightning risk. 
+.SUNDAY...Sunny. High around 59. Northeast winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-050830-
+Top of White Cap Mountain-
+216 PM EDT Sat May 4 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds through early morning, then
+becoming mostly cloudy. Low around 39. North winds 10 mph. No
+lightning risk. 
+.SUNDAY...Mostly sunny. High around 49. Northeast winds 10 mph
+shifting to the southeast in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-050830-
+Moosehead Lake-
+216 PM EDT Sat May 4 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Low
+around 36. North winds 10 mph. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 58. East winds 10 mph shifting
+to the south in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-050830-
+Allagash Wilderness Waterway-
+216 PM EDT Sat May 4 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear. Low around 33. Northeast winds 10 mph. No
+lightning risk. 
+.SUNDAY...Sunny. High around 63. East winds 10 mph shifting to the
+south in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-050830-
+St Croix River-
+216 PM EDT Sat May 4 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+39. North winds 10 mph. No lightning risk. 
+.SUNDAY...Sunny. High around 63. Northeast winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-050830-
+West Quoddy Head-
+216 PM EDT Sat May 4 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Low around 40. Southwest winds 10 mph shifting to the
+northwest after midnight. No lightning risk. Water temperature
+40 degrees Fahrenheit. 
+.SUNDAY...Mostly sunny. High around 49. Northeast winds 10 to 15 mph
+shifting to the southeast 10 mph in the afternoon. No lightning
+risk. Water temperature 40 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-050830-
+Upper Penobscot Watershed-
+216 PM EDT Sat May 4 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Low
+around 39. North winds 10 mph. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 63. Northeast winds 10 mph
+shifting to the southeast in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-050830-
+Lower Penobscot Watershed-
+216 PM EDT Sat May 4 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 42. Northeast winds 10 mph. No
+lightning risk. 
+.SUNDAY...Mostly sunny. High around 63. Northeast winds 10 mph
+shifting to the southeast in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

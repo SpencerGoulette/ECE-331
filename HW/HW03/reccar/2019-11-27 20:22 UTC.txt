@@ -1,0 +1,224 @@
+
+107 
+SXUS41 KCAR 272022
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+322 PM EST Wed Nov 27 2019
+
+MEZ004-281030-
+Top of Mount Katahdin-
+322 PM EST Wed Nov 27 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy until midnight, then summit becoming obscured.
+Scattered snow showers early this evening...then snow from late
+evening on. Windy, cold with low around 22. Southeast winds 10 to
+20 mph increasing to east 20 to 35 mph after midnight. Chance of
+precipitation 90 percent. Wind chill values as low as 7 above. No
+lightning risk. 
+.THANKSGIVING DAY...Summit in and out of clouds in the morning, then
+becoming mostly cloudy. Snow in the morning...then scattered snow
+showers in the afternoon. Very windy and cold with high around 24.
+North winds 30 to 40 mph. Chance of precipitation near 100 percent.
+Wind chill values as low as 1 above. No lightning risk. 
+
+$$
+
+MEZ005-281030-
+Katahdin Woods and Waters National Monument-
+322 PM EST Wed Nov 27 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Scattered snow showers early this evening...then
+snow from late evening on. Low around 27. Northeast winds 10 to
+20 mph. Chance of precipitation 90 percent. No lightning risk. 
+.THANKSGIVING DAY...Cloudy. Snow in the morning...then scattered
+snow showers in the afternoon. High around 33. North winds 15 to
+25 mph. Chance of precipitation 90 percent. Wind chill values as low
+as 17. No lightning risk. 
+
+$$
+
+MEZ029-281030-
+Top of Cadillac Mountain-
+322 PM EST Wed Nov 27 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy early this evening, then summit becoming obscured.
+Scattered rain showers early this evening...then rain from late
+evening on. Low around 33. East winds 15 to 25 mph. Chance of
+precipitation 90 percent. No lightning risk. 
+.THANKSGIVING DAY...Summit obscured. Snow likely with rain in the
+morning...then scattered snow and rain showers in the afternoon.
+Very windy with high around 37. North winds 25 to 40 mph. Chance of
+precipitation 80 percent. Wind chill values as low as 18. No
+lightning risk. 
+
+$$
+
+MEZ001-281030-
+Top of Deboullie Mountain-
+322 PM EST Wed Nov 27 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy. Scattered snow showers through early morning.
+snow likely late. Cold with low around 23. Northeast winds 10 to
+20 mph. Chance of precipitation 60 percent. No lightning risk. 
+.THANKSGIVING DAY...Summit obscured. Snow likely in the morning...
+then scattered snow showers in the afternoon. High around 28. North
+winds 15 to 20 mph. Chance of precipitation 60 percent. Wind chill
+values as low as 12. No lightning risk. 
+
+$$
+
+MEZ006-281030-
+Top of Mars Hill Mountain-
+322 PM EST Wed Nov 27 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy. Scattered snow showers through early
+morning. snow likely late. Low around 26. Northeast winds 10 to
+20 mph. Chance of precipitation 70 percent. No lightning risk. 
+.THANKSGIVING DAY...Summit obscured. Snow likely in the morning...
+then scattered snow showers in the afternoon. High around 32. North
+winds 15 to 25 mph. Chance of precipitation 70 percent. Wind chill
+values as low as 16. No lightning risk. 
+
+$$
+
+MEZ010-281030-
+Top of White Cap Mountain-
+322 PM EST Wed Nov 27 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy until midnight, then summit becoming obscured.
+Scattered snow showers early this evening...then snow from late
+evening on. Brisk, cold with low around 23. East winds 10 to 20 mph
+increasing to northeast 20 to 30 mph after midnight. Chance of
+precipitation near 100 percent. Wind chill values as low as
+10 above. No lightning risk. 
+.THANKSGIVING DAY...Summit obscured in the morning, then becoming
+cloudy. Snow in the morning...then scattered snow showers in the
+afternoon. Windy, cold with high around 25. North winds 25 to
+35 mph. Chance of precipitation 90 percent. Wind chill values as low
+as 7 above. No lightning risk. 
+
+$$
+
+MEZ010-281030-
+Moosehead Lake-
+322 PM EST Wed Nov 27 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Scattered rain showers early this evening...then
+rain through early morning. snow from late evening on. Low around
+28. Northeast winds 10 to 20 mph. Waves 3 feet. Chance of
+precipitation near 100 percent. Wind chill values as low as 17. No
+lightning risk. 
+.THANKSGIVING DAY...Cloudy. Snow likely in the morning...then
+scattered snow showers in the afternoon. High around 33. Waves
+5 feet. North winds 15 to 25 mph. Chance of precipitation
+70 percent. Wind chill values as low as 16. No lightning risk. 
+
+$$
+
+MEZ001-281030-
+Allagash Wilderness Waterway-
+322 PM EST Wed Nov 27 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Isolated snow showers early this evening...then
+scattered snow showers late this evening. snow likely after
+midnight. Cold with low around 24. Northeast winds 10 to 15 mph.
+Chance of precipitation 70 percent. Wind chill values as low as 13.
+No lightning risk. 
+.THANKSGIVING DAY...Cloudy. Snow likely in the morning...then
+scattered snow showers in the afternoon. High around 31. North winds
+10 to 20 mph. Chance of precipitation 70 percent. Wind chill values
+as low as 15. No lightning risk. 
+
+$$
+
+MEZ030-281030-
+St Croix River-
+322 PM EST Wed Nov 27 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Isolated rain and snow showers early this
+evening...then rain and snow from late evening on. Low around 32.
+Northeast winds 10 to 20 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.THANKSGIVING DAY...Cloudy, snow. rain likely in the afternoon. High
+around 36. North winds 15 to 25 mph. Chance of precipitation
+90 percent. No lightning risk. 
+
+$$
+
+MEZ030-281030-
+West Quoddy Head-
+322 PM EST Wed Nov 27 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Scattered showers early this evening...then rain
+from late evening on. Rain may be heavy at times after midnight.
+Breezy with low around 38. East winds 10 to 25 mph increasing to
+northeast 25 to 30 mph after midnight. Chance of precipitation near
+100 percent. No lightning risk. Water temperature 49 degrees
+Fahrenheit. 
+.THANKSGIVING DAY...Cloudy. Snow in the morning. Rain, windy with
+high around 41. North winds 25 to 35 mph. Chance of precipitation
+90 percent. No lightning risk. Water temperature 49 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-281030-
+Upper Penobscot Watershed-
+322 PM EST Wed Nov 27 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Scattered rain and snow showers early this
+evening...then snow and rain from late evening on. Low around 30.
+Northeast winds 10 to 20 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.THANKSGIVING DAY...Cloudy. Snow in the morning...then scattered
+snow and rain showers in the afternoon. High around 34. North winds
+10 to 20 mph. Chance of precipitation 90 percent. No lightning risk.
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-281030-
+Lower Penobscot Watershed-
+322 PM EST Wed Nov 27 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Scattered rain showers early this evening...then
+rain from late evening on. snow after midnight. Low around 32.
+Northeast winds 10 to 20 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.THANKSGIVING DAY...Cloudy. Snow likely in the morning...then
+scattered rain and snow showers in the afternoon. High around 36.
+North winds 15 to 25 mph. Chance of precipitation 70 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

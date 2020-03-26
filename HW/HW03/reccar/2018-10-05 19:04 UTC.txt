@@ -1,0 +1,183 @@
+
+414 
+SXUS41 KCAR 051904
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+304 PM EDT Fri Oct 5 2018
+
+MEZ004-060915-
+Top of Mount Katahdin-
+304 PM EDT Fri Oct 5 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear early this evening, then becoming partly
+cloudy. Areas of frost after midnight. Low around 34. Light winds.
+No lightning risk. 
+.SATURDAY...Mostly sunny. Areas of frost in the morning. High around
+45. Light winds becoming south around 10 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ005-060915-
+Katahdin Woods and Waters National Monument-
+304 PM EDT Fri Oct 5 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly clear early this evening, then becoming partly
+cloudy. Areas of frost after midnight. Low around 33. Light winds.
+No lightning risk. 
+.SATURDAY...Mostly sunny. Areas of frost in the morning. High around
+55. Light winds. No lightning risk. 
+
+$$
+
+MEZ029-060915-
+Top of Cadillac Mountain-
+304 PM EDT Fri Oct 5 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 43. Northeast winds around 10 mph. No
+lightning risk. 
+.SATURDAY...Sunny. High around 52. Northeast winds around 10 mph
+shifting to the south in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-060915-
+Top of Deboullie Mountain-
+304 PM EDT Fri Oct 5 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy. Widespread frost after midnight. Low
+around 29. Light winds. No lightning risk. 
+.SATURDAY...Partly sunny. Widespread frost in the morning. A slight
+chance of rain showers in the afternoon. High around 50. Light
+winds. Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ006-060915-
+Top of Mars Hill Mountain-
+304 PM EDT Fri Oct 5 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy. Areas of frost after midnight. Low around
+32. Light winds. No lightning risk. 
+.SATURDAY...Mostly sunny. Areas of frost in the morning. High around
+52. Light winds. No lightning risk. 
+
+$$
+
+MEZ010-060915-
+Top of White Cap Mountain-
+304 PM EDT Fri Oct 5 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly clear early this evening, then becoming partly
+cloudy. Areas of frost after midnight. Low around 36. Light winds.
+No lightning risk. 
+.SATURDAY...Mostly sunny. Areas of frost in the morning. High around
+46. Light winds becoming south around 10 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ010-060915-
+Moosehead Lake-
+304 PM EDT Fri Oct 5 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear early this evening, then becoming partly
+cloudy. Patchy frost after midnight. Low around 37. Light winds.
+Waves 1 foot. No lightning risk. Water temperature 63 degrees
+Fahrenheit. 
+.SATURDAY...Partly sunny. Patchy frost in the morning. High around
+55. Waves 1 foot. Light winds becoming south around 10 mph in the
+afternoon. No lightning risk. Water temperature 63 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-060915-
+Allagash Wilderness Waterway-
+304 PM EDT Fri Oct 5 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy. Widespread frost after midnight. Low
+around 28. Light winds. No lightning risk. 
+.SATURDAY...Partly sunny. Widespread frost in the morning. A chance
+of rain showers in the afternoon. High around 54. Light winds.
+Chance of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ030-060915-
+St Croix River-
+304 PM EDT Fri Oct 5 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear. Widespread frost after midnight. Cooler
+with low around 29. Light winds. No lightning risk. 
+.SATURDAY...Mostly sunny. Widespread frost in the morning. High
+around 58. Light winds. No lightning risk. 
+
+$$
+
+MEZ030-060915-
+West Quoddy Head-
+304 PM EDT Fri Oct 5 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear. Low around 42. Northeast winds around
+10 mph. No lightning risk. Water temperature 55 degrees Fahrenheit. 
+.SATURDAY...Sunny. High around 55. Northeast winds around 10 mph in
+the morning becoming light winds. No lightning risk. Water
+temperature 55 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-060915-
+Upper Penobscot Watershed-
+304 PM EDT Fri Oct 5 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy through early
+morning, then becoming mostly clear. Widespread frost after
+midnight. Low around 32. Light winds. No lightning risk. 
+.SATURDAY...Mostly sunny. Widespread frost in the morning. High
+around 56. Light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-060915-
+Lower Penobscot Watershed-
+304 PM EDT Fri Oct 5 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Areas of frost after midnight. Low around
+33. Light winds. No lightning risk. 
+.SATURDAY...Mostly sunny. Areas of frost in the morning. High around
+58. Light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

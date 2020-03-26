@@ -1,0 +1,202 @@
+
+006 
+SXUS41 KCAR 151908
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+208 PM EST Fri Dec 15 2017
+
+MEZ004-160915-
+Top of Mount Katahdin-
+208 PM EST Fri Dec 15 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers after midnight. Not
+as cool with low around 2 above. Northwest winds 10 to 15 mph.
+Chance of precipitation 20 percent. Wind chill values as low as
+12 below. No lightning risk. 
+.SATURDAY...Mostly cloudy. Isolated snow showers in the morning.
+High around 7 above. Northwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 14 below. No
+lightning risk. 
+
+$$
+
+MEZ005-160915-
+Katahdin Woods and Waters National Monument-
+208 PM EST Fri Dec 15 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers after midnight. Low
+around 5 above. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. Isolated snow showers in the morning.
+High around 19. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ029-160915-
+Top of Cadillac Mountain-
+208 PM EST Fri Dec 15 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers late this evening.
+scattered snow showers after midnight. Low around 13. Light winds
+becoming north 10 to 15 mph after midnight. Chance of precipitation
+30 percent. Wind chill values as low as 1 below. No lightning risk. 
+.SATURDAY...Mostly cloudy. Isolated snow showers in the morning.
+High around 22. Northwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 3 above. No
+lightning risk. 
+
+$$
+
+MEZ001-160915-
+Top of Deboullie Mountain-
+208 PM EST Fri Dec 15 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers after midnight. Low
+around zero. West winds 10 to 15 mph. Chance of precipitation
+20 percent. Wind chill values as low as 14 below. No lightning risk.
+.SATURDAY...Cloudy in the morning...then becoming partly sunny.
+Isolated snow showers in the morning. High around 10 above.
+Northwest winds around 10 mph. Chance of precipitation 20 percent.
+No lightning risk. 
+
+$$
+
+MEZ006-160915-
+Top of Mars Hill Mountain-
+208 PM EST Fri Dec 15 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers late. Low around
+2 above. Northwest winds 10 to 15 mph. Chance of precipitation
+20 percent. Wind chill values as low as 12 below. No lightning risk.
+.SATURDAY...Mostly cloudy. High around 12. Northwest winds 10 to
+15 mph. Wind chill values as low as 10 below. No lightning risk. 
+
+$$
+
+MEZ010-160915-
+Top of White Cap Mountain-
+208 PM EST Fri Dec 15 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy. Isolated snow showers after midnight. Not as cool
+with low around 7 above. West winds around 10 mph until midnight
+becoming light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+.SATURDAY...Cloudy. Isolated snow showers in the morning. High
+around 12. Northwest winds 10 to 15 mph. Chance of precipitation
+20 percent. Wind chill values as low as 5 below. No lightning risk. 
+
+$$
+
+MEZ010-160915-
+Moosehead Lake-
+208 PM EST Fri Dec 15 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Isolated snow showers after midnight. Low around
+8 above. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. Isolated snow showers in the morning.
+High around 21. Light winds becoming northwest around 10 mph in the
+afternoon. Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-160915-
+Allagash Wilderness Waterway-
+208 PM EST Fri Dec 15 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers after midnight.
+scattered snow showers late. Low around zero. West winds around
+10 mph until midnight becoming light winds. Chance of precipitation
+30 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy. Isolated snow showers in the morning.
+High around 16. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-160915-
+St Croix River-
+208 PM EST Fri Dec 15 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers late. Low around
+7 above. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. High around 21. North winds around
+10 mph. Wind chill values as low as 4 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-160915-
+West Quoddy Head-
+208 PM EST Fri Dec 15 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers after midnight.
+scattered snow showers late. Low around 17. North winds 10 to
+15 mph. Chance of precipitation 30 percent. Wind chill values as low
+as 2 above. No lightning risk. Water temperature 49 degrees
+Fahrenheit. 
+.SATURDAY...Cloudy. Isolated snow showers in the morning. High
+around 27. North winds around 15 mph. Chance of precipitation
+20 percent. Wind chill values as low as 2 above in the morning. No
+lightning risk. Water temperature 49 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-160915-
+Upper Penobscot Watershed-
+208 PM EST Fri Dec 15 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers late. Low around
+6 above. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. Isolated snow showers in the morning.
+High around 21. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-160915-
+Lower Penobscot Watershed-
+208 PM EST Fri Dec 15 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers late. Low around
+8 above. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. High around 24. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

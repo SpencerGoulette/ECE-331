@@ -1,0 +1,308 @@
+
+095 
+SXUS41 KCAR 200850
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+350 AM EST Sun Jan 20 2019
+
+MEZ004-202300-
+Top of Mount Katahdin-
+350 AM EST Sun Jan 20 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit obscured. Snow. Areas of blowing snow from late 
+morning on. Snow may be heavy at times late this morning and early 
+afternoon. Windy and not as cool with high around 15. East winds 15 
+to 30 mph shifting to the northeast 25 to 40 mph this afternoon. 
+Chance of precipitation near 100 percent. Wind chill values as low as
+23 below. No lightning risk. 
+.TONIGHT...Summit obscured. Areas of blowing snow until midnight. 
+areas of blowing snow after midnight. Snow, brisk with low around 2 
+above. Northeast winds 20 to 35 mph. Chance of precipitation near 
+100 percent. Wind chill values as low as 14 below. No lightning risk.
+.MARTIN LUTHER KING JR DAY...Summit obscured in the morning, then
+becoming cloudy. Areas of blowing snow. Snow likely in the morning.
+A chance of snow showers in the afternoon. Brisk, cooler with high
+around 3 above. Temperatures falling to around 7 below in the
+afternoon. North winds 20 to 30 mph. Chance of precipitation
+60 percent. Wind chill values as low as 36 below in the afternoon.
+No lightning risk. 
+
+$$
+
+MEZ005-202300-
+Katahdin Woods and Waters National Monument-
+350 AM EST Sun Jan 20 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Cloudy, snow. Areas of blowing snow from late morning on.
+Snow may be heavy at times late this morning and early afternoon.
+High around 9 above. Northeast winds 10 to 20 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as
+19 below. No lightning risk. 
+.TONIGHT...Cloudy. Areas of blowing snow until midnight. areas of
+blowing snow after midnight. Snow. Low around 4 above. North winds
+10 to 20 mph. Chance of precipitation near 100 percent. Wind chill
+values as low as 11 below. No lightning risk. 
+.MARTIN LUTHER KING JR DAY...Cloudy. Areas of blowing snow. Snow
+likely in the morning. A chance of snow showers in the afternoon.
+High around 8 above. North winds 15 to 20 mph. Chance of
+precipitation 60 percent. Wind chill values as low as 13 below. No
+lightning risk. 
+
+$$
+
+MEZ029-202300-
+Top of Cadillac Mountain-
+350 AM EST Sun Jan 20 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Summit in and out of clouds until mid morning, then summit
+becoming obscured. Areas of blowing snow this morning. Snow or sleet
+this morning...then freezing rain or rain this afternoon.
+Precipitation may be heavy at times. Very windy and not as cool with
+high around 37. East winds 30 to 40 mph becoming southeast 15 to
+35 mph this afternoon. Chance of precipitation near 100 percent.
+Wind chill values as low as zero. No lightning risk. 
+.TONIGHT...Summit in and out of clouds. Freezing rain until
+midnight. sleet likely. A chance of snow showers after midnight.
+Brisk with low around 11. Northwest winds 10 to 25 mph increasing to
+20 to 30 mph after midnight. Chance of precipitation near
+100 percent. Wind chill values as low as 5 below after midnight. No
+lightning risk. 
+.MARTIN LUTHER KING JR DAY...Summit in and out of clouds in the
+morning, then becoming cloudy. A chance of snow showers. Much cooler
+with high around 12. Northwest winds 15 to 25 mph. Chance of
+precipitation 40 percent. Wind chill values as low as 11 below. No
+lightning risk. 
+
+$$
+
+MEZ001-202300-
+Top of Deboullie Mountain-
+350 AM EST Sun Jan 20 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Cloudy, snow. Areas of blowing snow this afternoon. Snow
+may be heavy at times from late morning on. Not as cool with high
+around 4 above. Northeast winds 10 to 25 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as
+31 below. No lightning risk. 
+.TONIGHT...Cloudy until midnight, then summit in and out of clouds.
+Areas of blowing snow until midnight. areas of blowing snow after
+midnight. Snow. Not as cool with low around 2 below. North winds
+20 to 25 mph shifting to the east after midnight. Chance of
+precipitation near 100 percent. Wind chill values as low as
+22 below. No lightning risk. 
+.MARTIN LUTHER KING JR DAY...Cloudy. Areas of blowing snow. Snow
+likely in the morning. A chance of snow showers in the afternoon.
+High around 1 above. North winds 15 to 25 mph. Chance of
+precipitation 70 percent. Wind chill values as low as 23 below. No
+lightning risk. 
+
+$$
+
+MEZ006-202300-
+Top of Mars Hill Mountain-
+350 AM EST Sun Jan 20 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Cloudy, snow. Areas of blowing snow from late morning on.
+Snow may be heavy at times late this morning and early afternoon.
+Not as cool with high around 14. Northeast winds 10 to 25 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 25 below. No lightning risk. 
+.TONIGHT...Summit in and out of clouds. Areas of blowing snow until
+midnight. areas of blowing snow after midnight. Snow, brisk and not
+as cool with low around 6 above. North winds 20 to 30 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as
+11 below. No lightning risk. 
+.MARTIN LUTHER KING JR DAY...Cloudy. Areas of blowing snow. Snow
+likely in the morning. A chance of snow showers in the afternoon.
+High around 7 above. North winds 20 to 25 mph. Chance of
+precipitation 70 percent. Wind chill values as low as 18 below. No
+lightning risk. 
+
+$$
+
+MEZ010-202300-
+Top of White Cap Mountain-
+350 AM EST Sun Jan 20 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Summit in and out of clouds. Areas of blowing snow. Snow.
+Snow may be heavy at times late this morning and early afternoon.
+Not as cool with high around 11. Northeast winds 15 to 25 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 23 below. No lightning risk. 
+.TONIGHT...Summit in and out of clouds. Areas of blowing snow. Snow.
+Low around 1 below. Southwest winds 15 to 25 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as
+17 below. No lightning risk. 
+.MARTIN LUTHER KING JR DAY...Summit in and out of clouds in the
+morning, then becoming cloudy. Areas of blowing snow. Snow likely in
+the morning. A chance of snow showers in the afternoon. Brisk,
+cooler with high around 1 below. North winds 20 to 30 mph. Chance of
+precipitation 60 percent. Wind chill values as low as 31 below. No
+lightning risk. 
+
+$$
+
+MEZ010-202300-
+Moosehead Lake-
+350 AM EST Sun Jan 20 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Cloudy. Snow through early afternoon. snow late. Areas of
+blowing snow from late morning on. Snow may be heavy at times
+through early afternoon. High around 6 above. Northeast winds 15 mph
+increasing to 10 to 20 mph this afternoon. Chance of precipitation
+near 100 percent. Wind chill values as low as 19 below. No lightning
+risk. 
+.TONIGHT...Cloudy. Areas of blowing snow. Snow. Low around 2 above.
+North winds 10 to 20 mph. Chance of precipitation near 100 percent.
+Wind chill values as low as 15 below. No lightning risk. 
+.MARTIN LUTHER KING JR DAY...Cloudy. Areas of blowing snow. A chance
+of snow in the morning. A chance of snow showers in the afternoon.
+High around 5 above. North winds 15 to 20 mph. Chance of
+precipitation 50 percent. Wind chill values as low as 17 below. No
+lightning risk. 
+
+$$
+
+MEZ001-202300-
+Allagash Wilderness Waterway-
+350 AM EST Sun Jan 20 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Cloudy, snow. Areas of blowing snow from late morning on.
+Snow may be heavy at times late this morning and early afternoon.
+High around 4 above. Northeast winds 10 to 20 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as
+26 below. No lightning risk. 
+.TONIGHT...Cloudy. Areas of blowing snow until midnight. areas of
+blowing snow after midnight. Snow. Low around zero. North winds
+15 to 20 mph. Chance of precipitation near 100 percent. Wind chill
+values as low as 18 below. No lightning risk. 
+.MARTIN LUTHER KING JR DAY...Cloudy. Areas of blowing snow. Snow
+likely in the morning. A chance of snow showers in the afternoon.
+High around 4 above. North winds 15 to 20 mph. Chance of
+precipitation 70 percent. Wind chill values as low as 19 below. No
+lightning risk. 
+
+$$
+
+MEZ030-202300-
+St Croix River-
+350 AM EST Sun Jan 20 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Cloudy. Areas of blowing snow through early afternoon. Snow
+through early afternoon. sleet this afternoon. Snow may be heavy at
+times late this morning and early afternoon. Not as cool with high
+around 25. Northeast winds 10 to 25 mph. Chance of precipitation
+near 100 percent. Wind chill values as low as 15 below. No lightning
+risk. 
+.TONIGHT...Cloudy. Freezing rain until midnight...then sleet or snow
+likely after midnight. Patchy blowing snow after midnight. Not as
+cool with low around 13. North winds 10 to 20 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as 5 above.
+No lightning risk. 
+.MARTIN LUTHER KING JR DAY...Cloudy. Patchy blowing snow in the
+morning. Snow likely in the morning...then a chance of snow showers
+in the afternoon. Cooler with high around 14. North winds 10 to
+20 mph. Chance of precipitation 60 percent. Wind chill values as low
+as 7 below. No lightning risk. 
+
+$$
+
+MEZ030-202300-
+West Quoddy Head-
+350 AM EST Sun Jan 20 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Cloudy. Areas of blowing snow this morning. Snow this
+morning...then sleet or freezing rain early this afternoon. rain
+this afternoon. Precipitation may be heavy at times. Windy and not
+as cool with high around 39. East winds 25 to 35 mph shifting to the
+southeast 15 to 35 mph this afternoon. Chance of precipitation near
+100 percent. Wind chill values as low as 4 above. No lightning risk.
+Water temperature 41 degrees Fahrenheit. 
+.TONIGHT...Cloudy, rain. freezing rain likely or a chance of snow
+showers and sleet after midnight. Not as cool with low around 21.
+West winds 10 to 20 mph shifting to the northwest 15 to 25 mph after
+midnight. Chance of precipitation near 100 percent. Wind chill
+values as low as 12 after midnight. No lightning risk. Water
+temperature 41 degrees Fahrenheit. 
+.MARTIN LUTHER KING JR DAY...Cloudy. A chance of snow showers. Much
+cooler with high around 22. Northwest winds 15 to 25 mph. Chance of
+precipitation 50 percent. Wind chill values as low as 3 above. No
+lightning risk. Water temperature 41 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-202300-
+Upper Penobscot Watershed-
+350 AM EST Sun Jan 20 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Areas of blowing snow. Snow. sleet this afternoon.
+Snow may be heavy at times late this morning and early afternoon.
+High around 12. Northeast winds 10 to 20 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as
+18 below. No lightning risk. 
+.TONIGHT...Cloudy. Areas of blowing snow until midnight. areas of
+blowing snow after midnight. Sleet until midnight. Snow. Low around
+7 above. North winds 10 to 20 mph. Chance of precipitation near
+100 percent. Wind chill values as low as 9 below. No lightning risk.
+.MARTIN LUTHER KING JR DAY...Cloudy. Areas of blowing snow. A chance
+of snow in the morning. A chance of snow showers in the afternoon.
+High around 9 above. North winds 10 to 20 mph. Chance of
+precipitation 50 percent. Wind chill values as low as 13 below. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-202300-
+Lower Penobscot Watershed-
+350 AM EST Sun Jan 20 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Areas of blowing snow through early afternoon. Snow
+through early afternoon. sleet or freezing rain this afternoon.
+Precipitation may be heavy at times late this morning and early
+afternoon. High around 17. Northeast winds 10 to 20 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as
+14 below. No lightning risk. 
+.TONIGHT...Cloudy. Sleet or freezing rain until midnight. snow
+likely. Patchy blowing snow after midnight. Low around 9 above.
+Northwest winds 10 to 20 mph. Chance of precipitation near
+100 percent. Wind chill values as low as 4 below. No lightning risk.
+.MARTIN LUTHER KING JR DAY...Cloudy. Areas of blowing snow. A chance
+of snow showers. High around 12. North winds 10 to 20 mph. Chance of
+precipitation 50 percent. Wind chill values as low as 8 below. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

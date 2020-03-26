@@ -1,0 +1,102 @@
+
+883 
+SXUS41 KCAR 261900
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+300 PM EDT Mon Jun 26 2017
+
+MEZ004-270900-
+Top of Mount Katahdin-
+300 PM EDT Mon Jun 26 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then
+becoming partly cloudy. Scattered showers after midnight. Low around
+44. Light winds. Chance of precipitation 30 percent. No lightning
+risk. 
+.TUESDAY...Cloudy in the morning...then summit in and out of clouds.
+Numerous showers. scattered thunderstorms in the afternoon. Some
+thunderstorms may produce gusty winds and small hail in the
+afternoon. Locally heavy rainfall possible in the afternoon. High
+around 50. South winds 10 to 15 mph. Chance of precipitation
+70 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ029-270900-
+Top of Cadillac Mountain-
+300 PM EDT Mon Jun 26 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 54. Southwest winds 10 to 15 mph until midnight
+becoming light winds. No lightning risk. 
+.TUESDAY...Partly sunny. High around 64. South winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ010-270900-
+Moosehead Lake-
+300 PM EDT Mon Jun 26 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Isolated showers until midnight...then scattered showers
+after midnight. Low around 50. Light winds. Waves 1 foot. Chance of
+precipitation 40 percent. No lightning risk. 
+.TUESDAY...Mostly cloudy. Numerous showers. scattered thunderstorms
+in the afternoon. Some thunderstorms may produce gusty winds and
+small hail in the afternoon. Locally heavy rainfall possible in the
+afternoon. High around 68. Waves 1 foot. Light winds. Chance of
+precipitation 70 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ004&gt;006-010-011-031-270900-
+Upper Penobscot Watershed-
+300 PM EDT Mon Jun 26 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Scattered showers after midnight. Low
+around 52. Light winds. Chance of precipitation 40 percent. No
+lightning risk. 
+.TUESDAY...Mostly cloudy. Scattered showers in the morning...then
+numerous showers and scattered thunderstorms in the afternoon. Some
+thunderstorms may produce gusty winds and small hail in the
+afternoon. Locally heavy rainfall possible in the afternoon. High
+around 72. Light winds becoming south around 10 mph in the
+afternoon. Chance of precipitation 70 percent. Lightning risk is
+elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-270900-
+Lower Penobscot Watershed-
+300 PM EDT Mon Jun 26 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Isolated showers after midnight. Low around 55. Southwest
+winds around 5 mph until midnight becoming light winds. Chance of
+precipitation 20 percent. No lightning risk. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. Scattered showers. scattered thunderstorms in the afternoon.
+Some thunderstorms may produce gusty winds and small hail in the
+afternoon. High around 73. South winds around 10 mph. Chance of
+precipitation 50 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

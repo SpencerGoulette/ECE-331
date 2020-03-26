@@ -1,0 +1,184 @@
+
+172 
+SXUS41 KCAR 041934
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+234 PM EST Fri Jan 4 2019
+
+MEZ004-050945-
+Top of Mount Katahdin-
+234 PM EST Fri Jan 4 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy, brisk and not as cool with low around 22. West
+winds 20 to 30 mph decreasing to 10 to 25 mph after midnight. Wind
+chill values as low as 6 above. No lightning risk. 
+.SATURDAY...Mostly cloudy. High around 29. Southwest winds 10 to
+15 mph shifting to the south 10 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ005-050945-
+Katahdin Woods and Waters National Monument-
+234 PM EST Fri Jan 4 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Not as cool with low around 25. West winds
+10 mph. No lightning risk. 
+.SATURDAY...Mostly cloudy. High around 35. Light winds becoming east
+10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-050945-
+Top of Cadillac Mountain-
+234 PM EST Fri Jan 4 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit in and out of clouds, then becoming partly cloudy
+late this evening, then becoming mostly clear. Not as cool with low
+around 30. West winds 10 to 20 mph. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming cloudy. A
+chance of rain in the afternoon. High around 36. Northeast winds
+10 mph shifting to the east 10 to 15 mph in the afternoon. Chance of
+precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ001-050945-
+Top of Deboullie Mountain-
+234 PM EST Fri Jan 4 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Not as cool with low around 23. West
+winds 10 to 20 mph. Wind chill values as low as 11. No lightning
+risk. 
+.SATURDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. High around 30. Southwest winds 10 mph shifting
+to the southeast in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-050945-
+Top of Mars Hill Mountain-
+234 PM EST Fri Jan 4 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit in and out of clouds through early morning, then
+summit becoming obscured. Low around 23. West winds 15 mph. No
+lightning risk. 
+.SATURDAY...Summit obscured. High around 30. Light winds becoming
+east 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-050945-
+Top of White Cap Mountain-
+234 PM EST Fri Jan 4 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds early this evening, then
+becoming cloudy. Not as cool with low around 25. West winds 10 to
+20 mph. No lightning risk. 
+.SATURDAY...Mostly cloudy. High around 30. Southwest winds 10 mph
+shifting to the southeast in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-050945-
+Moosehead Lake-
+234 PM EST Fri Jan 4 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Low around 25. West winds 10 mph. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. High around 34. Light winds becoming east
+10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-050945-
+Allagash Wilderness Waterway-
+234 PM EST Fri Jan 4 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. Low around 23. West winds 10 to 15 mph
+shifting to the southwest after midnight. No lightning risk. 
+.SATURDAY...Mostly cloudy. High around 34. Light winds becoming
+southeast 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-050945-
+St Croix River-
+234 PM EST Fri Jan 4 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. Low around 22. West winds 10 mph. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. High around 36. Northeast winds 10 mph.
+No lightning risk. 
+
+$$
+
+MEZ030-050945-
+West Quoddy Head-
+234 PM EST Fri Jan 4 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Low around 33. Southwest winds 10 to 20 mph shifting to the
+west after midnight. No lightning risk. Water temperature 44 degrees
+Fahrenheit. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. A chance of rain in the afternoon. High around 40. North
+winds 10 mph shifting to the northeast in the afternoon. Chance of
+precipitation 30 percent. No lightning risk. Water temperature
+44 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-050945-
+Upper Penobscot Watershed-
+234 PM EST Fri Jan 4 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Not as cool with low around 23. Southwest
+winds 10 mph. No lightning risk. 
+.SATURDAY...Mostly cloudy. High around 35. Northeast winds 10 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-050945-
+Lower Penobscot Watershed-
+234 PM EST Fri Jan 4 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 23. West winds 10 mph. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. High around 37. Northeast winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

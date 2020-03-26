@@ -1,0 +1,174 @@
+
+133 
+SXUS41 KCAR 131931
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+231 PM EST Sun Jan 13 2019
+
+MEZ004-140945-
+Top of Mount Katahdin-
+231 PM EST Sun Jan 13 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Low around 4 above. Northwest winds 10 to 15 mph.
+No lightning risk. 
+.MONDAY...Mostly sunny. High around 19. West winds 10 to 15 mph.
+Wind chill values as low as 6 below in the morning. No lightning
+risk. 
+
+$$
+
+MEZ005-140945-
+Katahdin Woods and Waters National Monument-
+231 PM EST Sun Jan 13 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Low around 2 below. Northwest winds 10 mph. No
+lightning risk. 
+.MONDAY...Mostly sunny. High around 19. West winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-140945-
+Top of Cadillac Mountain-
+231 PM EST Sun Jan 13 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 10 above. North winds 10 mph shifting
+to the northeast 10 to 15 mph after midnight. Wind chill values as
+low as 2 below. No lightning risk. 
+.MONDAY...Sunny. High around 21. North winds 10 mph. No lightning
+risk. 
+
+$$
+
+MEZ001-140945-
+Top of Deboullie Mountain-
+231 PM EST Sun Jan 13 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Colder with low around 14 below. West winds 10 mph. No
+lightning risk. 
+.MONDAY...Partly sunny. High around 16. West winds 10 mph increasing
+to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-140945-
+Top of Mars Hill Mountain-
+231 PM EST Sun Jan 13 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear, cold with low around 10 below. Northwest winds
+10 mph. No lightning risk. 
+.MONDAY...Partly sunny. High around 14. Southwest winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-140945-
+Top of White Cap Mountain-
+231 PM EST Sun Jan 13 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Low around 4 above. Northwest winds 10 to 15 mph
+decreasing to 10 mph after midnight. No lightning risk. 
+.MONDAY...Mostly sunny. High around 17. Northwest winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-140945-
+Moosehead Lake-
+231 PM EST Sun Jan 13 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear, cold with low around 7 below. Northwest winds
+10 mph. No lightning risk. 
+.MONDAY...Mostly sunny. High around 19. West winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-140945-
+Allagash Wilderness Waterway-
+231 PM EST Sun Jan 13 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly clear. Cold with low around 18 below. Southwest
+winds 10 mph. No lightning risk. 
+.MONDAY...Partly sunny. High around 19. Southwest winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-140945-
+St Croix River-
+231 PM EST Sun Jan 13 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear, cold with low around 5 below. Northwest winds
+10 mph. No lightning risk. 
+.MONDAY...Sunny. High around 20. West winds 10 mph. No lightning
+risk. 
+
+$$
+
+MEZ030-140945-
+West Quoddy Head-
+231 PM EST Sun Jan 13 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Low around 12. North winds 10 to 15 mph. Wind
+chill values as low as zero. No lightning risk. Water temperature
+41 degrees Fahrenheit. 
+.MONDAY...Sunny. High around 25. Northwest winds 10 mph. No
+lightning risk. Water temperature 41 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-140945-
+Upper Penobscot Watershed-
+231 PM EST Sun Jan 13 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear, cold with low around 6 below. Northwest winds
+10 mph. No lightning risk. 
+.MONDAY...Mostly sunny. High around 19. Northwest winds 10 mph
+shifting to the southwest in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-140945-
+Lower Penobscot Watershed-
+231 PM EST Sun Jan 13 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 4 below. North winds 10 mph. No
+lightning risk. 
+.MONDAY...Sunny. High around 21. Northwest winds 10 mph shifting to
+the west in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

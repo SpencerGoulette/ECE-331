@@ -1,0 +1,202 @@
+
+357 
+SXUS41 KCAR 171919
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+219 PM EST Sun Feb 17 2019
+
+MEZ004-180930-
+Top of Mount Katahdin-
+219 PM EST Sun Feb 17 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear early this evening, then becoming partly
+cloudy. Low around zero. Northwest winds 10 to 15 mph. Wind chill
+values as low as 13 below. No lightning risk. 
+.WASHINGTONS BIRTHDAY...Mostly cloudy. High around 5 above. East
+winds 10 mph shifting to the north 10 to 15 mph in the afternoon.
+Wind chill values as low as 14 below. No lightning risk. 
+
+$$
+
+MEZ005-180930-
+Katahdin Woods and Waters National Monument-
+219 PM EST Sun Feb 17 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly clear early this evening, then becoming partly
+cloudy. Low around 2 above. Northwest winds 10 mph. No lightning
+risk. 
+.WASHINGTONS BIRTHDAY...Mostly cloudy. High around 19. North winds
+10 mph increasing to 10 to 15 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ029-180930-
+Top of Cadillac Mountain-
+219 PM EST Sun Feb 17 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy late this
+evening, then becoming mostly cloudy. A slight chance of snow
+showers late. Low around 12. Northwest winds 10 to 15 mph shifting
+to the north after midnight. Chance of precipitation 20 percent. No
+lightning risk. 
+.WASHINGTONS BIRTHDAY...Cloudy in the morning, then summit in and
+out of clouds. A chance of snow showers in the morning...then a
+chance of snow in the afternoon. High around 23. East winds 10 to
+15 mph. Chance of precipitation 40 percent. Wind chill values as low
+as zero in the morning. No lightning risk. 
+
+$$
+
+MEZ001-180930-
+Top of Deboullie Mountain-
+219 PM EST Sun Feb 17 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear, then becoming mostly cloudy late this evening,
+then summit in and out of clouds. Cold with low around 6 below. West
+winds 10 to 15 mph shifting to the northwest 10 mph after midnight.
+Wind chill values as low as 17 below. No lightning risk. 
+.WASHINGTONS BIRTHDAY...Mostly cloudy. High around 10 above.
+Northwest winds 10 mph increasing to 10 to 15 mph in the afternoon.
+Wind chill values as low as 13 below. No lightning risk. 
+
+$$
+
+MEZ006-180930-
+Top of Mars Hill Mountain-
+219 PM EST Sun Feb 17 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy late this
+evening, then becoming mostly cloudy, then summit in and out of
+clouds late. Cooler with low around 5 below. Northwest winds 10 mph.
+No lightning risk. 
+.WASHINGTONS BIRTHDAY...Partly sunny in the morning, then summit in
+and out of clouds. High around 12. Northwest winds 10 to 15 mph.
+Wind chill values as low as 16 below in the morning. No lightning
+risk. 
+
+$$
+
+MEZ010-180930-
+Top of White Cap Mountain-
+219 PM EST Sun Feb 17 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Low around 3 above. Northwest winds 10 mph. No lightning
+risk. 
+.WASHINGTONS BIRTHDAY...Mostly cloudy. A slight chance of snow
+showers in the morning...then a chance of snow in the afternoon.
+High around 10 above. Northeast winds 10 mph shifting to the north
+10 to 15 mph in the afternoon. Chance of precipitation 30 percent.
+No lightning risk. 
+
+$$
+
+MEZ010-180930-
+Moosehead Lake-
+219 PM EST Sun Feb 17 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Low around 1 above. Northwest winds 10 mph. No lightning
+risk. 
+.WASHINGTONS BIRTHDAY...Mostly cloudy. A slight chance of snow
+showers in the afternoon. High around 20. North winds 10 mph. Chance
+of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-180930-
+Allagash Wilderness Waterway-
+219 PM EST Sun Feb 17 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly clear early this evening, then becoming partly
+cloudy. Cold with low around 8 below. West winds 10 mph. No
+lightning risk. 
+.WASHINGTONS BIRTHDAY...Partly sunny. High around 16. Northwest
+winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-180930-
+St Croix River-
+219 PM EST Sun Feb 17 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear early this evening, then becoming partly
+cloudy. Low around 5 above. Northwest winds 10 mph. No lightning
+risk. 
+.WASHINGTONS BIRTHDAY...Mostly cloudy. High around 23. North winds
+10 mph. No lightning risk. 
+
+$$
+
+MEZ030-180930-
+West Quoddy Head-
+219 PM EST Sun Feb 17 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy through early
+morning, then becoming mostly cloudy. Low around 17. Northwest winds
+10 to 15 mph. No lightning risk. Water temperature 38 degrees
+Fahrenheit. 
+.WASHINGTONS BIRTHDAY...Mostly cloudy. High around 27. North winds
+10 to 20 mph. Wind chill values as low as 10 above. No lightning
+risk. Water temperature 38 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-180930-
+Upper Penobscot Watershed-
+219 PM EST Sun Feb 17 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy through early
+morning, then becoming mostly cloudy. Low around 3 above. Northwest
+winds 10 mph. No lightning risk. 
+.WASHINGTONS BIRTHDAY...Mostly cloudy. A chance of snow in the
+afternoon. High around 21. North winds 10 mph. Chance of
+precipitation 40 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-180930-
+Lower Penobscot Watershed-
+219 PM EST Sun Feb 17 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Low around 8 above. North winds 10 mph. No lightning risk. 
+.WASHINGTONS BIRTHDAY...Mostly cloudy. A slight chance of snow
+showers in the morning. A chance of snow in the afternoon. High
+around 24. North winds 10 mph. Chance of precipitation 50 percent.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

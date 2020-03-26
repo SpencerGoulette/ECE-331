@@ -1,0 +1,75 @@
+
+222 
+SXUS41 KCAR 201505
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+1105 AM EDT Mon Mar 20 2017
+
+-202000-
+
+1105 AM EDT Mon Mar 20 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.THIS AFTERNOON...Sunny. High around 27. Northeast winds around
+15 mph. Wind chill values as low as 10 above. 
+.TONIGHT...Partly cloudy. Low around 20. Northwest winds 15 to
+20 mph. Wind chill values as low as 6 above. 
+.TUESDAY...Mostly cloudy. Scattered snow showers in the morning.
+High around 25. Northwest winds 15 to 20 mph. Chance of
+precipitation 30 percent. Wind chill values as low as 8 above. 
+
+$$
+
+-202000-
+
+1105 AM EDT Mon Mar 20 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.THIS AFTERNOON...Sunny. High around 42. North winds 20 to 25 mph. 
+.TONIGHT...Clear. Low around 29. North winds 15 to 20 mph. Wind
+chill values as low as 18. 
+.TUESDAY...Partly sunny. High around 40. Northwest winds 10 to
+15 mph. Wind chill values as low as 17 in the morning. 
+
+$$
+
+-202000-
+
+1105 AM EDT Mon Mar 20 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.THIS AFTERNOON...Sunny. High around 44. North winds around 10 mph. 
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 22. Light winds. 
+.TUESDAY...Mostly cloudy. High around 43. Light winds becoming
+northwest around 10 mph in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+-202000-
+
+1105 AM EDT Mon Mar 20 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.THIS AFTERNOON...Sunny. High around 47. North winds around 10 mph. 
+.TONIGHT...Mostly clear. Low around 23. North winds around 5 mph
+until midnight becoming light winds. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. High around 45. Light winds becoming northwest around 10 mph
+in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

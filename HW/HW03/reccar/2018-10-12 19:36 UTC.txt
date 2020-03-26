@@ -1,0 +1,194 @@
+
+561 
+SXUS41 KCAR 121936
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+336 PM EDT Fri Oct 12 2018
+
+MEZ004-130945-
+Top of Mount Katahdin-
+336 PM EDT Fri Oct 12 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy, then becoming mostly clear late this
+evening, then becoming partly cloudy. Areas of frost from late
+evening on. Brisk and much cooler with low around 21. Northwest
+winds 15 to 25 mph. Wind chill values as low as 8 above. No
+lightning risk. 
+.SATURDAY...Cloudy. Areas of frost in the morning. Much cooler with
+high around 25. West winds 10 to 15 mph. Wind chill values as low as
+10 above. No lightning risk. 
+
+$$
+
+MEZ005-130945-
+Katahdin Woods and Waters National Monument-
+336 PM EDT Fri Oct 12 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy, then becoming mostly clear late this
+evening, then becoming partly cloudy. Areas of frost late. Low
+around 35. Northwest winds 10 to 15 mph. No lightning risk. 
+.SATURDAY...Cloudy. Areas of frost in the morning. High around 44.
+West winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ029-130945-
+Top of Cadillac Mountain-
+336 PM EDT Fri Oct 12 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Cooler with low around 37. Northwest winds 15 to 20 mph. No
+lightning risk. 
+.SATURDAY...Cloudy. A slight chance of rain in the morning. Cooler
+with high around 44. Northwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-130945-
+Top of Deboullie Mountain-
+336 PM EDT Fri Oct 12 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds early this evening, then
+becoming mostly cloudy. Areas of frost after midnight. Low around
+31. West winds 10 to 15 mph. No lightning risk. 
+.SATURDAY...Cloudy. Areas of frost in the morning. High around 39.
+West winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ006-130945-
+Top of Mars Hill Mountain-
+336 PM EDT Fri Oct 12 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit in and out of clouds, then becoming mostly cloudy
+late this evening, then becoming partly cloudy, then becoming mostly
+cloudy late. Areas of frost late. Low around 33. Northwest winds
+10 to 15 mph. No lightning risk. 
+.SATURDAY...Cloudy. Areas of frost in the morning. High around 42.
+West winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ010-130945-
+Top of White Cap Mountain-
+336 PM EDT Fri Oct 12 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured early this evening, then summit in and
+out of clouds. Areas of frost from late evening on. Much cooler with
+low around 25. Northwest winds 15 to 20 mph. Wind chill values as
+low as 14. No lightning risk. 
+.SATURDAY...Cloudy in the morning, then summit becoming obscured.
+Areas of frost in the morning. A slight chance of rain in the
+morning. Cooler with high around 33. West winds around 10 mph.
+Chance of precipitation 20 percent. Wind chill values as low as 18.
+No lightning risk. 
+
+$$
+
+MEZ010-130945-
+Moosehead Lake-
+336 PM EDT Fri Oct 12 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Low around 37. Northwest winds 10 to 15 mph. Waves 4 feet.
+No lightning risk. Water temperature 61 degrees Fahrenheit. 
+.SATURDAY...Cloudy. High around 44. Waves 1 foot. Light winds
+becoming west around 10 mph in the afternoon. No lightning risk.
+Water temperature 61 degrees Fahrenheit. 
+
+$$
+
+MEZ001-130945-
+Allagash Wilderness Waterway-
+336 PM EDT Fri Oct 12 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Areas of frost after midnight. Low around 33. West winds
+around 10 mph. No lightning risk. 
+.SATURDAY...Cloudy. Areas of frost in the morning. High around 43.
+West winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-130945-
+St Croix River-
+336 PM EDT Fri Oct 12 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Low around 37. Northwest winds around 10 mph. No lightning
+risk. 
+.SATURDAY...Cloudy. A slight chance of rain. High around 46. Light
+winds. Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ030-130945-
+West Quoddy Head-
+336 PM EDT Fri Oct 12 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear. Low around 43. Northwest winds around
+15 mph. No lightning risk. Water temperature 55 degrees Fahrenheit. 
+.SATURDAY...Partly sunny in the morning, then becoming cloudy. A
+slight chance of rain. High around 49. West winds 10 to 15 mph.
+Chance of precipitation 20 percent. No lightning risk. Water
+temperature 55 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-130945-
+Upper Penobscot Watershed-
+336 PM EDT Fri Oct 12 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy, then becoming mostly clear through early
+morning, then becoming partly cloudy. Low around 36. West winds
+10 to 15 mph. No lightning risk. 
+.SATURDAY...Cloudy. A slight chance of rain in the morning. High
+around 46. Southwest winds 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-130945-
+Lower Penobscot Watershed-
+336 PM EDT Fri Oct 12 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Low around 38. West winds around 10 mph. No lightning risk. 
+.SATURDAY...Cloudy. A slight chance of rain in the morning. Cooler
+with high around 47. Light winds. Chance of precipitation
+20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

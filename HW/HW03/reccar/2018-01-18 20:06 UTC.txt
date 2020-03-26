@@ -1,0 +1,189 @@
+
+138 
+SXUS41 KCAR 182006
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+Issued by National Weather Service GRAY ME
+306 PM EST Thu Jan 18 2018
+
+MEZ004-191015-
+Top of Mount Katahdin-
+306 PM EST Thu Jan 18 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 11. Northwest winds 10 to 15 mph. Wind chill
+values as low as 1 below. No lightning risk. 
+.FRIDAY...Mostly cloudy. A slight chance of snow in the morning.
+High around 18. Northwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 1 above. No
+lightning risk. 
+
+$$
+
+MEZ005-191015-
+Katahdin Woods and Waters National Monument-
+306 PM EST Thu Jan 18 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 11. Light winds. No lightning risk. 
+.FRIDAY...Mostly cloudy. High around 26. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ029-191015-
+Top of Cadillac Mountain-
+306 PM EST Thu Jan 18 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear through early morning...then becoming partly
+cloudy. Low around 18. Northwest winds 10 to 15 mph. Wind chill
+values as low as 7 above. No lightning risk. 
+.FRIDAY...Mostly cloudy in the morning...then becoming partly sunny.
+A slight chance of snow in the morning. High around 27. Northwest
+winds around 10 mph. Chance of precipitation 20 percent. Wind chill
+values as low as 11. No lightning risk. 
+
+$$
+
+MEZ001-191015-
+Top of Deboullie Mountain-
+306 PM EST Thu Jan 18 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy through early morning...then becoming
+mostly cloudy. Low around 7 above. Northwest winds 10 to 15 mph
+until midnight becoming light winds. No lightning risk. 
+.FRIDAY...Mostly cloudy. High around 20. Light winds becoming west
+around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-191015-
+Top of Mars Hill Mountain-
+306 PM EST Thu Jan 18 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 8 above. Northwest winds around 10 mph. Wind
+chill values as low as 1 below. No lightning risk. 
+.FRIDAY...Mostly cloudy. High around 19. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ010-191015-
+Top of White Cap Mountain-
+306 PM EST Thu Jan 18 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 12. Northwest winds 10 to 15 mph. Wind chill
+values as low as 2 below. No lightning risk. 
+.FRIDAY...Mostly cloudy in the morning...then becoming partly sunny.
+A slight chance of snow in the morning. High around 20. Northwest
+winds around 10 mph. Chance of precipitation 20 percent. Wind chill
+values as low as 2 above. No lightning risk. 
+
+$$
+
+MEZ010-191015-
+Moosehead Lake-
+306 PM EST Thu Jan 18 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy through early morning...then becoming
+mostly cloudy. A slight chance of snow late. Low around 13. Light
+winds. Chance of precipitation 20 percent. No lightning risk. 
+.FRIDAY...Mostly cloudy. A slight chance of snow in the morning.
+High around 26. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-191015-
+Allagash Wilderness Waterway-
+306 PM EST Thu Jan 18 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 9 above. Light winds. No lightning risk. 
+.FRIDAY...Mostly cloudy. High around 24. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ030-191015-
+St Croix River-
+306 PM EST Thu Jan 18 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear through early morning...then becoming partly
+cloudy. Low around 11. Light winds. No lightning risk. 
+.FRIDAY...Mostly cloudy in the morning...then becoming partly sunny.
+High around 27. Light winds. No lightning risk. 
+
+$$
+
+MEZ030-191015-
+West Quoddy Head-
+306 PM EST Thu Jan 18 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear. Low around 20. Northwest winds 10 to
+15 mph. No lightning risk. Water temperature 43 degrees Fahrenheit. 
+.FRIDAY...Mostly cloudy in the morning...then becoming partly sunny.
+A slight chance of snow in the morning. High around 31. Northwest
+winds around 10 mph in the morning becoming light winds. Chance of
+precipitation 20 percent. No lightning risk. Water temperature
+43 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-191015-
+Upper Penobscot Watershed-
+306 PM EST Thu Jan 18 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 12. Light winds. No lightning risk. 
+.FRIDAY...Mostly cloudy in the morning...then becoming partly sunny.
+A slight chance of snow in the morning. High around 27. Light winds.
+Chance of precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-191015-
+Lower Penobscot Watershed-
+306 PM EST Thu Jan 18 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear through early morning...then becoming partly
+cloudy. Low around 13. Light winds. No lightning risk. 
+.FRIDAY...Mostly cloudy in the morning...then becoming partly sunny.
+A slight chance of snow in the morning. High around 30. Light winds.
+Chance of precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,193 @@
+
+919 
+SXUS41 KCAR 041913
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+313 PM EDT Wed Oct 4 2017
+
+MEZ004-050915-
+Top of Mount Katahdin-
+313 PM EDT Wed Oct 4 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy. Isolated thunderstorms until midnight. Showers...
+mainly before midnight. Low around 42. West winds 25 to 35 mph. 
+Chance of precipitation 90 percent. Lightning risk is limited. 
+.THURSDAY...Partly sunny. Cooler with high around 48. West winds
+20 to 25 mph. No lightning risk. 
+
+$$
+
+MEZ005-050915-
+Katahdin Woods and Waters National Monument-
+313 PM EDT Wed Oct 4 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Isolated thunderstorms until midnight.
+Showers...mainly bedfore midnight. Low around 53. West winds 10 to 
+15 mph. Chance of precipitation 80 percent. Lightning risk is 
+limited. 
+.THURSDAY...Mostly sunny. Not as warm with high around 67. West
+winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ029-050915-
+Top of Cadillac Mountain-
+313 PM EDT Wed Oct 4 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear...then becoming cloudy. Scattered showers...
+mainly late. 
+Low around 57. West winds 25 to 35 mph. Chance of precipitation 50 
+percent. No lightning risk. 
+.THURSDAY...Mostly sunny. High around 65. West winds 15 to 25 mph.
+No lightning risk. 
+
+$$
+
+MEZ001-050915-
+Top of Deboullie Mountain-
+313 PM EDT Wed Oct 4 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy with summit occasionally obscured. Isolated 
+thunderstorms until midnight. Showers...mainly before midnight. Low 
+around 47. West winds 10 to 20 mph. Chance of precipitation near 100 
+percent. Lightning risk is limited. 
+.THURSDAY...Partly sunny. Cooler with high around 59. West winds
+10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ006-050915-
+Top of Mars Hill Mountain-
+313 PM EDT Wed Oct 4 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy until midnight...then summit becoming
+obscured. Isolated thunderstorms until midnight. Showers. Low around
+50. West winds 15 to 20 mph. Chance of precipitation 90 percent.
+Lightning risk is limited. 
+.THURSDAY...Partly sunny. Much cooler with high around 62. West
+winds around 15 mph. No lightning risk. 
+
+$$
+
+MEZ010-050915-
+Top of White Cap Mountain-
+313 PM EDT Wed Oct 4 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy. Isolated thunderstorms until midnight. Showers...
+mainly before midnight. Low around 47. West winds 20 to 30 mph. 
+Chance of precipitation 80 percent. Lightning risk is limited. 
+.THURSDAY...Partly sunny in the morning...then summit in and out of
+clouds. High around 54. West winds 15 to 25 mph. No lightning risk. 
+
+$$
+
+MEZ010-050915-
+Moosehead Lake-
+313 PM EDT Wed Oct 4 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Isolated thunderstorms until midnight.
+Showers...mainly before midnight. Low around 52. Southwest winds 
+around 10 mph shifting to the west after midnight. Waves 3 feet. 
+Chance of precipitation 90 percent. Lightning risk is limited. Water 
+temperature 64 degrees Fahrenheit. 
+.THURSDAY...Mostly sunny. Not as warm with high around 65. Waves
+3 feet. West winds 10 to 15 mph. No lightning risk. Water
+temperature 64 degrees Fahrenheit. 
+
+$$
+
+MEZ001-050915-
+Allagash Wilderness Waterway-
+313 PM EDT Wed Oct 4 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Isolated thunderstorms until midnight. Showers...
+mainly before midnight. Low around 46. West winds 10 to 15 mph. 
+Chance of precipitation near 100 percent. Lightning risk is limited. 
+.THURSDAY...Mostly sunny. Cooler with high around 64. West winds
+10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ030-050915-
+St Croix River-
+313 PM EDT Wed Oct 4 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. Numerous showers...mainly late. Not as 
+cool with low around 55. Southwest winds around 10 mph. Chance of 
+precipitation 70 percent. No lightning risk. 
+.THURSDAY...Mostly sunny. High around 71. West winds around 10 mph.
+No lightning risk. 
+
+$$
+
+MEZ030-050915-
+West Quoddy Head-
+313 PM EDT Wed Oct 4 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy.
+Scattered showers. Low around 54. Southwest winds 15 to 20 mph.
+Chance of precipitation 50 percent. No lightning risk. Water
+temperature 57 degrees Fahrenheit. 
+.THURSDAY...Partly sunny. High around 67. West winds 10 to 15 mph.
+No lightning risk. Water temperature 57 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-050915-
+Upper Penobscot Watershed-
+313 PM EDT Wed Oct 4 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Numerous showers. Not as cool with low
+around 55. Southwest winds around 10 mph. Chance of precipitation
+70 percent. Lightning risk is limited. 
+.THURSDAY...Mostly sunny. High around 69. West winds 10 to 15 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-050915-
+Lower Penobscot Watershed-
+313 PM EDT Wed Oct 4 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Scattered showers...mainly late. Not as cool with low around
+56. Southwest winds around 10 mph. Chance of precipitation 50 
+percent. No lightning risk. 
+.THURSDAY...Mostly sunny. High around 72. West winds around 10 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

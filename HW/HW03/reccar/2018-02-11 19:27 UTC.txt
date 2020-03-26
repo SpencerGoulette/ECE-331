@@ -1,0 +1,227 @@
+
+866 
+SXUS41 KCAR 111927
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+227 PM EST Sun Feb 11 2018
+
+MEZ004-120930-
+Top of Mount Katahdin-
+227 PM EST Sun Feb 11 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured...then summit in and out of clouds after
+midnight...then becoming mostly cloudy. Freezing rain and sleet
+likely early this evening...then a chance of rain and sleet through
+early morning. Very windy with low around 29. Southwest winds 25 to
+35 mph. Chance of precipitation 60 percent. Wind chill values as low
+as 13. No lightning risk. 
+.MONDAY...Partly sunny and very windy. High around 29. Temperatures
+falling to around 8 above in the afternoon. Northwest winds 30 to
+35 mph. Wind chill values as low as 16 below in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ005-120930-
+Katahdin Woods and Waters National Monument-
+227 PM EST Sun Feb 11 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy through early morning...then becoming
+partly cloudy. Freezing rain and sleet likely early this evening...
+then a chance of freezing rain and sleet through early morning. Low
+around 28. Southeast winds around 10 mph shifting to the southwest
+after midnight. Chance of precipitation 60 percent. No lightning
+risk. 
+.MONDAY...Partly sunny. High around 32. Temperatures falling to
+around 20 in the afternoon. West winds 10 to 15 mph. Wind chill
+values as low as 10 above. No lightning risk. 
+
+$$
+
+MEZ029-120930-
+Top of Cadillac Mountain-
+227 PM EST Sun Feb 11 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured...then summit in and out of clouds after
+midnight...then becoming mostly cloudy. Rain until midnight...then a
+chance of rain after midnight. Breezy with low around 37. South
+winds 20 to 25 mph shifting to the west after midnight. Chance of
+precipitation 90 percent. No lightning risk. 
+.MONDAY...Partly sunny in the morning...then clearing. Windy with
+high around 39. Temperatures falling to around 25 in the afternoon.
+Northwest winds 25 to 30 mph. Wind chill values as low as 8 above in
+the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-120930-
+Top of Deboullie Mountain-
+227 PM EST Sun Feb 11 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Snow likely early this evening. freezing
+rain and sleet likely until midnight...then a chance of freezing
+rain and sleet after midnight. Low around 22. Southeast winds 15 to
+20 mph shifting to the southwest after midnight. Chance of
+precipitation 60 percent. Wind chill values as low as 7 above. No
+lightning risk. 
+.MONDAY...Summit in and out of clouds in the morning...then becoming
+partly sunny. High around 27. Temperatures falling to around 15 in
+the afternoon. West winds around 20 mph. Wind chill values as low as
+3 below in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-120930-
+Top of Mars Hill Mountain-
+227 PM EST Sun Feb 11 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. A chance of snow early this evening. a
+chance of freezing rain and sleet through early morning. Low around
+24. Southeast winds around 20 mph shifting to the southwest after
+midnight. Chance of precipitation 50 percent. Wind chill values as
+low as 9 above. No lightning risk. 
+.MONDAY...Partly sunny. High around 31. Temperatures falling to
+around 18 in the afternoon. West winds around 20 mph. Wind chill
+values as low as zero in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-120930-
+Top of White Cap Mountain-
+227 PM EST Sun Feb 11 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured...then summit in and out of clouds after
+midnight...then becoming mostly cloudy. Freezing rain and sleet
+likely early this evening...then a chance of sleet and freezing rain
+late this evening. a chance of rain through early morning. Windy
+with low around 28. South winds 15 to 20 mph increasing to west
+25 to 30 mph after midnight. Chance of precipitation 60 percent.
+Wind chill values as low as 13. No lightning risk. 
+.MONDAY...Partly sunny and windy. High around 28. Temperatures
+falling to around 12 in the afternoon. Northwest winds 25 to 30 mph.
+Wind chill values as low as 10 below in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ010-120930-
+Moosehead Lake-
+227 PM EST Sun Feb 11 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy through early morning...then becoming
+partly cloudy. A chance of sleet until midnight. a chance of
+freezing rain through early morning. Low around 29. Southeast winds
+around 10 mph shifting to the southwest after midnight. Chance of
+precipitation 50 percent. No lightning risk. 
+.MONDAY...Mostly sunny. High around 30. Temperatures falling to
+around 19 in the afternoon. West winds 10 to 15 mph. Wind chill
+values as low as 9 above. No lightning risk. 
+
+$$
+
+MEZ001-120930-
+Allagash Wilderness Waterway-
+227 PM EST Sun Feb 11 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy through early morning...then becoming partly
+cloudy. Freezing rain...sleet AND snow likely until midnight...then
+a chance of sleet and freezing rain with a slight chance of rain and
+snow after midnight. Not as cool with low around 26. Southeast winds
+10 to 15 mph shifting to the southwest after midnight. Chance of
+precipitation 60 percent. No lightning risk. 
+.MONDAY...Mostly sunny. High around 30. Temperatures falling to
+around 17 in the afternoon. West winds 10 to 15 mph. Wind chill
+values as low as 7 above. No lightning risk. 
+
+$$
+
+MEZ030-120930-
+St Croix River-
+227 PM EST Sun Feb 11 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy through early morning...then becoming partly
+cloudy. Freezing rain and sleet likely early this evening. rain
+likely until midnight...then a chance of rain after midnight. Low
+around 32. East winds around 10 mph shifting to the southwest after
+midnight. Chance of precipitation 70 percent. No lightning risk. 
+.MONDAY...Partly sunny in the morning...then clearing. High around
+36. Temperatures falling to around 26 in the afternoon. West winds
+10 to 15 mph. Wind chill values as low as 18. No lightning risk. 
+
+$$
+
+MEZ030-120930-
+West Quoddy Head-
+227 PM EST Sun Feb 11 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy. Rain through early morning. Low around 37.
+Southeast winds 15 to 20 mph shifting to the southwest after
+midnight. Chance of precipitation 90 percent. No lightning risk.
+Water temperature 41 degrees Fahrenheit. 
+.MONDAY...Mostly sunny. High around 41. Northwest winds 15 to
+20 mph. No lightning risk. Water temperature 41 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-120930-
+Upper Penobscot Watershed-
+227 PM EST Sun Feb 11 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy through early morning...then becoming
+partly cloudy. Freezing rain and sleet likely early this evening...
+then a chance of sleet late this evening. a chance of freezing rain
+and rain through early morning. Low around 30. Southeast winds
+around 10 mph shifting to the southwest after midnight. Chance of
+precipitation 70 percent. No lightning risk. 
+.MONDAY...Partly sunny in the morning...then clearing. High around
+33. Temperatures falling to around 22 in the afternoon. West winds
+10 to 15 mph. Wind chill values as low as 12. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-120930-
+Lower Penobscot Watershed-
+227 PM EST Sun Feb 11 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy through early morning...then becoming
+partly cloudy. A chance of freezing rain and sleet early this
+evening. a chance of rain through early morning. Low around 33.
+Southeast winds 10 mph shifting to the southwest around 10 mph after
+midnight. Chance of precipitation 50 percent. No lightning risk. 
+.MONDAY...Partly sunny in the morning...then clearing. High around
+34. Northwest winds 10 to 15 mph. Wind chill values as low as 16. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

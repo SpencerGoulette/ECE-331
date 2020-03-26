@@ -1,0 +1,201 @@
+
+850 
+SXUS41 KCAR 291421
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+1021 AM EDT Tue Aug 29 2017
+
+MEZ004-300430-
+Top of Mount Katahdin-
+1021 AM EDT Tue Aug 29 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.THIS AFTERNOON...Sunny. High around 57. Light winds. No lightning
+risk. 
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 46. Light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 55. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ005-300430-
+Katahdin Woods and Waters National Monument-
+1021 AM EDT Tue Aug 29 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.THIS AFTERNOON...Sunny. High around 77. Light winds. No lightning
+risk. 
+.TONIGHT...Mostly clear. Low around 47. Light winds. No lightning
+risk. 
+.WEDNESDAY...Partly sunny. High around 72. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ029-300430-
+Top of Cadillac Mountain-
+1021 AM EDT Tue Aug 29 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.THIS AFTERNOON...Sunny. High around 65. Light winds becoming
+southwest around 10 mph this afternoon. No lightning risk. 
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 54. Southwest winds around 10 mph until midnight
+becoming light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. High around 65. Light winds. No lightning risk. 
+
+$$
+
+MEZ001-300430-
+Top of Deboullie Mountain-
+1021 AM EDT Tue Aug 29 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.THIS AFTERNOON...Sunny. High around 69. Light winds. No lightning
+risk. 
+.TONIGHT...Mostly clear. Low around 51. Southwest winds around
+10 mph. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 69. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ006-300430-
+Top of Mars Hill Mountain-
+1021 AM EDT Tue Aug 29 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.THIS AFTERNOON...Sunny. High around 74. Light winds becoming south
+around 10 mph this afternoon. No lightning risk. 
+.TONIGHT...Clear. Low around 45. South winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 69. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ010-300430-
+Top of White Cap Mountain-
+1021 AM EDT Tue Aug 29 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.THIS AFTERNOON...Sunny, warmer with high around 73. Light winds
+becoming south around 10 mph this afternoon. No lightning risk. 
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 50. Southwest winds around 10 mph until midnight
+becoming light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. Cooler with high around 60. Light winds.
+No lightning risk. 
+
+$$
+
+MEZ010-300430-
+Moosehead Lake-
+1021 AM EDT Tue Aug 29 2017
+
+...MOOSEHEAD LAKE...
+
+.THIS AFTERNOON...Mostly sunny. High around 76. Light winds. Waves
+1 foot. No lightning risk. Water temperature 67 degrees Fahrenheit. 
+.TONIGHT...Partly cloudy. Low around 48. Waves 1 foot. Light winds.
+No lightning risk. Water temperature 67 degrees Fahrenheit. 
+.WEDNESDAY...Partly sunny. High around 70. Waves 1 foot. Light
+winds. No lightning risk. Water temperature 67 degrees Fahrenheit. 
+
+$$
+
+MEZ001-300430-
+Allagash Wilderness Waterway-
+1021 AM EDT Tue Aug 29 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.THIS AFTERNOON...Sunny. High around 78. Light winds. No lightning
+risk. 
+.TONIGHT...Mostly clear. Low around 43. Light winds. No lightning
+risk. 
+.WEDNESDAY...Partly sunny. High around 74. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ030-300430-
+St Croix River-
+1021 AM EDT Tue Aug 29 2017
+
+...ST CROIX RIVER...
+
+.THIS AFTERNOON...Sunny. High around 78. Light winds. No lightning
+risk. 
+.TONIGHT...Mostly clear. Low around 47. Light winds. No lightning
+risk. 
+.WEDNESDAY...Partly sunny. High around 71. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ030-300430-
+West Quoddy Head-
+1021 AM EDT Tue Aug 29 2017
+
+...WEST QUODDY HEAD...
+
+.THIS AFTERNOON...Sunny. High around 71. Light winds becoming south
+around 10 mph this afternoon. No lightning risk. Water temperature
+57 degrees Fahrenheit. 
+.TONIGHT...Mostly clear. Low around 50. Southwest winds around
+10 mph until midnight becoming light winds. No lightning risk. Water
+temperature 57 degrees Fahrenheit. 
+.WEDNESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. High around 64. Light winds. No lightning risk. Water
+temperature 57 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-300430-
+Upper Penobscot Watershed-
+1021 AM EDT Tue Aug 29 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.THIS AFTERNOON...Sunny. High around 78. Light winds. No lightning
+risk. 
+.TONIGHT...Mostly clear. Low around 48. Light winds. No lightning
+risk. 
+.WEDNESDAY...Partly sunny. High around 72. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-300430-
+Lower Penobscot Watershed-
+1021 AM EDT Tue Aug 29 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.THIS AFTERNOON...Sunny. High around 79. Light winds. No lightning
+risk. 
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 50. Light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 72. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

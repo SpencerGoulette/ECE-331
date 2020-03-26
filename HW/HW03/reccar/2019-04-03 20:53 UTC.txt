@@ -1,0 +1,228 @@
+
+392 
+SXUS41 KCAR 032053
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+453 PM EDT Wed Apr 3 2019
+
+MEZ004-041200-
+Top of Mount Katahdin-
+453 PM EDT Wed Apr 3 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds. Scattered snow showers 
+through early morning...then isolated snow showers late. Strong winds
+and cooler with low around 6 above. West winds 40 to 60 mph becoming
+northwest and increasing to 55 to 65 mph after midnight. Chance of 
+precipitation 40 percent. Wind chill values as low as 20 below. No 
+lightning risk. 
+.THURSDAY...Partly sunny in the morning, then summit in and out of
+clouds. Strong winds and much cooler with high around 13. Northwest 
+winds 55 to 65 mph decreasing to 45 to 60 mph in the afternoon. Wind 
+chill values as low as 21 below. No lightning risk. 
+
+$$
+
+MEZ005-041200-
+Katahdin Woods and Waters National Monument-
+453 PM EDT Wed Apr 3 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered rain showers early this evening. Scattered snow 
+showers through early morning...then isolated snow showers late. 
+Blustery with low around 25. West winds 10 to 25 mph increasing to 20
+to 30 mph after midnight. Chance of precipitation 40 percent. Wind 
+chill values as low as 12. No lightning risk. 
+.THURSDAY...Partly sunny and windy. High around 34. West winds 20 to
+35 mph. Wind chill values as low as 12. No lightning risk. 
+
+$$
+
+MEZ029-041200-
+Top of Cadillac Mountain-
+453 PM EDT Wed Apr 3 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Scattered
+rain showers early this evening...then isolated rain and snow
+showers late this evening. Strong winds with low around 29.
+Northwest winds 40 to 60 mph shifting to the west 50 to 55 mph after
+midnight. Chance of precipitation 30 percent. Wind chill values as
+low as 12. No lightning risk. 
+.THURSDAY...Mostly sunny with strong winds. High around 34. West
+winds 40 to 50 mph. Wind chill values as low as 13. No lightning
+risk. 
+
+$$
+
+MEZ001-041200-
+Top of Deboullie Mountain-
+453 PM EDT Wed Apr 3 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured until midnight, then becoming mostly
+cloudy. Scattered snow showers through early morning...then isolated
+snow showers late. Brisk, cooler with low around 15. West winds
+15 to 30 mph. Chance of precipitation 40 percent. Wind chill values
+as low as zero. No lightning risk. 
+.THURSDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Isolated snow showers in the morning. Very windy with high
+around 26. West winds 30 to 40 mph. Chance of precipitation
+20 percent. Wind chill values as low as 1 below. No lightning risk. 
+
+$$
+
+MEZ006-041200-
+Top of Mars Hill Mountain-
+453 PM EDT Wed Apr 3 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured, then becoming mostly cloudy through
+early morning, then becoming partly cloudy. Scattered snow showers
+through early morning...then isolated snow showers late. Low around
+21. West winds 10 to 25 mph. Chance of precipitation 40 percent.
+Wind chill values as low as 11. No lightning risk. 
+.THURSDAY...Partly sunny. Isolated snow showers in the morning. Very
+windy with high around 30. West winds 20 to 35 mph increasing to
+30 to 40 mph in the afternoon. Chance of precipitation 20 percent.
+Wind chill values as low as 8 above. No lightning risk. 
+
+$$
+
+MEZ010-041200-
+Top of White Cap Mountain-
+453 PM EDT Wed Apr 3 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds. Scattered rain showers early
+this evening. Scattered snow showers until midnight...then isolated 
+snow showers after midnight. Strong winds and cooler with low around 
+12. West winds 40 to 60 mph shifting to the northwest 50 to 60 mph 
+after midnight. Chance of precipitation 40 percent. Wind chill values
+as low as 9 below. No lightning risk. 
+.THURSDAY...Summit in and out of clouds with strong winds. Much 
+cooler with high around 18. Northwest winds 50 to 60 mph decreasing 
+to 40 to 55 mph in the afternoon. Wind chill values as low as 12 
+below. No lightning risk. 
+
+$$
+
+MEZ010-041200-
+Moosehead Lake-
+453 PM EDT Wed Apr 3 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered rain showers until midnight. Scattered snow 
+showers through early morning...then isolated snow showers late. Low 
+around 23. West winds 15 to 25 mph. Chance of precipitation 40 
+percent. Wind chill values as low as 9 above. No lightning risk. 
+.THURSDAY...Partly sunny. Isolated snow showers in the morning.
+Windy, cooler with high around 32. Northwest winds 20 to 35 mph.
+Chance of precipitation 20 percent. Wind chill values as low as
+9 above. No lightning risk. 
+
+$$
+
+MEZ001-041200-
+Allagash Wilderness Waterway-
+453 PM EDT Wed Apr 3 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. Scattered rain showers early this evening.
+Scattered snow showers through early morning...then isolated snow 
+showers late. Low around 19. West winds 10 to 25 mph. Chance of 
+precipitation 40 percent. Wind chill values as low as 5 above. No 
+lightning risk. 
+.THURSDAY...Partly sunny. Isolated snow showers in the morning.
+Windy with high around 32. West winds 20 to 35 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 7 above. No
+lightning risk. 
+
+$$
+
+MEZ030-041200-
+St Croix River-
+453 PM EDT Wed Apr 3 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered rain showers early this evening. Scattered snow 
+showers until midnight...then isolated snow showers after midnight. 
+Low around 26. West winds 10 to 20 mph. Chance of precipitation 40 
+percent. Wind chill values as low as 16. No lightning risk. 
+.THURSDAY...Mostly sunny and windy. High around 37. West winds 15 to
+35 mph. Wind chill values as low as 16. No lightning risk. 
+
+$$
+
+MEZ030-041200-
+West Quoddy Head-
+453 PM EDT Wed Apr 3 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered rain showers until midnight. Scattered snow 
+showers late this evening...then isolated snow showers after 
+midnight. Breezy with low around 30. West winds 20 to 30 mph. Chance 
+of precipitation 30 percent. Wind chill values as low as 19. No 
+lightning risk. Water temperature 38 degrees Fahrenheit. 
+.THURSDAY...Mostly sunny and windy. High around 41. West winds 25 to
+35 mph. Wind chill values as low as 21. No lightning risk. Water
+temperature 38 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-041200-
+Upper Penobscot Watershed-
+453 PM EDT Wed Apr 3 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Scattered rain and snow showers until midnight...then
+isolated snow showers after midnight. Low around 25. West winds
+10 to 25 mph. Chance of precipitation 40 percent. Wind chill values
+as low as 12. No lightning risk. 
+.THURSDAY...Mostly sunny and windy. High around 36. West winds 15 to
+35 mph increasing to 25 to 35 mph in the afternoon. Wind chill
+values as low as 13. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-041200-
+Lower Penobscot Watershed-
+453 PM EDT Wed Apr 3 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy through early
+morning, then becoming mostly clear. Scattered rain showers until
+midnight. Isolated snow showers through early morning. Low around 
+27. West winds 10 to 25 mph. Chance of precipitation 40 percent. Wind
+chill values as low as 15. No lightning risk. 
+.THURSDAY...Mostly sunny and windy. High around 39. West winds 15 to
+35 mph. Wind chill values as low as 17. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

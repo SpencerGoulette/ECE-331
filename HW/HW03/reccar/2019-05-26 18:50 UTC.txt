@@ -1,0 +1,209 @@
+
+836 
+SXUS41 KCAR 261850
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+250 PM EDT Sun May 26 2019
+
+MEZ004-270900-
+Top of Mount Katahdin-
+250 PM EDT Sun May 26 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy, then summit in and out of clouds after
+midnight, then becoming mostly cloudy. Scattered showers with a
+slight chance of thunderstorms early this evening. Low around 36.
+Northwest winds 15 to 20 mph. Chance of precipitation 50 percent.
+Lightning risk is limited. 
+.MEMORIAL DAY...Partly sunny. Cooler with high around 39. Northwest
+winds 10 to 25 mph. No lightning risk. 
+
+$$
+
+MEZ005-270900-
+Katahdin Woods and Waters National Monument-
+250 PM EDT Sun May 26 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy through early
+morning, then becoming mostly clear. Scattered showers with a slight
+chance of thunderstorms early this evening. Low around 46. Northwest
+winds 10 to 15 mph. Chance of precipitation 50 percent. Lightning
+risk is limited. 
+.MEMORIAL DAY...Partly sunny. High around 59. Northwest winds 10 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ029-270900-
+Top of Cadillac Mountain-
+250 PM EDT Sun May 26 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit in and out of clouds, then becoming mostly cloudy
+after midnight, then becoming partly cloudy. A slight chance of
+thunderstorms and isolated showers early this evening. Low around
+50. West winds 10 to 15 mph shifting to the north 15 to 20 mph after
+midnight. Chance of precipitation 20 percent. Lightning risk is
+limited. 
+.MEMORIAL DAY...Partly sunny. High around 60. Northwest winds 10 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ001-270900-
+Top of Deboullie Mountain-
+250 PM EDT Sun May 26 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy through early
+morning, then summit becoming obscured. Scattered showers with a
+slight chance of thunderstorms early this evening. Low around 38.
+Northwest winds 10 to 20 mph. Chance of precipitation 50 percent.
+Lightning risk is limited. 
+.MEMORIAL DAY...Summit obscured in the morning, then becoming partly
+sunny. High around 52. Northwest winds 10 to 20 mph. No lightning
+risk. 
+
+$$
+
+MEZ006-270900-
+Top of Mars Hill Mountain-
+250 PM EDT Sun May 26 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured until midnight, then summit in and out of
+clouds. Scattered showers early this evening...then isolated showers
+late this evening. Low around 43. Southwest winds 10 to 15 mph
+shifting to the north 10 to 20 mph after midnight. Chance of
+precipitation 50 percent. No lightning risk. 
+.MEMORIAL DAY...Summit obscured in the morning, then becoming partly
+sunny. High around 55. North winds 10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ010-270900-
+Top of White Cap Mountain-
+250 PM EDT Sun May 26 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy through early
+morning, then becoming mostly cloudy. Scattered showers with a
+slight chance of thunderstorms early this evening. Low around 40.
+Northwest winds 10 to 20 mph. Chance of precipitation 50 percent.
+Lightning risk is limited. 
+.MEMORIAL DAY...Partly sunny. Cooler with high around 45. Northwest
+winds 10 to 15 mph increasing to 15 to 25 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ010-270900-
+Moosehead Lake-
+250 PM EDT Sun May 26 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly clear.
+Scattered showers with a slight chance of thunderstorms early this
+evening. Low around 46. Northwest winds 10 to 15 mph. Waves 3 feet.
+Chance of precipitation 40 percent. Lightning risk is limited. 
+.MEMORIAL DAY...Partly sunny. High around 58. Waves 4 feet.
+Northwest winds 10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ001-270900-
+Allagash Wilderness Waterway-
+250 PM EDT Sun May 26 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly clear.
+Scattered showers with a slight chance of thunderstorms early this
+evening. Low around 41. Northwest winds 10 to 15 mph decreasing to
+10 mph after midnight. Chance of precipitation 40 percent. Lightning
+risk is limited. 
+.MEMORIAL DAY...Partly sunny. High around 57. Northwest winds 10 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ030-270900-
+St Croix River-
+250 PM EDT Sun May 26 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered showers with a slight chance of thunderstorms
+early this evening...then isolated showers late this evening. Low
+around 46. South winds 10 mph shifting to the northwest after
+midnight. Chance of precipitation 40 percent. Lightning risk is
+limited. 
+.MEMORIAL DAY...Partly sunny. High around 63. North winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ030-270900-
+West Quoddy Head-
+250 PM EDT Sun May 26 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Scattered showers with a slight chance of thunderstorms
+early this evening...then isolated showers late this evening. Low
+around 43. South winds 10 to 15 mph shifting to the west after
+midnight. Chance of precipitation 30 percent. Lightning risk is
+limited. Water temperature 41 degrees Fahrenheit. 
+.MEMORIAL DAY...Partly sunny. High around 56. North winds 10 to
+20 mph. No lightning risk. Water temperature 41 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-270900-
+Upper Penobscot Watershed-
+250 PM EDT Sun May 26 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy through early
+morning, then becoming mostly clear. Scattered showers with a slight
+chance of thunderstorms early this evening. isolated showers late
+this evening. Low around 48. Northwest winds 10 to 15 mph. Chance of
+precipitation 40 percent. Lightning risk is limited. 
+.MEMORIAL DAY...Partly sunny. High around 62. Northwest winds 10 to
+20 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-270900-
+Lower Penobscot Watershed-
+250 PM EDT Sun May 26 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy through early morning, then clearing.
+Scattered showers with a slight chance of thunderstorms early this
+evening. Low around 50. Northwest winds 10 to 15 mph. Chance of
+precipitation 40 percent. Lightning risk is limited. 
+.MEMORIAL DAY...Partly sunny. High around 66. North winds 10 to
+15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,72 @@
+
+887 
+SXUS41 KCAR 281928
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+328 PM EDT Fri Apr 28 2017
+
+MEZ004-290930-
+Top of Mount Katahdin-
+328 PM EDT Fri Apr 28 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+44. West winds 15 to 20 mph increasing to 25 to 30 mph after
+midnight. 
+.SATURDAY...Partly sunny. High around 46. West winds 20 to 30 mph. 
+
+$$
+
+MEZ029-290930-
+Top of Cadillac Mountain-
+328 PM EDT Fri Apr 28 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then
+becoming partly cloudy. Areas of fog until midnight. Near steady
+temperatures around 52. West winds around 10 mph. 
+.SATURDAY...Cloudy. Showers likely in the morning. a chance of
+showers in the afternoon. High around 59. West winds 10 to 15 mph.
+Chance of precipitation 60 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-290930-
+Upper Penobscot Watershed-
+328 PM EDT Fri Apr 28 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 49. Light winds. 
+.SATURDAY...Mostly cloudy in the morning...then becoming partly
+sunny. A chance of showers in the morning. High around 66. Southwest
+winds around 5 mph shifting to the west in the afternoon. Chance of
+precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-290930-
+Lower Penobscot Watershed-
+328 PM EDT Fri Apr 28 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Isolated thunderstorms until midnight.
+Areas of fog. Low around 51. Light winds. Chance of precipitation
+20 percent. 
+.SATURDAY...Cloudy in the morning...then becoming partly sunny. A
+chance of showers. High around 68. Southwest winds around 5 mph
+shifting to the west in the afternoon. Chance of precipitation
+50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

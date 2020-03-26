@@ -1,0 +1,69 @@
+
+289 
+SXUS41 KCAR 181947
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+347 PM EDT Sat Mar 18 2017
+
+-190800-
+
+346 PM EDT Sat Mar 18 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Low around 13. Southeast winds around 10 mph. 
+.SUNDAY...Partly sunny. High around 19. East winds around 10 mph.
+Wind chill values as low as 3 above. 
+
+$$
+
+-190800-
+
+346 PM EDT Sat Mar 18 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear. Low around 22. East winds 10 to 15 mph.
+Wind chill values as low as 9 above. 
+.SUNDAY...Mostly cloudy in the morning...then summit in and out of
+clouds. Light snow likely in the afternoon. High around 31. 
+Northeast winds 15 to 25 mph. Chance of precipitation 70 percent. 
+Wind chill values as low as 12. 
+
+$$
+
+-190800-
+
+346 PM EDT Sat Mar 18 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 13. Light winds. 
+.SUNDAY...Partly sunny. High around 36. Light winds becoming
+northeast around 10 mph in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+-190800-
+
+346 PM EDT Sat Mar 18 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 14. Light winds. 
+.SUNDAY...Partly sunny in the morning...then becoming cloudy. A
+chance of light snow in the afternoon. High around 36. Northeast
+winds around 5 mph. Chance of precipitation 50 percent. Wind chill
+values as low as 6 above in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

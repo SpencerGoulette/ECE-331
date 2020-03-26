@@ -1,0 +1,214 @@
+
+338 
+SXUS41 KCAR 121858
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+258 PM EDT Thu Apr 12 2018
+
+MEZ004-130900-
+Top of Mount Katahdin-
+258 PM EDT Thu Apr 12 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy until midnight, then summit becoming obscured. A
+chance of snow early this evening...then snow from late evening on.
+Windy with low around 25. South winds 15 to 25 mph shifting to the
+southwest 25 to 30 mph after midnight. Chance of precipitation near
+100 percent. Wind chill values as low as 10 above. No lightning
+risk. 
+.FRIDAY...Mostly cloudy in the morning, then becoming partly sunny.
+A chance of snow showers in the morning. Breezy with high around 33.
+West winds 15 to 25 mph. Chance of precipitation 30 percent. Wind
+chill values as low as 20. No lightning risk. 
+
+$$
+
+MEZ005-130900-
+Katahdin Woods and Waters National Monument-
+258 PM EDT Thu Apr 12 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+and snow from late evening on. Low around 34. South winds 10 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+.FRIDAY...Partly sunny. A chance of rain and snow showers in the
+morning. High around 51. West winds around 10 mph. Chance of
+precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ029-130900-
+Top of Cadillac Mountain-
+258 PM EDT Thu Apr 12 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy until midnight, then summit becoming
+obscured. A chance of rain early this evening...then rain through
+early morning. a chance of rain late. Windy and not as cool with low
+around 39. South winds 15 to 20 mph increasing to southwest 25 to
+30 mph after midnight. Chance of precipitation near 100 percent. 
+.FRIDAY...Summit obscured in the morning, then becoming mostly
+cloudy. A slight chance of showers in the morning. High around 51.
+West winds 10 to 20 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-130900-
+Top of Deboullie Mountain-
+258 PM EDT Thu Apr 12 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy, then summit in and out of clouds after
+midnight, then summit becoming obscured. A chance of rain until
+midnight. snow from late evening on. Not as cool with low around 30.
+South winds 10 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+.FRIDAY...Summit obscured in the morning, then becoming mostly
+cloudy. A chance of snow showers in the morning. High around 44.
+West winds around 10 mph. Chance of precipitation 30 percent. No
+lightning risk. 
+
+$$
+
+MEZ006-130900-
+Top of Mars Hill Mountain-
+258 PM EDT Thu Apr 12 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy, then becoming cloudy late this evening,
+then summit in and out of clouds, then summit becoming obscured
+late. Rain and snow. Low around 33. South winds 10 to 15 mph. Chance
+of precipitation near 100 percent. No lightning risk. 
+.FRIDAY...Summit obscured in the morning, then becoming mostly
+cloudy. A chance of rain and snow showers in the morning. High
+around 48. West winds around 10 mph. Chance of precipitation
+40 percent. No lightning risk. 
+
+$$
+
+MEZ010-130900-
+Top of White Cap Mountain-
+258 PM EDT Thu Apr 12 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy until midnight, then summit becoming obscured. A
+chance of snow early this evening...then snow through early morning.
+a chance of snow and rain late. Low around 30. Southwest winds 15 to
+20 mph. Chance of precipitation near 100 percent. No lightning risk.
+.FRIDAY...Summit obscured in the morning, then becoming partly
+sunny. A slight chance of rain and snow showers in the morning.
+Breezy with high around 36. Northwest winds 20 to 25 mph shifting to
+the west 10 to 20 mph in the afternoon. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ010-130900-
+Moosehead Lake-
+258 PM EDT Thu Apr 12 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Rain until midnight. Snow. a chance of rain after
+midnight. Low around 34. South winds 10 mph. Chance of precipitation
+near 100 percent. No lightning risk. 
+.FRIDAY...Partly sunny. A slight chance of showers in the morning.
+High around 48. Northwest winds around 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-130900-
+Allagash Wilderness Waterway-
+258 PM EDT Thu Apr 12 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+late this evening. snow from late evening on. Not as cool with low
+around 33. Southeast winds around 10 mph until midnight becoming
+light winds. Chance of precipitation near 100 percent. No lightning
+risk. 
+.FRIDAY...Partly sunny. A chance of snow showers in the morning.
+High around 48. West winds 10 mph. Chance of precipitation
+30 percent. No lightning risk. 
+
+$$
+
+MEZ030-130900-
+St Croix River-
+258 PM EDT Thu Apr 12 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. A chance of rain early this evening...then
+snow through early morning. rain from late evening on. Not as cool
+with low around 37. South winds around 10 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+.FRIDAY...Mostly cloudy in the morning, then becoming partly sunny.
+A chance of showers in the morning. High around 54. West winds
+around 10 mph. Chance of precipitation 40 percent. No lightning
+risk. 
+
+$$
+
+MEZ030-130900-
+West Quoddy Head-
+258 PM EDT Thu Apr 12 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy early this evening, then becoming cloudy. A
+chance of rain early this evening...then rain from late evening on.
+Low around 40. South winds 10 to 20 mph. Chance of precipitation
+near 100 percent. Water temperature 39 degrees Fahrenheit. 
+.FRIDAY...Partly sunny. A chance of showers in the morning. High
+around 55. West winds 10 to 15 mph. Chance of precipitation
+40 percent. No lightning risk. Water temperature 39 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-130900-
+Upper Penobscot Watershed-
+258 PM EDT Thu Apr 12 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain and snow. Low around 36. South winds 10 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+.FRIDAY...Partly sunny. A chance of rain showers in the morning.
+High around 53. West winds around 10 mph. Chance of precipitation
+40 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-130900-
+Lower Penobscot Watershed-
+258 PM EDT Thu Apr 12 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+through early morning. a chance of rain late. Not as cool with low
+around 39. South winds around 10 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.FRIDAY...Partly sunny. High around 56. West winds around 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

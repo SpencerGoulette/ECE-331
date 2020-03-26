@@ -1,0 +1,197 @@
+
+927 
+SXUS41 KCAR 171901
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+301 PM EDT Wed Apr 17 2019
+
+MEZ004-180915-
+Top of Mount Katahdin-
+301 PM EDT Wed Apr 17 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Not as cool with low around 27. North winds 10 to
+20 mph shifting to the west 10 mph after midnight. No lightning
+risk. 
+.THURSDAY...Partly sunny in the morning, then becoming cloudy. A
+chance of rain showers in the afternoon. Brisk with high around 32.
+South winds 10 to 20 mph increasing to 15 to 30 mph in the
+afternoon. Chance of precipitation 40 percent. Wind chill values as
+low as 17. No lightning risk. 
+
+$$
+
+MEZ005-180915-
+Katahdin Woods and Waters National Monument-
+301 PM EDT Wed Apr 17 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Low around 28. North winds 15 mph shifting to the
+west after midnight. No lightning risk. 
+.THURSDAY...Partly sunny in the morning, then becoming mostly
+cloudy. A chance of rain showers in the afternoon. High around 48.
+South winds 15 mph increasing to 10 to 20 mph in the afternoon.
+Chance of precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ029-180915-
+Top of Cadillac Mountain-
+301 PM EDT Wed Apr 17 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 38. Northwest winds 10 to 15 mph
+shifting to the east 10 mph after midnight. No lightning risk. 
+.THURSDAY...Mostly sunny in the morning, then becoming mostly
+cloudy. A slight chance of showers in the afternoon. High around 43.
+South winds 10 to 25 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-180915-
+Top of Deboullie Mountain-
+301 PM EDT Wed Apr 17 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear. Low around 25. Northwest winds 10 to 15 mph
+shifting to the southwest after midnight. No lightning risk. 
+.THURSDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Rain showers likely in the afternoon. High around 44. South
+winds 10 to 20 mph. Chance of precipitation 60 percent. No lightning
+risk. 
+
+$$
+
+MEZ006-180915-
+Top of Mars Hill Mountain-
+301 PM EDT Wed Apr 17 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear. Low around 26. North winds 10 to 15 mph until
+midnight becoming light winds. No lightning risk. 
+.THURSDAY...Mostly sunny in the morning, then becoming mostly
+cloudy. A chance of rain showers in the afternoon. High around 47.
+South winds 15 mph increasing to 10 to 20 mph in the afternoon.
+Chance of precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ010-180915-
+Top of White Cap Mountain-
+301 PM EDT Wed Apr 17 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Low around 30. North winds 10 to 20 mph shifting
+to the south 10 mph after midnight. No lightning risk. 
+.THURSDAY...Partly sunny in the morning, then becoming mostly
+cloudy. A chance of rain showers in the afternoon. Breezy with high
+around 37. South winds 10 to 20 mph increasing to 15 to 30 mph in
+the afternoon. Chance of precipitation 30 percent. No lightning
+risk. 
+
+$$
+
+MEZ010-180915-
+Moosehead Lake-
+301 PM EDT Wed Apr 17 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Low around 27. North winds 10 mph shifting to the
+southeast after midnight. No lightning risk. 
+.THURSDAY...Partly sunny in the morning, then becoming mostly
+cloudy. A chance of rain showers in the afternoon. High around 45.
+South winds 10 to 20 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-180915-
+Allagash Wilderness Waterway-
+301 PM EDT Wed Apr 17 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear. Low around 24. Northwest winds 10 mph until
+midnight becoming light winds. No lightning risk. 
+.THURSDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Rain showers likely in the afternoon. High around 49. South
+winds 10 to 20 mph. Chance of precipitation 60 percent. No lightning
+risk. 
+
+$$
+
+MEZ030-180915-
+St Croix River-
+301 PM EDT Wed Apr 17 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Low around 28. North winds 10 to 15 mph decreasing
+to 10 mph after midnight. No lightning risk. 
+.THURSDAY...Partly sunny. A slight chance of rain showers in the
+afternoon. High around 51. Southeast winds 10 mph shifting to the
+south in the afternoon. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-180915-
+West Quoddy Head-
+301 PM EDT Wed Apr 17 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Low around 34. North winds 10 to 15 mph shifting
+to the northeast 10 mph after midnight. No lightning risk. Water
+temperature 39 degrees Fahrenheit. 
+.THURSDAY...Sunny in the morning, then becoming partly sunny. High
+around 44. South winds 10 to 20 mph. No lightning risk. Water
+temperature 39 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-180915-
+Upper Penobscot Watershed-
+301 PM EDT Wed Apr 17 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 28. North winds 15 mph until midnight
+becoming light winds. No lightning risk. 
+.THURSDAY...Partly sunny in the morning, then becoming mostly
+cloudy. A chance of rain showers in the afternoon. High around 50.
+Southeast winds 15 mph shifting to the south in the afternoon.
+Chance of precipitation 50 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-180915-
+Lower Penobscot Watershed-
+301 PM EDT Wed Apr 17 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 30. North winds 15 mph until midnight
+becoming light winds. No lightning risk. 
+.THURSDAY...Mostly sunny in the morning, then becoming mostly
+cloudy. A slight chance of rain showers in the afternoon. High
+around 51. Southeast winds 15 mph shifting to the south in the
+afternoon. Chance of precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

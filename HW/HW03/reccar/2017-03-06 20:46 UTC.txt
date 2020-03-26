@@ -1,0 +1,79 @@
+
+565 
+SXUS41 KCAR 062046
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+346 PM EST Mon Mar 6 2017
+
+MEZ004-071200-
+Top of Mount Katahdin-
+346 PM EST Mon Mar 6 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear until midnight...then becoming mostly cloudy.
+A slight chance of snow after midnight. Not as cool with low around 
+19. Light winds becoming southwest 10 to 15 mph after midnight. 
+Chance of precipitation 20 percent. 
+.TUESDAY...Cloudy in the morning...then summit becoming obscured.
+Freezing rain...snow AND sleet likely. High around 31. Southwest
+winds 15 to 20 mph increasing to 25 to 35 mph in the afternoon.
+Chance of precipitation 70 percent. Wind chill values as low as 13. 
+
+$$
+
+MEZ029-071200-
+Top of Cadillac Mountain-
+346 PM EST Mon Mar 6 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear until midnight...then becoming mostly cloudy. Not 
+as cool with low around 24. Northeast winds around 10 mph until 
+midnight becoming light winds. 
+.TUESDAY...Cloudy. A chance of freezing rain in the morning. a
+chance of snow and sleet. rain likely in the afternoon. High around
+36. South winds 10 to 20 mph increasing to 20 to 35 mph in the
+afternoon. Chance of precipitation 60 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-071200-
+Upper Penobscot Watershed-
+346 PM EST Mon Mar 6 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Low around 13. Light winds. 
+.TUESDAY...Cloudy. Snow likely in the morning...then rain and sleet
+likely with a chance of snow and freezing rain in the afternoon.
+High around 36. South winds around 10 mph. Chance of precipitation
+70 percent. Wind chill values as low as 9 above in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-071200-
+Lower Penobscot Watershed-
+346 PM EST Mon Mar 6 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear until midnight...then becoming mostly cloudy.
+Low around 16. Light winds. 
+.TUESDAY...Cloudy. A chance of freezing rain in the morning. a
+chance of snow. rain likely with a chance of sleet in the afternoon.
+High around 38. South winds around 5 mph. Chance of precipitation
+60 percent. Wind chill values as low as 13 in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

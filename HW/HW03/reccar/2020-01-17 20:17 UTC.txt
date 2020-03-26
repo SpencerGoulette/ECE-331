@@ -1,0 +1,203 @@
+
+000
+SXUS41 KCAR 172017
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+317 PM EST Fri Jan 17 2020
+
+MEZ004-181030-
+Top of Mount Katahdin-
+317 PM EST Fri Jan 17 2020
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear. Patchy blowing snow early this evening.
+Very windy and cold with low around 6 below. Northwest winds 25 to
+40 mph. Wind chill values as low as 33 below. No lightning risk. 
+.SATURDAY...Partly sunny and brisk, cold with high around 10 above.
+Northwest winds 15 to 30 mph shifting to the southwest 10 to 20 mph
+in the afternoon. Wind chill values as low as 27 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ005-181030-
+Katahdin Woods and Waters National Monument-
+317 PM EST Fri Jan 17 2020
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly clear. Patchy blowing snow early this evening.
+Cold with low around 10 below. Northwest winds 10 to 20 mph. Wind
+chill values as low as 28 below. No lightning risk. 
+.SATURDAY...Partly sunny. Cold with high around 10 above. Northwest
+winds 10 to 15 mph shifting to the west in the afternoon. Wind chill
+values as low as 23 below in the morning. No lightning risk. 
+
+$$
+
+MEZ029-181030-
+Top of Cadillac Mountain-
+317 PM EST Fri Jan 17 2020
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Patchy blowing snow early this evening. Strong
+winds and cold with low around 4 below. North winds 30 to 50 mph
+becoming northwest 20 to 30 mph after midnight. Wind chill values as
+low as 28 below. No lightning risk. 
+.SATURDAY...Partly sunny. High around 20. Northwest winds 15 to
+25 mph shifting to the west 10 to 20 mph in the afternoon. Wind
+chill values as low as 25 below in the morning. No lightning risk. 
+
+$$
+
+MEZ001-181030-
+Top of Deboullie Mountain-
+317 PM EST Fri Jan 17 2020
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy through early morning, then clearing.
+Patchy blowing snow until midnight. Cold with low around 17 below.
+Northwest winds 10 to 20 mph. Wind chill values as low as 34 below.
+No lightning risk. 
+.SATURDAY...Partly sunny. Cold with high around 5 above. West winds
+10 to 15 mph decreasing to 10 mph in the afternoon. Wind chill
+values as low as 34 below in the morning. No lightning risk. 
+
+$$
+
+MEZ006-181030-
+Top of Mars Hill Mountain-
+317 PM EST Fri Jan 17 2020
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear. Patchy blowing snow until midnight. Cold
+with low around 13 below. Northwest winds 10 to 20 mph. Wind chill
+values as low as 32 below. No lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny. Cold
+with high around 5 above. North winds 10 to 15 mph. Wind chill
+values as low as 30 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-181030-
+Top of White Cap Mountain-
+317 PM EST Fri Jan 17 2020
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Patchy blowing snow early this evening. Strong
+winds and cold with low around 11 below. North winds 40 to 50 mph
+shifting to the northwest 30 to 45 mph after midnight. Wind chill
+values as low as 42 below. No lightning risk. 
+.SATURDAY...Partly sunny and windy. Not as cool with high around
+10 above. Northwest winds 15 to 35 mph shifting to the west 10 to
+25 mph in the afternoon. Wind chill values as low as 32 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ010-181030-
+Moosehead Lake-
+317 PM EST Fri Jan 17 2020
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Patchy blowing snow early this evening. Cold with
+low around 9 below. Northwest winds 10 to 20 mph. Wind chill values
+as low as 25 below. No lightning risk. 
+.SATURDAY...Mostly sunny in the morning, then becoming mostly
+cloudy. High around 13. West winds 10 to 15 mph shifting to the
+southwest in the afternoon. Wind chill values as low as 22 below in
+the morning. No lightning risk. 
+
+$$
+
+MEZ001-181030-
+Allagash Wilderness Waterway-
+317 PM EST Fri Jan 17 2020
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy through early morning, then clearing.
+Patchy blowing snow early this evening. Cold with low around
+17 below. Northwest winds 10 to 15 mph. Wind chill values as low as
+29 below. No lightning risk. 
+.SATURDAY...Partly sunny. Cold with high around 7 above. West winds
+10 mph. No lightning risk. 
+
+$$
+
+MEZ030-181030-
+St Croix River-
+317 PM EST Fri Jan 17 2020
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Patchy blowing snow early this evening. Colder
+with low around 8 below. Northwest winds 10 to 20 mph. Wind chill
+values as low as 26 below. No lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny. High
+around 13. Northwest winds 10 to 15 mph shifting to the west in the
+afternoon. Wind chill values as low as 22 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-181030-
+West Quoddy Head-
+317 PM EST Fri Jan 17 2020
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Patchy blowing snow early this evening. Windy,
+cold with low around 3 above. Northwest winds 25 to 35 mph
+decreasing to 20 to 25 mph after midnight. Wind chill values as low
+as 17 below. No lightning risk. Water temperature 41 degrees
+Fahrenheit. 
+.SATURDAY...Partly sunny. High around 21. Northwest winds 10 to
+20 mph shifting to the west in the afternoon. Wind chill values as
+low as 14 below in the morning. No lightning risk. Water temperature
+41 degrees Fahrenheit. 
+
+$$
+
+MEZ004>006-010-011-031-181030-
+Upper Penobscot Watershed-
+317 PM EST Fri Jan 17 2020
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy blowing snow early this evening. Cold with
+low around 9 below. Northwest winds 10 to 20 mph. Wind chill values
+as low as 23 below. No lightning risk. 
+.SATURDAY...Partly sunny. High around 13. Northwest winds 10 mph
+shifting to the west in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-181030-
+Lower Penobscot Watershed-
+317 PM EST Fri Jan 17 2020
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy blowing snow early this evening. Colder
+with low around 6 below. Northwest winds 10 to 20 mph. Wind chill
+values as low as 19 below. No lightning risk. 
+.SATURDAY...Mostly sunny in the morning, then becoming mostly
+cloudy. High around 16. Northwest winds 10 mph shifting to the west
+in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

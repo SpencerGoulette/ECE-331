@@ -1,0 +1,207 @@
+
+176 
+SXUS41 KCAR 131857
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+257 PM EDT Fri Oct 13 2017
+
+MEZ004-140900-
+Top of Mount Katahdin-
+257 PM EDT Fri Oct 13 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear until midnight...then becoming mostly cloudy. A
+slight chance of showers until midnight...then a chance of showers
+after midnight. Low around 43. South winds 10 to 15 mph. Chance of
+precipitation 30 percent. No lightning risk. 
+.SATURDAY...Summit obscured in the morning...then becoming cloudy. A
+chance of showers in the morning...then a slight chance of showers
+in the afternoon. High around 49. West winds 10 to 15 mph. Chance of
+precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ005-140900-
+Katahdin Woods and Waters National Monument-
+257 PM EDT Fri Oct 13 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear until midnight...then becoming mostly cloudy. A
+slight chance of showers until midnight...then a chance of showers
+after midnight. Not as cool with low around 44. Light winds. Chance
+of precipitation 30 percent. No lightning risk. 
+.SATURDAY...Cloudy. A chance of showers in the morning. High around
+61. Light winds becoming west around 10 mph in the afternoon. Chance
+of precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ029-140900-
+Top of Cadillac Mountain-
+257 PM EDT Fri Oct 13 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then summit
+becoming obscured. Low around 49. South winds around 10 mph. No
+lightning risk. 
+.SATURDAY...Summit obscured in the morning...then summit in and out
+of clouds. High around 61. Southwest winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-140900-
+Top of Deboullie Mountain-
+257 PM EDT Fri Oct 13 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy. A
+slight chance of showers after midnight. Not as cool with low around
+44. South winds 10 to 15 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.SATURDAY...Summit obscured. A chance of showers in the morning.
+High around 56. Southwest winds 10 to 15 mph. Chance of
+precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ006-140900-
+Top of Mars Hill Mountain-
+257 PM EDT Fri Oct 13 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear until midnight...then becoming mostly cloudy. A
+slight chance of showers until midnight...then a chance of showers
+after midnight. Not as cool with low around 44. South winds around
+10 mph. Chance of precipitation 40 percent. No lightning risk. 
+.SATURDAY...Summit obscured in the morning...then summit in and out
+of clouds. A chance of showers in the morning. High around 59.
+Southwest winds 10 to 15 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+
+$$
+
+MEZ010-140900-
+Top of White Cap Mountain-
+257 PM EDT Fri Oct 13 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear until midnight...then becoming mostly cloudy. A
+slight chance of showers until midnight...then a chance of showers
+after midnight. Low around 43. South winds around 10 mph. Chance of
+precipitation 40 percent. No lightning risk. 
+.SATURDAY...Summit obscured in the morning...then becoming cloudy. A
+chance of showers in the morning. High around 53. Southwest winds
+10 to 15 mph. Chance of precipitation 30 percent. No lightning risk.
+
+$$
+
+MEZ010-140900-
+Moosehead Lake-
+257 PM EDT Fri Oct 13 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. A slight chance of showers until midnight...then a chance of
+showers after midnight. Low around 45. Light winds. Waves 1 foot.
+Chance of precipitation 40 percent. No lightning risk. Water
+temperature 64 degrees Fahrenheit. 
+.SATURDAY...Cloudy. A slight chance of showers in the morning. High
+around 61. Waves 1 foot. Light winds. Chance of precipitation
+20 percent. No lightning risk. Water temperature 64 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-140900-
+Allagash Wilderness Waterway-
+257 PM EDT Fri Oct 13 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy. A
+slight chance of showers after midnight. Not as cool with low around
+43. Southwest winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.SATURDAY...Cloudy. A chance of showers in the morning. High around
+60. Southwest winds 10 to 15 mph. Chance of precipitation
+40 percent. No lightning risk. 
+
+$$
+
+MEZ030-140900-
+St Croix River-
+257 PM EDT Fri Oct 13 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear until midnight...then becoming mostly cloudy. A
+slight chance of showers after midnight. Not as cool with low around
+44. Light winds. Chance of precipitation 20 percent. No lightning
+risk. 
+.SATURDAY...Cloudy. A chance of showers in the morning...then a
+slight chance of showers in the afternoon. High around 64. Southwest
+winds around 10 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-140900-
+West Quoddy Head-
+257 PM EDT Fri Oct 13 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear until midnight...then becoming partly cloudy. Not
+as cool with low around 50. Light winds. No lightning risk. Water
+temperature 56 degrees Fahrenheit. 
+.SATURDAY...Mostly cloudy. High around 62. Southwest winds around
+10 mph. No lightning risk. Water temperature 56 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-140900-
+Upper Penobscot Watershed-
+257 PM EDT Fri Oct 13 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear until midnight...then becoming mostly cloudy. A
+chance of showers after midnight. Not as cool with low around 45.
+Light winds. Chance of precipitation 40 percent. No lightning risk. 
+.SATURDAY...Cloudy. A slight chance of showers in the morning. High
+around 63. Light winds becoming west around 10 mph in the afternoon.
+Chance of precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-140900-
+Lower Penobscot Watershed-
+257 PM EDT Fri Oct 13 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear until midnight...then becoming mostly cloudy. A
+slight chance of showers after midnight. Not as cool with low around
+47. Light winds. Chance of precipitation 20 percent. No lightning
+risk. 
+.SATURDAY...Cloudy. A slight chance of showers. High around 67.
+Southwest winds around 10 mph. Chance of precipitation 20 percent.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,235 @@
+
+455 
+SXUS41 KCAR 111659
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+1259 PM EDT Wed Sep 11 2019
+
+MEZ004-120700-
+Top of Mount Katahdin-
+1259 PM EDT Wed Sep 11 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.REST OF TODAY...Summit in and out of clouds early this afternoon,
+then summit becoming obscured. Numerous showers and isolated
+thunderstorms. Windy and not as cool with high around 56. West winds
+25 to 35 mph. Chance of precipitation 70 percent. Lightning risk is
+limited. 
+.TONIGHT...Summit obscured until midnight, then becoming mostly
+cloudy. Numerous showers until midnight. Windy with low around 39.
+North winds 20 to 35 mph. Chance of precipitation 60 percent. No
+lightning risk. 
+.THURSDAY...Partly sunny. Cooler with high around 43. North winds
+10 to 25 mph. No lightning risk. 
+
+$$
+
+MEZ005-120700-
+Katahdin Woods and Waters National Monument-
+1259 PM EDT Wed Sep 11 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.REST OF TODAY...Mostly cloudy. Numerous showers and isolated
+thunderstorms. High around 69. West winds 10 to 15 mph. Chance of
+precipitation 70 percent. Lightning risk is limited. 
+.TONIGHT...Mostly cloudy. Numerous showers until midnight. Low
+around 47. North winds 10 to 15 mph. Chance of precipitation
+60 percent. No lightning risk. 
+.THURSDAY...Partly sunny. High around 62. North winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ029-120700-
+Top of Cadillac Mountain-
+1259 PM EDT Wed Sep 11 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.REST OF TODAY...Summit obscured. Scattered showers. Breezy with
+high around 67. West winds 20 to 30 mph. Chance of precipitation
+30 percent. No lightning risk. 
+.TONIGHT...Summit in and out of clouds until midnight, then becoming
+mostly cloudy. Scattered showers until midnight. Low around 51.
+Northwest winds 15 to 25 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+.THURSDAY...Summit obscured in the morning, then becoming partly
+sunny. High around 61. North winds 10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ001-120700-
+Top of Deboullie Mountain-
+1259 PM EDT Wed Sep 11 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.REST OF TODAY...Summit obscured. Numerous showers early this
+afternoon...then scattered showers late. High around 58. Northwest
+winds 10 to 15 mph. Chance of precipitation 70 percent. No lightning
+risk. 
+.TONIGHT...Summit obscured. Isolated showers until midnight. Low
+around 42. North winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. High around 56. North winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ006-120700-
+Top of Mars Hill Mountain-
+1259 PM EDT Wed Sep 11 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.REST OF TODAY...Summit obscured. Numerous showers. High around 64.
+West winds 10 to 20 mph. Chance of precipitation 70 percent. No
+lightning risk. 
+.TONIGHT...Summit obscured. Scattered showers until midnight. Low
+around 44. North winds 10 to 20 mph. Chance of precipitation
+50 percent. No lightning risk. 
+.THURSDAY...Summit obscured in the morning, then becoming partly
+sunny. High around 59. North winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ010-120700-
+Top of White Cap Mountain-
+1259 PM EDT Wed Sep 11 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.REST OF TODAY...Summit obscured. Numerous showers and isolated
+thunderstorms. Breezy and not as cool with high around 61. West
+winds 20 to 30 mph. Chance of precipitation 70 percent. Lightning
+risk is limited. 
+.TONIGHT...Summit obscured until midnight, then becoming mostly
+cloudy. Numerous showers and isolated thunderstorms until midnight.
+Breezy with low around 42. North winds 15 to 30 mph. Chance of
+precipitation 60 percent. Lightning risk is limited. 
+.THURSDAY...Partly sunny. Cooler with high around 49. North winds
+10 to 25 mph. No lightning risk. 
+
+$$
+
+MEZ010-120700-
+Moosehead Lake-
+1259 PM EDT Wed Sep 11 2019
+
+...MOOSEHEAD LAKE...
+
+.REST OF TODAY...Mostly cloudy. Numerous showers and isolated
+thunderstorms. High around 69. West winds 10 to 15 mph. Waves
+3 feet. Chance of precipitation 70 percent. Lightning risk is
+limited. Water temperature 63 degrees Fahrenheit. 
+.TONIGHT...Mostly cloudy. Numerous showers until midnight. Low
+around 48. Waves 2 feet. North winds 10 to 15 mph. Chance of
+precipitation 60 percent. Lightning risk is limited. Water
+temperature 63 degrees Fahrenheit. 
+.THURSDAY...Partly sunny. High around 60. Waves 1 foot. North winds
+10 to 15 mph. No lightning risk. Water temperature 63 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-120700-
+Allagash Wilderness Waterway-
+1259 PM EDT Wed Sep 11 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.REST OF TODAY...Cloudy. Numerous showers early this afternoon...
+then scattered showers late. High around 62. Northwest winds 10 to
+15 mph. Chance of precipitation 60 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Isolated showers until midnight. Low
+around 43. North winds 10 to 15 mph decreasing to 10 mph after
+midnight. Chance of precipitation 20 percent. No lightning risk. 
+.THURSDAY...Partly sunny. High around 60. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ030-120700-
+St Croix River-
+1259 PM EDT Wed Sep 11 2019
+
+...ST CROIX RIVER...
+
+.REST OF TODAY...Mostly cloudy. Scattered showers early this
+afternoon...then numerous showers and isolated thunderstorms late.
+High around 70. Southwest winds 10 to 15 mph. Chance of
+precipitation 70 percent. Lightning risk is limited. 
+.TONIGHT...Mostly cloudy. Numerous showers and isolated
+thunderstorms until midnight. Low around 50. Northwest winds 10 mph.
+Chance of precipitation 70 percent. Lightning risk is limited. 
+.THURSDAY...Partly sunny. High around 65. North winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ030-120700-
+West Quoddy Head-
+1259 PM EDT Wed Sep 11 2019
+
+...WEST QUODDY HEAD...
+
+.REST OF TODAY...Mostly cloudy. Scattered showers. High around 61.
+Southwest winds 15 to 25 mph. Chance of precipitation 50 percent. No
+lightning risk. Water temperature 54 degrees Fahrenheit. 
+.TONIGHT...Mostly cloudy. Scattered showers until midnight...then
+isolated showers after midnight. Low around 54. West winds 10 to
+15 mph shifting to the north after midnight. Chance of precipitation
+40 percent. No lightning risk. Water temperature 54 degrees
+Fahrenheit. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. High around 60. North winds 10 to 15 mph decreasing to 10 mph
+in the afternoon. No lightning risk. Water temperature 54 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-120700-
+Upper Penobscot Watershed-
+1259 PM EDT Wed Sep 11 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.REST OF TODAY...Mostly cloudy. Numerous showers and isolated
+thunderstorms. High around 72. West winds 10 to 15 mph. Chance of
+precipitation 70 percent. Lightning risk is limited. 
+.TONIGHT...Mostly cloudy. Numerous showers and isolated
+thunderstorms until midnight. Low around 49. North winds 10 to
+15 mph. Chance of precipitation 70 percent. Lightning risk is
+limited. 
+.THURSDAY...Partly sunny. High around 64. North winds 10 to 15 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-120700-
+Lower Penobscot Watershed-
+1259 PM EDT Wed Sep 11 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.REST OF TODAY...Mostly cloudy. Scattered showers. isolated
+thunderstorms late. High around 75. Southwest winds 10 to 15 mph.
+Chance of precipitation 50 percent. Lightning risk is limited. 
+.TONIGHT...Mostly cloudy. Scattered showers and isolated
+thunderstorms until midnight. Low around 52. Northwest winds 10 to
+15 mph shifting to the north 10 mph after midnight. Chance of
+precipitation 50 percent. Lightning risk is limited. 
+.THURSDAY...Partly sunny. High around 66. North winds 10 to 15 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

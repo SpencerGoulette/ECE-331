@@ -1,0 +1,219 @@
+
+305 
+SXUS41 KCAR 051932
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+232 PM EST Tue Dec 5 2017
+
+MEZ004-060945-
+Top of Mount Katahdin-
+232 PM EST Tue Dec 5 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Sleet and rain early this evening...then
+rain. Rain and snow showers late. Strong winds with low around 31. 
+Southwest winds 35 to 45 mph. Chance of precipitation near 100 
+percent. Wind chill values as low as 18. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning...then clearing. Snow
+likely in the morning. Windy with high around 32. Temperatures
+falling to around 19 in the afternoon. West winds 20 to 30 mph.
+Chance of precipitation 60 percent. Wind chill values as low as zero
+in the afternoon. No lightning risk. 
+
+$$
+
+MEZ005-060945-
+Katahdin Woods and Waters National Monument-
+232 PM EST Tue Dec 5 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy, rain. Not as cool with low around 37. South winds
+10 to 15 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+.WEDNESDAY...Mostly cloudy in the morning...then clearing. Rain
+likely with a slight chance of snow showers in the morning. High
+around 39. Temperatures falling to around 30 in the afternoon. West
+winds around 10 mph. Chance of precipitation 60 percent. No
+lightning risk. 
+
+$$
+
+MEZ029-060945-
+Top of Cadillac Mountain-
+232 PM EST Tue Dec 5 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Rain. Strong winds and not as cool with
+low around 41. South winds 30 to 45 mph increasing to 45 to 50 mph
+after midnight. 64. Chance of precipitation near 100 percent. No
+lightning risk. 
+.WEDNESDAY...Summit obscured in the morning...then clearing. Showers
+likely in the morning. Very windy with high around 48. Temperatures
+falling to around 37 in the afternoon. Southwest winds 25 to 40 mph
+becoming west around 15 mph in the afternoon. Chance of
+precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ001-060945-
+Top of Deboullie Mountain-
+232 PM EST Tue Dec 5 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Rain and sleet until midnight...then 
+rain. Breezy and not as cool with low around 32 and temperatures
+slowly rising through the night. South winds 20 to 25 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as 19. No 
+lightning risk.
+.WEDNESDAY...Mostly cloudy in the morning...then clearing. A chance
+of rain and snow in the morning. High around 33. West winds 15 to
+20 mph. Chance of precipitation 40 percent. Wind chill values as low
+as 17. No lightning risk. 
+
+$$
+
+MEZ006-060945-
+Top of Mars Hill Mountain-
+232 PM EST Tue Dec 5 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. Sleet or snow early this evening. Rain,
+windy, and not as cool with low around 34. South winds 25 to 30 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 20. No lightning risk. 
+.WEDNESDAY...Summit obscured in the morning...then clearing. Rain
+with a chance of snow showers in the morning. High around 39.
+Temperatures falling to around 29 in the afternoon. West winds 10 to
+20 mph. Chance of precipitation 80 percent. Wind chill values as low
+as 17 in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-060945-
+Top of White Cap Mountain-
+232 PM EST Tue Dec 5 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. Rain and sleet early this evening...then
+rain. Very windy with low around 31. South winds 25 to 35 mph. 
+Chance of precipitation near 100 percent. Wind chill values as low as
+17. No lightning risk.
+
+.WEDNESDAY...Mostly cloudy in the morning...then clearing. A chance
+of rain and snow in the morning. Brisk with high around 33. West
+winds 15 to 25 mph. Chance of precipitation 50 percent. Wind chill
+values as low as 14. No lightning risk. 
+
+$$
+
+MEZ010-060945-
+Moosehead Lake-
+232 PM EST Tue Dec 5 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy, rain. Not as cool with low around 35. South winds
+10 to 20 mph. Waves 5 feet. Chance of precipitation near
+100 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. A chance of rain in the morning. High
+around 35. Waves 3 feet. West winds 10 to 15 mph. Chance of
+precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ001-060945-
+Allagash Wilderness Waterway-
+232 PM EST Tue Dec 5 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy, rain. Not as cool with low around 34. South winds
+10 to 15 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+.WEDNESDAY...Partly sunny. A chance of rain in the morning. High
+around 35. West winds 10 to 15 mph. Chance of precipitation
+40 percent. No lightning risk. 
+
+$$
+
+MEZ030-060945-
+St Croix River-
+232 PM EST Tue Dec 5 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy, rain. Not as cool with low around 41. South winds
+10 to 20 mph with gusts to around 35 mph. Chance of precipitation
+near 100 percent. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning...then clearing. Rain
+showers in the morning...then a slight chance of rain showers in the
+afternoon. High around 49. Temperatures falling to around 36 in the
+afternoon. West winds 10 to 20 mph. Chance of precipitation
+90 percent. No lightning risk. 
+
+$$
+
+MEZ030-060945-
+West Quoddy Head-
+232 PM EST Tue Dec 5 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy, rain. Very windy and not as cool with low around
+46. South winds 25 to 35 mph with gusts to around 55 mph. Chance of
+precipitation near 100 percent. No lightning risk. Water temperature
+49 degrees Fahrenheit. 
+.WEDNESDAY...Cloudy in the morning...then becoming partly sunny.
+Showers in the morning...then a slight chance of showers in the
+afternoon. Very windy with high around 51. Southwest winds 20 to
+35 mph becoming northwest around 10 mph in the afternoon. Chance of
+precipitation 90 percent. No lightning risk. Water temperature
+49 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-060945-
+Upper Penobscot Watershed-
+232 PM EST Tue Dec 5 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy, rain. Not as cool with low around 39. South winds
+10 to 15 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+.WEDNESDAY...Mostly cloudy in the morning...then clearing. Rain
+likely in the morning. High around 43. Temperatures falling to
+around 33 in the afternoon. West winds around 10 mph. Chance of
+precipitation 70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-060945-
+Lower Penobscot Watershed-
+232 PM EST Tue Dec 5 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy, rain. Not as cool with low around 43. South winds
+10 to 20 mph with gusts to around 35 mph. Chance of precipitation
+near 100 percent. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning...then clearing. Rain
+likely in the morning. High around 47. Temperatures falling to
+around 37 in the afternoon. West winds 10 to 15 mph. Chance of
+precipitation 70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

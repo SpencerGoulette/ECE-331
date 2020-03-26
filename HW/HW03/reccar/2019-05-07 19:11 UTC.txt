@@ -1,0 +1,213 @@
+
+454 
+SXUS41 KCAR 071911
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+311 PM EDT Tue May 7 2019
+
+MEZ004-080915-
+Top of Mount Katahdin-
+311 PM EDT Tue May 7 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy after
+midnight, then becoming mostly clear. Scattered rain and snow
+showers early this evening...then isolated snow showers through
+early morning. Brisk and much cooler with low around 23. Northwest
+winds 15 to 30 mph. Chance of precipitation 40 percent. Wind chill
+values as low as 11. No lightning risk. 
+.WEDNESDAY...Partly sunny. Isolated snow showers in the afternoon.
+Brisk and much cooler with high around 30. Northwest winds 20 to
+35 mph. Chance of precipitation 20 percent. Wind chill values as low
+as 10 above. No lightning risk. 
+
+$$
+
+MEZ005-080915-
+Katahdin Woods and Waters National Monument-
+311 PM EDT Tue May 7 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming clear. Scattered rain showers early this
+evening. Cooler with low around 34. Northwest winds 10 to 15 mph.
+Chance of precipitation 30 percent. No lightning risk. 
+.WEDNESDAY...Sunny in the morning, then becoming partly sunny.
+Cooler with high around 50. Northwest winds 10 to 25 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-080915-
+Top of Cadillac Mountain-
+311 PM EDT Tue May 7 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured, then becoming cloudy late this evening,
+then becoming partly cloudy, then becoming clear late. Showers
+likely early this evening...then isolated showers late this evening.
+Low around 38. West winds 10 to 20 mph shifting to the northwest
+15 to 20 mph after midnight. Chance of precipitation 70 percent. No
+lightning risk. 
+.WEDNESDAY...Sunny. High around 51. Northwest winds 15 to 25 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-080915-
+Top of Deboullie Mountain-
+311 PM EDT Tue May 7 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming mostly clear. Isolated rain showers early
+this evening. Cooler with low around 31. Northwest winds 15 to
+20 mph. Chance of precipitation 20 percent. Wind chill values as low
+as 20. No lightning risk. 
+.WEDNESDAY...Partly sunny. Cooler with high around 41. Northwest
+winds 20 to 35 mph. Wind chill values as low as 25. No lightning 
+risk.
+
+
+$$
+
+MEZ006-080915-
+Top of Mars Hill Mountain-
+311 PM EDT Tue May 7 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming mostly clear. Scattered rain showers early
+this evening. Cooler with low around 33. Northwest winds 10 to
+20 mph. Chance of precipitation 30 percent. No lightning risk. 
+.WEDNESDAY...Mostly sunny. Cooler with high around 46. Northwest
+winds 15 to 30 mph. No lightning risk. 
+
+$$
+
+MEZ010-080915-
+Top of White Cap Mountain-
+311 PM EDT Tue May 7 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy, then becoming partly cloudy late this evening,
+then becoming mostly clear. Scattered rain showers early this
+evening. Much cooler with low around 27. Northwest winds 15 to
+25 mph. Chance of precipitation 30 percent. Wind chill values as low
+as 15. No lightning risk. 
+.WEDNESDAY...Partly sunny and brisk, cooler with high around 37.
+Northwest winds 20 to 35 mph. Wind chill values as low as 17. No 
+lightning risk. 
+
+$$
+
+MEZ010-080915-
+Moosehead Lake-
+311 PM EDT Tue May 7 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming mostly clear. Isolated rain showers early
+this evening. Cooler with low around 33. Northwest winds 10 to
+15 mph. Chance of precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Sunny in the morning, then becoming partly sunny.
+Cooler with high around 48. Northwest winds 10 to 25 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-080915-
+Allagash Wilderness Waterway-
+311 PM EDT Tue May 7 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming mostly clear. Isolated rain showers early
+this evening. Cooler with low around 31. Northwest winds 10 to
+15 mph decreasing to 10 mph after midnight. Chance of precipitation
+20 percent. No lightning risk. 
+.WEDNESDAY...Sunny in the morning, then becoming partly sunny. High
+around 48. Northwest winds 10 to 25 mph. No lightning risk. 
+
+$$
+
+MEZ030-080915-
+St Croix River-
+311 PM EDT Tue May 7 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy after
+midnight, then becoming clear. Showers likely early this evening...
+then isolated showers late this evening. Low around 38. West winds
+10 mph shifting to the northwest 10 to 15 mph after midnight. Chance
+of precipitation 70 percent. No lightning risk. 
+.WEDNESDAY...Sunny, cooler with high around 55. Northwest winds
+10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ030-080915-
+West Quoddy Head-
+311 PM EDT Tue May 7 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy, then becoming partly cloudy after midnight, then
+becoming clear. Showers early this evening...then scattered showers
+late this evening. isolated showers after midnight. Low around 40.
+Southwest winds 10 to 20 mph shifting to the northwest 10 to 15 mph
+after midnight. Chance of precipitation 80 percent. No lightning
+risk. Water temperature 40 degrees Fahrenheit. 
+.WEDNESDAY...Sunny. High around 51. Northwest winds 15 to 20 mph. No
+lightning risk. Water temperature 40 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-080915-
+Upper Penobscot Watershed-
+311 PM EDT Tue May 7 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy, then becoming partly cloudy late this evening,
+then becoming clear. Scattered rain showers early this evening. Low
+around 36. Northwest winds 10 to 15 mph. Chance of precipitation
+50 percent. No lightning risk. 
+.WEDNESDAY...Mostly sunny. Cooler with high around 52. Northwest
+winds 10 to 20 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-080915-
+Lower Penobscot Watershed-
+311 PM EDT Tue May 7 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy, then becoming partly cloudy late this evening,
+then becoming mostly clear. Scattered showers early this evening.
+Low around 38. Northwest winds 10 to 15 mph. Chance of precipitation
+50 percent. No lightning risk. 
+.WEDNESDAY...Sunny. High around 56. Northwest winds 10 to 20 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

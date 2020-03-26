@@ -1,0 +1,54 @@
+ECE 331
+Spencer Goulette
+Notes
+03/10/20
+
+Class online after Spring break
+
+KERNEL
+
+wwv data structure
+
+wwv_ioctl
+
+gpiod_set_value
+
+Need to do locking so that the gpio pin isn't being toggled incorrectly
+
+Don't want deadlock and race conditions
+
+sleeping in kernel space
+
+/usr/src/linux-4.18.97/Documentation
+
+timers-howto.txt
+
+If in an atomic context
+ndelay
+udelay
+mdelay
+
+Not an atomic context
+
+udelay
+usleep_range
+msleep_interruptible
+
+msleep_interruptible should be used to do large values
+
+explanations in the timer documentation on which to use
+
+chrome: linux xross reference
+bootln - look for stuff there as well
+
+kernel-hacking/hacking.rst
+To get data from user space to kernel space
+copy functions
+put_user
+get_user
+copy_to_user
+copy_from_user
+
+check for errors when things are passed and make sure a valid address
+
+

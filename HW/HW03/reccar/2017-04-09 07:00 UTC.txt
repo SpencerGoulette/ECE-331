@@ -1,0 +1,81 @@
+
+651 
+SXUS41 KCAR 090700
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+300 AM EDT Sun Apr 9 2017
+
+MEZ004-092100-
+Top of Mount Katahdin-
+300 AM EDT Sun Apr 9 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly sunny. Not as cool with high around 38. Northwest
+winds 10 to 15 mph. Wind chill values as low as 7 above. 
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy.
+Patchy fog after midnight. Not as cool with low around 36. West
+winds 10 to 15 mph. 
+.MONDAY...Mostly cloudy. Patchy fog in the morning. Not as cool with
+high around 51. Southwest winds 15 to 20 mph increasing to 25 to
+30 mph in the afternoon. 
+
+$$
+
+MEZ029-092100-
+Top of Cadillac Mountain-
+300 AM EDT Sun Apr 9 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny. High around 48. West winds 10 to 15 mph. 
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Patchy fog after midnight. Low around 42. Southwest winds
+around 10 mph. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Patchy fog in the morning. High around 51. Southwest winds around
+15 mph increasing to 20 to 25 mph in the afternoon. 
+
+$$
+
+MEZ004&gt;006-010-011-031-092100-
+Upper Penobscot Watershed-
+300 AM EDT Sun Apr 9 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. Not as cool with high around 53. Northwest
+winds around 10 mph. 
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy.
+Patchy fog after midnight. Low around 38. Light winds becoming
+southwest around 10 mph after midnight. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Patchy fog in the morning. Not as cool with high around 64. South
+winds around 10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-092100-
+Lower Penobscot Watershed-
+300 AM EDT Sun Apr 9 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny this morning...then clearing. Not as cool with
+high around 55. Northwest winds around 10 mph. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Patchy fog after midnight. Low around 38. Light winds
+becoming southwest around 10 mph after midnight. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Patchy fog in the morning. Warmer with high around 65. South winds
+10 to 15 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

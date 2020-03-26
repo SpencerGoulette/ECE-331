@@ -1,0 +1,199 @@
+
+192 
+SXUS41 KCAR 142005
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+405 PM EDT Thu Mar 14 2019
+
+MEZ004-151015-
+Top of Mount Katahdin-
+405 PM EDT Thu Mar 14 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy. A slight chance of rain late. Very windy
+and not as cool with low around 34. Southwest winds 10 to 25 mph
+increasing to 25 to 40 mph after midnight. Chance of precipitation
+20 percent. No lightning risk. 
+.FRIDAY...Cloudy in the morning, then summit in and out of clouds.
+Rain. Very windy with high around 45. Southwest winds 25 to 40 mph.
+Chance of precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ005-151015-
+Katahdin Woods and Waters National Monument-
+405 PM EDT Thu Mar 14 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. A slight chance of rain late. Not as cool
+with low around 32. South winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.FRIDAY...Cloudy, rain. Patchy fog in the afternoon. High around 46.
+South winds 10 to 15 mph. Chance of precipitation 80 percent. No
+lightning risk. 
+
+$$
+
+MEZ029-151015-
+Top of Cadillac Mountain-
+405 PM EDT Thu Mar 14 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy. Low around 33. South winds 10 to 25 mph.
+No lightning risk. 
+.FRIDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. Rain, windy with high around 47. South winds
+15 to 35 mph shifting to the southwest 25 to 35 mph in the
+afternoon. Chance of precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ001-151015-
+Top of Deboullie Mountain-
+405 PM EDT Thu Mar 14 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds early this evening, then
+summit becoming obscured. A slight chance of rain late. Not as cool
+with low around 29. South winds 10 to 20 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.FRIDAY...Summit obscured. Rain. High around 47. Southwest winds
+15 to 20 mph. Chance of precipitation 80 percent. No lightning risk.
+
+$$
+
+MEZ006-151015-
+Top of Mars Hill Mountain-
+405 PM EDT Thu Mar 14 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy early this evening, then summit becoming
+obscured. A slight chance of rain late. Not as cool with low around
+30. South winds 10 to 20 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.FRIDAY...Summit obscured. Rain. High around 46. South winds 15 to
+20 mph. Chance of precipitation 90 percent. No lightning risk. 
+
+$$
+
+MEZ010-151015-
+Top of White Cap Mountain-
+405 PM EDT Thu Mar 14 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly cloudy. A slight chance of rain late. Breezy with
+low around 30. South winds 10 to 25 mph shifting to the southwest
+20 to 30 mph after midnight. Chance of precipitation 20 percent.
+Wind chill values as low as 18. No lightning risk. 
+.FRIDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. Rain. High around 44. Southwest winds 15 to
+25 mph. Chance of precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ010-151015-
+Moosehead Lake-
+405 PM EDT Thu Mar 14 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. A slight chance of rain late. Not as cool
+with low around 30. South winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.FRIDAY...Cloudy, rain. Patchy fog in the afternoon. High around 47.
+South winds 10 to 15 mph. Chance of precipitation 80 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-151015-
+Allagash Wilderness Waterway-
+405 PM EDT Thu Mar 14 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. Patchy fog after midnight. A slight chance
+of rain late. Not as cool with low around 31. South winds 10 mph
+increasing to 10 to 15 mph after midnight. Chance of precipitation
+20 percent. No lightning risk. 
+.FRIDAY...Cloudy, rain. High around 49. South winds 10 to 15 mph.
+Chance of precipitation 90 percent. No lightning risk. 
+
+$$
+
+MEZ030-151015-
+St Croix River-
+405 PM EDT Thu Mar 14 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Patchy fog from late evening on. Not as cool with low around
+32. South winds 10 mph increasing to 10 to 15 mph after midnight. No
+lightning risk. 
+.FRIDAY...Cloudy, rain. High around 48. South winds 10 to 15 mph.
+Chance of precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ030-151015-
+West Quoddy Head-
+405 PM EDT Thu Mar 14 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Low around 36. South winds 10 to 20 mph. No lightning risk.
+Water temperature 36 degrees Fahrenheit. 
+.FRIDAY...Cloudy, rain, breezy with high around 46. South winds
+15 to 30 mph. Chance of precipitation 80 percent. No lightning risk.
+Water temperature 36 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-151015-
+Upper Penobscot Watershed-
+405 PM EDT Thu Mar 14 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Patchy fog from late evening on. A slight
+chance of rain late. Not as cool with low around 32. South winds
+10 mph increasing to 10 to 15 mph after midnight. Chance of
+precipitation 20 percent. No lightning risk. 
+.FRIDAY...Cloudy. Patchy fog. Rain likely. High around 48. South
+winds 10 to 15 mph. Chance of precipitation 70 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-151015-
+Lower Penobscot Watershed-
+405 PM EDT Thu Mar 14 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Patchy fog from late evening on. A slight
+chance of rain late. Low around 33. South winds 10 to 15 mph. Chance
+of precipitation 20 percent. No lightning risk. 
+.FRIDAY...Cloudy. Patchy fog in the morning. Rain. High around 49.
+South winds 10 to 15 mph. Chance of precipitation 80 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Maloit

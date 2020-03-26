@@ -1,0 +1,67 @@
+
+764 
+SXUS41 KCAR 041952
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+252 PM EST Sat Mar 4 2017
+
+MEZ004-051000-
+Top of Mount Katahdin-
+252 PM EST Sat Mar 4 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear. Cold with low around 14 below. Temperatures
+rising to around 3 below after midnight. North winds 35 to 40 mph.
+Wind chill values as low as 47 below. 
+.SUNDAY...Sunny. Not as cool with high around 8 above. North winds
+30 to 35 mph. Wind chill values as low as 32 below in the morning. 
+
+$$
+
+MEZ029-051000-
+Top of Cadillac Mountain-
+252 PM EST Sat Mar 4 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear. Low around 3 above. Northwest winds 30 to
+35 mph. Wind chill values as low as 22 below. 
+.SUNDAY...Sunny. Not as cool with high around 20. Northwest winds
+around 30 mph. Wind chill values as low as 22 below in the morning. 
+
+$$
+
+MEZ004&gt;006-010-011-031-051000-
+Upper Penobscot Watershed-
+252 PM EST Sat Mar 4 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 2 below. Northwest winds 15 to 20 mph.
+Wind chill values as low as 26 below. 
+.SUNDAY...Sunny. Not as cool with high around 22. Northwest winds
+15 to 20 mph. Wind chill values as low as 25 below in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-051000-
+Lower Penobscot Watershed-
+252 PM EST Sat Mar 4 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 1 above. Northwest winds 10 to 15 mph.
+Wind chill values as low as 20 below. 
+.SUNDAY...Sunny. Not as cool with high around 27. Northwest winds
+10 to 20 mph. Wind chill values as low as 19 below in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

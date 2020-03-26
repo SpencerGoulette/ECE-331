@@ -1,0 +1,96 @@
+
+400 
+SXUS41 KCAR 230658
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+258 AM EDT Tue May 23 2017
+
+MEZ004-232100-
+Top of Mount Katahdin-
+258 AM EDT Tue May 23 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Cloudy. Isolated showers this morning. High around 48. West
+winds 20 to 30 mph. Chance of precipitation 20 percent. 
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Low around 41. West winds 10 to 20 mph. 
+.WEDNESDAY...Mostly cloudy in the morning...then summit becoming
+obscured. A chance of showers in the afternoon. High around 53.
+Northwest winds around 10 mph. Chance of precipitation 40 percent. 
+
+$$
+
+MEZ029-232100-
+Top of Cadillac Mountain-
+258 AM EDT Tue May 23 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Summit obscured this morning...then becoming partly sunny.
+Patchy fog and scattered showers early this morning. High around 61.
+Southwest winds around 10 mph. Chance of precipitation 30 percent. 
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 53. West winds around 10 mph until midnight
+becoming light winds. 
+.WEDNESDAY...Partly sunny. High around 60. Northeast winds around
+10 mph in the morning becoming light winds. 
+
+$$
+
+MEZ010-232100-
+Moosehead Lake-
+258 AM EDT Tue May 23 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Patchy fog early this morning. Warmer with high around 68. West 
+winds around 10 mph. Waves 2 feet. 
+.TONIGHT...Partly cloudy. Low around 47. Waves 1 foot. West winds
+around 5 mph until midnight becoming light winds. 
+.WEDNESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. A chance of showers in the afternoon. High around 70. Waves
+1 foot. Light winds. Chance of precipitation 30 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-232100-
+Upper Penobscot Watershed-
+258 AM EDT Tue May 23 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Patchy fog early this morning. Warmer with high around 70. Southwest
+winds around 10 mph. 
+.TONIGHT...Partly cloudy. Low around 46. West winds around 5 mph
+until midnight becoming light winds. 
+.WEDNESDAY...Partly sunny. High around 72. Light winds. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-232100-
+Lower Penobscot Watershed-
+258 AM EDT Tue May 23 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Patchy fog early this morning. Warmer with high around 72. Light 
+winds becoming southwest around 10 mph this afternoon. 
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 48. Light winds. 
+.WEDNESDAY...Partly sunny. High around 72. Light winds. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

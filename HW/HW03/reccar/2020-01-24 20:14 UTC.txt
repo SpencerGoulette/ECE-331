@@ -1,0 +1,182 @@
+
+000
+SXUS41 KCAR 242014
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+314 PM EST Fri Jan 24 2020
+
+MEZ004-251015-
+Top of Mount Katahdin-
+314 PM EST Fri Jan 24 2020
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy. Low around 21. South winds 10 to 20 mph. 
+Wind chill values as low as 7 above. No lightning risk. 
+.SATURDAY...Mostly cloudy. Brisk with high around 31. South winds 15
+to 20 mph increasing to 20 to 30 mph in the afternoon. Wind chill 
+values as low as 10 above. No lightning risk. 
+
+$$
+
+MEZ005-251015-
+Katahdin Woods and Waters National Monument-
+314 PM EST Fri Jan 24 2020
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Low around 19. Southeast winds 10 mph. No lightning risk. 
+.SATURDAY...Mostly cloudy. High around 31. Southeast winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-251015-
+Top of Cadillac Mountain-
+314 PM EST Fri Jan 24 2020
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy until midnight, then summit in and out of
+clouds. Low around 29. Southeast winds 15 to 20 mph. No lightning
+risk. 
+.SATURDAY...Summit obscured. Patchy drizzle in the afternoon. Breezy
+with high around 35. Southeast winds 15 to 20 mph increasing to
+20 to 30 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-251015-
+Top of Deboullie Mountain-
+314 PM EST Fri Jan 24 2020
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Cooler with low around 12. Southeast winds 10 mph. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. High around 28. Southeast winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-251015-
+Top of Mars Hill Mountain-
+314 PM EST Fri Jan 24 2020
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 14. Light winds becoming southeast 10 mph after
+midnight. No lightning risk. 
+.SATURDAY...Summit in and out of clouds. High around 28. Southeast
+winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ010-251015-
+Top of White Cap Mountain-
+314 PM EST Fri Jan 24 2020
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly cloudy. A slight chance of light snow with patchy
+freezing drizzle after midnight. Low around 21. South winds 15 to
+25 mph. Chance of precipitation 20 percent. Wind chill values as low
+as 6 above. No lightning risk. 
+.SATURDAY...Cloudy. A slight chance of light snow with patchy
+freezing drizzle in the morning. High around 29. South winds 15 to
+25 mph. Chance of precipitation 20 percent. Wind chill values as low
+as 12. No lightning risk. 
+
+$$
+
+MEZ010-251015-
+Moosehead Lake-
+314 PM EST Fri Jan 24 2020
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Patchy freezing drizzle late. Low around
+22. Southeast winds 10 mph. No lightning risk. 
+.SATURDAY...Mostly cloudy. High around 32. Southeast winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-251015-
+Allagash Wilderness Waterway-
+314 PM EST Fri Jan 24 2020
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Cooler with low around 11. Southeast winds 10 mph. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. High around 30. Southeast winds 10 mph.
+No lightning risk. 
+
+$$
+
+MEZ030-251015-
+St Croix River-
+314 PM EST Fri Jan 24 2020
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 18. East winds 10 mph. No lightning risk. 
+.SATURDAY...Mostly cloudy. High around 33. East winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-251015-
+West Quoddy Head-
+314 PM EST Fri Jan 24 2020
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 30. East winds 10 to 15 mph. No lightning risk.
+Water temperature 41 degrees Fahrenheit. 
+.SATURDAY...Mostly cloudy. Patchy drizzle in the afternoon. High
+around 37. East winds 10 to 20 mph. No lightning risk. Water
+temperature 41 degrees Fahrenheit. 
+
+$$
+
+MEZ004>006-010-011-031-251015-
+Upper Penobscot Watershed-
+314 PM EST Fri Jan 24 2020
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Low around 19. East winds 10 mph. No lightning risk. 
+.SATURDAY...Cloudy. Patchy freezing drizzle in the morning. High
+around 32. Southeast winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-251015-
+Lower Penobscot Watershed-
+314 PM EST Fri Jan 24 2020
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Low around 22. Northeast winds 10 mph. No lightning risk. 
+.SATURDAY...Cloudy. Patchy fog in the morning. High around 36. East
+winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

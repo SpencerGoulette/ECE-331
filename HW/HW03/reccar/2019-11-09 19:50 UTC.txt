@@ -1,0 +1,190 @@
+
+721 
+SXUS41 KCAR 091950
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+250 PM EST Sat Nov 9 2019
+
+MEZ004-101000-
+Top of Mount Katahdin-
+250 PM EST Sat Nov 9 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy. Low around 10 above. Southwest winds 15 to
+25 mph. Wind chill values as low as 6 below. No lightning risk. 
+.SUNDAY...Mostly cloudy. High around 25. Southwest winds 15 to
+25 mph. Wind chill values as low as 2 above. No lightning risk. 
+
+$$
+
+MEZ005-101000-
+Katahdin Woods and Waters National Monument-
+250 PM EST Sat Nov 9 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy. Low around 22. South winds 10 to 15 mph.
+No lightning risk. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 39. South winds 10 to 15 mph. Wind chill values as low
+as 11 in the morning. No lightning risk. 
+
+$$
+
+MEZ029-101000-
+Top of Cadillac Mountain-
+250 PM EST Sat Nov 9 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy. Not as cool with low around 27. Southwest
+winds 15 to 25 mph. Wind chill values as low as 13. No lightning
+risk. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Breezy with high around 45. Southwest winds 20 to 30 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-101000-
+Top of Deboullie Mountain-
+250 PM EST Sat Nov 9 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy. Low around 20. South winds 10 to 20 mph.
+No lightning risk. 
+.SUNDAY...Mostly cloudy. A slight chance of snow showers in the
+afternoon. High around 34. Southwest winds 10 to 20 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 8 above in the
+morning. No lightning risk. 
+
+$$
+
+MEZ006-101000-
+Top of Mars Hill Mountain-
+250 PM EST Sat Nov 9 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy. Low around 20. South winds 10 to 15 mph.
+No lightning risk. 
+.SUNDAY...Mostly cloudy. A slight chance of rain and snow showers in
+the afternoon. High around 37. South winds 10 to 20 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 8 above in the
+morning. No lightning risk. 
+
+$$
+
+MEZ010-101000-
+Top of White Cap Mountain-
+250 PM EST Sat Nov 9 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy. Near steady temperatures around 16.
+Southwest winds 10 to 20 mph. No lightning risk. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 29. Southwest winds 15 to 20 mph. Wind chill values as
+low as 6 above. No lightning risk. 
+
+$$
+
+MEZ010-101000-
+Moosehead Lake-
+250 PM EST Sat Nov 9 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy. Low around 23. South winds 10 to 15 mph.
+Waves 1 foot. No lightning risk. 
+.SUNDAY...Mostly cloudy. High around 39. Waves 2 feet. South winds
+10 to 15 mph. Wind chill values as low as 14 in the morning. No
+lightning risk. 
+
+$$
+
+MEZ001-101000-
+Allagash Wilderness Waterway-
+250 PM EST Sat Nov 9 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. Low around 21. South winds 10 to 15 mph.
+No lightning risk. 
+.SUNDAY...Mostly cloudy. A chance of rain and snow showers in the
+afternoon. High around 38. South winds 10 to 15 mph. Chance of
+precipitation 40 percent. Wind chill values as low as 9 above in the
+morning. No lightning risk. 
+
+$$
+
+MEZ030-101000-
+St Croix River-
+250 PM EST Sat Nov 9 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy. Low around 22. Southwest winds 10 mph. No
+lightning risk. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Not as cool with high around 45. Southwest winds 10 to 20 mph. Wind
+chill values as low as 12 in the morning. No lightning risk. 
+
+$$
+
+MEZ030-101000-
+West Quoddy Head-
+250 PM EST Sat Nov 9 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy. Isolated rain showers early this evening...
+then scattered rain showers late this evening. isolated rain showers
+after midnight. Low around 31. Southwest winds 15 to 25 mph. Chance
+of precipitation 30 percent. No lightning risk. Water temperature
+52 degrees Fahrenheit. 
+.SUNDAY...Mostly cloudy. Isolated showers in the morning...then a
+chance of showers in the afternoon. Breezy with high around 50.
+Southwest winds 20 to 30 mph. Chance of precipitation 30 percent. No
+lightning risk. Water temperature 52 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-101000-
+Upper Penobscot Watershed-
+250 PM EST Sat Nov 9 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 21. South winds 10 to 15 mph.
+No lightning risk. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 41. South winds 10 to 15 mph. Wind chill values as low
+as 12 in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-101000-
+Lower Penobscot Watershed-
+250 PM EST Sat Nov 9 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+clear. Low around 22. Southwest winds 10 to 15 mph. No lightning
+risk. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 45. Southwest winds 10 to 20 mph. Wind chill values as
+low as 12 in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

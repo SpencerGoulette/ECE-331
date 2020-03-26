@@ -1,0 +1,198 @@
+
+899 
+SXUS41 KCAR 021949
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+349 PM EDT Wed Oct 2 2019
+
+MEZ004-031000-
+Top of Mount Katahdin-
+349 PM EDT Wed Oct 2 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming mostly
+clear. Brisk, cooler. Near steady temperatures around 24. North 
+winds 20 to 30 mph. Wind chill values as low as 9 above. No lightning
+risk. 
+.THURSDAY...Sunny. Widespread frost in the morning. High around 35.
+Northwest winds 10 to 20 mph. Wind chill values as low as 10 above
+in the morning. No lightning risk. 
+
+$$
+
+MEZ005-031000-
+Katahdin Woods and Waters National Monument-
+349 PM EDT Wed Oct 2 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+clear. Patchy frost through early morning. areas of frost late.
+Cooler with low around 33. North winds 10 to 15 mph shifting to the
+northwest 10 mph after midnight. No lightning risk. 
+.THURSDAY...Sunny. Areas of frost in the morning. High around 49.
+Northwest winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ029-031000-
+Top of Cadillac Mountain-
+349 PM EDT Wed Oct 2 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy early this evening, then clearing.
+Widespread frost late. Windy and much cooler with low around 34.
+North winds 20 to 35 mph. No lightning risk. 
+.THURSDAY...Sunny. Widespread frost in the morning. Breezy with high
+around 50. North winds 15 to 30 mph shifting to the northwest 10 to
+20 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-031000-
+Top of Deboullie Mountain-
+349 PM EDT Wed Oct 2 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Patchy frost until midnight. areas of frost after midnight...
+then widespread frost late. Low around 27. Northwest winds 10 to
+15 mph decreasing to 10 mph after midnight. No lightning risk. 
+.THURSDAY...Mostly sunny. Widespread frost in the morning. High
+around 44. Northwest winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ006-031000-
+Top of Mars Hill Mountain-
+349 PM EDT Wed Oct 2 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Patchy
+frost through early morning. widespread frost late. Low around 30.
+Northwest winds 10 to 15 mph. No lightning risk. 
+.THURSDAY...Sunny. Widespread frost in the morning. High around 46.
+Northwest winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ010-031000-
+Top of White Cap Mountain-
+349 PM EDT Wed Oct 2 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds, then becoming mostly cloudy
+late this evening, then becoming mostly clear. Widespread frost.
+Brisk, cooler with low around 26. North winds 20 to 30 mph. Wind
+chill values as low as 12. No lightning risk. 
+.THURSDAY...Sunny. Widespread frost in the morning. High around 40.
+North winds 10 to 25 mph becoming northwest 10 mph in the afternoon.
+Wind chill values as low as 12 in the morning. No lightning risk. 
+
+$$
+
+MEZ010-031000-
+Moosehead Lake-
+349 PM EDT Wed Oct 2 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Patchy
+frost through early morning. areas of frost late. Much cooler with
+low around 33. North winds 10 to 15 mph shifting to the northwest
+10 mph after midnight. Waves 2 feet. No lightning risk. Water
+temperature 61 degrees Fahrenheit. 
+.THURSDAY...Mostly sunny. Patchy frost in the morning. High around
+50. Waves 1 foot. West winds 10 mph. No lightning risk. Water
+temperature 61 degrees Fahrenheit. 
+
+$$
+
+MEZ001-031000-
+Allagash Wilderness Waterway-
+349 PM EDT Wed Oct 2 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Patchy frost early this evening...then areas of frost late
+this evening. widespread frost after midnight. Cooler with low
+around 27. Northwest winds 10 mph. No lightning risk. 
+.THURSDAY...Mostly sunny. Widespread frost in the morning. High
+around 49. Northwest winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-031000-
+St Croix River-
+349 PM EDT Wed Oct 2 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Areas of
+frost after midnight. widespread frost late. Much cooler with low
+around 31. North winds 10 to 15 mph shifting to the northwest 10 mph
+after midnight. No lightning risk. 
+.THURSDAY...Sunny. Widespread frost in the morning. High around 52.
+Northwest winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-031000-
+West Quoddy Head-
+349 PM EDT Wed Oct 2 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming clear. Patchy frost late. Much cooler with
+low around 37. North winds 10 to 20 mph. No lightning risk. Water
+temperature 54 degrees Fahrenheit. 
+.THURSDAY...Sunny. Patchy frost in the morning. High around 52.
+Northwest winds 10 to 15 mph. No lightning risk. Water temperature
+54 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-031000-
+Upper Penobscot Watershed-
+349 PM EDT Wed Oct 2 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Patchy
+frost after midnight. areas of frost late. Much cooler with low
+around 33. North winds 10 to 15 mph shifting to the northwest after
+midnight. No lightning risk. 
+.THURSDAY...Sunny. Areas of frost in the morning. High around 52.
+West winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-031000-
+Lower Penobscot Watershed-
+349 PM EDT Wed Oct 2 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Patchy
+frost after midnight. areas of frost late. Much cooler with low
+around 34. North winds 10 to 15 mph decreasing to 10 mph after
+midnight. No lightning risk. 
+.THURSDAY...Sunny. Areas of frost in the morning. High around 54.
+West winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

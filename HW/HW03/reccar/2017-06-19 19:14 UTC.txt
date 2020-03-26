@@ -1,0 +1,110 @@
+
+705 
+SXUS41 KCAR 191914
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+314 PM EDT Mon Jun 19 2017
+
+MEZ004-200915-
+Top of Mount Katahdin-
+314 PM EDT Mon Jun 19 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy until midnight...then summit in and out of clouds.
+Patchy fog. Numerous thunderstorms until midnight. widespread
+showers. Some thunderstorms may produce damaging winds and small
+hail until midnight. Locally heavy rainfall possible. Low around 56.
+Southwest winds 30 to 40 mph decreasing to 15 to 30 mph after
+midnight. Chance of precipitation 80 percent. Lightning risk is
+significant. 
+.TUESDAY...Summit obscured. Patchy fog in the morning. Showers
+likely. A chance of thunderstorms in the afternoon. Some 
+thunderstorms may produce small hail in the afternoon. Locally heavy 
+rainfall possible. High around 59. Southwest winds 10 to 15 mph 
+increasing to 15 to 30 mph in the afternoon. Chance of precipitation 
+70 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ029-200915-
+Top of Cadillac Mountain-
+314 PM EDT Mon Jun 19 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then summit
+becoming obscured. Areas of fog. Scattered showers until midnight.
+numerous showers after midnight. Low around 63. Southwest winds
+45 to 60 mph. Chance of precipitation 60 percent. No lightning risk.
+.TUESDAY...Summit obscured. Areas of fog in the morning. Showers
+likely in the morning...then a chance of showers in the afternoon.
+High around 69. Southwest winds 35 to 45 mph. Chance of
+precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ010-200915-
+Moosehead Lake-
+314 PM EDT Mon Jun 19 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Patchy fog. Numerous thunderstorms until
+midnight. Widespread showers. Some thunderstorms may produce 
+damaging winds and small hail until midnight. Locally heavy rainfall 
+possible. Low around 61. Light winds. Waves 1 foot. Chance of 
+precipitation 90 percent. Lightning risk is significant. 
+.TUESDAY...Mostly cloudy. Patchy fog in the morning. Showers likely.
+Locally heavy rainfall possible. High around 73. Waves 2 feet. Light
+winds becoming southwest around 10 mph in the afternoon. Chance of
+precipitation 70 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ004&gt;006-010-011-031-200915-
+Upper Penobscot Watershed-
+314 PM EDT Mon Jun 19 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog. Isolated thunderstorms until
+midnight. Widespread showers. Some thunderstorms may produce 
+damaging winds and small hail until midnight. Locally heavy rainfall 
+possible. Low around 65. South winds around 10 mph. Chance of 
+precipitation 90 percent. Lightning risk is significant. 
+.TUESDAY...Mostly cloudy. Patchy fog in the morning. Showers likely.
+A chance of thunderstorms in the afternoon. Some thunderstorms may 
+produce small hail in the afternoon. Locally heavy rainfall possible.
+High around 77. Southwest winds around 10 mph. Chance of 
+precipitation 70 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-200915-
+Lower Penobscot Watershed-
+314 PM EDT Mon Jun 19 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog. Scattered thunderstorms until
+midnight. Numerous showers. Some thunderstorms may produce damaging 
+winds and small hail until midnight. Locally heavy rainfall possible.
+Low around 65. South winds 10 to 15 mph. Chance of precipitation 70 
+percent. Lightning risk is significant. 
+.TUESDAY...Mostly cloudy. Patchy fog in the morning. Showers likely
+in the morning...then a chance of showers and thunderstorms in the
+afternoon. Some thunderstorms may produce small hail in the
+afternoon. Locally heavy rainfall possible. High around 78.
+Southwest winds around 10 mph. Chance of precipitation 70 percent.
+Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

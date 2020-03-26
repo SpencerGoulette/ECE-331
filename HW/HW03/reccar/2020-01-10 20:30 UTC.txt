@@ -1,0 +1,225 @@
+
+118 
+SXUS41 KCAR 102030
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+330 PM EST Fri Jan 10 2020
+
+MEZ004-111030-
+Top of Mount Katahdin-
+330 PM EST Fri Jan 10 2020
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured until midnight, then summit in and out of
+clouds. A slight chance of freezing rain and snow early this
+evening...then a chance of freezing rain and snow from late evening
+on. A chance of rain late. Patchy fog late. Very windy and not as
+cool with low around 30. West winds 25 to 40 mph. Chance of
+precipitation 50 percent. Wind chill values as low as 13. No
+lightning risk. 
+.SATURDAY...Summit obscured. Areas of fog. Rain. Strong winds and
+not as cool with high around 41. Southwest winds 45 to 65 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ005-111030-
+Katahdin Woods and Waters National Monument-
+330 PM EST Fri Jan 10 2020
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. A slight chance of freezing rain and snow late
+this evening. A chance of freezing rain and snow after midnight. A
+chance of rain late. Patchy fog late. Not as cool with low around
+29. Southwest winds 10 to 15 mph. Chance of precipitation
+30 percent. No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog. Rain. Not as cool with high around
+44. Southwest winds 10 to 20 mph. Chance of precipitation
+90 percent. No lightning risk. 
+
+$$
+
+MEZ029-111030-
+Top of Cadillac Mountain-
+330 PM EST Fri Jan 10 2020
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy, then summit in and out of clouds after midnight,
+then becoming cloudy. A slight chance of rain until midnight. A
+chance of rain after midnight. Patchy fog after midnight. areas of
+fog late. Breezy and not as cool with low around 40. West winds
+15 to 30 mph. Chance of precipitation 30 percent. No lightning risk.
+.SATURDAY...Summit obscured. Areas of fog. A chance of rain in the
+morning. rain likely in the afternoon. Strong winds with high around
+49. Southwest winds 35 to 55 mph. Chance of precipitation
+60 percent. No lightning risk. 
+
+$$
+
+MEZ001-111030-
+Top of Deboullie Mountain-
+330 PM EST Fri Jan 10 2020
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Patchy fog after midnight. A slight
+chance of freezing rain and snow after midnight. A chance of rain
+and snow late. Not as cool with low around 31. Southwest winds 15 to
+25 mph. Chance of precipitation 30 percent. No lightning risk. 
+.SATURDAY...Summit obscured. Areas of fog. Rain. freezing rain
+likely in the afternoon. High around 41. Southwest winds 15 to
+20 mph shifting to the west in the afternoon. Chance of
+precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ006-111030-
+Top of Mars Hill Mountain-
+330 PM EST Fri Jan 10 2020
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy. A slight chance of freezing rain and snow late.
+Not as cool with low around 28. South winds 10 to 15 mph decreasing
+to 10 mph after midnight. Chance of precipitation 20 percent. No
+lightning risk. 
+.SATURDAY...Cloudy. Areas of fog. A slight chance of freezing rain
+and snow in the morning. Rain. Not as cool with high around 41.
+South winds 20 mph shifting to the southwest in the afternoon.
+Chance of precipitation 90 percent. No lightning risk. 
+
+$$
+
+MEZ010-111030-
+Top of White Cap Mountain-
+330 PM EST Fri Jan 10 2020
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds. A chance of freezing rain
+and snow. A chance of rain after midnight. Areas of fog late. Windy
+and not as cool with low around 30. West winds 30 to 35 mph
+decreasing to 20 to 30 mph after midnight. Chance of precipitation
+40 percent. Wind chill values as low as 15. No lightning risk. 
+.SATURDAY...Summit obscured. Areas of fog. Rain. Strong winds and
+not as cool with high around 43. Southwest winds 35 to 55 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ010-111030-
+Moosehead Lake-
+330 PM EST Fri Jan 10 2020
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. A slight chance of rain, freezing rain and snow
+late this evening. A chance of snow, rain and freezing rain after
+midnight. Patchy fog after midnight. patchy fog late. Not as cool
+with low around 31. Southwest winds 10 to 15 mph. Chance of
+precipitation 40 percent. No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog. Rain. Not as cool with high around
+45. Southwest winds 10 to 20 mph. Chance of precipitation
+90 percent. No lightning risk. 
+
+$$
+
+MEZ001-111030-
+Allagash Wilderness Waterway-
+330 PM EST Fri Jan 10 2020
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. A slight chance of rain through early morning. a
+slight chance of snow from late evening on. A chance of rain late.
+Patchy fog after midnight. Not as cool with low around 33. Southwest
+winds 10 to 15 mph decreasing to 10 mph after midnight. Chance of
+precipitation 30 percent. No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog. Rain. High around 43. South winds
+10 to 15 mph shifting to the west in the afternoon. Chance of
+precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ030-111030-
+St Croix River-
+330 PM EST Fri Jan 10 2020
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. A slight chance of freezing rain and snow after
+midnight. a slight chance of rain late. Patchy fog late. Not as cool
+with low around 30. Southwest winds 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog. Rain likely. Not as cool with high
+around 48. South winds 20 mph shifting to the southwest 10 to 20 mph
+in the afternoon. Chance of precipitation 70 percent. No lightning
+risk. 
+
+$$
+
+MEZ030-111030-
+West Quoddy Head-
+330 PM EST Fri Jan 10 2020
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. A slight chance of rain. Patchy fog after
+midnight. areas of fog late. Not as cool with low around 39.
+Southwest winds 10 to 20 mph. Chance of precipitation 20 percent. No
+lightning risk. Water temperature 42 degrees Fahrenheit. 
+.SATURDAY...Cloudy. Areas of fog. A chance of rain in the morning.
+rain likely in the afternoon. Breezy with high around 49. Southwest
+winds 10 to 30 mph increasing to 20 to 30 mph in the afternoon.
+Chance of precipitation 60 percent. No lightning risk. Water
+temperature 42 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-111030-
+Upper Penobscot Watershed-
+330 PM EST Fri Jan 10 2020
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A slight chance of freezing rain and snow late
+this evening. A chance of freezing rain and snow after midnight.
+Patchy fog late. Not as cool with low around 29. Southwest winds
+10 to 15 mph decreasing to 10 mph after midnight. Chance of
+precipitation 40 percent. No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog. Rain likely. Not as cool with high
+around 46. Southwest winds 10 to 20 mph. Chance of precipitation
+70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-111030-
+Lower Penobscot Watershed-
+330 PM EST Fri Jan 10 2020
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A slight chance of rain, freezing rain and snow
+late this evening. A chance of rain and freezing rain after
+midnight. Patchy fog after midnight. patchy fog late. Not as cool
+with low around 31. Southwest winds 10 mph. Chance of precipitation
+30 percent. No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog. A chance of rain in the morning.
+rain likely in the afternoon. Not as cool with high around 49. South
+winds 20 mph shifting to the southwest 10 to 20 mph in the
+afternoon. Chance of precipitation 70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

@@ -1,0 +1,216 @@
+
+816 
+SXUS41 KCAR 081350
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+950 AM EDT Fri Jun 8 2018
+
+MEZ004-090400-
+Top of Mount Katahdin-
+950 AM EDT Fri Jun 8 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.THIS AFTERNOON...Summit in and out of clouds, then becoming mostly
+cloudy early this afternoon, then becoming partly sunny late. High 
+around 49. West winds 15 to 30 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Isolated showers after midnight. Low around 37. Northwest
+winds 15 to 25 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Very windy with high around 45. Northwest winds 20 to 30 mph
+increasing to 30 to 45 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ005-090400-
+Katahdin Woods and Waters National Monument-
+950 AM EDT Fri Jun 8 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.THIS AFTERNOON...Partly sunny. High around 70. Northwest winds
+10 to 15 mph. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 45. Northwest winds around 10 mph until midnight becoming
+light winds. No lightning risk. 
+.SATURDAY...Partly sunny. High around 67. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ029-090400-
+Top of Cadillac Mountain-
+950 AM EDT Fri Jun 8 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.THIS AFTERNOON...Mostly cloudy early, then becoming partly sunny.
+Isolated showers early. Warmer with high around 67. West winds
+around 15 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+.TONIGHT...Clear. Low around 53. Northwest winds 10 to 15 mph. No
+lightning risk. 
+.SATURDAY...Mostly sunny. High around 65. West winds 10 to 20 mph.
+No lightning risk. 
+
+$$
+
+MEZ001-090400-
+Top of Deboullie Mountain-
+950 AM EDT Fri Jun 8 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.THIS AFTERNOON...Cloudy early, then becoming partly sunny. High
+around 63. Northwest winds 10 to 25 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly clear.
+Low around 41. Northwest winds 10 to 15 mph. No lightning risk. 
+.SATURDAY...Partly sunny. High around 59. Northwest winds 10 to
+25 mph. No lightning risk. 
+
+$$
+
+MEZ006-090400-
+Top of Mars Hill Mountain-
+950 AM EDT Fri Jun 8 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.THIS AFTERNOON...Mostly cloudy early and early afternoon, then
+becoming partly sunny. High around 66. Northwest winds 10 to 15 mph.
+No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 44. Northwest winds 10 to
+15 mph. No lightning risk. 
+.SATURDAY...Partly sunny. High around 62. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ010-090400-
+Top of White Cap Mountain-
+950 AM EDT Fri Jun 8 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.THIS AFTERNOON...Cloudy early, then becoming partly sunny. High
+around 56. Northwest winds 15 to 30 mph. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming mostly cloudy.
+Low around 43. Northwest winds 15 to 25 mph. No lightning risk. 
+.SATURDAY...Partly sunny and windy. High around 53. Northwest winds
+15 to 25 mph increasing to 25 to 35 mph in the afternoon. No 
+lightning risk. 
+
+$$
+
+MEZ010-090400-
+Moosehead Lake-
+950 AM EDT Fri Jun 8 2018
+
+...MOOSEHEAD LAKE...
+
+.THIS AFTERNOON...Partly sunny. High around 67. Northwest winds
+10 to 15 mph. Waves 4 feet. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 45. Waves 1 foot. Northwest winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.SATURDAY...Mostly sunny. High around 64. Waves 3 feet. Northwest
+winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ001-090400-
+Allagash Wilderness Waterway-
+950 AM EDT Fri Jun 8 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.THIS AFTERNOON...Mostly cloudy early, then becoming partly sunny.
+High around 68. West winds 10 to 15 mph. No lightning risk. 
+.TONIGHT...Partly cloudy. Cooler with low around 40. Northwest winds
+around 10 mph until midnight becoming light winds. No lightning
+risk. 
+.SATURDAY...Partly sunny. High around 64. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ030-090400-
+St Croix River-
+950 AM EDT Fri Jun 8 2018
+
+...ST CROIX RIVER...
+
+.THIS AFTERNOON...Mostly cloudy early, then becoming partly sunny.
+Isolated showers early. High around 73. Light winds becoming west
+around 10 mph this afternoon. Chance of precipitation 20 percent. No
+lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 45. Northwest winds around 10 mph until midnight becoming
+light winds. No lightning risk. 
+.SATURDAY...Partly sunny. High around 68. Northwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ030-090400-
+West Quoddy Head-
+950 AM EDT Fri Jun 8 2018
+
+...WEST QUODDY HEAD...
+
+.THIS AFTERNOON...Mostly cloudy early and early afternoon, then
+becoming partly sunny. Isolated showers early. Warmer with high
+around 67. Southwest winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. Water temperature 47 degrees
+Fahrenheit. 
+.TONIGHT...Mostly clear. Low around 47. West winds around 10 mph
+until midnight becoming light winds. No lightning risk. Water
+temperature 47 degrees Fahrenheit. 
+.SATURDAY...Mostly sunny. High around 64. West winds around 10 mph.
+No lightning risk. Water temperature 47 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-090400-
+Upper Penobscot Watershed-
+950 AM EDT Fri Jun 8 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.THIS AFTERNOON...Partly sunny. High around 73. West winds 10 to
+15 mph. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 46. Northwest winds around 10 mph until midnight becoming
+light winds. No lightning risk. 
+.SATURDAY...Mostly sunny. High around 69. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-090400-
+Lower Penobscot Watershed-
+950 AM EDT Fri Jun 8 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.THIS AFTERNOON...Mostly cloudy early, then becoming partly sunny.
+Isolated showers early. High around 75. West winds 10 to 15 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 48. Northwest winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny. High
+around 72. Northwest winds around 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

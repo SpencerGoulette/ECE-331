@@ -1,0 +1,176 @@
+
+443 
+SXUS41 KCAR 261926
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+326 PM EDT Sat Aug 26 2017
+
+MEZ004-270930-
+Top of Mount Katahdin-
+326 PM EDT Sat Aug 26 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds. Low around 41. North winds
+around 10 mph until midnight becoming light winds. No lightning
+risk. 
+.SUNDAY...Summit in and out of clouds. High around 47. North winds
+around 10 mph in the morning becoming light winds. No lightning
+risk. 
+
+$$
+
+MEZ005-270930-
+Katahdin Woods and Waters National Monument-
+326 PM EDT Sat Aug 26 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy. Low around 47. Light winds. No lightning
+risk. 
+.SUNDAY...Partly sunny. High around 69. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ029-270930-
+Top of Cadillac Mountain-
+326 PM EDT Sat Aug 26 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy. Low around 56. Northwest winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.SUNDAY...Mostly cloudy in the morning...then becoming partly sunny.
+High around 63. Light winds. No lightning risk. 
+
+$$
+
+MEZ001-270930-
+Top of Deboullie Mountain-
+326 PM EDT Sat Aug 26 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+43. Light winds. No lightning risk. 
+.SUNDAY...Partly sunny. High around 63. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ006-270930-
+Top of Mars Hill Mountain-
+326 PM EDT Sat Aug 26 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Patchy fog
+after midnight. Low around 46. North winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.SUNDAY...Partly sunny. Patchy fog in the morning. High around 65.
+Light winds. No lightning risk. 
+
+$$
+
+MEZ010-270930-
+Top of White Cap Mountain-
+326 PM EDT Sat Aug 26 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy. Low around 48. North winds around 10 mph
+until midnight becoming light winds. No lightning risk. 
+.SUNDAY...Partly sunny. High around 56. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ010-270930-
+Moosehead Lake-
+326 PM EDT Sat Aug 26 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy. Low around 52. Light winds. Waves 1 foot.
+No lightning risk. Water temperature 68 degrees Fahrenheit. 
+.SUNDAY...Mostly cloudy in the morning...then becoming partly sunny.
+High around 68. Waves 1 foot. Light winds. No lightning risk. Water
+temperature 68 degrees Fahrenheit. 
+
+$$
+
+MEZ001-270930-
+Allagash Wilderness Waterway-
+326 PM EDT Sat Aug 26 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Patchy fog
+after midnight. Low around 40. Light winds. No lightning risk. 
+.SUNDAY...Partly sunny. Patchy fog in the morning. High around 67.
+Light winds. No lightning risk. 
+
+$$
+
+MEZ030-270930-
+St Croix River-
+326 PM EDT Sat Aug 26 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Low around 49. Light winds. No lightning risk. 
+.SUNDAY...Partly sunny. High around 70. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ030-270930-
+West Quoddy Head-
+326 PM EDT Sat Aug 26 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy. Low around 55. Light winds. No lightning
+risk. Water temperature 57 degrees Fahrenheit. 
+.SUNDAY...Mostly cloudy in the morning...then becoming partly sunny.
+A slight chance of showers in the afternoon. High around 64. Light
+winds. Chance of precipitation 20 percent. No lightning risk. Water
+temperature 57 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-270930-
+Upper Penobscot Watershed-
+326 PM EDT Sat Aug 26 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 50. Light winds. No lightning
+risk. 
+.SUNDAY...Partly sunny. High around 71. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-270930-
+Lower Penobscot Watershed-
+326 PM EDT Sat Aug 26 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 52. Light winds. No lightning
+risk. 
+.SUNDAY...Mostly cloudy in the morning...then becoming partly sunny.
+High around 73. Light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

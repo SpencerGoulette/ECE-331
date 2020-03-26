@@ -1,0 +1,212 @@
+
+799 
+SXUS41 KCAR 242230
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+630 PM EDT Thu May 24 2018
+
+MEZ004-251230-
+Top of Mount Katahdin-
+630 PM EDT Thu May 24 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Cloudy and very windy. Low around 41. West winds 15 to
+25 mph increasing to 30 to 40 mph. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+A chance of showers and thunderstorms in the afternoon. Some
+thunderstorms may produce gusty winds and small hail in the
+afternoon. Very windy and not as cool with high around 63. West
+winds 25 to 40 mph. Chance of precipitation 50 percent. Lightning 
+risk is elevated. 
+
+$$
+
+MEZ005-251230-
+Katahdin Woods and Waters National Monument-
+630 PM EDT Thu May 24 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.OVERNIGHT...Mostly cloudy. Not as cool with low around 48.
+Southwest winds around 10 mph. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+A chance of showers and thunderstorms in the afternoon. Some
+thunderstorms may produce gusty winds and small hail in the
+afternoon. Much warmer with high around 83. West winds 10 to 15 mph.
+Chance of precipitation 50 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ029-251230-
+Top of Cadillac Mountain-
+630 PM EDT Thu May 24 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Not as cool. Near steady temperatures around 47. Southwest
+winds around 20 mph. No lightning risk. 
+.FRIDAY...Mostly sunny and breezy. Much warmer with high around 78.
+West winds 20 to 25 mph. No lightning risk. 
+
+$$
+
+MEZ001-251230-
+Top of Deboullie Mountain-
+630 PM EDT Thu May 24 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.OVERNIGHT...Cloudy. A chance of showers until midnight. a slight
+chance of showers. Not as cool with low around 46. West winds around
+15 mph. Chance of precipitation 30 percent. No lightning risk. 
+.FRIDAY...Mostly cloudy. A slight chance of showers in the morning...
+then a chance of showers and thunderstorms in the afternoon. Some
+thunderstorms may produce gusty winds and small hail in the
+afternoon. Warmer with high around 73. West winds around 20 mph. 
+Chance of precipitation 50 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ006-251230-
+Top of Mars Hill Mountain-
+630 PM EDT Thu May 24 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.OVERNIGHT...Cloudy. A chance of showers. Not as cool with low
+around 48. Southwest winds around 10 mph until midnight becoming
+light winds. Chance of precipitation 30 percent. No lightning risk. 
+.FRIDAY...Mostly cloudy. A chance of showers. a chance of
+thunderstorms in the afternoon. Some thunderstorms may produce gusty
+winds and small hail in the afternoon. Warmer with high around 76.
+West winds 10 to 20 mph. Chance of precipitation 50 percent. 
+Lightning risk is elevated. 
+
+$$
+
+MEZ010-251230-
+Top of White Cap Mountain-
+630 PM EDT Thu May 24 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.OVERNIGHT...Cloudy, windy and not as cool with low around 49. West
+winds 15 to 20 mph increasing to 25 to 35 mph. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+A chance of showers and thunderstorms in the afternoon. Some
+thunderstorms may produce gusty winds and small hail in the
+afternoon. Windy and much warmer with high around 70. West winds
+around 30 mph. Chance of precipitation 40 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ010-251230-
+Moosehead Lake-
+630 PM EDT Thu May 24 2018
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Mostly cloudy through early morning, then becoming
+partly cloudy. Not as cool with low around 49. West winds around
+10 mph. Waves 3 feet. No lightning risk. 
+.FRIDAY...Partly sunny. A chance of showers and thunderstorms in the
+afternoon. Some thunderstorms may produce gusty winds and small hail
+in the afternoon. Much warmer with high around 81. Waves 3 feet.
+West winds 10 to 20 mph. Chance of precipitation 50 percent.
+Lightning risk is elevated. 
+
+$$
+
+MEZ001-251230-
+Allagash Wilderness Waterway-
+630 PM EDT Thu May 24 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.OVERNIGHT...Mostly cloudy. A slight chance of showers through early
+morning. Not as cool with low around 47. West winds around 10 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Showers likely with a chance of thunderstorms in the afternoon. Some
+thunderstorms may produce gusty winds and small hail in the
+afternoon. Much warmer with high around 79. West winds 10 to 15 mph.
+Chance of precipitation 60 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ030-251230-
+St Croix River-
+630 PM EDT Thu May 24 2018
+
+...ST CROIX RIVER...
+
+.OVERNIGHT...Mostly cloudy. A slight chance of showers. Not as cool
+with low around 45. Southwest winds around 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.FRIDAY...Partly sunny. A chance of showers and thunderstorms in the
+afternoon. Some thunderstorms may produce gusty winds and small hail
+in the afternoon. Much warmer with high around 85. West winds 10 to
+15 mph. Chance of precipitation 30 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ030-251230-
+West Quoddy Head-
+630 PM EDT Thu May 24 2018
+
+...WEST QUODDY HEAD...
+
+.OVERNIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. A slight chance of showers. Not as cool with low around 45.
+Southwest winds 15 to 20 mph. Chance of precipitation 20 percent. No
+lightning risk. Water temperature 46 degrees Fahrenheit. 
+.FRIDAY...Partly sunny. A slight chance of showers and thunderstorms
+in the afternoon. Some thunderstorms may produce gusty winds and
+small hail in the afternoon. Much warmer with high around 72.
+Southwest winds around 15 mph. Chance of precipitation 20 percent.
+Lightning risk is limited. Water temperature 46 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-251230-
+Upper Penobscot Watershed-
+630 PM EDT Thu May 24 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Mostly cloudy. Not as cool with low around 48.
+Southwest winds around 10 mph. No lightning risk. 
+.FRIDAY...Partly sunny. A chance of showers with a slight chance of
+thunderstorms in the afternoon. Some thunderstorms may produce gusty
+winds and small hail in the afternoon. Much warmer with high around
+85. West winds 10 to 15 mph. Chance of precipitation 50 percent.
+Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-251230-
+Lower Penobscot Watershed-
+630 PM EDT Thu May 24 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Mostly cloudy. Low around 48. Southwest winds around
+10 mph. No lightning risk. 
+.FRIDAY...Partly sunny. Much warmer with high around 87. West winds
+10 to 15 mph. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

@@ -1,0 +1,196 @@
+
+706 
+SXUS41 KCAR 011933
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+333 PM EDT Tue May 1 2018
+
+MEZ004-020945-
+Top of Mount Katahdin-
+333 PM EDT Tue May 1 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A slight chance of showers through early morning. Breezy
+with low around 39. Northwest winds 10 to 15 mph increasing to 15 to
+25 mph after midnight. Chance of precipitation 20 percent. No
+lightning risk. 
+.WEDNESDAY...Partly sunny. A slight chance of showers in the
+afternoon. Breezy with high around 53. West winds 20 to 25 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ005-020945-
+Katahdin Woods and Waters National Monument-
+333 PM EDT Tue May 1 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A slight chance of showers through early morning. Low around
+44. West winds around 10 mph until midnight becoming light winds.
+Chance of precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. A slight chance of showers in the
+afternoon. Warmer with high around 71. West winds around 10 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ029-020945-
+Top of Cadillac Mountain-
+333 PM EDT Tue May 1 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy through early
+morning, then becoming mostly cloudy. Not as cool with low around
+48. West winds 10 to 15 mph. No lightning risk. 
+.WEDNESDAY...Partly sunny. Not as cool with high around 64. West
+winds 15 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ001-020945-
+Top of Deboullie Mountain-
+333 PM EDT Tue May 1 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. A slight chance of showers until midnight. a chance of
+showers after midnight...then a slight chance of showers late. Not
+as cool with low around 46. West winds 10 to 15 mph. Chance of
+precipitation 30 percent. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. A chance of rain in the morning...then
+rain in the afternoon. High around 63. West winds around 15 mph.
+Chance of precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ006-020945-
+Top of Mars Hill Mountain-
+333 PM EDT Tue May 1 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy late this
+evening, then becoming mostly cloudy. Low around 45. West winds
+around 10 mph. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. A chance of rain in the morning...then
+rain likely in the afternoon. Warmer with high around 67. West winds
+10 to 15 mph. Chance of precipitation 60 percent. No lightning risk.
+
+$$
+
+MEZ010-020945-
+Top of White Cap Mountain-
+333 PM EDT Tue May 1 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy after
+midnight, then becoming partly cloudy. Not as cool with low around
+44. West winds 10 to 20 mph. No lightning risk. 
+.WEDNESDAY...Partly sunny and breezy. High around 62. West winds
+20 to 25 mph. No lightning risk. 
+
+$$
+
+MEZ010-020945-
+Moosehead Lake-
+333 PM EDT Tue May 1 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy through early
+morning, then becoming partly cloudy. Low around 45. West winds
+around 10 mph until midnight becoming light winds. No lightning
+risk. 
+.WEDNESDAY...Partly sunny. A slight chance of showers in the
+afternoon. Much warmer with high around 70. West winds 10 to 15 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-020945-
+Allagash Wilderness Waterway-
+333 PM EDT Tue May 1 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. A slight chance of showers. Not as cool with low around 45.
+Light winds becoming southwest around 10 mph after midnight. Chance
+of precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. A chance of rain in the morning...then
+rain likely in the afternoon. Warmer with high around 68. West winds
+around 10 mph. Chance of precipitation 70 percent. No lightning
+risk. 
+
+$$
+
+MEZ030-020945-
+St Croix River-
+333 PM EDT Tue May 1 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy after midnight,
+then becoming mostly cloudy. Low around 44. Light winds. No
+lightning risk. 
+.WEDNESDAY...Partly sunny. Much warmer with high around 74. West
+winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-020945-
+West Quoddy Head-
+333 PM EDT Tue May 1 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 45. Southwest winds around 10 mph. No lightning risk.
+Water temperature 41 degrees Fahrenheit. 
+.WEDNESDAY...Partly sunny. High around 60. Southwest winds 10 to
+15 mph. No lightning risk. Water temperature 41 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-020945-
+Upper Penobscot Watershed-
+333 PM EDT Tue May 1 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 45. West winds around 10 mph until midnight
+becoming light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. Much warmer with high around 74. West
+winds around 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-020945-
+Lower Penobscot Watershed-
+333 PM EDT Tue May 1 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear early this evening, then becoming partly
+cloudy. Low around 46. West winds around 10 mph until midnight
+becoming light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. Much warmer with high around 77. West
+winds around 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

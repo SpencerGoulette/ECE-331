@@ -1,0 +1,193 @@
+
+192 
+SXUS41 KCAR 012023
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+323 PM EST Wed Jan 1 2020
+
+MEZ004-021030-
+Top of Mount Katahdin-
+323 PM EST Wed Jan 1 2020
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Isolated snow showers early this evening. Windy with low
+around 11. Northwest winds 25 to 35 mph. Chance of precipitation
+20 percent. Wind chill values as low as 8 below. No lightning risk. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Brisk with high around 24. West winds 20 to 30 mph. Wind
+chill values as low as 2 below. No lightning risk. 
+
+$$
+
+MEZ005-021030-
+Katahdin Woods and Waters National Monument-
+323 PM EST Wed Jan 1 2020
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Isolated snow showers early this evening. Low around 21.
+West winds 10 to 15 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. High around 32. West winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ029-021030-
+Top of Cadillac Mountain-
+323 PM EST Wed Jan 1 2020
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Isolated
+snow showers early this evening. Low around 23. West winds 15 to
+20 mph. Chance of precipitation 20 percent. No lightning risk. 
+.THURSDAY...Partly sunny. High around 36. West winds 10 to 20 mph.
+Wind chill values as low as 17. No lightning risk. 
+
+$$
+
+MEZ001-021030-
+Top of Deboullie Mountain-
+323 PM EST Wed Jan 1 2020
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds. Isolated snow showers early
+this evening. Low around 17. West winds 15 to 20 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 6 above. No
+lightning risk. 
+.THURSDAY...Summit in and out of clouds. High around 26. West winds
+10 to 20 mph. Wind chill values as low as 8 above. No lightning
+risk. 
+
+$$
+
+MEZ006-021030-
+Top of Mars Hill Mountain-
+323 PM EST Wed Jan 1 2020
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit in and out of clouds. Isolated snow showers early
+this evening. Low around 20. West winds 10 to 20 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.THURSDAY...Summit in and out of clouds in the morning, then
+becoming partly sunny. High around 28. West winds 10 to 20 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-021030-
+Top of White Cap Mountain-
+323 PM EST Wed Jan 1 2020
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds. Isolated snow showers early
+this evening. Low around 14. Northwest winds 20 to 25 mph. Chance of
+precipitation 20 percent. Wind chill values as low as zero. No
+lightning risk. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. High around 27. West winds 15 to 25 mph. Wind chill values as
+low as 3 above. No lightning risk. 
+
+$$
+
+MEZ010-021030-
+Moosehead Lake-
+323 PM EST Wed Jan 1 2020
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers early this evening.
+Low around 22. West winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.THURSDAY...Mostly cloudy. High around 35. West winds 10 to 15 mph.
+Wind chill values as low as 17. No lightning risk. 
+
+$$
+
+MEZ001-021030-
+Allagash Wilderness Waterway-
+323 PM EST Wed Jan 1 2020
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers early this evening.
+Low around 17. West winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. High around 29. West winds 10 to 15 mph. Wind chill values as
+low as 12. No lightning risk. 
+
+$$
+
+MEZ030-021030-
+St Croix River-
+323 PM EST Wed Jan 1 2020
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Isolated snow showers early this evening. Low around 23.
+West winds 10 to 15 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.THURSDAY...Partly sunny. High around 34. West winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ030-021030-
+West Quoddy Head-
+323 PM EST Wed Jan 1 2020
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+clear. Low around 29. West winds 15 to 20 mph. No lightning risk.
+Water temperature 43 degrees Fahrenheit. 
+.THURSDAY...Partly sunny. High around 37. West winds 10 to 20 mph.
+No lightning risk. Water temperature 43 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-021030-
+Upper Penobscot Watershed-
+323 PM EST Wed Jan 1 2020
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Isolated snow showers early this evening. Low around 21.
+West winds 10 to 15 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.THURSDAY...Partly sunny. High around 34. West winds 10 to 15 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-021030-
+Lower Penobscot Watershed-
+323 PM EST Wed Jan 1 2020
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Isolated snow showers early this evening.
+Low around 22. West winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.THURSDAY...Partly sunny. High around 35. West winds 10 to 15 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

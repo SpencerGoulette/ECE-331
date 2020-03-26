@@ -1,0 +1,71 @@
+
+580 
+SXUS41 KCAR 131926
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+326 PM EDT Thu Apr 13 2017
+
+MEZ004-140930-
+Top of Mount Katahdin-
+326 PM EDT Thu Apr 13 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured until midnight...then becoming mostly
+cloudy. Scattered snow showers until midnight. Low around 21. North
+winds 15 to 30 mph. Chance of precipitation 30 percent. Wind chill 
+values as low as 5 above. 
+.FRIDAY...Partly sunny. High around 33. Northwest winds 20 to
+30 mph. Wind chill values as low as 5 above in the morning. 
+
+$$
+
+MEZ029-140930-
+Top of Cadillac Mountain-
+326 PM EDT Thu Apr 13 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+35. Northwest winds 15 to 25 mph...then 10 to 15 mph late. 
+.FRIDAY...Sunny. High around 48. Northwest winds 10 to 20 mph 
+decreasing to around 10 mph in the afternoon. 
+
+$$
+
+MEZ004&gt;006-010-011-031-140930-
+Upper Penobscot Watershed-
+326 PM EDT Thu Apr 13 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming mostly
+clear. Isolated rain showers early. Low around 31. Northwest winds 
+around 10 mph until midnight becoming light winds. 
+.FRIDAY...Mostly sunny. High around 53. Northwest winds around
+10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-140930-
+Lower Penobscot Watershed-
+326 PM EDT Thu Apr 13 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+32. Northwest winds around 10 mph until midnight becoming light
+winds. 
+.FRIDAY...Sunny. High around 56. Northwest winds around 10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

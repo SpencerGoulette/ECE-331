@@ -1,0 +1,173 @@
+
+396 
+SXUS41 KCAR 142003
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+303 PM EST Tue Nov 14 2017
+
+MEZ004-151015-
+Top of Mount Katahdin-
+303 PM EST Tue Nov 14 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy. Low around 18. Light winds. No lightning
+risk. 
+.WEDNESDAY...Mostly sunny. High around 28. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ005-151015-
+Katahdin Woods and Waters National Monument-
+303 PM EST Tue Nov 14 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Low around 20. Light winds. No lightning
+risk. 
+.WEDNESDAY...Mostly sunny. High around 38. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ029-151015-
+Top of Cadillac Mountain-
+303 PM EST Tue Nov 14 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy. Low around 28. Northeast winds 10 to
+15 mph. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 36. Northeast winds around
+10 mph in the morning becoming light winds. No lightning risk. 
+
+$$
+
+MEZ001-151015-
+Top of Deboullie Mountain-
+303 PM EST Tue Nov 14 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy. Low around 18. Light winds. No lightning
+risk. 
+.WEDNESDAY...Mostly sunny. High around 33. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ006-151015-
+Top of Mars Hill Mountain-
+303 PM EST Tue Nov 14 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy. Low around 19. Light winds. No lightning
+risk. 
+.WEDNESDAY...Mostly sunny. High around 33. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ010-151015-
+Top of White Cap Mountain-
+303 PM EST Tue Nov 14 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly cloudy. Near steady temperatures around 20. Light
+winds. No lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 27. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ010-151015-
+Moosehead Lake-
+303 PM EST Tue Nov 14 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy through early morning...then becoming
+partly cloudy. Low around 23. Light winds. Waves 1 foot. No
+lightning risk. Water temperature 56 degrees Fahrenheit. 
+.WEDNESDAY...Mostly sunny. High around 38. Waves 1 foot. Light
+winds. No lightning risk. Water temperature 56 degrees Fahrenheit. 
+
+$$
+
+MEZ001-151015-
+Allagash Wilderness Waterway-
+303 PM EST Tue Nov 14 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy early this evening...then becoming partly
+cloudy. Cooler with low around 17. Light winds. No lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 37. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ030-151015-
+St Croix River-
+303 PM EST Tue Nov 14 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. Low around 22. Light winds. No lightning
+risk. 
+.WEDNESDAY...Partly sunny. High around 40. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ030-151015-
+West Quoddy Head-
+303 PM EST Tue Nov 14 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Low around 31. Northeast winds 10 to 15 mph. No
+lightning risk. Water temperature 52 degrees Fahrenheit. 
+.WEDNESDAY...Mostly cloudy in the morning...then becoming partly
+sunny. High around 42. Northeast winds around 10 mph in the morning
+becoming light winds. No lightning risk. Water temperature
+52 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-151015-
+Upper Penobscot Watershed-
+303 PM EST Tue Nov 14 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Low around 22. Light winds. No lightning
+risk. 
+.WEDNESDAY...Mostly sunny. High around 39. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-151015-
+Lower Penobscot Watershed-
+303 PM EST Tue Nov 14 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Low around 24. Light winds. No lightning
+risk. 
+.WEDNESDAY...Mostly sunny. High around 40. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

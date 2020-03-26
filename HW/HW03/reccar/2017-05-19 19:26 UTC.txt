@@ -1,0 +1,81 @@
+
+248 
+SXUS41 KCAR 191926
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+326 PM EDT Fri May 19 2017
+
+MEZ004-200930-
+Top of Mount Katahdin-
+326 PM EDT Fri May 19 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Areas of
+frost. Much cooler with low around 20. North winds 20 to 25 mph.
+Wind chill values as low as 3 above. 
+.SATURDAY...Sunny. Areas of frost in the morning. Cooler with high
+around 41. North winds around 25 mph shifting to the northwest 15 to
+20 mph in the afternoon. Wind chill values as low as 3 above in the
+morning. 
+
+$$
+
+MEZ029-200930-
+Top of Cadillac Mountain-
+326 PM EDT Fri May 19 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear. Much cooler with low around 39. North winds
+20 to 25 mph. 
+.SATURDAY...Sunny. Much cooler with high around 61. Northwest winds
+10 to 20 mph. 
+
+$$
+
+MEZ010-200930-
+Moosehead Lake-
+326 PM EDT Fri May 19 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Patchy frost after midnight. Much cooler with low
+around 35. Northwest winds 10 to 15 mph. Waves 4 feet. 
+.SATURDAY...Sunny. Patchy frost in the morning. High around 57.
+Waves 3 feet. North winds 10 to 15 mph. 
+
+$$
+
+MEZ004&gt;006-010-011-031-200930-
+Upper Penobscot Watershed-
+326 PM EDT Fri May 19 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Much cooler with low around 37. Northwest winds
+10 to 15 mph. 
+.SATURDAY...Sunny. High around 62. North winds 10 to 15 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-200930-
+Lower Penobscot Watershed-
+326 PM EDT Fri May 19 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Much cooler with low around 39. Northwest winds
+10 to 15 mph. 
+.SATURDAY...Sunny, cooler with high around 64. North winds 10 to
+15 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

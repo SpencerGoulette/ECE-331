@@ -1,0 +1,192 @@
+
+700 
+SXUS41 KCAR 021932
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+332 PM EDT Sat Sep 2 2017
+
+MEZ004-030945-
+Top of Mount Katahdin-
+332 PM EDT Sat Sep 2 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Low around 45. Light winds becoming south around
+10 mph after midnight. No lightning risk. 
+.SUNDAY...Sunny in the morning...then becoming partly sunny. A
+chance of rain in the afternoon. Near steady temperatures around 45.
+South winds 10 to 15 mph increasing to southeast 20 to 25 mph in the
+afternoon. Chance of precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ005-030945-
+Katahdin Woods and Waters National Monument-
+332 PM EDT Sat Sep 2 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 43. Light
+winds. No lightning risk. 
+.SUNDAY...Partly sunny. Patchy fog in the morning. A chance of rain
+in the afternoon. High around 65. Southeast winds around 5 mph
+increasing to 10 to 15 mph in the afternoon. Chance of precipitation
+50 percent. No lightning risk. 
+
+$$
+
+MEZ029-030945-
+Top of Cadillac Mountain-
+332 PM EDT Sat Sep 2 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 54. Southwest winds around 10 mph. No
+lightning risk. 
+.SUNDAY...Mostly sunny in the morning...then becoming mostly cloudy.
+A slight chance of rain in the morning...then rain likely in the
+afternoon. Near steady temperatures around 54. Southeast winds 10 to
+15 mph increasing to 20 to 25 mph in the afternoon. Chance of
+precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ001-030945-
+Top of Deboullie Mountain-
+332 PM EDT Sat Sep 2 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear. Low around 49. Light winds becoming south around
+10 mph after midnight. No lightning risk. 
+.SUNDAY...Sunny in the morning...then becoming partly sunny. A
+chance of rain in the afternoon. High around 62. South winds 10 to
+15 mph. Chance of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ006-030945-
+Top of Mars Hill Mountain-
+332 PM EDT Sat Sep 2 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear. Low around 49. Light winds. No lightning risk. 
+.SUNDAY...Mostly sunny. A slight chance of rain in the afternoon.
+High around 61. South winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ010-030945-
+Top of White Cap Mountain-
+332 PM EDT Sat Sep 2 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Not as cool with low around 50. Light winds
+becoming south around 10 mph after midnight. No lightning risk. 
+.SUNDAY...Mostly sunny in the morning...then becoming mostly cloudy.
+Rain likely in the afternoon. Near steady temperatures around 50.
+Southeast winds 10 to 20 mph. Chance of precipitation 60 percent. No
+lightning risk. 
+
+$$
+
+MEZ010-030945-
+Moosehead Lake-
+332 PM EDT Sat Sep 2 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Low around 42. Northwest winds around 5 mph until
+midnight becoming light winds. Waves 1 foot. No lightning risk.
+Water temperature 69 degrees Fahrenheit. 
+.SUNDAY...Mostly sunny in the morning...then becoming mostly cloudy.
+A slight chance of rain in the morning...then rain likely in the
+afternoon. High around 62. Waves 4 feet. Southeast winds 10 to
+20 mph. Chance of precipitation 60 percent. No lightning risk. Water
+temperature 69 degrees Fahrenheit. 
+
+$$
+
+MEZ001-030945-
+Allagash Wilderness Waterway-
+332 PM EDT Sat Sep 2 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 38. Light
+winds. No lightning risk. 
+.SUNDAY...Sunny in the morning...then becoming partly sunny. Patchy
+fog in the morning. A chance of rain in the afternoon. High around
+67. Southeast winds 10 to 15 mph. Chance of precipitation
+40 percent. No lightning risk. 
+
+$$
+
+MEZ030-030945-
+St Croix River-
+332 PM EDT Sat Sep 2 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 41. Light
+winds. No lightning risk. 
+.SUNDAY...Sunny in the morning...then becoming partly sunny. Patchy
+fog in the morning. A chance of rain in the afternoon. High around
+66. Southeast winds around 5 mph increasing to 10 to 15 mph in the
+afternoon. Chance of precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ030-030945-
+West Quoddy Head-
+332 PM EDT Sat Sep 2 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Patchy fog after midnight. Low around 47.
+Southwest winds around 10 mph until midnight becoming light winds.
+No lightning risk. Water temperature 57 degrees Fahrenheit. 
+.SUNDAY...Partly sunny. Patchy fog in the morning. Rain likely in
+the afternoon. High around 60. South winds around 10 mph. Chance of
+precipitation 60 percent. No lightning risk. Water temperature
+57 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-030945-
+Upper Penobscot Watershed-
+332 PM EDT Sat Sep 2 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 44. Light winds. No lightning risk. 
+.SUNDAY...Mostly sunny in the morning...then becoming mostly cloudy.
+A chance of rain in the afternoon. High around 65. Southeast winds
+around 5 mph increasing to 10 to 15 mph in the afternoon. Chance of
+precipitation 50 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-030945-
+Lower Penobscot Watershed-
+332 PM EDT Sat Sep 2 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 45. Light winds. No lightning risk. 
+.SUNDAY...Mostly sunny in the morning...then becoming mostly cloudy.
+Rain likely in the afternoon. High around 65. Southeast winds 10 to
+15 mph. Chance of precipitation 70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

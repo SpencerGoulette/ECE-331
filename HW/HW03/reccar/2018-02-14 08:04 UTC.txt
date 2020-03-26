@@ -1,0 +1,228 @@
+
+986 
+SXUS41 KCAR 140804
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+304 AM EST Wed Feb 14 2018
+
+MEZ004-142215-
+Top of Mount Katahdin-
+304 AM EST Wed Feb 14 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly cloudy until mid morning...then becoming partly
+sunny. Very windy and not as cool with high around 28. West winds
+around 35 mph. Wind chill values as low as 3 below. No lightning
+risk. 
+.TONIGHT...Partly cloudy and very windy. Not as cool with low around
+24. West winds 30 to 35 mph. Wind chill values as low as 8 above. No
+lightning risk. 
+.THURSDAY...Mostly cloudy. A slight chance of rain and snow showers
+in the afternoon. Brisk with high around 34. West winds 20 to
+25 mph. Chance of precipitation 20 percent. Wind chill values as low
+as 17. No lightning risk. 
+
+$$
+
+MEZ005-142215-
+Katahdin Woods and Waters National Monument-
+304 AM EST Wed Feb 14 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Not as cool with high around 34. Southwest winds around 10 mph. Wind
+chill values as low as 1 above. No lightning risk. 
+.TONIGHT...Partly cloudy. Not as cool with low around 25. Light
+winds. No lightning risk. 
+.THURSDAY...Mostly cloudy. A slight chance of rain showers in the
+afternoon. High around 40. Light winds becoming south around 10 mph
+in the afternoon. Chance of precipitation 20 percent. No lightning
+risk. 
+
+$$
+
+MEZ029-142215-
+Top of Cadillac Mountain-
+304 AM EST Wed Feb 14 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Cloudy this morning...then summit becoming obscured. Windy
+and not as cool with high around 36. Southwest winds 20 to 30 mph.
+Wind chill values as low as 11. No lightning risk. 
+.TONIGHT...Mostly cloudy until midnight...then clearing. Not as cool
+with low around 32. West winds 15 to 20 mph. No lightning risk. 
+.THURSDAY...Partly sunny. High around 42. Southwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ001-142215-
+Top of Deboullie Mountain-
+304 AM EST Wed Feb 14 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Mostly cloudy through early afternoon...then becoming
+partly sunny. Not as cool with high around 30. Southwest winds 15 to
+20 mph. Wind chill values as low as 5 below. No lightning risk. 
+.TONIGHT...Summit obscured. Not as cool with low around 23.
+Southwest winds 10 to 15 mph. No lightning risk. 
+.THURSDAY...Summit obscured. A slight chance of snow showers in the
+morning...then a chance of rain and snow showers in the afternoon.
+High around 35. Southwest winds around 10 mph. Chance of
+precipitation 30 percent. Wind chill values as low as 14 in the
+morning. No lightning risk. 
+
+$$
+
+MEZ006-142215-
+Top of Mars Hill Mountain-
+304 AM EST Wed Feb 14 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Mostly cloudy through early afternoon...then becoming
+partly sunny. Not as cool with high around 31. Southwest winds 15 to
+20 mph. Wind chill values as low as 1 below. No lightning risk. 
+.TONIGHT...Mostly cloudy until midnight...then summit becoming
+obscured. Not as cool with low around 25. Southwest winds 10 to
+15 mph. No lightning risk. 
+.THURSDAY...Summit obscured. A slight chance of rain showers in the
+afternoon. High around 36. Southwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ010-142215-
+Top of White Cap Mountain-
+304 AM EST Wed Feb 14 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly cloudy until mid morning...then becoming partly
+sunny. Brisk and not as cool with high around 28. Southwest winds
+20 to 25 mph. Wind chill values as low as 2 below. No lightning
+risk. 
+.TONIGHT...Partly cloudy and brisk. Not as cool with low around 25.
+West winds 20 to 25 mph. Wind chill values as low as 12. No
+lightning risk. 
+.THURSDAY...Partly sunny in the morning...then becoming mostly
+cloudy. A slight chance of rain and snow showers in the afternoon.
+High around 36. Southwest winds around 15 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 12 in the
+morning. No lightning risk. 
+
+$$
+
+MEZ010-142215-
+Moosehead Lake-
+304 AM EST Wed Feb 14 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy until mid morning...then becoming partly
+sunny. Not as cool with high around 34. Light winds. No lightning
+risk. 
+.TONIGHT...Partly cloudy. Not as cool with low around 25. Light
+winds. No lightning risk. 
+.THURSDAY...Mostly cloudy. A slight chance of rain showers in the
+afternoon. High around 40. Light winds. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ001-142215-
+Allagash Wilderness Waterway-
+304 AM EST Wed Feb 14 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Mostly cloudy through early afternoon...then becoming
+partly sunny. Not as cool with high around 33. Southwest winds 10 to
+15 mph. Wind chill values as low as 5 below. No lightning risk. 
+.TONIGHT...Partly cloudy. Not as cool with low around 25. Southwest
+winds around 10 mph. No lightning risk. 
+.THURSDAY...Mostly cloudy. A slight chance of rain and snow showers
+in the morning...then a chance of rain showers in the afternoon.
+High around 37. Light winds. Chance of precipitation 30 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-142215-
+St Croix River-
+304 AM EST Wed Feb 14 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Not as cool with high around 38. Southwest winds around 10 mph. Wind
+chill values as low as 3 above. No lightning risk. 
+.TONIGHT...Partly cloudy. Not as cool with low around 24. Light
+winds. No lightning risk. 
+.THURSDAY...Partly sunny. High around 42. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ030-142215-
+West Quoddy Head-
+304 AM EST Wed Feb 14 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Mostly cloudy through early afternoon...then becoming
+partly sunny. Not as cool with high around 41. Southwest winds 10 to
+15 mph. No lightning risk. Water temperature 40 degrees Fahrenheit. 
+.TONIGHT...Mostly clear. Not as cool with low around 32. Light
+winds. No lightning risk. Water temperature 40 degrees Fahrenheit. 
+.THURSDAY...Partly sunny. High around 43. Light winds becoming south
+around 10 mph in the afternoon. No lightning risk. Water temperature
+40 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-142215-
+Upper Penobscot Watershed-
+304 AM EST Wed Feb 14 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy until mid morning...then becoming partly
+sunny. Not as cool with high around 35. Southwest winds around
+10 mph. Wind chill values as low as 1 above. No lightning risk. 
+.TONIGHT...Partly cloudy. Not as cool with low around 23. Light
+winds. No lightning risk. 
+.THURSDAY...Partly sunny. A slight chance of rain showers in the
+afternoon. High around 41. Light winds becoming south around 10 mph
+in the afternoon. Chance of precipitation 20 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-142215-
+Lower Penobscot Watershed-
+304 AM EST Wed Feb 14 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy until mid morning...then becoming partly
+sunny. Not as cool with high around 37. Southwest winds around
+10 mph. Wind chill values as low as 6 above. No lightning risk. 
+.TONIGHT...Mostly clear. Not as cool with low around 24. Light
+winds. No lightning risk. 
+.THURSDAY...Partly sunny. High around 43. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

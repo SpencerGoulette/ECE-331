@@ -1,0 +1,222 @@
+
+055 
+SXUS41 KCAR 031850
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+250 PM EDT Thu May 3 2018
+
+MEZ004-040900-
+Top of Mount Katahdin-
+250 PM EDT Thu May 3 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured early this evening, then becoming mostly
+cloudy. Rain likely until midnight. a chance of rain after midnight.
+Areas of fog from late evening on. Low around 44. West winds 10 to
+15 mph. Chance of precipitation 70 percent. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Areas of fog in the morning. A slight chance of rain in the
+morning...then rain likely in the afternoon. High around 51. West
+winds 10 to 15 mph. Chance of precipitation 70 percent. No lightning
+risk. 
+
+$$
+
+MEZ005-040900-
+Katahdin Woods and Waters National Monument-
+250 PM EDT Thu May 3 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Rain likely until midnight. a chance of rain
+after midnight. Areas of fog from late evening on. Low around 47.
+Light winds. Chance of precipitation 70 percent. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Areas of fog in the morning. A slight chance of rain in the
+morning...then rain likely in the afternoon. High around 61. Light
+winds. Chance of precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ029-040900-
+Top of Cadillac Mountain-
+250 PM EDT Thu May 3 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured through early morning, then becoming
+cloudy. Rain likely early this evening...then a chance of rain from
+late evening on. Areas of fog from late evening on. Cooler with low
+around 48. Southeast winds 10 mph until midnight becoming light
+winds. Chance of precipitation 60 percent. No lightning risk. 
+.FRIDAY...Mostly cloudy in the morning, then summit in and out of
+clouds. Areas of fog in the morning. A slight chance of rain in the
+morning. a chance of rain in the afternoon. High around 55. Light
+winds becoming southeast 15 mph in the afternoon. Chance of
+precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ001-040900-
+Top of Deboullie Mountain-
+250 PM EDT Thu May 3 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. A chance of rain through early morning.
+a slight chance of rain late. Areas of fog from late evening on. Low
+around 43. South winds around 10 mph until midnight becoming light
+winds. Chance of precipitation 50 percent. No lightning risk. 
+.FRIDAY...Summit obscured. Areas of fog in the morning. Rain in the
+afternoon. High around 53. Light winds becoming southeast 10 mph in
+the afternoon. Chance of precipitation 80 percent. No lightning
+risk. 
+
+$$
+
+MEZ006-040900-
+Top of Mars Hill Mountain-
+250 PM EDT Thu May 3 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. Rain likely until midnight. a chance of
+rain after midnight. Areas of fog from late evening on. Low around
+44. South winds around 10 mph. Chance of precipitation 70 percent.
+No lightning risk. 
+.FRIDAY...Summit obscured. Areas of fog in the morning. A slight
+chance of rain in the morning...then rain likely in the afternoon.
+High around 55. Light winds becoming southeast 10 mph in the
+afternoon. Chance of precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ010-040900-
+Top of White Cap Mountain-
+250 PM EDT Thu May 3 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured early this evening, then becoming mostly
+cloudy. Rain until midnight. a chance of rain after midnight...then
+a slight chance of rain late. Areas of fog from late evening on. Low
+around 47. West winds 10 to 15 mph. Chance of precipitation
+80 percent. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming cloudy. Areas
+of fog in the morning. Rain likely in the afternoon. High around 54.
+Northwest winds around 10 mph shifting to the south in the
+afternoon. Chance of precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ010-040900-
+Moosehead Lake-
+250 PM EDT Thu May 3 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy through early morning, then becoming partly
+cloudy. Rain likely until midnight. a chance of rain after
+midnight...then a slight chance of rain late. Areas of fog from late
+evening on. Low around 51. Light winds. Chance of precipitation
+70 percent. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming cloudy. Areas
+of fog in the morning. Rain likely in the afternoon. High around 62.
+Light winds becoming south 10 mph in the afternoon. Chance of
+precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ001-040900-
+Allagash Wilderness Waterway-
+250 PM EDT Thu May 3 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. A chance of rain through early morning. a slight chance of
+rain late. Areas of fog from late evening on. Low around 46. Light
+winds. Chance of precipitation 50 percent. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming cloudy. Areas
+of fog in the morning. Rain in the afternoon. High around 59. Light
+winds. Chance of precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ030-040900-
+St Croix River-
+250 PM EDT Thu May 3 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Rain through early morning. a chance of rain
+late. Areas of fog from late evening on. Low around 47. Light winds.
+Chance of precipitation 90 percent. No lightning risk. 
+.FRIDAY...Mostly cloudy. Areas of fog in the morning. A chance of
+rain in the afternoon. High around 61. Light winds becoming
+southeast 10 mph in the afternoon. Chance of precipitation
+50 percent. No lightning risk. 
+
+$$
+
+MEZ030-040900-
+West Quoddy Head-
+250 PM EDT Thu May 3 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Rain through early morning. a chance of rain
+late. Areas of fog from late evening on. Low around 44. East winds
+10 to 15 mph. Chance of precipitation 80 percent. No lightning risk.
+Water temperature 42 degrees Fahrenheit. 
+.FRIDAY...Mostly cloudy. Areas of fog in the morning. A slight
+chance of rain in the morning. a chance of rain in the afternoon.
+High around 50. Light winds becoming southeast around 10 mph in the
+afternoon. Chance of precipitation 30 percent. No lightning risk.
+Water temperature 42 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-040900-
+Upper Penobscot Watershed-
+250 PM EDT Thu May 3 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain until midnight. a chance of rain after
+midnight...then a slight chance of rain late. Areas of fog from late
+evening on. Low around 48. Light winds. Chance of precipitation
+90 percent. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Areas of fog in the morning. Rain likely in the afternoon. High
+around 63. Light winds becoming south 10 mph in the afternoon.
+Chance of precipitation 70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-040900-
+Lower Penobscot Watershed-
+250 PM EDT Thu May 3 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain until midnight. a chance of rain after
+midnight...then a slight chance of rain late. Areas of fog from late
+evening on. Cooler with low around 50. Southeast winds around 10 mph
+until midnight becoming light winds. Chance of precipitation
+80 percent. No lightning risk. 
+.FRIDAY...Mostly cloudy. Areas of fog in the morning. Rain likely in
+the afternoon. High around 66. Light winds becoming south 10 mph in
+the afternoon. Chance of precipitation 70 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

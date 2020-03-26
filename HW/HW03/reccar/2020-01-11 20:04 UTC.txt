@@ -1,0 +1,247 @@
+
+288 
+SXUS41 KCAR 112004
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+304 PM EST Sat Jan 11 2020
+
+MEZ004-121015-
+Top of Mount Katahdin-
+304 PM EST Sat Jan 11 2020
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Areas of fog early this evening. Rain
+early this evening...then freezing rain from late evening on.
+Precipitation may be heavy at times after midnight. Windy, cooler
+with low around 18. Northwest winds 20 to 35 mph shifting to the
+northeast after midnight. Chance of precipitation near 100 percent.
+Wind chill values as low as 1 above. No lightning risk. 
+.SUNDAY...Summit obscured. Freezing rain in the morning...then snow
+and freezing rain in the afternoon. Precipitation may be heavy at
+times in the morning. Windy and much cooler with high around 21.
+East winds 25 to 35 mph becoming northeast 15 to 25 mph in the
+afternoon. Chance of precipitation near 100 percent. Wind chill
+values as low as 2 above. No lightning risk. 
+
+$$
+
+MEZ005-121015-
+Katahdin Woods and Waters National Monument-
+304 PM EST Sat Jan 11 2020
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Areas of fog early this evening. patchy fog late
+this evening. Rain until midnight. freezing rain late this evening.
+sleet from late evening on. Cooler with low around 17. North winds
+10 to 20 mph. Chance of precipitation near 100 percent. Wind chill
+values as low as 4 above. No lightning risk. 
+.SUNDAY...Cloudy, sleet. snow likely in the afternoon. Much cooler
+with high around 20. Northeast winds 10 to 20 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as 4 above.
+No lightning risk. 
+
+$$
+
+MEZ029-121015-
+Top of Cadillac Mountain-
+304 PM EST Sat Jan 11 2020
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Patchy fog through early morning. Rain.
+Rain may be heavy at times late. Strong winds with low around 32.
+Southwest winds 40 to 50 mph decreasing to 25 to 45 mph after
+midnight. Chance of precipitation near 100 percent. No lightning
+risk. 
+.SUNDAY...Summit obscured. Freezing rain and rain in the morning...
+then rain likely in the afternoon. Precipitation may be heavy at
+times in the morning. Cooler with high around 37. Southeast winds
+10 to 20 mph shifting to the northeast 10 to 25 mph in the
+afternoon. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+$$
+
+MEZ001-121015-
+Top of Deboullie Mountain-
+304 PM EST Sat Jan 11 2020
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured, then summit in and out of clouds after
+midnight, then becoming cloudy. A chance of freezing rain early this
+evening. Snow. Much colder with low around 7 above. North winds
+15 to 25 mph. Chance of precipitation near 100 percent. Wind chill
+values as low as 11 below. No lightning risk. 
+.SUNDAY...Summit in and out of clouds. Snow and sleet. Much cooler
+with high around 10 above. Northeast winds 15 to 25 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as
+11 below. No lightning risk. 
+
+$$
+
+MEZ006-121015-
+Top of Mars Hill Mountain-
+304 PM EST Sat Jan 11 2020
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit in and out of clouds early this evening, then
+becoming cloudy. Patchy fog early this evening. Rain likely early
+this evening. freezing rain until midnight. snow and sleet from late
+evening on. Cooler with low around 15. North winds 15 to 20 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 1 above. No lightning risk. 
+.SUNDAY...Cloudy, sleet. snow in the afternoon. Much cooler with
+high around 17. Northeast winds 10 to 20 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as 1 above.
+No lightning risk. 
+
+$$
+
+MEZ010-121015-
+Top of White Cap Mountain-
+304 PM EST Sat Jan 11 2020
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. Areas of fog early this evening. patchy
+fog late this evening. Rain until midnight. freezing rain from late
+evening on. Precipitation may be heavy at times late. Windy, cooler
+with low around 18. Northwest winds 20 to 35 mph shifting to the
+northeast 20 to 30 mph after midnight. Chance of precipitation near
+100 percent. Wind chill values as low as 1 above. No lightning risk.
+.SUNDAY...Summit obscured. Freezing rain in the morning...then
+freezing rain with snow likely in the afternoon. Precipitation may
+be heavy at times in the morning. Windy and much cooler with high
+around 21. Northeast winds 20 to 35 mph becoming north 15 to 20 mph
+in the afternoon. Chance of precipitation near 100 percent. Wind
+chill values as low as 2 above. No lightning risk. 
+
+$$
+
+MEZ010-121015-
+Moosehead Lake-
+304 PM EST Sat Jan 11 2020
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Areas of fog early this evening. patchy fog late
+this evening. Rain until midnight. freezing rain through early
+morning. sleet after midnight. Much cooler with low around 18.
+Northwest winds 10 to 20 mph shifting to the northeast after
+midnight. Chance of precipitation near 100 percent. Wind chill
+values as low as 4 above. No lightning risk. 
+.SUNDAY...Cloudy, sleet. snow and freezing rain likely in the
+afternoon. Much cooler with high around 22. Northeast winds 10 to
+20 mph. Chance of precipitation near 100 percent. Wind chill values
+as low as 6 above. No lightning risk. 
+
+$$
+
+MEZ001-121015-
+Allagash Wilderness Waterway-
+304 PM EST Sat Jan 11 2020
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Areas of fog early this evening. Rain and
+freezing rain early this evening. Snow. sleet after midnight. Much
+cooler with low around 10 above. North winds 10 to 15 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as 4 below.
+No lightning risk. 
+.SUNDAY...Cloudy. Sleet and snow. Much cooler with high around 15.
+Northeast winds 10 to 20 mph. Chance of precipitation near
+100 percent. Wind chill values as low as 4 below. No lightning risk.
+
+$$
+
+MEZ030-121015-
+St Croix River-
+304 PM EST Sat Jan 11 2020
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Patchy fog early this evening. patchy fog late
+this evening. Rain through early morning. freezing rain after
+midnight...then freezing rain and sleet late. Precipitation may be
+heavy at times late. Low around 24. West winds 10 to 15 mph shifting
+to the northeast after midnight. Chance of precipitation near
+100 percent. Wind chill values as low as 14. No lightning risk. 
+.SUNDAY...Cloudy. Freezing rain in the morning. Sleet. scattered
+snow showers with a chance of freezing rain in the afternoon.
+Precipitation may be heavy at times in the morning. Much cooler with
+high around 26. Northeast winds 10 to 20 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ030-121015-
+West Quoddy Head-
+304 PM EST Sat Jan 11 2020
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Patchy fog until midnight. Rain through early
+morning. rain and freezing rain late. Precipitation may be heavy at
+times late. Breezy with low around 31. Southwest winds 10 to 30 mph
+shifting to the north 10 to 25 mph after midnight. Chance of
+precipitation near 100 percent. Wind chill values as low as 20. No
+lightning risk. Water temperature 42 degrees Fahrenheit. 
+.SUNDAY...Cloudy. Freezing rain in the morning...then rain likely
+with scattered snow showers in the afternoon. Precipitation may be
+heavy at times in the morning. Breezy and much cooler with high
+around 34. Northeast winds 20 to 30 mph decreasing to 10 to 20 mph
+in the afternoon. Chance of precipitation near 100 percent. No
+lightning risk. Water temperature 42 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-121015-
+Upper Penobscot Watershed-
+304 PM EST Sat Jan 11 2020
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog early this evening. patchy fog late
+this evening. Rain until midnight. freezing rain. sleet after
+midnight. Precipitation may be heavy at times late. Low around 21.
+West winds 10 to 15 mph shifting to the northeast 10 to 20 mph after
+midnight. Chance of precipitation near 100 percent. Wind chill
+values as low as 8 above. No lightning risk. 
+.SUNDAY...Cloudy, sleet. scattered snow showers with a chance of
+freezing rain in the afternoon. Much cooler with high around 24.
+Northeast winds 10 to 20 mph. Chance of precipitation near
+100 percent. Wind chill values as low as 8 above. No lightning risk.
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-121015-
+Lower Penobscot Watershed-
+304 PM EST Sat Jan 11 2020
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog until midnight. patchy fog after
+midnight. Rain through early morning. freezing rain after midnight...
+then freezing rain and sleet late. Precipitation may be heavy at
+times late. Low around 26. West winds 10 to 15 mph shifting to the
+northeast after midnight. Chance of precipitation near 100 percent.
+Wind chill values as low as 16. No lightning risk. 
+.SUNDAY...Cloudy. Freezing rain and sleet in the morning...then
+sleet likely with possible snow showers and freezing rain in the
+afternoon. Precipitation may be heavy at times in the morning. Much
+cooler with high around 28. Northeast winds 10 to 15 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

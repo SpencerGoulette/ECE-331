@@ -1,0 +1,178 @@
+
+281 
+SXUS41 KCAR 091926
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+326 PM EDT Sun Sep 9 2018
+
+MEZ004-100930-
+Top of Mount Katahdin-
+326 PM EDT Sun Sep 9 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds, then becoming mostly cloudy
+late this evening, then becoming clear. Patchy frost after midnight.
+Low around 36. Light winds. No lightning risk. 
+.MONDAY...Sunny. Patchy frost in the morning. High around 46. South
+winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ005-100930-
+Katahdin Woods and Waters National Monument-
+326 PM EDT Sun Sep 9 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Patchy frost after midnight. Low around 35. Light
+winds. No lightning risk. 
+.MONDAY...Sunny. Patchy frost in the morning. High around 64. Light
+winds becoming south around 10 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ029-100930-
+Top of Cadillac Mountain-
+326 PM EDT Sun Sep 9 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Not as cool with low around 51. Light winds
+becoming east 10 to 15 mph after midnight. No lightning risk. 
+.MONDAY...Mostly sunny. High around 60. Southeast winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ001-100930-
+Top of Deboullie Mountain-
+326 PM EDT Sun Sep 9 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear. Areas of frost after midnight. Low around 31.
+Northeast winds around 10 mph until midnight becoming light winds.
+No lightning risk. 
+.MONDAY...Sunny. Areas of frost in the morning. High around 60.
+South winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ006-100930-
+Top of Mars Hill Mountain-
+326 PM EDT Sun Sep 9 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear. Areas of frost after midnight. Low around 33.
+Light winds. No lightning risk. 
+.MONDAY...Sunny. Areas of frost in the morning. High around 62.
+Light winds becoming south around 10 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ010-100930-
+Top of White Cap Mountain-
+326 PM EDT Sun Sep 9 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Low around 39. Light winds. No lightning risk. 
+.MONDAY...Sunny in the morning, then becoming mostly cloudy. High
+around 51. South winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ010-100930-
+Moosehead Lake-
+326 PM EDT Sun Sep 9 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Patchy frost after midnight. Low around 35. Light
+winds. Waves 1 foot. No lightning risk. Water temperature 65 degrees
+Fahrenheit. 
+.MONDAY...Sunny. Patchy frost in the morning. High around 61. Waves
+2 feet. South winds 10 mph. No lightning risk. Water temperature
+65 degrees Fahrenheit. 
+
+$$
+
+MEZ001-100930-
+Allagash Wilderness Waterway-
+326 PM EDT Sun Sep 9 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear. Widespread frost after midnight. Low around 27.
+Light winds. No lightning risk. 
+.MONDAY...Sunny. Widespread frost in the morning. High around 64.
+Light winds becoming south around 10 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ030-100930-
+St Croix River-
+326 PM EDT Sun Sep 9 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Patchy frost after midnight. Low around 35. Light
+winds. No lightning risk. 
+.MONDAY...Sunny. Patchy frost in the morning. High around 66. Light
+winds becoming south around 10 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ030-100930-
+West Quoddy Head-
+326 PM EDT Sun Sep 9 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Low around 44. Light winds. No lightning risk.
+Water temperature 55 degrees Fahrenheit. 
+.MONDAY...Sunny. High around 62. East winds around 10 mph. No
+lightning risk. Water temperature 55 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-100930-
+Upper Penobscot Watershed-
+326 PM EDT Sun Sep 9 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy frost after midnight. Low around 35. Light
+winds. No lightning risk. 
+.MONDAY...Sunny. Patchy frost in the morning. High around 65. East
+winds 10 mph shifting to the south around 10 mph in the afternoon.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-100930-
+Lower Penobscot Watershed-
+326 PM EDT Sun Sep 9 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy frost after midnight. Low around 39. Light
+winds. No lightning risk. 
+.MONDAY...Sunny. High around 66. East winds around 10 mph shifting
+to the south in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

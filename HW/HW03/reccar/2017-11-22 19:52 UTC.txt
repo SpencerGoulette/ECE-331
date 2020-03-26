@@ -1,0 +1,225 @@
+
+956 
+SXUS41 KCAR 221952
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+252 PM EST Wed Nov 22 2017
+
+MEZ004-231000-
+Top of Mount Katahdin-
+252 PM EST Wed Nov 22 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured...then becoming mostly cloudy late this
+evening...then becoming partly cloudy. Snow early this evening...
+then a chance of snow late this evening. a slight chance of snow
+showers after midnight. Brisk, cooler with low around 19. Northwest
+winds 10 to 20 mph increasing to around 25 mph after midnight.
+Chance of precipitation 80 percent. Wind chill values as low as
+2 above. No lightning risk. 
+.THANKSGIVING DAY...Partly sunny and brisk, cooler with high around
+21. Northwest winds 20 to 25 mph. Wind chill values as low as
+3 above. No lightning risk. 
+
+$$
+
+MEZ005-231000-
+Katahdin Woods and Waters National Monument-
+252 PM EST Wed Nov 22 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy until midnight...then becoming partly cloudy. Snow
+and rain early this evening...then a chance of snow late this
+evening. a slight chance of snow showers after midnight. Low around
+21. Northwest winds 10 to 15 mph. Chance of precipitation
+90 percent. Wind chill values as low as 11. No lightning risk. 
+.THANKSGIVING DAY...Partly sunny. High around 30. West winds 10 to
+15 mph. Wind chill values as low as 13. No lightning risk. 
+
+$$
+
+MEZ029-231000-
+Top of Cadillac Mountain-
+252 PM EST Wed Nov 22 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured...then summit in and out of clouds after
+midnight...then becoming partly cloudy. Rain early this evening...
+then a chance of rain late this evening. a slight chance of snow
+showers after midnight. Windy and much cooler with low around 26.
+Northwest winds 10 to 25 mph increasing to 25 to 30 mph after
+midnight. Chance of precipitation 90 percent. Wind chill values as
+low as 13. No lightning risk. 
+.THANKSGIVING DAY...Mostly sunny and brisk. Much cooler with high
+around 31. Northwest winds 15 to 25 mph decreasing to 10 to 15 mph
+in the afternoon. Wind chill values as low as 15. No lightning risk.
+
+$$
+
+MEZ001-231000-
+Top of Deboullie Mountain-
+252 PM EST Wed Nov 22 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured through early morning...then becoming
+partly cloudy. Snow likely early this evening...then a chance of
+snow late this evening. Low around 16. Northwest winds 10 to 20 mph.
+Chance of precipitation 70 percent. Wind chill values as low as
+zero. No lightning risk. 
+.THANKSGIVING DAY...Partly sunny. Cooler with high around 23. West
+winds 10 to 15 mph. Wind chill values as low as 4 above. No
+lightning risk. 
+
+$$
+
+MEZ006-231000-
+Top of Mars Hill Mountain-
+252 PM EST Wed Nov 22 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured through early morning...then becoming
+partly cloudy. Rain early this evening. snow until midnight...then a
+chance of snow showers after midnight. Brisk, cooler with low around
+17. Northwest winds 10 to 25 mph. Chance of precipitation near
+100 percent. Wind chill values as low as 2 above. No lightning risk.
+.THANKSGIVING DAY...Partly sunny and brisk, cooler with high around
+24. Northwest winds 15 to 25 mph shifting to the west 10 to 15 mph
+in the afternoon. Wind chill values as low as 1 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ010-231000-
+Top of White Cap Mountain-
+252 PM EST Wed Nov 22 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured...then summit in and out of clouds late
+this evening...then becoming mostly cloudy...then becoming partly
+cloudy late. Snow early this evening...then a chance of snow late
+this evening. Brisk and much cooler with low around 17. Northwest
+winds 15 to 25 mph. Chance of precipitation 80 percent. Wind chill
+values as low as 1 above. No lightning risk. 
+.THANKSGIVING DAY...Partly sunny and brisk. Much cooler with high
+around 21. Northwest winds 20 to 25 mph shifting to the west around
+15 mph in the afternoon. Wind chill values as low as 3 above. No
+lightning risk. 
+
+$$
+
+MEZ010-231000-
+Moosehead Lake-
+252 PM EST Wed Nov 22 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Rain likely early this evening. a chance of snow until
+midnight. Cooler with low around 20. Northwest winds 10 to 15 mph.
+Waves 4 feet. Chance of precipitation 70 percent. Wind chill values
+as low as 10 above. No lightning risk. 
+.THANKSGIVING DAY...Partly sunny in the morning...then becoming
+mostly cloudy. Cooler with high around 29. Waves 3 feet. West winds
+around 10 mph. Wind chill values as low as 7 above in the morning.
+No lightning risk. 
+
+$$
+
+MEZ001-231000-
+Allagash Wilderness Waterway-
+252 PM EST Wed Nov 22 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Snow likely early this evening...then a chance of snow late
+this evening. Low around 18. Northwest winds around 10 mph. Chance
+of precipitation 70 percent. Wind chill values as low as 8 above. No
+lightning risk. 
+.THANKSGIVING DAY...Partly sunny in the morning...then becoming
+mostly cloudy. Cooler with high around 27. West winds around 10 mph.
+Wind chill values as low as 10 above. No lightning risk. 
+
+$$
+
+MEZ030-231000-
+St Croix River-
+252 PM EST Wed Nov 22 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy through early morning...then becoming partly
+cloudy. Rain until midnight...then a chance of rain showers after
+midnight. Low around 26. Northwest winds 10 to 15 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as 16. No
+lightning risk. 
+.THANKSGIVING DAY...Sunny in the morning...then becoming partly
+sunny. Cooler with high around 33. Northwest winds 10 to 15 mph.
+Wind chill values as low as 18. No lightning risk. 
+
+$$
+
+MEZ030-231000-
+West Quoddy Head-
+252 PM EST Wed Nov 22 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy through early morning...then becoming partly
+cloudy. Rain until midnight...then a chance of rain showers after
+midnight. Breezy, cooler with low around 34. Northwest winds 10 to
+25 mph. Chance of precipitation near 100 percent. No lightning risk.
+Water temperature 51 degrees Fahrenheit. 
+.THANKSGIVING DAY...Mostly sunny and breezy. Much cooler with high
+around 37. Northwest winds 15 to 25 mph decreasing to 10 to 15 mph
+in the afternoon. No lightning risk. Water temperature 51 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-231000-
+Upper Penobscot Watershed-
+252 PM EST Wed Nov 22 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy until midnight...then becoming partly cloudy. Rain
+with snow likely early this evening...then a chance of snow and rain
+late this evening. a slight chance of snow showers after midnight.
+Low around 23. Northwest winds 10 to 15 mph. Chance of precipitation
+near 100 percent. Wind chill values as low as 13. No lightning risk.
+.THANKSGIVING DAY...Partly sunny. High around 32. West winds around
+10 mph. Wind chill values as low as 15. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-231000-
+Lower Penobscot Watershed-
+252 PM EST Wed Nov 22 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy...then becoming partly cloudy after
+midnight...then becoming mostly clear. Rain early this evening...
+then a chance of rain with a slight chance of snow late this
+evening. a slight chance of snow showers after midnight. Low around
+26. Northwest winds 10 to 15 mph. Chance of precipitation near
+100 percent. Wind chill values as low as 17. No lightning risk. 
+.THANKSGIVING DAY...Partly sunny. High around 35. West winds around
+10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

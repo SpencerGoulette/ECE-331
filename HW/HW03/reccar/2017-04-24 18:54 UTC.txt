@@ -1,0 +1,70 @@
+
+273 
+SXUS41 KCAR 241854
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+254 PM EDT Mon Apr 24 2017
+
+MEZ004-250900-
+Top of Mount Katahdin-
+254 PM EDT Mon Apr 24 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear until midnight...then becoming partly cloudy. Low
+around 28. Northwest winds around 10 mph shifting to the northeast
+after midnight. 
+.TUESDAY...Partly sunny. A chance of rain in the afternoon. High
+around 38. Southeast winds 10 to 15 mph. Chance of precipitation
+30 percent. 
+
+$$
+
+MEZ029-250900-
+Top of Cadillac Mountain-
+254 PM EDT Mon Apr 24 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear. Low around 38. Light winds becoming east
+10 to 15 mph after midnight. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. A chance of rain in the afternoon. High around 45. East
+winds around 15 mph. Chance of precipitation 40 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-250900-
+Upper Penobscot Watershed-
+254 PM EDT Mon Apr 24 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 29. Light winds. 
+.TUESDAY...Partly sunny. High around 53. East winds around 10 mph
+shifting to the southeast in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-250900-
+Lower Penobscot Watershed-
+254 PM EDT Mon Apr 24 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 34. Light winds becoming
+northeast around 10 mph after midnight. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. A chance of rain in the afternoon. High around 55. East
+winds around 10 mph shifting to the southeast in the afternoon.
+Chance of precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

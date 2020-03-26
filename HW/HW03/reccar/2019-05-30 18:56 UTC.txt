@@ -1,0 +1,212 @@
+
+917 
+SXUS41 KCAR 301856
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+256 PM EDT Thu May 30 2019
+
+MEZ004-310900-
+Top of Mount Katahdin-
+256 PM EDT Thu May 30 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy. A chance of showers until midnight.
+Showers likely after midnight. Low around 34. Southwest winds 15 to
+25 mph. Chance of precipitation 70 percent. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then clearing. A chance of
+rain showers in the morning. Cooler with high around 38. Northwest
+winds 15 to 20 mph. Chance of precipitation 30 percent. No lightning
+risk. 
+
+$$
+
+MEZ005-310900-
+Katahdin Woods and Waters National Monument-
+256 PM EDT Thu May 30 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. A slight chance of showers early this
+evening...then a chance of showers through early morning. Showers
+likely late. Low around 48. South winds 10 to 20 mph. Chance of
+precipitation 70 percent. No lightning risk. 
+.FRIDAY...Mostly sunny. A chance of showers in the morning. High
+around 59. West winds 10 to 15 mph. Chance of precipitation
+40 percent. No lightning risk. 
+
+$$
+
+MEZ029-310900-
+Top of Cadillac Mountain-
+256 PM EDT Thu May 30 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. A slight chance of showers late this
+evening. A chance of showers after midnight. Patchy fog after
+midnight. Low around 46. South winds 10 to 20 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+.FRIDAY...Summit obscured in the morning, then clearing. Patchy fog
+in the morning. A chance of showers in the morning. High around 59.
+Northwest winds 10 to 15 mph. Chance of precipitation 50 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-310900-
+Top of Deboullie Mountain-
+256 PM EDT Thu May 30 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy until midnight, then summit becoming obscured. A
+chance of showers early this evening...then showers from late
+evening on. Low around 39. Southwest winds 10 to 20 mph. Chance of
+precipitation 80 percent. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then clearing. A chance of
+showers in the morning. High around 51. West winds 10 to 15 mph.
+Chance of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ006-310900-
+Top of Mars Hill Mountain-
+256 PM EDT Thu May 30 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy until midnight, then summit becoming
+obscured. A chance of showers until midnight...then showers likely
+after midnight. Low around 45. South winds 10 to 20 mph. Chance of
+precipitation 70 percent. No lightning risk. 
+.FRIDAY...Summit obscured in the morning, then clearing. Showers
+likely in the morning. High around 55. West winds 10 to 15 mph.
+Chance of precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ010-310900-
+Top of White Cap Mountain-
+256 PM EDT Thu May 30 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds early this evening, then
+becoming cloudy. A chance of showers. Low around 37. Southwest winds
+10 to 20 mph. Chance of precipitation 50 percent. No lightning risk.
+.FRIDAY...Partly sunny in the morning, then clearing. A slight
+chance of showers in the morning. High around 46. Northwest winds
+10 to 20 mph. Chance of precipitation 20 percent. No lightning risk.
+
+$$
+
+MEZ010-310900-
+Moosehead Lake-
+256 PM EDT Thu May 30 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. A slight chance of showers early this evening...then a
+chance of showers from late evening on. Low around 46. Southwest
+winds 10 to 15 mph. Waves 2 feet. Chance of precipitation
+50 percent. No lightning risk. 
+.FRIDAY...Mostly sunny. A slight chance of showers in the morning.
+High around 58. Waves 2 feet. Northwest winds 10 to 15 mph. Chance
+of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-310900-
+Allagash Wilderness Waterway-
+256 PM EDT Thu May 30 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. A chance of showers early this evening...then showers
+through early morning. A chance of showers late. Low around 43.
+South winds 10 to 15 mph shifting to the west after midnight. Chance
+of precipitation 80 percent. No lightning risk. 
+.FRIDAY...Sunny. A slight chance of showers in the morning. High
+around 56. West winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ030-310900-
+St Croix River-
+256 PM EDT Thu May 30 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A slight chance of showers late this evening. A chance of
+showers after midnight. Low around 47. South winds 10 to 15 mph.
+Chance of precipitation 50 percent. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then clearing. A chance of
+showers in the morning. High around 63. West winds 10 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ030-310900-
+West Quoddy Head-
+256 PM EDT Thu May 30 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Patchy fog after midnight. A chance of showers after
+midnight. Low around 45. South winds 15 to 20 mph. Chance of
+precipitation 50 percent. No lightning risk. Water temperature
+43 degrees Fahrenheit. 
+.FRIDAY...Mostly cloudy in the morning, then clearing. Patchy fog in
+the morning. Showers likely in the morning. High around 55.
+Southwest winds 10 to 15 mph decreasing to 10 mph in the afternoon.
+Chance of precipitation 60 percent. No lightning risk. Water
+temperature 43 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-310900-
+Upper Penobscot Watershed-
+256 PM EDT Thu May 30 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. A slight chance of showers until midnight...then a chance of
+showers after midnight. Low around 49. South winds 10 to 15 mph.
+Chance of precipitation 50 percent. No lightning risk. 
+.FRIDAY...Mostly sunny. A slight chance of showers in the morning.
+High around 62. Northwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-310900-
+Lower Penobscot Watershed-
+256 PM EDT Thu May 30 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. A slight chance of showers through early morning. A chance
+of showers late. Patchy fog after midnight. Low around 49. South
+winds 10 to 15 mph. Chance of precipitation 40 percent. No lightning
+risk. 
+.FRIDAY...Mostly sunny. Patchy fog in the morning. A slight chance
+of showers in the morning. High around 65. Northwest winds 10 to
+15 mph. Chance of precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

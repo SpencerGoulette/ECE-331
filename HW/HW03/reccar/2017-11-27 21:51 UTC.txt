@@ -1,0 +1,201 @@
+
+548 
+SXUS41 KCAR 272151
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+451 PM EST Mon Nov 27 2017
+
+MEZ004-281200-
+Top of Mount Katahdin-
+451 PM EST Mon Nov 27 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy early this evening...then clearing. Brisk
+with low around 1 below. Northwest winds 20 to 30 mph decreasing to 
+10 to 15 mph after midnight. Wind chill values as low as 21 below. No
+lightning risk. 
+.TUESDAY...Partly sunny with strong winds. Not as cool with high
+around 26. West winds 10 to 20 mph increasing to southwest 30 to
+45 mph in the afternoon. Wind chill values as low as 16 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ005-281200-
+Katahdin Woods and Waters National Monument-
+451 PM EST Mon Nov 27 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Cooler with
+low around 7 above. Northwest winds 10 to 15 mph until midnight
+becoming light winds. No lightning risk. 
+.TUESDAY...Partly sunny. High around 31. West winds around 10 mph
+shifting to the south in the afternoon. Wind chill values as low as
+2 below in the morning. No lightning risk. 
+
+$$
+
+MEZ029-281200-
+Top of Cadillac Mountain-
+451 PM EST Mon Nov 27 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear and windy. Low around 18. North winds 20 to
+30 mph decreasing to 10 to 20 mph after midnight. Wind chill values
+as low as 5 above. No lightning risk. 
+.TUESDAY...Mostly sunny and windy. High around 35. Northwest winds
+10 to 15 mph increasing to southwest 15 to 30 mph in the afternoon.
+Wind chill values as low as 8 above in the morning. No lightning
+risk. 
+
+$$
+
+MEZ001-281200-
+Top of Deboullie Mountain-
+451 PM EST Mon Nov 27 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy. Low around 4 above. Northwest winds 10 to
+15 mph. Wind chill values as low as 8 below. No lightning risk. 
+.TUESDAY...Partly sunny in the morning...then becoming cloudy. Not
+as cool with high around 28. Southwest winds 10 to 20 mph. Wind
+chill values as low as 8 below in the morning. No lightning risk. 
+
+$$
+
+MEZ006-281200-
+Top of Mars Hill Mountain-
+451 PM EST Mon Nov 27 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy through early morning...then becoming
+mostly clear. Cooler with low around 5 above. Northwest winds 10 to
+20 mph. Wind chill values as low as 8 below. No lightning risk. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. High around 28. West winds around 10 mph shifting to the
+south 10 to 20 mph in the afternoon. Wind chill values as low as
+7 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-281200-
+Top of White Cap Mountain-
+451 PM EST Mon Nov 27 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy early this evening...then clearing. Windy
+with low around 6 above. Northwest winds 20 to 30 mph decreasing to
+10 to 20 mph after midnight. Wind chill values as low as 14 below.
+No lightning risk. 
+.TUESDAY...Partly sunny and very windy. High around 26. West winds
+10 to 20 mph increasing to southwest 25 to 40 mph in the afternoon.
+Wind chill values as low as 7 below in the morning. No lightning
+risk. 
+
+$$
+
+MEZ010-281200-
+Moosehead Lake-
+451 PM EST Mon Nov 27 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy early this evening...then clearing. Cooler
+with low around 8 above. Northwest winds 10 to 15 mph shifting to
+the west after midnight. Waves 4 feet. No lightning risk. 
+.TUESDAY...Partly sunny. High around 30. Waves 2 feet. South winds
+10 mph. Wind chill values as low as 1 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ001-281200-
+Allagash Wilderness Waterway-
+451 PM EST Mon Nov 27 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+clear. Cooler with low around 3 above. Light winds. No lightning
+risk. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. High around 28. South winds 10 to 15 mph. Wind chill values
+as low as 7 below in the morning. No lightning risk. 
+
+$$
+
+MEZ030-281200-
+St Croix River-
+451 PM EST Mon Nov 27 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy early this evening...then clearing. Cooler
+with low around 11. Northwest winds around 10 mph. No lightning
+risk. 
+.TUESDAY...Partly sunny. High around 34. West winds around 10 mph
+shifting to the southwest in the afternoon. Wind chill values as low
+as 4 above in the morning. No lightning risk. 
+
+$$
+
+MEZ030-281200-
+West Quoddy Head-
+451 PM EST Mon Nov 27 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy early this evening...then clearing. Cooler
+with low around 18. North winds 15 to 20 mph. Wind chill values as
+low as 6 above. No lightning risk. Water temperature 52 degrees
+Fahrenheit. 
+.TUESDAY...Partly sunny. High around 38. Northwest winds around
+10 mph shifting to the southwest in the afternoon. Wind chill values
+as low as 5 above in the morning. No lightning risk. Water
+temperature 52 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-281200-
+Upper Penobscot Watershed-
+451 PM EST Mon Nov 27 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening...then clearing. Cooler
+with low around 9 above. Northwest winds 10 to 15 mph decreasing to
+10 mph after midnight. No lightning risk. 
+.TUESDAY...Partly sunny. High around 32. South winds 10 mph. Wind
+chill values as low as 3 above in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-281200-
+Lower Penobscot Watershed-
+451 PM EST Mon Nov 27 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Cooler with low around 10 above. Northwest
+winds around 10 mph. No lightning risk. 
+.TUESDAY...Partly sunny. High around 34. Southwest winds 10 mph.
+Wind chill values as low as 4 above in the morning. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

@@ -1,0 +1,86 @@
+
+607 
+SXUS41 KCAR 300655
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+255 AM EDT Sun Apr 30 2017
+
+MEZ004-302100-
+Top of Mount Katahdin-
+255 AM EDT Sun Apr 30 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly sunny...then partly cloudy late. Cooler with high 
+around 36. North winds 15 to 25 mph with gusts up to 35 mph shifting
+to the northwest 10 to 20 mph this afternoon. Wind chill values as 
+low as 1 above. 
+.TONIGHT...Cloudy. A chance of snow until midnight...then snow after
+midnight. Not as cool with low around 29. Light winds becoming south
+10 to 15 mph after midnight. Chance of precipitation near 100 
+percent. 
+.MONDAY...Summit obscured. Snow til mid morning...then Rain. High 
+around 40. South winds around 15 to 25 mph. Chance of precipitation 
+near 100 percent. Wind chill values as low as 20. 
+
+$$
+
+MEZ029-302100-
+Top of Cadillac Mountain-
+255 AM EDT Sun Apr 30 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny...then partly cloudy late. Much cooler with high 
+around 51. Northwest winds 10 to 20 mph. 
+.TONIGHT...Mostly cloudy. A chance of rain after midnight. Low 
+around 38. Southwest winds around 10 mph. Chance of precipitation 40 
+percent. 
+.MONDAY...Summit in and out of clouds in the morning...then summit
+becoming obscured. Rain likely in the morning...then a chance of
+showers in the afternoon. High around 45. Southeast winds around
+15 mph. Chance of precipitation 60 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-302100-
+Upper Penobscot Watershed-
+255 AM EDT Sun Apr 30 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny this morning...then becoming partly sunny. Much
+cooler with high around 56. North winds around 5 mph. 
+.TONIGHT...Cloudy. A chance of rain until midnight...then rain after
+midnight. Low around 38. Light winds. Chance of precipitation near 
+100 percent. 
+.MONDAY...Cloudy, rain, cooler with high around 44. Southeast winds
+around 10 mph. Chance of precipitation near 100 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-302100-
+Lower Penobscot Watershed-
+255 AM EDT Sun Apr 30 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny this morning...then becoming partly sunny. Much
+cooler with high around 58. North winds around 10 mph this morning
+becoming light winds. 
+.TONIGHT...Cloudy. A chance of rain after midnight. Low around 39.
+Light winds. Chance of precipitation 50 percent. 
+.MONDAY...Cloudy, rain, cooler with high around 47. Southeast winds
+around 5 mph. Chance of precipitation near 100 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

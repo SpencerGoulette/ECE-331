@@ -1,0 +1,192 @@
+
+424 
+SXUS41 KCAR 252023
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+423 PM EDT Sat Aug 25 2018
+
+MEZ004-261000-
+Top of Mount Katahdin-
+423 PM EDT Sat Aug 25 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Low around 55. West winds around 15 mph. No lightning risk.
+.SUNDAY...Partly sunny. Isolated showers in the afternoon. High 
+around 60. Southwest winds 10 to 15 mph increasing to around 20 mph 
+in the afternoon. Chance of precipitation 20 percent. No lightning 
+risk. 
+
+$$
+
+MEZ005-261000-
+Katahdin Woods and Waters National Monument-
+423 PM EDT Sat Aug 25 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Patchy fog late. Low around 58. Light winds. No lightning
+risk. 
+.SUNDAY...Partly sunny. Patchy fog in the morning. Isolated showers
+in the afternoon. High around 81. Light winds becoming south around
+10 mph in the afternoon. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ029-261000-
+Top of Cadillac Mountain-
+423 PM EDT Sat Aug 25 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Patchy fog after midnight. Low around 59. Southwest winds
+15 to 20 mph. No lightning risk. 
+.SUNDAY...Mostly sunny. Patchy fog in the morning. High around 68.
+Southwest winds 15 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ001-261000-
+Top of Deboullie Mountain-
+423 PM EDT Sat Aug 25 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy. Patchy fog late. Low around 59. Southwest
+winds around 10 mph. No lightning risk. 
+.SUNDAY...Partly sunny. Patchy fog in the morning. Scattered showers
+in the afternoon. High around 77. Southwest winds around 10 mph.
+Chance of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ006-261000-
+Top of Mars Hill Mountain-
+423 PM EDT Sat Aug 25 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy late this
+evening. Patchy fog late. Low around 58. South winds around 10 mph. 
+No lightning risk. 
+.SUNDAY...Partly sunny. Patchy fog in the morning. Isolated showers 
+in the afternoon. High around 77. South winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ010-261000-
+Top of White Cap Mountain-
+423 PM EDT Sat Aug 25 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy. Low around 58. Southwest winds 15 to 20 
+mph. No lightning risk.
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Isolated showers in the afternoon. High around 66. Southwest winds 
+15 to 20 mph. Chance of precipitation 20 percent. No lightning risk.
+
+$$
+
+MEZ010-261000-
+Moosehead Lake-
+423 PM EDT Sat Aug 25 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear early this evening, then becoming partly
+cloudy. Patchy fog late. Low around 57. Light winds. Waves 1 foot.
+No lightning risk. Water temperature 65 degrees Fahrenheit. 
+.SUNDAY...Partly sunny. Patchy fog in the morning. Isolated showers
+in the afternoon. High around 77. Waves 2 feet. Light winds becoming
+south around 10 mph in the afternoon. Chance of precipitation
+20 percent. No lightning risk. Water temperature 65 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-261000-
+Allagash Wilderness Waterway-
+423 PM EDT Sat Aug 25 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy. Patchy fog late. Low around 57. Light
+winds. No lightning risk. 
+.SUNDAY...Partly sunny. Patchy fog in the morning. Scattered showers
+in the afternoon. High around 80. Light winds becoming south around
+10 mph in the afternoon. Chance of precipitation 40 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-261000-
+St Croix River-
+423 PM EDT Sat Aug 25 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear. Patchy fog late. Low around 53. Light
+winds. No lightning risk. 
+.SUNDAY...Mostly sunny. Patchy fog in the morning. High around 79.
+South winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-261000-
+West Quoddy Head-
+423 PM EDT Sat Aug 25 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear. Patchy fog after midnight. Low around 54.
+Southwest winds around 10 mph. No lightning risk. Water temperature
+56 degrees Fahrenheit. 
+.SUNDAY...Mostly sunny. Patchy fog in the morning. High around 70.
+South winds around 10 mph. No lightning risk. Water temperature
+56 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-261000-
+Upper Penobscot Watershed-
+423 PM EDT Sat Aug 25 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Patchy fog late. Low around 57. South winds
+around 10 mph until midnight becoming light winds. No lightning
+risk. 
+.SUNDAY...Partly sunny. Patchy fog in the morning. High around 81.
+South winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-261000-
+Lower Penobscot Watershed-
+423 PM EDT Sat Aug 25 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Patchy fog after midnight. Low around 57.
+South winds around 10 mph until midnight becoming light winds. No
+lightning risk. 
+.SUNDAY...Mostly sunny. Patchy fog in the morning. High around 80.
+South winds around 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

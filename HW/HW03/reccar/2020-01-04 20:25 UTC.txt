@@ -1,0 +1,227 @@
+
+228 
+SXUS41 KCAR 042025
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+325 PM EST Sat Jan 4 2020
+
+MEZ004-051030-
+Top of Mount Katahdin-
+325 PM EST Sat Jan 4 2020
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds. Patchy fog early this
+evening through early morning. Snow. Low around 13. Northwest winds 
+10 mph shifting to the north 10 to 20 mph after midnight. Chance of 
+precipitation 90 percent. Wind chill values as low as zero. No 
+lightning risk. 
+.SUNDAY...Summit in and out of clouds in the morning, then becoming
+mostly cloudy. A chance of snow in the morning...then a slight
+chance of snow in the afternoon. Brisk, cooler with high around 15.
+North winds 15 to 30 mph. Chance of precipitation 50 percent. Wind
+chill values as low as 10 below. No lightning risk. 
+
+$$
+
+MEZ005-051030-
+Katahdin Woods and Waters National Monument-
+325 PM EST Sat Jan 4 2020
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. A chance of snow early this evening. Snow from 
+late evening on. Patchy fog through early morning. Low around 21. 
+Northeast winds 10 mph shifting to the north after midnight. Chance 
+of precipitation 80 percent. Wind chill values as low as 11. No 
+lightning risk. 
+.SUNDAY...Mostly cloudy. A chance of snow. Cooler with high around
+25. Northwest winds 10 to 20 mph. Chance of precipitation
+50 percent. Wind chill values as low as 7 above. No lightning risk. 
+
+$$
+
+MEZ029-051030-
+Top of Cadillac Mountain-
+325 PM EST Sat Jan 4 2020
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Rain likely early this evening. Snow.
+Low around 26. Northeast winds 10 to 20 mph. Chance of precipitation
+80 percent. Wind chill values as low as 16. No lightning risk. 
+.SUNDAY...Summit in and out of clouds in the morning, then becoming
+mostly cloudy. A chance of snow. Brisk, cooler with high around 27.
+North winds 20 to 30 mph. Chance of precipitation 50 percent. Wind
+chill values as low as 10 above. No lightning risk. 
+
+$$
+
+MEZ001-051030-
+Top of Deboullie Mountain-
+325 PM EST Sat Jan 4 2020
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured until midnight, then summit in and out of
+clouds. Patchy fog early this evening. A slight chance of snow early
+this evening...then a chance of snow from late evening on. Cooler
+with low around 16. North winds 10 to 20 mph. Chance of
+precipitation 40 percent. Wind chill values as low as 2 above. No
+lightning risk. 
+.SUNDAY...Summit obscured in the morning, then summit in and out of
+clouds. A chance of snow in the morning...then a slight chance of
+snow in the afternoon. Cooler with high around 19. North winds 15 to
+20 mph. Chance of precipitation 30 percent. Wind chill values as low
+as 1 below. No lightning risk. 
+
+$$
+
+MEZ006-051030-
+Top of Mars Hill Mountain-
+325 PM EST Sat Jan 4 2020
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy early this evening, then summit in and out of
+clouds. A slight chance of snow early this evening...then a chance
+of snow from late evening on. Low around 19. North winds 10 mph
+increasing to 10 to 15 mph after midnight. Chance of precipitation
+50 percent. No lightning risk. 
+.SUNDAY...Summit obscured in the morning, then summit in and out of
+clouds. A chance of snow in the morning...then a slight chance of
+snow in the afternoon. Cooler with high around 21. Northwest winds
+10 to 20 mph. Chance of precipitation 40 percent. Wind chill values
+as low as 3 above. No lightning risk. 
+
+$$
+
+MEZ010-051030-
+Top of White Cap Mountain-
+325 PM EST Sat Jan 4 2020
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds. Patchy fog early this
+evening. Patchy fog late this evening. Snow. Low around 16. North 
+winds 10 mph increasing to 10 to 20 mph after midnight. Chance of 
+precipitation 90 percent. Wind chill values as low as 4 above. No 
+lightning risk. 
+.SUNDAY...Summit in and out of clouds. A chance of snow in the
+morning...then a slight chance of snow in the afternoon. Brisk,
+cooler with high around 17. Northwest winds 15 to 30 mph. Chance of
+precipitation 50 percent. Wind chill values as low as 6 below. No
+lightning risk. 
+
+$$
+
+MEZ010-051030-
+Moosehead Lake-
+325 PM EST Sat Jan 4 2020
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Patchy fog early this evening. Patchy fog through
+early morning. Snow, cooler with low around 21. Northeast winds 10 
+mph shifting to the north 10 to 15 mph after midnight. Chance of 
+precipitation 90 percent. No lightning risk. 
+.SUNDAY...Mostly cloudy. A chance of snow in the morning...then a
+slight chance of snow in the afternoon. Cooler with high around 25.
+Northwest winds 10 to 20 mph. Chance of precipitation 40 percent.
+Wind chill values as low as 7 above. No lightning risk. 
+
+$$
+
+MEZ001-051030-
+Allagash Wilderness Waterway-
+325 PM EST Sat Jan 4 2020
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. A slight chance of snow early this evening. A
+chance of snow from late evening on. Patchy fog through early
+morning. Low around 18. North winds 10 mph. Chance of precipitation
+50 percent. No lightning risk. 
+.SUNDAY...Mostly cloudy. A chance of snow in the morning...then a
+slight chance of snow in the afternoon. Cooler with high around 22.
+Northwest winds 10 to 15 mph. Chance of precipitation 30 percent.
+Wind chill values as low as 6 above. No lightning risk. 
+
+$$
+
+MEZ030-051030-
+St Croix River-
+325 PM EST Sat Jan 4 2020
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Patchy fog through early morning. A chance of
+snow early this evening. snow likely from late evening on. Low
+around 26. North winds 10 mph. Chance of precipitation 70 percent.
+No lightning risk. 
+.SUNDAY...Cloudy. Snow likely in the morning...then a chance of snow
+in the afternoon. Cooler with high around 27. North winds 10 to
+20 mph. Chance of precipitation 60 percent. Wind chill values as low
+as 12. No lightning risk. 
+
+$$
+
+MEZ030-051030-
+West Quoddy Head-
+325 PM EST Sat Jan 4 2020
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+from late evening on. Snow after midnight. Low around 31. Northeast 
+winds 10 to 20 mph. Chance of precipitation 80 percent. No lightning 
+risk. Water temperature 43 degrees Fahrenheit. 
+.SUNDAY...Cloudy. Snow likely in the morning...then a chance of snow
+in the afternoon. High around 32. North winds 15 to 25 mph. Chance
+of precipitation 70 percent. Wind chill values as low as 17. No
+lightning risk. Water temperature 43 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-051030-
+Upper Penobscot Watershed-
+325 PM EST Sat Jan 4 2020
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog through early morning. A chance of
+snow early this evening. snow from late evening on. Low around 23.
+Northeast winds 10 mph shifting to the north after midnight. Chance
+of precipitation 90 percent. No lightning risk. 
+.SUNDAY...Cloudy in the morning, then becoming partly sunny. A
+chance of snow in the morning...then a slight chance of snow in the
+afternoon. Cooler with high around 26. Northwest winds 10 to 20 mph.
+Chance of precipitation 50 percent. Wind chill values as low as
+10 above. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-051030-
+Lower Penobscot Watershed-
+325 PM EST Sat Jan 4 2020
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog through early morning. A chance of
+snow early this evening. Low around 26. Northeast winds 10 mph 
+shifting to the north after midnight. Chance of precipitation 80 
+percent. No lightning risk. 
+.SUNDAY...Cloudy in the morning, then becoming partly sunny. A
+chance of snow in the morning...then a slight chance of snow in the
+afternoon. High around 30. North winds 10 to 20 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

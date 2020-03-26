@@ -1,0 +1,259 @@
+The python interpreter is usually installed as /usr/local/bin/python
+
+Putting /usr/local/bin in your Unix shell's search path makes it possible to start it by typing python
+
+/usr/local/python is another popular alternative location
+
+quit the interpreter with quit()
+
+Press Ctrl+P to see if command line editing is supported
+
+Second way of starting the interpreter:
+	python -c command [arg] ...
+
+	python -m module [arg] ...
+
+Argument passing:
+	import sys
+
+	sys.arv[i]
+
+When commands are read from a tty, the interpreter is said to be in interactive mode.
+	>>>		primary prompt	
+	...		secondary prompt
+
+
+By default, Python source files are treated as encoded in ASCII. To declare an encoding other than the default one, a special comment line should be added as the first line of the file:
+
+# -*- coding: encoding -*-
+
+where encoding is one of the valid codecs supported by python
+
+#-*- coding: cp1252 -*-
+
+UNIX "shebang" line
+#!/usr/bin/env python
+
+In interactive mode, the last printed expression is assigned to the variable _
+
+strings can be expressed in '...' and "..." with the same result. \ can be used to escape quotes.
+
+print '...'		can be used to produce a more readable output
+
+You can use r before the first quote to use raw strings:
+print 'C:\some\name'	will see \n as a new line
+
+print r'C:\some\name'	will interpret string without escapes
+
+String literals span multiple lines. Can use """...""" or '''...'''
+
+End of lines are automatically inclused in the string, but it is possible to get rid of them by adding a \ at the end of the line
+
+Strings can be concatenated with the + operator
+
+Two or more string literals next to each other are automatically concatenated.
+
+Can break long strings up by doing this.
+
+This only works with literals not variables or expressions
+
+Must use + to concatenate with a variable or expression
+
+Can index through characters
+word[0]		gets character in position 0
+word[-1]	gets last character
+
+slicing is also supported
+word[0:5]	gets characters from 0 to 4 (5 is excluded)
+word[:5]	gets characters from 0 to 4
+word[0:]	gets all characters
+
+The indices actually point between characters
+
+Out of range slicing indices are handled gracefully
+
+Can't reassign strings in Python. Instead should create a new one.
+
+len(word)	returns the length of a string
+
+UNICODE STRINGS
+
+Create a unicode string
+u'Hello'
+
+Unicode escape encoding
+u'Hello\u0020World !'
+
+\u0020 means insert space char
+
+By putting ur infront, Raw-Unicode Escape encoding is used
+ur'Hello\u0020World !'	An uneven amount of slashes causes the slashes to not escape
+
+Encoding and decoding can occur
+
+u"aou".encode('utf-8')	by default uses ASCII
+
+LISTS
+squares = [1,2,3,4]
+
+Lists can also be indiced and sliced.
+
+Lists also support concatenation
+
+Unlike strings, lists are mutable
+
+.append()	add new items to end of list
+
+len(list)	length of list
+
+You can net lists and access them as well
+list[0][1]	First list seconds element
+
+, after a print gets rid of the newline
+
+IF STATEMENTS
+
+if x == 0:
+	...
+elif x > 0:
+	...
+else:
+	...
+
+FOR STATEMENTS
+
+for w in words:
+	print w, len(w)
+
+slice makes a copy
+
+
+RANGE FUNCTION
+
+range(start,end,step)
+
+range(10)	creates list from 0 to 9
+range(0,5)	creates list from 0 to 4
+range(0,10,2)	creates list from 0 to 9 with steps of 2
+
+To iteratre over the indices of a list, range and len can be used.
+
+BREAK, CONTINUE, and ELSE for LOOPS
+
+break statement breaks the inner most for or while loop.
+
+else can be used in a for loop if the for loop stops or isn't used.
+
+continue can also be used to continue through the next iteration of the loop
+
+pass statement can be used to do nothing like for a while loop that is waiting
+	Commonly used for minimal classes
+
+DEFINING FUNCTIONS
+def fib(n):
+	...
+
+can have a return or not
+
+if you need to return multiple things, use a list
+
+in functions you can assign default values
+
+def foo(prompt, retries=4, compliant='Yes or now'):
+	...
+
+variables predefined in a function are evaluated at the function:
+i = 5
+foo(arg=i):
+	print arg
+
+i = 6
+f()
+
+will print 5
+
+These predefined variables are only evaluated once.
+
+Can not have a non-keyword argument after a keyword argument
+parrot(voltage=5.0, 'dead')
+
+Can't have a duplicate value for the same argument
+Can't have unknown keyword
+
+*arguments in a function header is essentially an array
+**keywords in a function header is essentially a dictionary
+
+keys() can be called to get the keys for the dictionary
+
+Sometimes need to sort the keywords
+
+To unpack items out of a list or tuple, use the * in front
+
+Dictionaries can deliver keyword arguments with the **-operator
+
+Small anonymous functions can be created with the lambda function
+
+DOCSTRING
+Shows the documentation string
+print my_function.__doc__
+
+LISTS
+
+list.append(x)
+list.extend(L)
+list.insert(i,x)
+list.remove(x)
+list.pop([i])
+list.index(x)
+list.count(x)
+list.sort(cmp=None, key=None, reverse=False)
+list.reverse()
+
+from collections import deque
+queue = deque(["Eric", "John", "Michael"])
+queue.popleft()
+
+filter(function, sequence)	returns sequence for which function is true
+map(function, sequence)		returns a list of return values from function
+reduce(function, sequence)	returns a value but keeps using items from sequence
+
+LIST COMPREHENSION
+[(x,y) for x in [1,2,3] for y in [3,1,4] if x != y]
+
+List comprehension can also be nested
+
+DEL STATEMENT
+del a[2:4]	deletes those elements 2,3
+
+TUPLES AND SEQUENCES
+
+tuples aren't mutable but any lists inside them are
+a single item in a tuple needs a comma
+sequence unpacking may be used
+x, y, z = t
+
+SETS
+unoredered collection with no duplicate elements
+set()
+
+DICTIONARIES
+essentially a list of key value pairs
+tel = {'jack': 4098, 'sape': 4139}
+del tel['sape']
+tel['guido'] = 4127
+dict() builds dictionaries from sequences
+
+enumerate function can be used when looping through a sequence to get the index
+for i, v in enumerate
+i-index
+v-value
+
+to loop over more than 1 sequence, zip can be used and .format(q,a) to insert the two lists
+
+reversed()
+sorted()
+iteritems()		get both key and value
+
+Usually safer to create a new list instead of changing old one
+
+

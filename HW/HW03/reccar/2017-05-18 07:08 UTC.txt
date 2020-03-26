@@ -1,0 +1,95 @@
+
+366 
+SXUS41 KCAR 180708
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+308 AM EDT Thu May 18 2017
+
+MEZ004-182115-
+Top of Mount Katahdin-
+308 AM EDT Thu May 18 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly sunny. High around 65. West winds 15 to 20 mph. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. A chance of rain after midnight. Cooler with low around 47.
+West winds 25 to 30 mph. Chance of precipitation 40 percent. 
+.FRIDAY...Cloudy in the morning...then summit becoming obscured. A
+chance of showers in the morning. Much cooler with high around 48.
+Temperatures falling to around 38 in the afternoon. West winds 25 to
+30 mph shifting to the northwest around 20 mph in the afternoon.
+Chance of precipitation 40 percent. 
+
+$$
+
+MEZ029-182115-
+Top of Cadillac Mountain-
+308 AM EDT Thu May 18 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly sunny. High around 70. West winds around 15 mph. 
+.TONIGHT...Mostly clear. Low around 62. Southwest winds 20 to
+25 mph. 
+.FRIDAY...Partly sunny. High around 64. West winds around 20 mph. 
+
+$$
+
+MEZ010-182115-
+Moosehead Lake-
+308 AM EDT Thu May 18 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly sunny. Warmer with high around 83. West winds 10 to
+15 mph. Waves 2 to 3 feet. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. A chance of rain after midnight. Low around 55. Waves
+3 feet. Southwest winds around 10 mph. Chance of precipitation
+50 percent. 
+.FRIDAY...Mostly cloudy in the morning...then becoming partly sunny.
+A chance of showers in the morning. Much cooler with high around 61.
+Waves 3 feet. Northwest winds 10 to 15 mph. Chance of precipitation
+40 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-182115-
+Upper Penobscot Watershed-
+308 AM EDT Thu May 18 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. Warmer with high around 87. Southwest winds
+10 to 15 mph. 
+.TONIGHT...Partly cloudy. Low around 62. Southwest winds around
+10 mph. 
+.FRIDAY...Partly sunny. Not as warm with high around 68.
+Temperatures falling to around 58 in the afternoon. Northwest winds
+10 to 15 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-182115-
+Lower Penobscot Watershed-
+308 AM EDT Thu May 18 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. Warmer with high around 90. Southwest winds 
+10 to 15 mph. 
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Low around 64. Southwest winds 10 to 15 mph.
+.FRIDAY...Partly sunny. Not as warm with high around 71. Northwest
+winds 10 to 15 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

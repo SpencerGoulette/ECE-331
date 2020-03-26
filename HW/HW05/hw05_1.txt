@@ -1,0 +1,43 @@
+3.
+a)
+
+#!/usr/bin/perl
+
+# Opens file passed on command line
+open(F, '<', $ARGV[0]) or die $!;
+
+# Checks to make sure right amount of arguments passed
+if($#ARGV + 1 == 2 and $ARGV[1] > 0) {
+	# Splits each line by a comma
+	# Then prints the correct column
+	# -1 used so 1 prints first column and not zero 
+	while(<F>) {
+		@columns = split /,/, $_;
+		print $columns[$ARGV[1] - 1] . "\n";
+	}
+}
+
+# If not used correctly print usage
+else {
+	print "Usage: ./columnprint.pl (filename) (positive field number)\n"
+}
+
+close(F);
+
+b)
+ 
+#!/usr/bin/perl
+
+# Checks to see if valid file is passed
+# If file not valid, then stat returns a list with 0 elements
+# Goes through each file passed and check that the number of hardlinks is greater than 1
+# If hardlinks are greater than 1 then prints the filename and number of hardlinks
+foreach $filename(@ARGV) {
+	print($filename . " is not valid\n") if ((stat($filename)) == 0);
+	print($filename . " has " . (stat($filename))[3] . " hardlinks\n") if ((stat($filename))[3] > 1);
+}
+
+4. sudo useradd -s /bin/tcsh sheaff
+ 
+5. enscript -T 4 --header='$n %E %*|$%|Spencer Goulette' hw05_1.txt -o - | ps2pdf - output.pdf
+

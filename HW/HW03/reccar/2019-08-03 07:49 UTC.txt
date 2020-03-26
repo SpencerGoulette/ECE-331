@@ -1,0 +1,257 @@
+
+738 
+SXUS41 KCAR 030749
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+349 AM EDT Sat Aug 3 2019
+
+MEZ004-032200-
+Top of Mount Katahdin-
+349 AM EDT Sat Aug 3 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Sunny this morning, then becoming partly sunny. Isolated
+showers and thunderstorms early this afternoon. scattered showers
+and thunderstorms late. Breezy with high around 61. Southwest winds
+15 to 30 mph. Chance of precipitation 30 percent. Lightning risk is
+elevated. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered showers until midnight. isolated thunderstorms.
+isolated showers after midnight. Low around 43. Northwest winds
+15 to 25 mph. Chance of precipitation 30 percent. Lightning risk is
+limited. 
+.SUNDAY...Mostly sunny in the morning, then summit becoming
+obscured. A slight chance of showers in the afternoon. Windy with
+high around 55. Northwest winds 20 to 35 mph decreasing to 15 to
+25 mph in the afternoon. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ005-032200-
+Katahdin Woods and Waters National Monument-
+349 AM EDT Sat Aug 3 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Sunny this morning, then becoming partly sunny. Isolated
+showers and thunderstorms early this afternoon. scattered showers
+and thunderstorms late. High around 83. Southwest winds 10 mph
+increasing to 10 to 15 mph this afternoon. Chance of precipitation
+40 percent. Lightning risk is elevated. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered showers until midnight. isolated thunderstorms.
+isolated showers after midnight. Low around 56. Northwest winds
+10 mph. Chance of precipitation 40 percent. Lightning risk is
+limited. 
+.SUNDAY...Partly sunny. A slight chance of showers in the afternoon.
+Not as warm with high around 73. Northwest winds 10 to 20 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ029-032200-
+Top of Cadillac Mountain-
+349 AM EDT Sat Aug 3 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly sunny and windy. High around 79. Southwest winds
+25 to 35 mph. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Very windy with low around 62. West winds 30 to 40 mph becoming
+northwest 20 to 30 mph after midnight. No lightning risk. 
+.SUNDAY...Partly sunny and breezy. High around 73. Northwest winds
+20 to 30 mph. No lightning risk. 
+
+$$
+
+MEZ001-032200-
+Top of Deboullie Mountain-
+349 AM EDT Sat Aug 3 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Partly sunny through early afternoon, then becoming mostly
+cloudy. Isolated showers late this morning. scattered showers and
+thunderstorms early this afternoon...then numerous showers and
+scattered thunderstorms late. Some thunderstorms may produce gusty
+winds late. High around 76. Temperatures falling to around 63 this
+afternoon. Southwest winds 10 to 20 mph. Chance of precipitation
+60 percent. Lightning risk is elevated. 
+.TONIGHT...Partly cloudy. Scattered showers and isolated
+thunderstorms until midnight. Cooler with low around 47. West winds
+10 to 15 mph shifting to the northwest 10 mph after midnight. Chance
+of precipitation 50 percent. Lightning risk is limited. 
+.SUNDAY...Partly sunny. A slight chance of showers in the afternoon.
+High around 68. Northwest winds 10 to 20 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ006-032200-
+Top of Mars Hill Mountain-
+349 AM EDT Sat Aug 3 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Mostly sunny through early afternoon, then becoming mostly
+cloudy. Isolated showers and thunderstorms early this afternoon.
+scattered showers and thunderstorms late. Some thunderstorms may
+produce gusty winds late. High around 80. Temperatures falling to
+around 71 this afternoon. Southwest winds 10 to 15 mph. Chance of
+precipitation 50 percent. Lightning risk is elevated. 
+.TONIGHT...Mostly cloudy until midnight, then summit in and out of
+clouds. Scattered showers until midnight. isolated thunderstorms.
+isolated showers after midnight. Low around 51. Northwest winds
+10 mph. Chance of precipitation 50 percent. Lightning risk is
+limited. 
+.SUNDAY...Partly sunny. A slight chance of showers in the afternoon.
+High around 71. Northwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ010-032200-
+Top of White Cap Mountain-
+349 AM EDT Sat Aug 3 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly sunny. Isolated showers and thunderstorms late. High
+around 70. Southwest winds 15 to 25 mph. Chance of precipitation
+20 percent. Lightning risk is limited. 
+.TONIGHT...Partly cloudy. Isolated showers and thunderstorms until
+midnight. Breezy with low around 49. Northwest winds 15 to 30 mph.
+Chance of precipitation 20 percent. Lightning risk is limited. 
+.SUNDAY...Partly sunny and windy. High around 61. Northwest winds
+20 to 35 mph. No lightning risk. 
+
+$$
+
+MEZ010-032200-
+Moosehead Lake-
+349 AM EDT Sat Aug 3 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly sunny. Isolated showers and thunderstorms late. High
+around 77. Southwest winds 10 mph shifting to the west this
+afternoon. Waves 1 foot. Chance of precipitation 20 percent.
+Lightning risk is elevated. Water temperature 59 degrees Fahrenheit.
+.TONIGHT...Partly cloudy. Isolated showers and thunderstorms until
+midnight. Low around 54. Waves 1 foot. Northwest winds 10 mph.
+Chance of precipitation 20 percent. Lightning risk is limited. Water
+temperature 59 degrees Fahrenheit. 
+.SUNDAY...Partly sunny. High around 69. Waves 3 feet. Northwest
+winds 10 to 20 mph. No lightning risk. Water temperature 59 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-032200-
+Allagash Wilderness Waterway-
+349 AM EDT Sat Aug 3 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Partly sunny through early afternoon, then becoming mostly
+cloudy. Isolated showers late this morning. scattered showers and
+thunderstorms early this afternoon...then numerous showers and
+scattered thunderstorms late. Some thunderstorms may produce gusty
+winds late. High around 80. Temperatures falling to around 67 this
+afternoon. Southwest winds 10 to 15 mph. Chance of precipitation
+70 percent. Lightning risk is elevated. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Scattered
+showers and isolated thunderstorms until midnight. Low around 47.
+West winds 10 mph. Chance of precipitation 50 percent. Lightning
+risk is limited. 
+.SUNDAY...Partly sunny. A slight chance of showers in the afternoon.
+High around 72. Northwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ030-032200-
+St Croix River-
+349 AM EDT Sat Aug 3 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Sunny through early afternoon, then becoming partly sunny.
+Scattered showers and thunderstorms late. High around 85. Southwest
+winds 15 mph. Chance of precipitation 30 percent. Lightning risk is
+elevated. 
+.TONIGHT...Partly cloudy. Scattered showers until midnight. isolated
+thunderstorms. isolated showers after midnight. Low around 58.
+Southwest winds 15 mph shifting to the west after midnight. Chance
+of precipitation 50 percent. Lightning risk is limited. 
+.SUNDAY...Partly sunny. High around 76. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ030-032200-
+West Quoddy Head-
+349 AM EDT Sat Aug 3 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Mostly sunny. High around 69. Southwest winds 10 to 20 mph.
+No lightning risk. Water temperature 54 degrees Fahrenheit. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Areas of fog. Isolated showers and thunderstorms. Low around
+55. Southwest winds 10 to 20 mph. Chance of precipitation
+20 percent. Lightning risk is limited. Water temperature 54 degrees
+Fahrenheit. 
+.SUNDAY...Partly sunny. Areas of fog in the morning. High around 66.
+West winds 10 mph. No lightning risk. Water temperature 54 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-032200-
+Upper Penobscot Watershed-
+349 AM EDT Sat Aug 3 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny through early afternoon, then becoming partly sunny.
+Scattered showers and thunderstorms late. High around 85. Southwest
+winds 15 mph. Chance of precipitation 40 percent. Lightning risk is
+elevated. 
+.TONIGHT...Partly cloudy. Scattered showers and isolated
+thunderstorms until midnight. Low around 57. Northwest winds 10 mph.
+Chance of precipitation 40 percent. Lightning risk is limited. 
+.SUNDAY...Mostly sunny. Not as warm with high around 75. Northwest
+winds 10 to 15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-032200-
+Lower Penobscot Watershed-
+349 AM EDT Sat Aug 3 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. Isolated showers and thunderstorms late. High
+around 86. Southwest winds 10 mph increasing to 10 to 15 mph this
+afternoon. Chance of precipitation 20 percent. Lightning risk is
+elevated. 
+.TONIGHT...Partly cloudy. Isolated showers and thunderstorms until
+midnight. Low around 60. Southwest winds 15 mph shifting to the
+northwest after midnight. Chance of precipitation 20 percent.
+Lightning risk is limited. 
+.SUNDAY...Mostly sunny. High around 78. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

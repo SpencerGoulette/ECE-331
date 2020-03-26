@@ -1,0 +1,187 @@
+
+321 
+SXUS41 KCAR 290243
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+943 PM EST Sat Dec 28 2019
+
+MEZ004-291645-
+Top of Mount Katahdin-
+943 PM EST Sat Dec 28 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Partly cloudy, then becoming mostly cloudy late with
+scattered flurries. Very windy and cold with low around 12. 
+Northwest winds 30 to 45 mph. Wind chill values as low as 8 below. 
+No lightning risk. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Scattered flurries in the morning. Brisk with high around 17.
+Northwest winds 15 to 30 mph. Wind chill values as low as 5 below.
+No lightning risk. 
+
+$$
+
+MEZ005-291645-
+Katahdin Woods and Waters National Monument-
+943 PM EST Sat Dec 28 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.OVERNIGHT...Partly cloudy. Scattered flurries. Low around 23.
+Northwest winds 10 to 20 mph. No lightning risk. 
+.SUNDAY...Partly sunny. Scattered flurries in the morning. High
+around 29. Northwest winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ029-291645-
+Top of Cadillac Mountain-
+943 PM EST Sat Dec 28 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Clear through early morning, then becoming mostly
+cloudy. Low around 26. Northwest winds 15 to 20 mph. No lightning
+risk. 
+.SUNDAY...Mostly sunny. High around 30. Northwest winds 10 to
+25 mph. No lightning risk. 
+
+$$
+
+MEZ001-291645-
+Top of Deboullie Mountain-
+943 PM EST Sat Dec 28 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.OVERNIGHT...Summit in and out of clouds. Scattered flurries. Cooler
+with low around 17. Northwest winds 10 to 20 mph. Wind chill values 
+as low as 7 above. No lightning risk. 
+.SUNDAY...Summit in and out of clouds in the morning, then becoming
+mostly cloudy. Scattered flurries in the morning. Cooler with high
+around 21. Northwest winds 10 to 15 mph. Wind chill values as low as
+6 above. No lightning risk. 
+
+$$
+
+MEZ006-291645-
+Top of Mars Hill Mountain-
+943 PM EST Sat Dec 28 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.OVERNIGHT...Partly cloudy. Scattered flurries. Low around 21.
+Northwest winds 15 to 20 mph. Wind chill values as low as 9 above.
+No lightning risk. 
+.SUNDAY...Partly sunny. Scattered flurries in the morning. Cooler
+with high around 24. Northwest winds 15 to 20 mph. No lightning
+risk. 
+
+$$
+
+MEZ010-291645-
+Top of White Cap Mountain-
+943 PM EST Sat Dec 28 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.OVERNIGHT...Partly cloudy, then becoming cloudy late. Windy with 
+low around 18. Northwest winds 25 to 35 mph. Wind chill values as low
+as 1 above. No lightning risk. 
+.SUNDAY...Partly sunny and brisk, cooler with high around 20.
+Northwest winds 15 to 30 mph. Wind chill values as low as 2 above.
+No lightning risk. 
+
+$$
+
+MEZ010-291645-
+Moosehead Lake-
+943 PM EST Sat Dec 28 2019
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Partly cloudy. Scattered flurries. Cooler with low
+around 23. Northwest winds 10 to 20 mph. No lightning risk. 
+.SUNDAY...Partly sunny. Scattered flurries in the morning. High
+around 31. Northwest winds 10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ001-291645-
+Allagash Wilderness Waterway-
+943 PM EST Sat Dec 28 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.OVERNIGHT...Partly cloudy late this evening, then becoming mostly
+cloudy. Scattered flurries. Cooler with low around 18. Northwest
+winds 10 mph increasing to 10 to 15 mph. No lightning risk. 
+.SUNDAY...Partly sunny. Scattered flurries in the morning. Cooler
+with high around 26. Northwest winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-291645-
+St Croix River-
+943 PM EST Sat Dec 28 2019
+
+...ST CROIX RIVER...
+
+.OVERNIGHT...Mostly clear late this evening, then becoming partly
+cloudy. Low around 23. Northwest winds 10 mph. No lightning risk. 
+.SUNDAY...Partly sunny. Cooler with high around 31. Northwest winds
+10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ030-291645-
+West Quoddy Head-
+943 PM EST Sat Dec 28 2019
+
+...WEST QUODDY HEAD...
+
+.OVERNIGHT...Clear through early morning, then becoming partly
+cloudy. Low around 28. Northwest winds 10 to 15 mph. No lightning
+risk. Water temperature 44 degrees Fahrenheit. 
+.SUNDAY...Mostly sunny. High around 36. Northwest winds 10 to
+20 mph. No lightning risk. Water temperature 44 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-291645-
+Upper Penobscot Watershed-
+943 PM EST Sat Dec 28 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Mostly clear late this evening, then becoming partly
+cloudy. Scattered flurries late. Low around 22. Northwest winds
+10 to 15 mph. No lightning risk. 
+.SUNDAY...Partly sunny. Cooler with high around 30. Northwest winds
+10 to 15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-291645-
+Lower Penobscot Watershed-
+943 PM EST Sat Dec 28 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Mostly clear. Low around 23. Northwest winds 10 to
+15 mph. No lightning risk. 
+.SUNDAY...Mostly sunny. High around 34. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

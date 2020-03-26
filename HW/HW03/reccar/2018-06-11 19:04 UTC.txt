@@ -1,0 +1,168 @@
+
+217 
+SXUS41 KCAR 111904
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+304 PM EDT Mon Jun 11 2018
+
+MEZ004-120915-
+Top of Mount Katahdin-
+304 PM EDT Mon Jun 11 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Near steady temperatures around 44. Northwest
+winds 10 to 15 mph. No lightning risk. 
+.TUESDAY...Sunny, breezy with high around 57. West winds 15 to
+25 mph. No lightning risk. 
+
+$$
+
+MEZ005-120915-
+Katahdin Woods and Waters National Monument-
+304 PM EDT Mon Jun 11 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Low around 43. Light winds. No lightning risk. 
+.TUESDAY...Sunny, warmer with high around 78. West winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ029-120915-
+Top of Cadillac Mountain-
+304 PM EDT Mon Jun 11 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 52. Southwest winds around 15 mph. No
+lightning risk. 
+.TUESDAY...Sunny, windy with high around 65. Southwest winds around
+15 mph increasing to 20 to 30 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ001-120915-
+Top of Deboullie Mountain-
+304 PM EDT Mon Jun 11 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear. Not as cool with low around 46. Light winds
+becoming southwest around 10 mph after midnight. No lightning risk. 
+.TUESDAY...Mostly sunny. Much warmer with high around 76. West winds
+15 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ006-120915-
+Top of Mars Hill Mountain-
+304 PM EDT Mon Jun 11 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear. Low around 44. Northwest winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.TUESDAY...Sunny. Much warmer with high around 78. Southwest winds
+10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ010-120915-
+Top of White Cap Mountain-
+304 PM EDT Mon Jun 11 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Low around 48. Northwest winds around 10 mph
+shifting to the west after midnight. No lightning risk. 
+.TUESDAY...Sunny, warmer with high around 66. West winds 10 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ010-120915-
+Moosehead Lake-
+304 PM EDT Mon Jun 11 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Low around 43. Light winds. Waves 1 foot. No
+lightning risk. 
+.TUESDAY...Sunny. High around 74. Waves 3 feet. West winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ001-120915-
+Allagash Wilderness Waterway-
+304 PM EDT Mon Jun 11 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear. Patchy frost after midnight. Low around 34. Light
+winds. No lightning risk. 
+.TUESDAY...Mostly sunny. Warmer with high around 78. West winds
+10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ030-120915-
+St Croix River-
+304 PM EDT Mon Jun 11 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Low around 37. Light winds. No lightning risk. 
+.TUESDAY...Sunny, warmer with high around 79. Southwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ030-120915-
+West Quoddy Head-
+304 PM EDT Mon Jun 11 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Low around 44. Southwest winds around 10 mph. No
+lightning risk. Water temperature 47 degrees Fahrenheit. 
+.TUESDAY...Sunny. High around 64. Southwest winds around 10 mph
+increasing to 15 to 20 mph in the afternoon. No lightning risk.
+Water temperature 47 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-120915-
+Upper Penobscot Watershed-
+304 PM EDT Mon Jun 11 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 43. Light winds. No lightning risk. 
+.TUESDAY...Sunny, warmer with high around 80. Southwest winds 10 to
+15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-120915-
+Lower Penobscot Watershed-
+304 PM EDT Mon Jun 11 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 44. Light winds. No lightning risk. 
+.TUESDAY...Sunny. High around 80. Southwest winds around 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

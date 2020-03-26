@@ -1,0 +1,218 @@
+
+006 
+SXUS41 KCAR 162243
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+643 PM EDT Fri Mar 16 2018
+
+MEZ004-171245-
+Top of Mount Katahdin-
+643 PM EDT Fri Mar 16 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Cloudy through early morning, then becoming partly
+cloudy. Scattered snow showers until midnight...then isolated snow
+showers. Very windy and much colder with low around 10 below.
+Northwest winds 25 to 35 mph. Chance of precipitation 40 percent.
+Wind chill values as low as 33 below. No lightning risk. 
+.SATURDAY...Mostly cloudy. Isolated snow showers in the morning...
+then scattered snow showers in the afternoon. Windy and much cooler
+with high around 1 below. Northwest winds 25 to 35 mph. Chance of 
+precipitation 30 percent. Wind chill values as low as 37 below. No 
+lightning risk. 
+
+$$
+
+MEZ005-171245-
+Katahdin Woods and Waters National Monument-
+643 PM EDT Fri Mar 16 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.OVERNIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered snow showers until midnight...then isolated snow
+showers. Cooler with low around 9 above. Northwest winds 10 to 20 
+mph with gusts to around 30 mph. Chance of precipitation 30 percent. 
+Wind chill values as low as 5 below. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Isolated snow showers in the afternoon. Cooler with high
+around 15. Northwest winds 10 to 15 mph. Chance of precipitation
+20 percent. Wind chill values as low as 7 below. No lightning risk. 
+
+$$
+
+MEZ029-171245-
+Top of Cadillac Mountain-
+643 PM EDT Fri Mar 16 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Mostly clear and windy. Low around 12. Northwest winds
+20 to 30 mph. Wind chill values as low as 4 below. No lightning 
+risk.
+.SATURDAY...Partly sunny and brisk, cooler with high around 14.
+Northwest winds around 25 mph. Wind chill values as low as 8 below.
+No lightning risk. 
+
+$$
+
+MEZ001-171245-
+Top of Deboullie Mountain-
+643 PM EDT Fri Mar 16 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.OVERNIGHT...Mostly cloudy through early morning, then becoming
+partly cloudy. Scattered snow showers through early morning...then
+isolated snow showers late. Windy and much cooler with low around
+2 above. Northwest winds 20 to 30 mph. Chance of precipitation
+40 percent. Wind chill values as low as 15 below. No lightning risk.
+.SATURDAY...Mostly cloudy. Scattered snow showers. Much cooler with
+high around 7 above. Northwest winds around 20 mph. Chance of
+precipitation 40 percent. Wind chill values as low as 18 below. No
+lightning risk. 
+
+$$
+
+MEZ006-171245-
+Top of Mars Hill Mountain-
+643 PM EDT Fri Mar 16 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.OVERNIGHT...Mostly cloudy. Scattered snow showers until midnight...
+then isolated snow showers. Windy and much cooler with low around
+5 above. Northwest winds 20 to 30 mph. Chance of precipitation
+30 percent. Wind chill values as low as 12 below. No lightning risk.
+.SATURDAY...Mostly cloudy. Isolated snow showers in the morning...
+then scattered snow showers in the afternoon. Much cooler with high
+around 9 above. Northwest winds around 20 mph. Chance of
+precipitation 30 percent. Wind chill values as low as 15 below. No
+lightning risk. 
+
+$$
+
+MEZ010-171245-
+Top of White Cap Mountain-
+643 PM EDT Fri Mar 16 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.OVERNIGHT...Summit in and out of clouds until midnight, then
+becoming mostly cloudy. Scattered snow showers until midnight...then
+isolated snow showers. Very windy and much cooler with low around
+3 below. Northwest winds 25 to 35 mph. Chance of precipitation
+40 percent. Wind chill values as low as 24 below. No lightning risk.
+.SATURDAY...Summit in and out of clouds. Windy, cooler with high
+around 3 above. Northwest winds 25 to 35 mph. Wind chill values as 
+low as 28 below. No lightning risk. 
+
+$$
+
+MEZ010-171245-
+Moosehead Lake-
+643 PM EDT Fri Mar 16 2018
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered snow showers early this evening...then isolated
+snow showers through early morning. Low around 9 above. Northwest
+winds 15 to 20 mph with gusts to around 30 mph. Chance of
+precipitation 30 percent. Wind chill values as low as 7 below. No
+lightning risk. 
+.SATURDAY...Partly sunny. Cooler with high around 12. Northwest
+winds around 15 mph. Wind chill values as low as 7 below. No
+lightning risk. 
+
+$$
+
+MEZ001-171245-
+Allagash Wilderness Waterway-
+643 PM EDT Fri Mar 16 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.OVERNIGHT...Mostly cloudy through early morning, then becoming
+partly cloudy. Scattered snow showers through early morning...then
+isolated snow showers late. Cooler with low around 7 above. West
+winds 10 to 20 mph. Chance of precipitation 40 percent. Wind chill
+values as low as 7 below. No lightning risk. 
+.SATURDAY...Mostly cloudy. Isolated snow showers in the morning...
+then scattered snow showers in the afternoon. Cooler with high
+around 13. Northwest winds 10 to 15 mph. Chance of precipitation
+30 percent. Wind chill values as low as 7 below. No lightning risk. 
+
+$$
+
+MEZ030-171245-
+St Croix River-
+643 PM EDT Fri Mar 16 2018
+
+...ST CROIX RIVER...
+
+.OVERNIGHT...Partly cloudy. Isolated snow showers until midnight.
+Low around 14. Northwest winds 10 to 15 mph. Chance of precipitation
+20 percent. Wind chill values as low as 2 above. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Cooler with high around 18. Northwest winds 10 to 15 mph.
+Wind chill values as low as 1 above. No lightning risk. 
+
+$$
+
+MEZ030-171245-
+West Quoddy Head-
+643 PM EDT Fri Mar 16 2018
+
+...WEST QUODDY HEAD...
+
+.OVERNIGHT...Partly cloudy and brisk. Low around 20. Northwest winds
+15 to 25 mph. Wind chill values as low as 6 above. No lightning 
+risk. Water temperature 39 degrees Fahrenheit. 
+.SATURDAY...Partly sunny and brisk, cooler with high around 22.
+Northwest winds 20 to 30 mph. Wind chill values as low as 5 above. 
+No lightning risk. Water temperature 39 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-171245-
+Upper Penobscot Watershed-
+643 PM EDT Fri Mar 16 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Partly cloudy. Isolated snow showers until midnight.
+Cooler with low around 11. Northwest winds 10 to 20 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 4 below. No
+lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Much cooler with high around 16. Northwest winds 10 to
+15 mph. Wind chill values as low as 5 below. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-171245-
+Lower Penobscot Watershed-
+643 PM EDT Fri Mar 16 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Partly cloudy early this evening, then becoming mostly
+clear. Cooler with low around 14. Northwest winds 10 to 15 mph. Wind
+chill values as low as 1 above. No lightning risk. 
+.SATURDAY...Partly sunny. Much cooler with high around 18. Northwest
+winds 10 to 15 mph. Wind chill values as low as 1 above. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

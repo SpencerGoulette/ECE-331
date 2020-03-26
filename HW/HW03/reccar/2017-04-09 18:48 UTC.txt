@@ -1,0 +1,73 @@
+
+994 
+SXUS41 KCAR 091848
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+248 PM EDT Sun Apr 9 2017
+
+MEZ004-100900-
+Top of Mount Katahdin-
+248 PM EDT Sun Apr 9 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy. A
+slight chance of rain showers until midnight. Not as cool with low
+around 34. Light winds becoming south around 10 mph after midnight.
+Chance of precipitation 20 percent. 
+.MONDAY...Mostly cloudy. Not as cool with high around 54. Southeast
+winds around 10 mph shifting to the southwest 15 to 20 mph in the
+afternoon. 
+
+$$
+
+MEZ029-100900-
+Top of Cadillac Mountain-
+248 PM EDT Sun Apr 9 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Low around 40. Southwest winds around 10 mph. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+High around 53. South winds around 10 mph increasing to 15 to 20 mph
+in the afternoon. 
+
+$$
+
+MEZ004&gt;006-010-011-031-100900-
+Upper Penobscot Watershed-
+248 PM EDT Sun Apr 9 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy. A
+slight chance of showers. Low around 37. Light winds. Chance of
+precipitation 20 percent. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Warmer with high around 65. Light winds becoming south around 10 mph
+in the afternoon. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-100900-
+Lower Penobscot Watershed-
+248 PM EDT Sun Apr 9 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy. A
+slight chance of showers until midnight. Low around 38. Light winds.
+Chance of precipitation 20 percent. 
+.MONDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Warmer with high around 66. South winds around 5 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

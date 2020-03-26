@@ -1,0 +1,98 @@
+
+452 
+SXUS41 KCAR 070803
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+303 AM EST Tue Mar 7 2017
+
+MEZ004-072215-
+Top of Mount Katahdin-
+303 AM EST Tue Mar 7 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Cloudy this morning...then summit becoming obscured. A
+chance of snow this morning...then freezing rain...sleet AND snow
+likely this afternoon. High around 32. Southwest winds 10 to 20 mph
+increasing to around 25 mph this afternoon. Chance of precipitation
+60 percent. Wind chill values as low as 11. 
+.TONIGHT...Cloudy until midnight...then summit becoming obscured. A
+chance of freezing rain until midnight. rain with sleet likely.
+Patchy fog after midnight. Not as cool with low around 32. Southwest
+winds 20 to 25 mph. Chance of precipitation 90 percent. Wind chill
+values as low as 18. 
+.WEDNESDAY...Summit obscured in the morning...then becoming partly
+sunny. Patchy fog in the morning. Rain in the morning. a chance of
+snow. High around 37. Temperatures falling to around 28 in the
+afternoon. West winds 25 to 40 mph. Chance of precipitation near
+100 percent. Wind chill values as low as 22. 
+
+$$
+
+MEZ029-072215-
+Top of Cadillac Mountain-
+303 AM EST Tue Mar 7 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Cloudy. A chance of snow this morning...then rain...sleet
+AND snow likely this afternoon. High around 36. South winds 10 to
+20 mph. Chance of precipitation 60 percent. 
+.TONIGHT...Summit obscured. Rain. Patchy fog after midnight. Not as
+cool with low around 36. South winds 20 to 30 mph. Chance of
+precipitation 90 percent. 
+.WEDNESDAY...Summit obscured in the morning...then becoming mostly
+cloudy. Patchy fog in the morning. Rain in the morning...then a
+chance of rain in the afternoon. Not as cool with high around 46.
+Southwest winds 35 to 50 mph becoming west 20 to 35 mph in the
+afternoon. Chance of precipitation near 100 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-072215-
+Upper Penobscot Watershed-
+303 AM EST Tue Mar 7 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. A chance of snow. a chance of rain...sleet AND
+freezing rain this afternoon. High around 34. South winds around
+5 mph. Chance of precipitation 50 percent. 
+.TONIGHT...Cloudy. Rain with sleet likely. Patchy fog after
+midnight. Not as cool with low around 33. South winds around 10 mph.
+Chance of precipitation 90 percent. 
+.WEDNESDAY...Mostly cloudy in the morning...then becoming partly
+sunny. Patchy fog in the morning. Rain in the morning...then a
+chance of rain in the afternoon. Not as cool with high around 47.
+Light winds becoming west around 10 mph in the afternoon. Chance of
+precipitation near 100 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-072215-
+Lower Penobscot Watershed-
+303 AM EST Tue Mar 7 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. A chance of snow. a chance of rain and sleet this
+afternoon. High around 36. South winds around 5 mph. Chance of
+precipitation 50 percent. 
+.TONIGHT...Cloudy. A chance of sleet until midnight. Rain. Patchy
+fog after midnight. Not as cool with low around 35. South winds
+around 10 mph. Chance of precipitation 90 percent. 
+.WEDNESDAY...Mostly cloudy in the morning...then becoming partly
+sunny. Patchy fog in the morning. Rain in the morning...then a
+chance of rain in the afternoon. Not as cool with high around 50.
+Southwest winds around 10 mph. Chance of precipitation near
+100 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

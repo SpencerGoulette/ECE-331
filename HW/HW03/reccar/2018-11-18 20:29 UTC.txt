@@ -1,0 +1,193 @@
+
+003 
+SXUS41 KCAR 182029
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+329 PM EST Sun Nov 18 2018
+
+MEZ004-191030-
+Top of Mount Katahdin-
+329 PM EST Sun Nov 18 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear through early morning, then becoming partly cloudy.
+Low around 10 above. Southwest winds 10 to 15 mph. Wind chill values
+as low as 5 below. No lightning risk. 
+.MONDAY...Cloudy in the morning, then summit becoming obscured. A
+slight chance of snow. High around 18. West winds 10 to 15 mph
+shifting to the northwest around 20 mph in the afternoon. Chance of
+precipitation 20 percent. Wind chill values as low as 2 below. No
+lightning risk. 
+
+$$
+
+MEZ005-191030-
+Katahdin Woods and Waters National Monument-
+329 PM EST Sun Nov 18 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear through early morning, then becoming partly cloudy.
+Low around 12. Light winds. No lightning risk. 
+.MONDAY...Mostly cloudy. A slight chance of snow. High around 30.
+Light winds. Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ029-191030-
+Top of Cadillac Mountain-
+329 PM EST Sun Nov 18 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A chance of snow through early morning. snow likely late.
+Low around 26. Light winds. Chance of precipitation 60 percent. No
+lightning risk. 
+.MONDAY...Summit obscured. Snow. rain in the afternoon. High around
+37. Southwest winds 10 to 20 mph shifting to the northwest 15 to
+20 mph in the afternoon. Chance of precipitation 80 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-191030-
+Top of Deboullie Mountain-
+329 PM EST Sun Nov 18 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 8 above. Light winds becoming southwest around 10 mph
+after midnight. No lightning risk. 
+.MONDAY...Mostly cloudy. A chance of snow. High around 24. West
+winds around 10 mph. Chance of precipitation 40 percent. Wind chill
+values as low as 7 above. No lightning risk. 
+
+$$
+
+MEZ006-191030-
+Top of Mars Hill Mountain-
+329 PM EST Sun Nov 18 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear through early morning, then becoming partly cloudy.
+Low around 8 above. Light winds. No lightning risk. 
+.MONDAY...Mostly cloudy. A slight chance of snow. High around 26.
+Light winds. Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ010-191030-
+Top of White Cap Mountain-
+329 PM EST Sun Nov 18 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Low around 14. Southwest winds around 10 mph. No lightning
+risk. 
+.MONDAY...Summit obscured. A slight chance of snow. High around 23.
+Northwest winds 10 to 15 mph. Chance of precipitation 20 percent.
+Wind chill values as low as 6 above. No lightning risk. 
+
+$$
+
+MEZ010-191030-
+Moosehead Lake-
+329 PM EST Sun Nov 18 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Low around 14. Light winds. Waves 1 foot. No lightning risk.
+Water temperature 54 degrees Fahrenheit. 
+.MONDAY...Mostly cloudy. A slight chance of snow. High around 30.
+Waves 1 foot. Light winds. Chance of precipitation 20 percent. No
+lightning risk. Water temperature 54 degrees Fahrenheit. 
+
+$$
+
+MEZ001-191030-
+Allagash Wilderness Waterway-
+329 PM EST Sun Nov 18 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 7 above. Light winds. No lightning risk. 
+.MONDAY...Mostly cloudy. A chance of snow. High around 28. Light
+winds. Chance of precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ030-191030-
+St Croix River-
+329 PM EST Sun Nov 18 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. A slight chance of snow after midnight. A chance of snow
+late. Low around 12. Light winds. Chance of precipitation
+30 percent. No lightning risk. 
+.MONDAY...Cloudy. A chance of snow in the morning...then snow likely
+in the afternoon. High around 33. Light winds. Chance of
+precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ030-191030-
+West Quoddy Head-
+329 PM EST Sun Nov 18 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy through early
+morning, then becoming mostly cloudy. A slight chance of snow late
+this evening. A chance of snow after midnight. Low around 26. Light
+winds. Chance of precipitation 50 percent. No lightning risk. Water
+temperature 48 degrees Fahrenheit. 
+.MONDAY...Cloudy. Snow likely in the morning. Rain. High around 39.
+Light winds becoming west around 10 mph in the afternoon. Chance of
+precipitation 90 percent. No lightning risk. Water temperature
+48 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-191030-
+Upper Penobscot Watershed-
+329 PM EST Sun Nov 18 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Low around 13. Light winds. No lightning risk. 
+.MONDAY...Mostly cloudy. A slight chance of snow. High around 31.
+Light winds. Chance of precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-191030-
+Lower Penobscot Watershed-
+329 PM EST Sun Nov 18 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+A slight chance of snow after midnight. Low around 17. Light winds.
+Chance of precipitation 20 percent. No lightning risk. 
+.MONDAY...Cloudy. A chance of snow. High around 33. Light winds.
+Chance of precipitation 50 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

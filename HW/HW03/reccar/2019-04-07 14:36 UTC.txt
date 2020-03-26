@@ -1,0 +1,245 @@
+
+658 
+SXUS41 KCAR 071436
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+1036 AM EDT Sun Apr 7 2019
+
+MEZ004-080445-
+Top of Mount Katahdin-
+1036 AM EDT Sun Apr 7 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.THIS AFTERNOON...Partly sunny and windy. High around 28. Northwest
+winds 30 to 40 mph decreasing to 20 to 30 mph this afternoon. Wind 
+chill values as low as 10 above. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming cloudy. Snow
+after midnight. Low around 14. Northwest winds 15 to 25 mph shifting
+to the south 10 to 20 mph after midnight. Chance of precipitation
+30 percent. Wind chill values as low as 8 above. No lightning risk. 
+.MONDAY...Summit obscured. Snow, windy with high around 19. East
+winds 10 to 25 mph increasing to southeast 25 to 35 mph in the
+afternoon. Chance of precipitation near 100 percent. Wind chill
+values as low as 6 below. No lightning risk. 
+
+$$
+
+MEZ005-080445-
+Katahdin Woods and Waters National Monument-
+1036 AM EDT Sun Apr 7 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.THIS AFTERNOON...Partly sunny. High around 47. Northwest winds
+10 to 20 mph. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming mostly cloudy.
+A chance of snow after midnight. Cooler with low around 22. North
+winds 10 to 15 mph shifting to the northeast 10 mph after midnight.
+Chance of precipitation 30 percent. Wind chill values as low as 19.
+No lightning risk. 
+.MONDAY...Cloudy, snow. Much cooler with high around 26. East winds
+10 to 15 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+$$
+
+MEZ029-080445-
+Top of Cadillac Mountain-
+1036 AM EDT Sun Apr 7 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.THIS AFTERNOON...Partly sunny. High around 45. West winds 10 to
+20 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming cloudy. Snow
+and sleet likely with a chance of rain after midnight. Low around
+27. North winds 10 to 20 mph shifting to the northeast 15 to 25 mph
+after midnight. Chance of precipitation 40 percent. Wind chill
+values as low as 15 after midnight. No lightning risk. 
+.MONDAY...Summit in and out of clouds. Snow, sleet and freezing
+rain. rain in the afternoon. Windy, cooler with high around 32. East
+winds 20 to 30 mph increasing to 30 to 35 mph in the afternoon.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 13. No lightning risk. 
+
+$$
+
+MEZ001-080445-
+Top of Deboullie Mountain-
+1036 AM EDT Sun Apr 7 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.THIS AFTERNOON...Partly sunny early this afternoon, then clearing.
+High around 40. Northwest winds 15 to 20 mph. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming mostly cloudy.
+A chance of. Low around 15. Northeast winds 10 to 20 mph. Wind chill
+values as low as 10 above. No lightning risk. 
+.MONDAY...Cloudy, snow. Much cooler with high around 21. East winds
+10 to 20 mph. Chance of precipitation near 100 percent. Wind chill
+values as low as 6 above. No lightning risk. 
+
+$$
+
+MEZ006-080445-
+Top of Mars Hill Mountain-
+1036 AM EDT Sun Apr 7 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.THIS AFTERNOON...Mostly cloudy early this afternoon, then clearing.
+High around 41. Northwest winds 15 to 20 mph. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+A chance of. Low around 18. Northwest winds 10 to 20 mph until
+midnight becoming light winds. Wind chill values as low as 13. No
+lightning risk. 
+.MONDAY...Cloudy, snow. Much cooler with high around 24. East winds
+10 to 20 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+$$
+
+MEZ010-080445-
+Top of White Cap Mountain-
+1036 AM EDT Sun Apr 7 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.THIS AFTERNOON...Partly sunny early this afternoon, then becoming
+mostly cloudy. Brisk with high around 34. Northwest winds 20 to
+30 mph. No lightning risk. 
+.TONIGHT...Mostly cloudy. Snow after midnight. Cooler with low
+around 15. North winds 15 to 25 mph shifting to the northeast 10 to
+20 mph after midnight. Chance of precipitation 40 percent. Wind
+chill values as low as 5 above after midnight. No lightning risk. 
+.MONDAY...Summit in and out of clouds. Snow, windy, cooler with high
+around 20. East winds 15 to 30 mph shifting to the southeast 25 to
+35 mph in the afternoon. Chance of precipitation near 100 percent.
+Wind chill values as low as 5 below. No lightning risk. 
+
+$$
+
+MEZ010-080445-
+Moosehead Lake-
+1036 AM EDT Sun Apr 7 2019
+
+...MOOSEHEAD LAKE...
+
+.THIS AFTERNOON...Mostly cloudy early this afternoon, then becoming
+partly sunny. High around 43. Northwest winds 10 to 20 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming cloudy. Snow
+after midnight. Low around 22. North winds 10 to 15 mph shifting to
+the northeast 10 mph after midnight. Chance of precipitation
+60 percent. No lightning risk. 
+.MONDAY...Cloudy, snow. Much cooler with high around 27. East winds
+10 to 20 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+$$
+
+MEZ001-080445-
+Allagash Wilderness Waterway-
+1036 AM EDT Sun Apr 7 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.THIS AFTERNOON...Mostly sunny. High around 42. Northwest winds
+10 to 20 mph. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming mostly cloudy.
+A chance of snow after midnight. Low around 19. Northwest winds
+15 mph shifting to the northeast after midnight. Chance of
+precipitation 30 percent. Wind chill values as low as 14. No
+lightning risk. 
+.MONDAY...Cloudy, snow. Much cooler with high around 26. East winds
+20 mph increasing to 10 to 20 mph in the afternoon. Chance of
+precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ030-080445-
+St Croix River-
+1036 AM EDT Sun Apr 7 2019
+
+...ST CROIX RIVER...
+
+.THIS AFTERNOON...Partly sunny. High around 50. Northwest winds
+10 to 20 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A chance of snow after midnight. Low around 24. North winds
+10 to 15 mph shifting to the northeast 10 mph after midnight. Chance
+of precipitation 20 percent. Wind chill values as low as 20. No
+lightning risk. 
+.MONDAY...Cloudy, snow. Much cooler with high around 30. East winds
+10 to 20 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+$$
+
+MEZ030-080445-
+West Quoddy Head-
+1036 AM EDT Sun Apr 7 2019
+
+...WEST QUODDY HEAD...
+
+.THIS AFTERNOON...Partly sunny. High around 47. West winds 10 to
+15 mph. No lightning risk. Water temperature 37 degrees Fahrenheit. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A chance of snow with a slight chance of rain after
+midnight. Low around 30. Northwest winds 10 to 15 mph shifting to
+the northeast 15 to 20 mph after midnight. Chance of precipitation
+20 percent. Wind chill values as low as 19 after midnight. No
+lightning risk. Water temperature 37 degrees Fahrenheit. 
+.MONDAY...Cloudy, snow. rain in the afternoon. Cooler with high
+around 34. East winds 15 to 20 mph. Chance of precipitation near
+100 percent. No lightning risk. Water temperature 37 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-080445-
+Upper Penobscot Watershed-
+1036 AM EDT Sun Apr 7 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.THIS AFTERNOON...Partly sunny. High around 48. Northwest winds
+10 to 20 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Snow likely after midnight. Low around 23. North winds 10 to
+15 mph. Chance of precipitation 60 percent. Wind chill values as low
+as 19. No lightning risk. 
+.MONDAY...Cloudy, snow. Much cooler with high around 28. East winds
+10 to 20 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-080445-
+Lower Penobscot Watershed-
+1036 AM EDT Sun Apr 7 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.THIS AFTERNOON...Partly sunny. High around 52. Northwest winds
+10 to 20 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming cloudy. Snow
+likely after midnight. Low around 27. North winds 10 to 15 mph
+shifting to the northeast after midnight. Chance of precipitation
+50 percent. Wind chill values as low as 23. No lightning risk. 
+.MONDAY...Cloudy, snow. Much cooler with high around 31. East winds
+10 to 20 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

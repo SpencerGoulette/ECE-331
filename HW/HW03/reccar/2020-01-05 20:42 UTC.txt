@@ -1,0 +1,207 @@
+
+924 
+SXUS41 KCAR 052042
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+342 PM EST Sun Jan 5 2020
+
+MEZ004-061045-
+Top of Mount Katahdin-
+342 PM EST Sun Jan 5 2020
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Isolated
+snow showers early this evening. Brisk, cold with low around
+7 above. Northwest winds 20 to 30 mph decreasing to 10 to 20 mph
+after midnight. Chance of precipitation 20 percent. Wind chill
+values as low as 10 below. No lightning risk. 
+.MONDAY...Mostly sunny in the morning, then becoming mostly cloudy.
+High around 12. North winds 10 to 15 mph shifting to the southeast
+in the afternoon. Wind chill values as low as 6 below. No lightning
+risk. 
+
+$$
+
+MEZ005-061045-
+Katahdin Woods and Waters National Monument-
+342 PM EST Sun Jan 5 2020
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Much colder
+with low around 8 above. Northwest winds 10 to 20 mph. Wind chill
+values as low as zero. No lightning risk. 
+.MONDAY...Mostly sunny in the morning, then becoming mostly cloudy.
+High around 19. North winds 10 mph shifting to the southeast in the
+afternoon. No lightning risk. 
+
+$$
+
+MEZ029-061045-
+Top of Cadillac Mountain-
+342 PM EST Sun Jan 5 2020
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Cooler
+with low around 15. Northwest winds 10 to 25 mph. Wind chill values
+as low as 3 above. No lightning risk. 
+.MONDAY...Mostly sunny in the morning, then becoming cloudy. A
+slight chance of snow showers in the afternoon. High around 25.
+North winds 10 to 15 mph shifting to the northeast in the afternoon.
+Chance of precipitation 20 percent. Wind chill values as low as
+4 above in the morning. No lightning risk. 
+
+$$
+
+MEZ001-061045-
+Top of Deboullie Mountain-
+342 PM EST Sun Jan 5 2020
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds until midnight, then becoming
+partly cloudy. Much colder with low around zero. Northwest winds
+10 to 20 mph. Wind chill values as low as 9 below. No lightning
+risk. 
+.MONDAY...Mostly sunny in the morning, then becoming mostly cloudy.
+High around 13. North winds 10 mph shifting to the southeast in the
+afternoon. No lightning risk. 
+
+$$
+
+MEZ006-061045-
+Top of Mars Hill Mountain-
+342 PM EST Sun Jan 5 2020
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy early this evening, then summit in and out of
+clouds. Much colder with low around 3 above. Northwest winds 10 to
+20 mph. Wind chill values as low as 6 below. No lightning risk. 
+.MONDAY...Sunny in the morning, then becoming partly sunny. Cooler
+with high around 14. North winds 10 mph shifting to the northeast in
+the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-061045-
+Top of White Cap Mountain-
+342 PM EST Sun Jan 5 2020
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy, then becoming partly cloudy late this evening,
+then becoming mostly clear. Colder with low around 6 above.
+Northwest winds 10 to 25 mph. Wind chill values as low as 8 below.
+No lightning risk. 
+.MONDAY...Mostly sunny in the morning, then becoming mostly cloudy.
+A slight chance of snow showers in the afternoon. High around 14.
+West winds 10 to 15 mph shifting to the south in the afternoon.
+Chance of precipitation 20 percent. Wind chill values as low as
+4 below. No lightning risk. 
+
+$$
+
+MEZ010-061045-
+Moosehead Lake-
+342 PM EST Sun Jan 5 2020
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy. Much colder with low around 7 above.
+Northwest winds 10 to 20 mph. Wind chill values as low as 2 below.
+No lightning risk. 
+.MONDAY...Partly sunny in the morning, then becoming mostly cloudy.
+A slight chance of snow showers in the afternoon. High around 20.
+North winds 10 mph shifting to the southeast in the afternoon.
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-061045-
+Allagash Wilderness Waterway-
+342 PM EST Sun Jan 5 2020
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+clear. Much colder with low around 3 below. Northwest winds 10 to
+15 mph decreasing to 10 mph after midnight. No lightning risk. 
+.MONDAY...Mostly sunny in the morning, then becoming mostly cloudy.
+High around 17. Light winds becoming southeast 10 mph in the
+afternoon. No lightning risk. 
+
+$$
+
+MEZ030-061045-
+St Croix River-
+342 PM EST Sun Jan 5 2020
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Much colder
+with low around 7 above. Northwest winds 10 to 20 mph. Wind chill
+values as low as 2 below. No lightning risk. 
+.MONDAY...Partly sunny. High around 21. North winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-061045-
+West Quoddy Head-
+342 PM EST Sun Jan 5 2020
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Much cooler
+with low around 16. Northwest winds 15 to 25 mph. Wind chill values
+as low as 2 above. No lightning risk. Water temperature 43 degrees
+Fahrenheit. 
+.MONDAY...Mostly sunny in the morning, then becoming mostly cloudy.
+High around 29. North winds 10 to 20 mph decreasing to 10 mph in the
+afternoon. Wind chill values as low as 2 above in the morning. No
+lightning risk. Water temperature 43 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-061045-
+Upper Penobscot Watershed-
+342 PM EST Sun Jan 5 2020
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Much
+colder with low around 7 above. Northwest winds 10 to 20 mph. No
+lightning risk. 
+.MONDAY...Mostly sunny in the morning, then becoming mostly cloudy.
+Isolated snow showers in the afternoon. High around 20. North winds
+10 mph shifting to the east in the afternoon. Chance of
+precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-061045-
+Lower Penobscot Watershed-
+342 PM EST Sun Jan 5 2020
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Much
+colder with low around 9 above. Northwest winds 10 to 20 mph
+decreasing to 15 mph after midnight. No lightning risk. 
+.MONDAY...Mostly sunny in the morning, then becoming mostly cloudy.
+A slight chance of snow showers in the afternoon. High around 23.
+North winds 10 mph shifting to the east in the afternoon. Chance of
+precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,226 @@
+
+976 
+SXUS41 KCAR 151928
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+328 PM EDT Wed Aug 15 2018
+
+MEZ004-160930-
+Top of Mount Katahdin-
+328 PM EDT Wed Aug 15 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy, then becoming partly cloudy late this evening,
+then becoming mostly cloudy, then summit in and out of clouds late.
+Scattered showers and thunderstorms early this evening...then
+isolated showers and thunderstorms late this evening. Some
+thunderstorms may produce gusty winds early this evening. Locally
+heavy rainfall possible early this evening. Low around 50. Northwest
+winds 15 to 20 mph. Chance of precipitation 50 percent. Lightning
+risk is elevated. 
+.THURSDAY...Partly sunny and breezy, cooler with high around 52.
+Northwest winds 15 to 25 mph. No lightning risk. 
+
+$$
+
+MEZ005-160930-
+Katahdin Woods and Waters National Monument-
+328 PM EDT Wed Aug 15 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy. Scattered showers and thunderstorms early
+this evening...then isolated showers and thunderstorms late this
+evening. Some thunderstorms may produce gusty winds early this
+evening. Locally heavy rainfall possible early this evening. Low
+around 58. Light winds. Chance of precipitation 50 percent.
+Lightning risk is significant. 
+.THURSDAY...Partly sunny. High around 76. Northwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ029-160930-
+Top of Cadillac Mountain-
+328 PM EDT Wed Aug 15 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy. Isolated showers early this evening.
+scattered showers late this evening...then isolated showers after
+midnight. Patchy fog. Low around 65. West winds around 10 mph.
+Chance of precipitation 40 percent. No lightning risk. 
+.THURSDAY...Partly sunny. High around 73. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ001-160930-
+Top of Deboullie Mountain-
+328 PM EDT Wed Aug 15 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy early this evening, then becoming partly cloudy.
+Numerous showers and thunderstorms early this evening...then
+isolated showers and thunderstorms late this evening. Some
+thunderstorms may produce gusty winds early this evening. Locally
+heavy rainfall possible early this evening. Cooler with low around
+55. North winds around 10 mph. Chance of precipitation 70 percent.
+Lightning risk is significant. 
+.THURSDAY...Mostly sunny. High around 64. Northwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ006-160930-
+Top of Mars Hill Mountain-
+328 PM EDT Wed Aug 15 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Widespread showers and thunderstorms early this evening...
+then scattered showers and thunderstorms late this evening. Some
+thunderstorms may produce gusty winds early this evening. Locally
+heavy rainfall possible early this evening. Low around 59. Light
+winds becoming northwest around 10 mph after midnight. Chance of
+precipitation 80 percent. Lightning risk is extreme. 
+.THURSDAY...Partly sunny. High around 67. Northwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ010-160930-
+Top of White Cap Mountain-
+328 PM EDT Wed Aug 15 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy, then becoming partly cloudy late this evening,
+then becoming mostly cloudy, then summit becoming obscured late.
+Scattered showers and thunderstorms early this evening...then
+isolated showers and thunderstorms late this evening. Some
+thunderstorms may produce gusty winds early this evening. Locally
+heavy rainfall possible early this evening. Low around 56. Northwest
+winds 15 to 20 mph. Chance of precipitation 40 percent. Lightning
+risk is elevated. 
+.THURSDAY...Summit obscured in the morning, then becoming partly
+sunny. High around 59. Northwest winds 15 to 20 mph. No lightning
+risk. 
+
+$$
+
+MEZ010-160930-
+Moosehead Lake-
+328 PM EDT Wed Aug 15 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy. Scattered showers and thunderstorms early
+this evening...then isolated showers and thunderstorms late this
+evening. Some thunderstorms may produce gusty winds early this
+evening. Locally heavy rainfall possible early this evening. Low
+around 58. Light winds. Waves 1 foot. Chance of precipitation
+40 percent. Lightning risk is elevated. Water temperature 64 degrees
+Fahrenheit. 
+.THURSDAY...Mostly sunny. High around 73. Waves 2 feet. Light winds
+becoming northwest around 10 mph in the afternoon. No lightning
+risk. Water temperature 64 degrees Fahrenheit. 
+
+$$
+
+MEZ001-160930-
+Allagash Wilderness Waterway-
+328 PM EDT Wed Aug 15 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy. Scattered showers and thunderstorms early
+this evening...then isolated showers and thunderstorms late this
+evening. Some thunderstorms may produce gusty winds early this
+evening. Locally heavy rainfall possible early this evening. Cooler
+with low around 52. Light winds. Chance of precipitation 50 percent.
+Lightning risk is significant. 
+.THURSDAY...Mostly sunny. High around 74. Light winds becoming
+northwest around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-160930-
+St Croix River-
+328 PM EDT Wed Aug 15 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy. Numerous showers and thunderstorms early
+this evening...then scattered showers and thunderstorms late this
+evening. Some thunderstorms may produce gusty winds early this
+evening. Locally heavy rainfall possible early this evening. Low
+around 59. Light winds. Chance of precipitation 70 percent.
+Lightning risk is significant. 
+.THURSDAY...Partly sunny. High around 79. Northwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ030-160930-
+West Quoddy Head-
+328 PM EDT Wed Aug 15 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy. Patchy fog until midnight. areas of fog
+after midnight. Scattered showers late this evening. isolated
+showers after midnight. Low around 59. Southwest winds around 10 mph
+until midnight becoming light winds. Chance of precipitation
+30 percent. No lightning risk. Water temperature 56 degrees
+Fahrenheit. 
+.THURSDAY...Mostly cloudy in the morning, then clearing. High around
+71. Light winds becoming northwest around 10 mph in the afternoon.
+No lightning risk. Water temperature 56 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-160930-
+Upper Penobscot Watershed-
+328 PM EDT Wed Aug 15 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Scattered showers and thunderstorms until
+midnight. Some thunderstorms may produce gusty winds early this
+evening. Locally heavy rainfall possible early this evening. Low
+around 60. Light winds. Chance of precipitation 50 percent.
+Lightning risk is significant. 
+.THURSDAY...Mostly sunny. High around 78. Northwest winds around
+10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-160930-
+Lower Penobscot Watershed-
+328 PM EDT Wed Aug 15 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Scattered showers and thunderstorms until midnight...then
+isolated showers and thunderstorms after midnight. Some
+thunderstorms may produce gusty winds early this evening. Locally
+heavy rainfall possible early this evening. Low around 63. Light
+winds. Chance of precipitation 50 percent. Lightning risk is
+significant. 
+.THURSDAY...Partly sunny. High around 81. Northwest winds around
+10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

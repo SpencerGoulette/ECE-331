@@ -1,0 +1,196 @@
+
+655 
+SXUS41 KCAR 191900
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+300 PM EDT Sun May 19 2019
+
+MEZ004-200900-
+Top of Mount Katahdin-
+300 PM EDT Sun May 19 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Rain. Low around 40. South winds 10 to
+20 mph. Chance of precipitation near 100 percent. No lightning risk.
+.MONDAY...Summit obscured in the morning, then becoming cloudy.
+Rain. scattered thunderstorms in the afternoon. Not as cool with
+high around 53. Southwest winds 10 to 20 mph. Chance of
+precipitation near 100 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ005-200900-
+Katahdin Woods and Waters National Monument-
+300 PM EDT Sun May 19 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy, rain. Low around 44. Southeast winds 10 to
+15 mph. Chance of precipitation near 100 percent. No lightning risk.
+.MONDAY...Cloudy, rain. scattered thunderstorms in the afternoon.
+Warmer with high around 65. South winds 10 to 15 mph. Chance of
+precipitation near 100 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ029-200900-
+Top of Cadillac Mountain-
+300 PM EDT Sun May 19 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy early this evening, then summit becoming obscured.
+Rain. Low around 46. South winds 10 to 20 mph. Chance of
+precipitation 80 percent. No lightning risk. 
+.MONDAY...Summit obscured. Rain. isolated thunderstorms in the
+afternoon. High around 59. Southwest winds 10 to 20 mph. Chance of
+precipitation 80 percent. Lightning risk is limited. 
+
+$$
+
+MEZ001-200900-
+Top of Deboullie Mountain-
+300 PM EDT Sun May 19 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. A chance of rain early this evening...
+then rain from late evening on. Low around 40. Southeast winds 10 to
+20 mph. Chance of precipitation 90 percent. No lightning risk. 
+.MONDAY...Summit obscured. Rain. isolated thunderstorms in the
+afternoon. High around 55. Southeast winds 10 to 20 mph. Chance of
+precipitation near 100 percent. Lightning risk is limited. 
+
+$$
+
+MEZ006-200900-
+Top of Mars Hill Mountain-
+300 PM EDT Sun May 19 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. A chance of rain early this evening...
+then rain from late evening on. Low around 43. Southeast winds 10 to
+20 mph. Chance of precipitation 90 percent. No lightning risk. 
+.MONDAY...Summit obscured. Rain. isolated thunderstorms in the
+afternoon. High around 56. Southeast winds 10 to 20 mph. Chance of
+precipitation near 100 percent. Lightning risk is limited. 
+
+$$
+
+MEZ010-200900-
+Top of White Cap Mountain-
+300 PM EDT Sun May 19 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. Rain. Low around 42. Southeast winds
+10 mph. Chance of precipitation 90 percent. No lightning risk. 
+.MONDAY...Summit obscured in the morning, then becoming cloudy.
+Rain. scattered thunderstorms in the afternoon. Not as cool with
+high around 59. South winds 10 mph increasing to 10 to 15 mph in the
+afternoon. Chance of precipitation 90 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ010-200900-
+Moosehead Lake-
+300 PM EDT Sun May 19 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Rain likely. Low around 43. Southeast winds
+10 mph. Waves 1 foot. Chance of precipitation 70 percent. No
+lightning risk. 
+.MONDAY...Cloudy. Rain likely. scattered thunderstorms in the
+afternoon. Not as cool with high around 64. Waves 1 foot. South
+winds 10 mph increasing to 10 to 15 mph in the afternoon. Chance of
+precipitation 70 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ001-200900-
+Allagash Wilderness Waterway-
+300 PM EDT Sun May 19 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+from late evening on. Low around 43. Southeast winds 10 to 15 mph.
+Chance of precipitation 90 percent. No lightning risk. 
+.MONDAY...Cloudy, rain. scattered thunderstorms in the afternoon.
+High around 62. Southeast winds 10 to 15 mph. Chance of
+precipitation near 100 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ030-200900-
+St Croix River-
+300 PM EDT Sun May 19 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy, rain. Low around 43. Southeast winds 10 to
+15 mph. Chance of precipitation 90 percent. No lightning risk. 
+.MONDAY...Cloudy, rain. isolated thunderstorms in the afternoon.
+High around 62. Southeast winds 10 to 15 mph decreasing to 10 mph in
+the afternoon. Chance of precipitation near 100 percent. Lightning
+risk is limited. 
+
+$$
+
+MEZ030-200900-
+West Quoddy Head-
+300 PM EDT Sun May 19 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy, rain. Low around 42. Southeast winds 10 to
+20 mph. Chance of precipitation 90 percent. No lightning risk. Water
+temperature 41 degrees Fahrenheit. 
+.MONDAY...Cloudy, rain. isolated thunderstorms in the afternoon.
+High around 51. South winds 10 to 15 mph. Chance of precipitation
+90 percent. Lightning risk is limited. Water temperature 41 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-200900-
+Upper Penobscot Watershed-
+300 PM EDT Sun May 19 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy, rain. Low around 44. Southeast winds 10 to
+15 mph. Chance of precipitation near 100 percent. No lightning risk.
+.MONDAY...Cloudy, rain. scattered thunderstorms in the afternoon.
+Warmer with high around 66. South winds 15 mph shifting to the
+southeast 10 mph in the afternoon. Chance of precipitation near
+100 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-200900-
+Lower Penobscot Watershed-
+300 PM EDT Sun May 19 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy, rain. Low around 46. Southeast winds 10 to 15 mph
+decreasing to 10 mph after midnight. Chance of precipitation
+90 percent. No lightning risk. 
+.MONDAY...Cloudy, rain. scattered thunderstorms in the afternoon.
+Warmer with high around 69. South winds 10 mph. Chance of
+precipitation near 100 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

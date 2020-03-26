@@ -1,0 +1,214 @@
+
+101 
+SXUS41 KCAR 191841
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+241 PM EDT Sat May 19 2018
+
+MEZ004-200845-
+Top of Mount Katahdin-
+241 PM EDT Sat May 19 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy until midnight, then summit becoming obscured.
+Rain, breezy with low around 44. Southwest winds 20 to 25 mph.
+Chance of precipitation 90 percent. No lightning risk. 
+.SUNDAY...Summit obscured in the morning, then becoming partly
+sunny. Rain likely in the morning...then a chance of showers in the
+afternoon. Breezy with high around 59. Northwest winds 15 to 25 mph.
+Chance of precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ005-200845-
+Katahdin Woods and Waters National Monument-
+241 PM EDT Sat May 19 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy, rain. Not as cool with low around 46. South winds
+10 to 15 mph. Chance of precipitation 90 percent. No lightning risk.
+.SUNDAY...Cloudy in the morning, then becoming partly sunny. Rain
+likely in the morning...then a chance of showers in the afternoon.
+High around 66. Southwest winds around 10 mph shifting to the
+northwest in the afternoon. Chance of precipitation 70 percent. No
+lightning risk. 
+
+$$
+
+MEZ029-200845-
+Top of Cadillac Mountain-
+241 PM EDT Sat May 19 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy early this evening, then summit becoming obscured.
+Rain through early morning...then a chance of showers late. Low
+around 49. Southwest winds 10 to 20 mph. Chance of precipitation
+near 100 percent. No lightning risk. 
+.SUNDAY...Summit obscured. A chance of showers. Breezy and not as
+cool with high around 64. West winds 15 to 25 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ001-200845-
+Top of Deboullie Mountain-
+241 PM EDT Sat May 19 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy until midnight, then summit becoming obscured. A
+chance of rain early this evening...then rain from late evening on.
+Low around 41. Southwest winds around 15 mph. Chance of
+precipitation 90 percent. No lightning risk. 
+.SUNDAY...Summit obscured in the morning, then becoming partly
+sunny. Rain likely in the morning...then a chance of showers in the
+afternoon. High around 62. Northwest winds 10 to 15 mph. Chance of
+precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ006-200845-
+Top of Mars Hill Mountain-
+241 PM EDT Sat May 19 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy until midnight, then summit becoming
+obscured. A slight chance of rain early this evening...then rain
+from late evening on. Low around 45. South winds around 15 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+.SUNDAY...Summit obscured in the morning, then becoming mostly
+cloudy. Rain likely in the morning...then a chance of showers in the
+afternoon. High around 66. Southwest winds 10 to 15 mph shifting to
+the northwest in the afternoon. Chance of precipitation 70 percent.
+No lightning risk. 
+
+$$
+
+MEZ010-200845-
+Top of White Cap Mountain-
+241 PM EDT Sat May 19 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy early this evening, then summit becoming obscured.
+Rain. Low around 45. Southwest winds around 15 mph. Chance of
+precipitation 90 percent. No lightning risk. 
+.SUNDAY...Summit obscured in the morning, then summit in and out of
+clouds. Rain likely in the morning...then a chance of showers in the
+afternoon. Not as cool with high around 63. West winds around 15 mph
+shifting to the northwest in the afternoon. Chance of precipitation
+60 percent. No lightning risk. 
+
+$$
+
+MEZ010-200845-
+Moosehead Lake-
+241 PM EDT Sat May 19 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy, rain. Not as cool with low around 43. South winds
+around 10 mph. Waves 2 feet. Chance of precipitation 90 percent. No
+lightning risk. 
+.SUNDAY...Cloudy in the morning, then becoming partly sunny. Rain
+likely in the morning...then a chance of showers in the afternoon.
+High around 63. Waves 3 feet. Southwest winds around 10 mph shifting
+to the northwest in the afternoon. Chance of precipitation
+70 percent. No lightning risk. 
+
+$$
+
+MEZ001-200845-
+Allagash Wilderness Waterway-
+241 PM EDT Sat May 19 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+from late evening on. Not as cool with low around 43. South winds
+around 10 mph. Chance of precipitation 90 percent. No lightning
+risk. 
+.SUNDAY...Cloudy in the morning, then becoming partly sunny. Rain
+likely in the morning...then a chance of showers in the afternoon.
+High around 65. Northwest winds 10 to 15 mph. Chance of
+precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ030-200845-
+St Croix River-
+241 PM EDT Sat May 19 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+from late evening on. Not as cool with low around 46. South winds
+around 10 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+.SUNDAY...Cloudy. Rain likely in the morning...then a chance of
+showers in the afternoon. High around 67. Southwest winds around
+10 mph shifting to the northwest in the afternoon. Chance of
+precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ030-200845-
+West Quoddy Head-
+241 PM EDT Sat May 19 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+from late evening on. Not as cool with low around 47. Southwest
+winds 15 to 20 mph. Chance of precipitation near 100 percent. No
+lightning risk. Water temperature 46 degrees Fahrenheit. 
+.SUNDAY...Cloudy. Rain likely in the morning...then a chance of
+showers in the afternoon. High around 59. West winds 10 to 20 mph.
+Chance of precipitation 60 percent. No lightning risk. Water
+temperature 46 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-200845-
+Upper Penobscot Watershed-
+241 PM EDT Sat May 19 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy, rain. Not as cool with low around 46. Southwest
+winds 10 to 15 mph. Chance of precipitation 90 percent. No lightning
+risk. 
+.SUNDAY...Mostly cloudy. Rain likely in the morning...then a chance
+of showers in the afternoon. High around 68. Southwest winds around
+10 mph shifting to the northwest in the afternoon. Chance of
+precipitation 70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-200845-
+Lower Penobscot Watershed-
+241 PM EDT Sat May 19 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain through early morning...then a chance of
+showers late. Not as cool with low around 48. Southwest winds 10 to
+15 mph. Chance of precipitation 90 percent. No lightning risk. 
+.SUNDAY...Cloudy. Rain likely in the morning...then a chance of
+showers in the afternoon. High around 70. Southwest winds 10 to
+15 mph shifting to the northwest in the afternoon. Chance of
+precipitation 60 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

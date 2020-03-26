@@ -1,0 +1,87 @@
+
+048 
+SXUS41 KCAR 211934
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+334 PM EDT Tue Mar 21 2017
+
+MEZ004-220945-
+Top of Mount Katahdin-
+334 PM EDT Tue Mar 21 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy.
+Scattered snow showers until midnight...then snow likely after
+midnight. Low around 12. Light winds becoming west around 10 mph
+after midnight. Chance of precipitation 70 percent. Wind chill
+values as low as 2 above. 
+.WEDNESDAY...Summit obscured in the morning...then summit in and out
+of clouds. Areas of blowing snow. Snow, cooler with high around 14.
+Temperatures falling to around 2 above in the afternoon. Northwest
+winds 15 to 25 mph increasing to north 30 to 40 mph in the
+afternoon. Chance of precipitation near 100 percent. Wind chill
+values as low as 27 below in the afternoon. 
+
+$$
+
+MEZ029-220945-
+Top of Cadillac Mountain-
+334 PM EDT Tue Mar 21 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy until midnight...then summit becoming
+obscured. Scattered rain and snow showers. Low around 31. West winds
+around 10 mph. Chance of precipitation 40 percent. 
+.WEDNESDAY...Summit in and out of clouds in the morning...then
+becoming cloudy. Scattered snow showers. Cooler with high around 32.
+Temperatures falling to around 21 in the afternoon. Northwest winds
+10 to 20 mph increasing to 25 to 35 mph in the afternoon. Chance of
+precipitation 50 percent. Wind chill values as low as zero in the
+afternoon. 
+
+$$
+
+MEZ004&gt;006-010-011-031-220945-
+Upper Penobscot Watershed-
+334 PM EDT Tue Mar 21 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Isolated rain showers until midnight. scattered snow
+showers. Low around 25. Light winds. Chance of precipitation
+50 percent. 
+.WEDNESDAY...Cloudy. Areas of blowing snow. Snow likely. Much cooler
+with high around 26. Northwest winds around 15 mph increasing to
+north in the afternoon. Chance of precipitation 70 percent. Wind
+chill values as low as 2 above. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-220945-
+Lower Penobscot Watershed-
+334 PM EDT Tue Mar 21 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Scattered rain showers until midnight.
+scattered snow showers. Low around 28. Light winds. Chance of
+precipitation 50 percent. 
+.WEDNESDAY...Cloudy. Patchy blowing snow in the morning. patchy
+blowing snow in the afternoon. Snow likely. Much cooler with high
+around 29. Northwest winds 10 to 20 mph. Chance of precipitation
+70 percent. Wind chill values as low as 7 above. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

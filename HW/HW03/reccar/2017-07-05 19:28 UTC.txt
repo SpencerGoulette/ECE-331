@@ -1,0 +1,96 @@
+
+209 
+SXUS41 KCAR 051928
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+328 PM EDT Wed Jul 5 2017
+
+MEZ004-060930-
+Top of Mount Katahdin-
+328 PM EDT Wed Jul 5 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Low around 56. Southwest winds 10 to 15 mph. No
+lightning risk. 
+.THURSDAY...Sunny in the morning...then becoming mostly cloudy. A
+slight chance of showers in the afternoon. High around 59. Southwest
+winds 20 to 25 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+
+$$
+
+MEZ005-060930-
+Katahdin Woods and Waters National Monument-
+328 PM EDT Wed Jul 5 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Low around 57. Light winds becoming southwest
+around 10 mph after midnight. No lightning risk. 
+.THURSDAY...Sunny in the morning...then becoming partly sunny. High
+around 79. Southwest winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ029-060930-
+Top of Cadillac Mountain-
+328 PM EDT Wed Jul 5 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 58. Southwest winds 10 to 15 mph. No
+lightning risk. 
+.THURSDAY...Sunny, cooler with high around 64. Southwest winds 15 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ010-060930-
+Moosehead Lake-
+328 PM EDT Wed Jul 5 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Low around 57. Light winds. Waves 1 foot. No
+lightning risk. 
+.THURSDAY...Partly sunny. A slight chance of showers in the morning.
+a chance of showers and isolated thunderstorms in the afternoon.
+High around 77. Waves 2 feet. South winds around 10 mph. Chance of
+precipitation 40 percent. Lightning risk is limited. 
+
+$$
+
+MEZ004&gt;006-010-011-031-060930-
+Upper Penobscot Watershed-
+328 PM EDT Wed Jul 5 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 58. Southwest winds around 10 mph. No
+lightning risk. 
+.THURSDAY...Sunny in the morning...then becoming partly sunny. High
+around 80. Southwest winds 10 to 15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-060930-
+Lower Penobscot Watershed-
+328 PM EDT Wed Jul 5 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 57. Southwest winds around 10 mph. No
+lightning risk. 
+.THURSDAY...Mostly sunny. High around 80. South winds 10 to 15 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

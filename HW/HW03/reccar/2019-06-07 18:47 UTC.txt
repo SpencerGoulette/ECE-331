@@ -1,0 +1,200 @@
+
+850 
+SXUS41 KCAR 071847
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+247 PM EDT Fri Jun 7 2019
+
+MEZ004-080900-
+Top of Mount Katahdin-
+247 PM EDT Fri Jun 7 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy through early
+morning, then becoming clear. Scattered rain showers and isolated
+thunderstorms until midnight. Windy with low around 31. North winds
+20 to 35 mph. Chance of precipitation 40 percent. Wind chill values
+as low as 18. Lightning risk is limited. 
+.SATURDAY...Sunny, windy with high around 43. North winds 20 to
+35 mph decreasing to 15 to 25 mph in the afternoon. Wind chill
+values as low as 17 in the morning. No lightning risk. 
+
+$$
+
+MEZ005-080900-
+Katahdin Woods and Waters National Monument-
+247 PM EDT Fri Jun 7 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Scattered
+showers and isolated thunderstorms until midnight. Low around 46.
+Northwest winds 10 to 15 mph. Chance of precipitation 40 percent.
+Lightning risk is limited. 
+.SATURDAY...Sunny. High around 65. Northwest winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-080900-
+Top of Cadillac Mountain-
+247 PM EDT Fri Jun 7 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy through early
+morning, then becoming clear. Isolated showers early this evening...
+then scattered showers late this evening. Low around 48. West winds
+10 to 25 mph shifting to the north 20 to 25 mph after midnight.
+Chance of precipitation 30 percent. No lightning risk. 
+.SATURDAY...Sunny, breezy with high around 67. North winds 15 to
+30 mph. No lightning risk. 
+
+$$
+
+MEZ001-080900-
+Top of Deboullie Mountain-
+247 PM EDT Fri Jun 7 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Scattered
+rain showers early this evening. Low around 35. Northwest winds
+10 to 15 mph. Chance of precipitation 40 percent. No lightning risk.
+.SATURDAY...Sunny. High around 59. Northwest winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ006-080900-
+Top of Mars Hill Mountain-
+247 PM EDT Fri Jun 7 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Scattered
+showers early this evening...then isolated showers late this
+evening. Low around 42. Northwest winds 10 to 20 mph. Chance of
+precipitation 30 percent. No lightning risk. 
+.SATURDAY...Sunny. High around 62. Northwest winds 10 to 20 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-080900-
+Top of White Cap Mountain-
+247 PM EDT Fri Jun 7 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Scattered
+showers and isolated thunderstorms until midnight. Windy with low
+around 37. North winds 25 to 35 mph. Chance of precipitation
+40 percent. Lightning risk is limited. 
+.SATURDAY...Sunny, breezy with high around 52. North winds 20 to
+30 mph decreasing to 15 to 20 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ010-080900-
+Moosehead Lake-
+247 PM EDT Fri Jun 7 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Scattered
+showers and isolated thunderstorms until midnight. Low around 45.
+Northwest winds 10 to 15 mph decreasing to 10 mph after midnight.
+Waves 1 foot. Chance of precipitation 50 percent. Lightning risk is
+limited. 
+.SATURDAY...Sunny. High around 63. Waves 2 feet. Northwest winds
+10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ001-080900-
+Allagash Wilderness Waterway-
+247 PM EDT Fri Jun 7 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Scattered
+rain showers early this evening. Low around 37. Northwest winds
+10 to 15 mph shifting to the north 10 mph after midnight. Chance of
+precipitation 50 percent. No lightning risk. 
+.SATURDAY...Sunny. High around 64. Northwest winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-080900-
+St Croix River-
+247 PM EDT Fri Jun 7 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy through early morning, then clearing.
+Numerous showers and isolated thunderstorms until midnight. isolated
+showers after midnight. Low around 49. West winds 10 mph shifting to
+the northwest 10 to 15 mph after midnight. Chance of precipitation
+60 percent. Lightning risk is limited. 
+.SATURDAY...Sunny. High around 68. Northwest winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-080900-
+West Quoddy Head-
+247 PM EDT Fri Jun 7 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy. Scattered showers until midnight. isolated
+showers after midnight. Low around 45. Southwest winds 10 to 15 mph
+shifting to the northwest after midnight. Chance of precipitation
+50 percent. No lightning risk. Water temperature 43 degrees
+Fahrenheit. 
+.SATURDAY...Sunny. High around 60. Northwest winds 10 to 15 mph. No
+lightning risk. Water temperature 43 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-080900-
+Upper Penobscot Watershed-
+247 PM EDT Fri Jun 7 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Scattered
+showers and isolated thunderstorms until midnight. Low around 48.
+Northwest winds 10 to 15 mph. Chance of precipitation 50 percent.
+Lightning risk is limited. 
+.SATURDAY...Sunny. High around 67. North winds 10 to 15 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-080900-
+Lower Penobscot Watershed-
+247 PM EDT Fri Jun 7 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Scattered
+showers and isolated thunderstorms until midnight. Low around 50.
+West winds 10 mph shifting to the northwest after midnight. Chance
+of precipitation 50 percent. Lightning risk is limited. 
+.SATURDAY...Sunny. High around 70. North winds 10 to 15 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

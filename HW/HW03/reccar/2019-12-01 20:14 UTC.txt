@@ -1,0 +1,191 @@
+
+990 
+SXUS41 KCAR 012014
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+314 PM EST Sun Dec 1 2019
+
+MEZ004-021015-
+Top of Mount Katahdin-
+314 PM EST Sun Dec 1 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear, cold with low around 10 above. East winds 15 mph.
+No lightning risk. 
+.MONDAY...Mostly sunny. Cold with high around 22. Northeast winds
+10 to 20 mph. Wind chill values as low as 3 above. No lightning
+risk. 
+
+$$
+
+MEZ005-021015-
+Katahdin Woods and Waters National Monument-
+314 PM EST Sun Dec 1 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear, cold with low around 9 above. Northeast winds
+10 mph. No lightning risk. 
+.MONDAY...Mostly sunny. Cold with high around 24. Northeast winds
+10 to 15 mph. Wind chill values as low as 2 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ029-021015-
+Top of Cadillac Mountain-
+314 PM EST Sun Dec 1 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy late this
+evening, then becoming cloudy, then summit in and out of clouds
+late. A slight chance of snow after midnight. Cold with low around
+19. Northeast winds 10 to 15 mph increasing to 15 to 25 mph after
+midnight. Chance of precipitation 20 percent. No lightning risk. 
+.MONDAY...Cloudy. A chance of snow in the morning...then snow,
+freezing rain and sleet likely in the afternoon. Brisk with high
+around 28. Northeast winds 20 to 30 mph. Chance of precipitation
+60 percent. Wind chill values as low as 10 above. No lightning risk.
+
+$$
+
+MEZ001-021015-
+Top of Deboullie Mountain-
+314 PM EST Sun Dec 1 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear, cold with low around 4 above. Northeast winds
+10 mph. No lightning risk. 
+.MONDAY...Sunny, cold with high around 21. Northeast winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-021015-
+Top of Mars Hill Mountain-
+314 PM EST Sun Dec 1 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear, cold with low around 7 above. North winds 10 mph.
+No lightning risk. 
+.MONDAY...Sunny, cold with high around 21. North winds 10 mph
+increasing to 10 to 15 mph in the afternoon. Wind chill values as
+low as 3 above. No lightning risk. 
+
+$$
+
+MEZ010-021015-
+Top of White Cap Mountain-
+314 PM EST Sun Dec 1 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly clear and cold. Near steady temperatures around
+12. East winds 10 mph increasing to 10 to 15 mph after midnight. No
+lightning risk. 
+.MONDAY...Partly sunny. Cold with high around 21. Northeast winds
+10 to 20 mph. Wind chill values as low as zero. No lightning risk. 
+
+$$
+
+MEZ010-021015-
+Moosehead Lake-
+314 PM EST Sun Dec 1 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear. Cold with low around 13. Northeast winds
+10 mph. Waves 1 foot. No lightning risk. 
+.MONDAY...Partly sunny. Cold with high around 25. Waves 2 feet.
+Northeast winds 10 mph increasing to 10 to 15 mph in the afternoon.
+No lightning risk. 
+
+$$
+
+MEZ001-021015-
+Allagash Wilderness Waterway-
+314 PM EST Sun Dec 1 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear, cold with low around zero. Northeast winds 10 mph.
+No lightning risk. 
+.MONDAY...Sunny, cold with high around 24. Northeast winds 10 mph.
+No lightning risk. 
+
+$$
+
+MEZ030-021015-
+St Croix River-
+314 PM EST Sun Dec 1 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear. Cold with low around 14. Northeast winds
+10 mph. No lightning risk. 
+.MONDAY...Partly sunny in the morning, then becoming mostly cloudy.
+High around 29. Northeast winds 10 to 15 mph. Wind chill values as
+low as 3 above in the morning. No lightning risk. 
+
+$$
+
+MEZ030-021015-
+West Quoddy Head-
+314 PM EST Sun Dec 1 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Cold with low around 24. North winds 15 mph shifting to the
+northeast after midnight. No lightning risk. Water temperature
+48 degrees Fahrenheit. 
+.MONDAY...Mostly cloudy. A slight chance of snow in the morning...
+then a chance of rain, snow and sleet in the afternoon. Breezy with
+high around 35. Northeast winds 15 to 25 mph increasing to 25 to
+30 mph in the afternoon. Chance of precipitation 40 percent. No
+lightning risk. Water temperature 48 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-021015-
+Upper Penobscot Watershed-
+314 PM EST Sun Dec 1 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Cold with low around 11. Northeast winds
+10 mph. No lightning risk. 
+.MONDAY...Partly sunny. High around 26. Northeast winds 10 to
+15 mph. Wind chill values as low as 2 below in the morning. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-021015-
+Lower Penobscot Watershed-
+314 PM EST Sun Dec 1 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear early this evening, then becoming partly
+cloudy. Cold with low around 13. Northeast winds 10 mph increasing
+to 10 to 15 mph after midnight. Wind chill values as low as 1 above.
+No lightning risk. 
+.MONDAY...Mostly cloudy. A slight chance of snow in the afternoon.
+High around 29. Northeast winds 10 to 20 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 1 below in the
+morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

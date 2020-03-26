@@ -1,0 +1,198 @@
+
+014 
+SXUS41 KCAR 111927
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+327 PM EDT Tue Sep 11 2018
+
+MEZ004-120930-
+Top of Mount Katahdin-
+327 PM EDT Tue Sep 11 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy through early morning, then becoming partly
+cloudy. Patchy fog after midnight. Not as cool. Near steady
+temperatures around 53. Northwest winds around 10 mph. No lightning
+risk. 
+.WEDNESDAY...Mostly sunny. Patchy fog in the morning. High around
+58. Light winds. No lightning risk. 
+
+$$
+
+MEZ005-120930-
+Katahdin Woods and Waters National Monument-
+327 PM EDT Tue Sep 11 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Isolated showers early this evening. Patchy fog after
+midnight. Low around 54. Light winds. Chance of precipitation
+20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny in the morning, then clearing. Patchy fog
+in the morning. Warmer with high around 72. Light winds. No
+lightning risk. 
+
+$$
+
+MEZ029-120930-
+Top of Cadillac Mountain-
+327 PM EDT Tue Sep 11 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured, then summit in and out of clouds late
+this evening, then becoming cloudy. Scattered showers through early
+morning. Patchy fog. Low around 60. West winds around 10 mph
+shifting to the north after midnight. Chance of precipitation
+40 percent. No lightning risk. 
+.WEDNESDAY...Cloudy in the morning, then summit in and out of
+clouds. Patchy fog in the morning. High around 66. Northeast winds
+around 10 mph shifting to the south in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ001-120930-
+Top of Deboullie Mountain-
+327 PM EDT Tue Sep 11 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Isolated showers early this evening.
+Patchy fog after midnight. Low around 51. Light winds. Chance of
+precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Summit obscured in the morning, then summit in and out
+of clouds. Patchy fog in the morning. High around 67. Light winds.
+No lightning risk. 
+
+$$
+
+MEZ006-120930-
+Top of Mars Hill Mountain-
+327 PM EDT Tue Sep 11 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. Isolated showers early this evening.
+Patchy fog after midnight. Low around 53. Light winds. Chance of
+precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Summit obscured. Patchy fog in the morning. High around
+67. Light winds. No lightning risk. 
+
+$$
+
+MEZ010-120930-
+Top of White Cap Mountain-
+327 PM EDT Tue Sep 11 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds, then becoming mostly cloudy
+through early morning, then becoming partly cloudy. Patchy fog after
+midnight. Low around 53. Light winds becoming northwest around
+10 mph after midnight. No lightning risk. 
+.WEDNESDAY...Mostly sunny. Patchy fog in the morning. High around
+60. Light winds. No lightning risk. 
+
+$$
+
+MEZ010-120930-
+Moosehead Lake-
+327 PM EDT Tue Sep 11 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Patchy fog after midnight. Low around 55. Light winds. Waves
+1 foot. No lightning risk. Water temperature 64 degrees Fahrenheit. 
+.WEDNESDAY...Mostly sunny. Patchy fog in the morning. High around
+69. Waves 1 foot. Light winds. No lightning risk. Water temperature
+64 degrees Fahrenheit. 
+
+$$
+
+MEZ001-120930-
+Allagash Wilderness Waterway-
+327 PM EDT Tue Sep 11 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Patchy fog after midnight. Low around 50. Light winds. No
+lightning risk. 
+.WEDNESDAY...Partly sunny in the morning, then clearing. Patchy fog
+in the morning. Warmer with high around 71. Light winds. No
+lightning risk. 
+
+$$
+
+MEZ030-120930-
+St Croix River-
+327 PM EDT Tue Sep 11 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. Scattered showers early this evening...
+then isolated showers through early morning. Patchy fog after
+midnight. Low around 55. Light winds. Chance of precipitation
+40 percent. No lightning risk. 
+.WEDNESDAY...Mostly sunny. Patchy fog in the morning. High around
+73. Light winds. No lightning risk. 
+
+$$
+
+MEZ030-120930-
+West Quoddy Head-
+327 PM EDT Tue Sep 11 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Numerous showers early this evening. scattered
+showers through early morning. Patchy fog. Low around 57. Southwest
+winds 10 to 15 mph until midnight becoming light winds. Chance of
+precipitation 60 percent. No lightning risk. Water temperature
+54 degrees Fahrenheit. 
+.WEDNESDAY...Partly sunny. Patchy fog in the morning. High around
+68. Light winds. No lightning risk. Water temperature 54 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-120930-
+Upper Penobscot Watershed-
+327 PM EDT Tue Sep 11 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Isolated showers early this evening. Patchy fog after
+midnight. Low around 55. Light winds. Chance of precipitation
+20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. Patchy fog in the morning. High around
+72. Light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-120930-
+Lower Penobscot Watershed-
+327 PM EDT Tue Sep 11 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Isolated showers until midnight. Patchy
+fog after midnight. Low around 57. Light winds. Chance of
+precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. Patchy fog in the morning. High around
+73. Light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

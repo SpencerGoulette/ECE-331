@@ -1,0 +1,89 @@
+
+387 
+SXUS41 KCAR 230923
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+523 AM EDT Thu Mar 23 2017
+
+MEZ004-240000-
+Top of Mount Katahdin-
+523 AM EDT Thu Mar 23 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly sunny. Much cooler with high around 4 above. 
+Northwest winds 40 to 50 mph. Wind chill values as low as 48 below. 
+.TONIGHT...Clear until midnight...then becoming partly cloudy. Not
+as cool with low around 1 above. Northwest winds 30 to 35 mph
+decreasing to 20 to 25 mph after midnight. Wind chill values as low
+as 23 below. 
+.FRIDAY...Summit in and out of clouds. A chance of snow in the 
+morning...then snow likely in the afternoon. Not as cool with high 
+around 26. South winds 10 to 20 mph. Chance of precipitation 60 
+percent. Wind chill values as low as 15 below in the morning. 
+
+$$
+
+MEZ029-240000-
+Top of Cadillac Mountain-
+523 AM EDT Thu Mar 23 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny, cooler with high around 24. Northwest winds 30 to
+40 mph. Wind chill values as low as 20 below. 
+.TONIGHT...Mostly clear. Not as cool with low around 19. Northwest 
+winds around 30 mph decreasing to 15 to 25 mph after midnight. Wind 
+chill values as low as 3 above. 
+.FRIDAY...Cloudy. A chance of snow in the morning...then rain and
+snow likely in the afternoon. Not as cool with high around 36.
+Southwest winds 10 to 20 mph. Chance of precipitation 60 percent.
+Wind chill values as low as 16. 
+
+$$
+
+MEZ004&gt;006-010-011-031-240000-
+Upper Penobscot Watershed-
+523 AM EDT Thu Mar 23 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 24. Northwest winds 10 to 20 mph with
+gusts up to 35 mph. Wind chill values as low as 17 below. 
+.TONIGHT...Clear until midnight...then becoming partly cloudy. Low
+around 10 above. Northwest winds 10 to 15 mph until midnight
+becoming light winds. 
+.FRIDAY...Cloudy. A chance of snow in the morning...then snow likely
+with a chance of rain in the afternoon. Not as cool with high around
+34. South winds around 5 mph. Chance of precipitation 60 percent.
+Wind chill values as low as 2 above in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-240000-
+Lower Penobscot Watershed-
+523 AM EDT Thu Mar 23 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 26. Northwest winds 10 to 20 mph with
+gusts up to 35 mph. Wind chill values as low as 14 below. 
+.TONIGHT...Clear until midnight...then becoming partly cloudy. Low
+around 12. Northwest winds 10 to 15 mph until midnight becoming
+light winds. 
+.FRIDAY...Cloudy. A chance of snow. rain likely in the afternoon.
+Not as cool with high around 37. South winds around 5 mph increasing
+to 10 to 15 mph in the afternoon. Chance of precipitation
+70 percent. Wind chill values as low as 4 above in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

@@ -1,0 +1,213 @@
+
+154 
+SXUS41 KCAR 100645
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+245 AM EDT Sun Sep 10 2017
+
+MEZ004-102045-
+Top of Mount Katahdin-
+245 AM EDT Sun Sep 10 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny. Patchy fog this morning. Isolated showers
+this afternoon. High around 44. North winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+43. North winds 15 to 20 mph. No lightning risk. 
+.MONDAY...Sunny. Not as cool with high around 57. North winds around
+20 mph. No lightning risk. 
+
+$$
+
+MEZ005-102045-
+Katahdin Woods and Waters National Monument-
+245 AM EDT Sun Sep 10 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Partly sunny. Patchy fog this morning. Isolated showers
+this afternoon. High around 65. Northwest winds around 10 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+48. Light winds becoming northwest around 10 mph after midnight. No
+lightning risk. 
+.MONDAY...Sunny. High around 74. Northwest winds around 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-102045-
+Top of Cadillac Mountain-
+245 AM EDT Sun Sep 10 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+High around 60. North winds 10 to 15 mph. No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 55. Northwest winds 15 to
+20 mph. No lightning risk. 
+.MONDAY...Partly sunny in the morning...then clearing. Warmer with
+high around 70. North winds 15 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ001-102045-
+Top of Deboullie Mountain-
+245 AM EDT Sun Sep 10 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Isolated showers. High around 55. Northwest winds around 10 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 52. Northwest winds 10 to
+15 mph. No lightning risk. 
+.MONDAY...Sunny, warmer with high around 69. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ006-102045-
+Top of Mars Hill Mountain-
+245 AM EDT Sun Sep 10 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Partly sunny. Patchy fog this morning. Isolated showers
+this afternoon. High around 58. North winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 51. Northwest winds 10 to
+20 mph. No lightning risk. 
+.MONDAY...Partly sunny in the morning...then clearing. Warmer with
+high around 71. North winds 15 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ010-102045-
+Top of White Cap Mountain-
+245 AM EDT Sun Sep 10 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Patchy fog this morning. Isolated showers this afternoon. High
+around 51. North winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+48. North winds 15 to 20 mph. No lightning risk. 
+.MONDAY...Sunny. Not as cool with high around 62. North winds 15 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ010-102045-
+Moosehead Lake-
+245 AM EDT Sun Sep 10 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Patchy fog this morning. Isolated showers this afternoon. High
+around 63. Northwest winds around 10 mph. Waves 3 feet. Chance of
+precipitation 20 percent. No lightning risk. Water temperature
+65 degrees Fahrenheit. 
+.TONIGHT...Mostly clear. Low around 48. Waves 2 feet. Northwest
+winds around 10 mph until midnight becoming light winds. No
+lightning risk. Water temperature 65 degrees Fahrenheit. 
+.MONDAY...Sunny. High around 71. Waves 2 feet. Northwest winds
+around 10 mph. No lightning risk. Water temperature 65 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-102045-
+Allagash Wilderness Waterway-
+245 AM EDT Sun Sep 10 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Patchy fog this morning. Isolated showers. High around 63. Light
+winds becoming northwest around 10 mph this afternoon. Chance of
+precipitation 20 percent. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 44. Light winds. No lightning
+risk. 
+.MONDAY...Sunny, warmer with high around 73. Northwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ030-102045-
+St Croix River-
+245 AM EDT Sun Sep 10 2017
+
+...ST CROIX RIVER...
+
+.TODAY...Partly sunny. Patchy fog this morning. High around 69.
+Light winds becoming northwest around 10 mph this afternoon. No
+lightning risk. 
+.TONIGHT...Partly cloudy. Low around 46. Northwest winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.MONDAY...Partly sunny in the morning...then clearing. High around
+75. Northwest winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ030-102045-
+West Quoddy Head-
+245 AM EDT Sun Sep 10 2017
+
+...WEST QUODDY HEAD...
+
+.TODAY...Mostly cloudy this morning...then becoming partly sunny.
+Patchy fog this morning. High around 66. North winds around 10 mph.
+No lightning risk. Water temperature 56 degrees Fahrenheit. 
+.TONIGHT...Partly cloudy. Low around 51. Northwest winds 10 to
+15 mph. No lightning risk. Water temperature 56 degrees Fahrenheit. 
+.MONDAY...Partly sunny. High around 70. Northwest winds 10 to
+15 mph. No lightning risk. Water temperature 56 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-102045-
+Upper Penobscot Watershed-
+245 AM EDT Sun Sep 10 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. Patchy fog this morning. Isolated showers
+this afternoon. High around 66. Northwest winds around 5 mph. Chance
+of precipitation 20 percent. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+47. Light winds becoming northwest around 10 mph after midnight. No
+lightning risk. 
+.MONDAY...Sunny. High around 75. Northwest winds around 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-102045-
+Lower Penobscot Watershed-
+245 AM EDT Sun Sep 10 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. Patchy fog this morning. Isolated showers
+this afternoon. High around 69. Northwest winds around 5 mph. Chance
+of precipitation 20 percent. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Low around
+48. Light winds. No lightning risk. 
+.MONDAY...Sunny. High around 77. Northwest winds around 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

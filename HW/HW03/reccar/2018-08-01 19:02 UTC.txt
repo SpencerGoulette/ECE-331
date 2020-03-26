@@ -1,0 +1,240 @@
+
+164 
+SXUS41 KCAR 011902
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+302 PM EDT Wed Aug 1 2018
+
+MEZ004-020915-
+Top of Mount Katahdin-
+302 PM EDT Wed Aug 1 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy, then summit in and out of clouds late this
+evening, then summit becoming obscured, then becoming cloudy late.
+Isolated showers early this evening...then numerous showers and
+scattered thunderstorms through early morning. scattered showers
+late. Locally heavy rainfall possible after midnight. Near steady
+temperatures around 61. Southwest winds 15 to 20 mph. Chance of
+precipitation 60 percent. Lightning risk is elevated. 
+.THURSDAY...Mostly cloudy. A chance of showers. A chance of
+thunderstorms in the afternoon. Near steady temperatures around 62.
+West winds around 20 mph. Chance of precipitation 40 percent.
+Lightning risk is elevated. 
+
+$$
+
+MEZ005-020915-
+Katahdin Woods and Waters National Monument-
+302 PM EDT Wed Aug 1 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Isolated showers early this evening...then
+numerous showers and scattered thunderstorms through early morning.
+scattered showers late. Locally heavy rainfall possible after
+midnight. Low around 66. South winds around 10 mph until midnight
+becoming light winds. Chance of precipitation 60 percent. Lightning
+risk is elevated. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. A chance of showers. A chance of thunderstorms in the
+afternoon. High around 84. Southwest winds around 10 mph. Chance of
+precipitation 40 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ029-020915-
+Top of Cadillac Mountain-
+302 PM EDT Wed Aug 1 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy until midnight, then summit becoming obscured.
+Isolated showers early this evening...then numerous showers and
+scattered thunderstorms through early morning. scattered showers
+late. Areas of fog after midnight. Low around 66. South winds 15 to
+20 mph. Chance of precipitation 60 percent. Lightning risk is
+elevated. 
+.THURSDAY...Summit obscured in the morning, then becoming mostly
+cloudy. Areas of fog in the morning. A slight chance of showers in
+the morning. High around 76. Southwest winds 15 to 20 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-020915-
+Top of Deboullie Mountain-
+302 PM EDT Wed Aug 1 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy through early morning, then summit becoming
+obscured. Isolated showers until midnight...then scattered showers
+after midnight. Warmer with low around 65. Southwest winds 10 to
+15 mph. Chance of precipitation 40 percent. No lightning risk. 
+.THURSDAY...Summit obscured in the morning, then becoming mostly
+cloudy. A chance of showers. A chance of thunderstorms in the
+afternoon. High around 78. West winds 10 to 15 mph. Chance of
+precipitation 40 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ006-020915-
+Top of Mars Hill Mountain-
+302 PM EDT Wed Aug 1 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy through early
+morning, then summit becoming obscured. Scattered showers through
+early morning. numerous showers and scattered thunderstorms late.
+Locally heavy rainfall possible late. Low around 66. South winds
+10 to 15 mph. Chance of precipitation 60 percent. Lightning risk is
+elevated. 
+.THURSDAY...Summit obscured in the morning, then becoming mostly
+cloudy. A chance of showers. A chance of thunderstorms in the
+afternoon. High around 81. Southwest winds 10 to 15 mph. Chance of
+precipitation 50 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ010-020915-
+Top of White Cap Mountain-
+302 PM EDT Wed Aug 1 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds, then summit becoming
+obscured through early morning, then becoming cloudy. Isolated
+showers early this evening...then numerous showers and scattered
+thunderstorms through early morning. scattered showers late. Areas
+of fog after midnight. Locally heavy rainfall possible through early
+morning. Low around 62. Southwest winds around 15 mph. Chance of
+precipitation 70 percent. Lightning risk is elevated. 
+.THURSDAY...Mostly cloudy. A chance of showers. A chance of
+thunderstorms in the afternoon. High around 70. West winds around
+15 mph. Chance of precipitation 30 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ010-020915-
+Moosehead Lake-
+302 PM EDT Wed Aug 1 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Isolated showers early this evening...then
+numerous showers and scattered thunderstorms through early morning.
+scattered showers late. Areas of fog after midnight. Low around 64.
+South winds around 10 mph until midnight becoming light winds. Waves
+2 feet. Chance of precipitation 70 percent. Lightning risk is
+elevated. Water temperature 62 degrees Fahrenheit. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Areas of fog in the morning. A chance of showers. A chance of
+thunderstorms in the afternoon. High around 80. Waves 2 feet.
+Southwest winds around 10 mph. Chance of precipitation 30 percent.
+Lightning risk is elevated. Water temperature 62 degrees Fahrenheit.
+
+$$
+
+MEZ001-020915-
+Allagash Wilderness Waterway-
+302 PM EDT Wed Aug 1 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. Isolated showers until midnight. scattered
+showers after midnight. Much warmer with low around 66. South winds
+around 10 mph until midnight becoming light winds. Chance of
+precipitation 40 percent. No lightning risk. 
+.THURSDAY...Mostly cloudy. A chance of showers. A chance of
+thunderstorms in the afternoon. High around 81. Southwest winds
+10 to 15 mph. Chance of precipitation 40 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ030-020915-
+St Croix River-
+302 PM EDT Wed Aug 1 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy early this evening, then becoming cloudy.
+Scattered showers through early morning. numerous showers and
+scattered thunderstorms late. Locally heavy rainfall possible late.
+Low around 66. South winds around 10 mph until midnight becoming
+light winds. Chance of precipitation 70 percent. Lightning risk is
+elevated. 
+.THURSDAY...Cloudy in the morning, then becoming partly sunny. A
+chance of showers. A chance of thunderstorms in the afternoon. High
+around 87. Southwest winds around 10 mph. Chance of precipitation
+40 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ030-020915-
+West Quoddy Head-
+302 PM EDT Wed Aug 1 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Areas of fog from late evening on. Scattered
+showers through early morning. numerous showers and scattered
+thunderstorms late. Locally heavy rainfall possible late. Low around
+60. South winds around 10 mph. Chance of precipitation 60 percent.
+Lightning risk is elevated. Water temperature 54 degrees Fahrenheit.
+.THURSDAY...Mostly cloudy. Areas of fog in the morning. A chance of
+showers in the morning. High around 73. Southwest winds 10 to
+15 mph. Chance of precipitation 30 percent. No lightning risk. Water
+temperature 54 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-020915-
+Upper Penobscot Watershed-
+302 PM EDT Wed Aug 1 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Numerous showers until midnight. scattered
+thunderstorms. numerous showers after midnight. Areas of fog late.
+Locally heavy rainfall possible after midnight. Low around 66. South
+winds around 10 mph until midnight becoming light winds. Chance of
+precipitation 70 percent. Lightning risk is elevated. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. A chance of showers. A chance of thunderstorms in the
+afternoon. High around 88. Southwest winds around 10 mph. Chance of
+precipitation 40 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-020915-
+Lower Penobscot Watershed-
+302 PM EDT Wed Aug 1 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Isolated showers early this evening...then
+numerous showers and scattered thunderstorms through early morning.
+scattered showers late. Areas of fog after midnight. Locally heavy
+rainfall possible after midnight. Low around 68. South winds around
+10 mph until midnight becoming light winds. Chance of precipitation
+70 percent. Lightning risk is elevated. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Areas of fog in the morning. A slight chance of showers. a
+slight chance of thunderstorms in the afternoon. High around 89.
+Southwest winds around 10 mph. Chance of precipitation 20 percent.
+Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

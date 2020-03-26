@@ -1,0 +1,212 @@
+
+365 
+SXUS41 KCAR 121843
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+243 PM EDT Mon Mar 12 2018
+
+MEZ004-130845-
+Top of Mount Katahdin-
+243 PM EDT Mon Mar 12 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy. Near steady temperatures around 17. East 
+winds 10 to 20 mph with gusts to around 40 mph. Wind chill values as
+low as zero. No lightning risk. 
+.TUESDAY...Cloudy in the morning, then summit in and out of clouds.
+A chance of snow in the morning...then snow in the afternoon. Areas
+of blowing snow in the afternoon. Very windy with high around 19.
+East winds 25 to 35 mph. Chance of precipitation 90 percent. Wind
+chill values as low as 3 below. No lightning risk. 
+
+$$
+
+MEZ005-130845-
+Katahdin Woods and Waters National Monument-
+243 PM EDT Mon Mar 12 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Low around 22. Light winds becoming east
+10 mph after midnight. Wind chill values as low as 13. No lightning
+risk. 
+.TUESDAY...Cloudy. A chance of snow in the morning...then snow in
+the afternoon. Patchy blowing snow in the afternoon. High around 30.
+Northeast winds 10 to 15 mph. Chance of precipitation 90 percent. No
+lightning risk. 
+
+$$
+
+MEZ029-130845-
+Top of Cadillac Mountain-
+243 PM EDT Mon Mar 12 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy late this
+evening, then summit becoming obscured. Windy with low around 26.
+East winds 15 to 25 mph increasing to 25 to 30 mph after midnight.
+Wind chill values as low as 11. No lightning risk. 
+.TUESDAY...Summit obscured in the morning, then summit in and out of
+clouds. Snow. Areas of blowing snow in the afternoon. Snow may be
+heavy at times in the afternoon. Very windy with high around 29.
+Northeast winds 30 to 35 mph increasing to around 40 mph in the
+afternoon. Chance of precipitation near 100 percent. Wind chill
+values as low as 9 above. No lightning risk. 
+
+$$
+
+MEZ001-130845-
+Top of Deboullie Mountain-
+243 PM EDT Mon Mar 12 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy early this evening, then summit in and out
+of clouds. Low around 20. East winds 10 to 15 mph. Wind chill values
+as low as 8 above. No lightning risk. 
+.TUESDAY...Summit obscured. Snow likely in the afternoon. High 
+around 27. Northeast winds 15 to 20 mph. Chance of precipitation 60 
+percent. Wind chill values as low as 7 above. No lightning risk. 
+
+$$
+
+MEZ006-130845-
+Top of Mars Hill Mountain-
+243 PM EDT Mon Mar 12 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy, then becoming partly cloudy late this evening,
+then becoming mostly cloudy. Low around 22. East winds 10 to 15 mph.
+Wind chill values as low as 9 above. No lightning risk. 
+.TUESDAY...Summit obscured. A chance of snow in the afternoon. Brisk
+with high around 29. Northeast winds 15 to 25 mph. Chance of
+precipitation 40 percent. Wind chill values as low as 11. No
+lightning risk. 
+
+$$
+
+MEZ010-130845-
+Top of White Cap Mountain-
+243 PM EDT Mon Mar 12 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured until midnight, then becoming cloudy. Low
+around 18. East winds 10 to 20 mph. Wind chill values as low as
+1 above. No lightning risk. 
+.TUESDAY...Cloudy in the morning, then summit in and out of clouds.
+Snow likely in the morning...then snow in the afternoon. Areas of
+blowing snow in the afternoon. Snow may be heavy at times in the
+afternoon. Windy with high around 22. Northeast winds 25 to 30 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 1 above. No lightning risk. 
+
+$$
+
+MEZ010-130845-
+Moosehead Lake-
+243 PM EDT Mon Mar 12 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Not as cool with low around 23. Light winds
+becoming east around 10 mph after midnight. Wind chill values as low
+as 12. No lightning risk. 
+.TUESDAY...Cloudy, snow. Patchy blowing snow in the afternoon. High
+around 28. Northeast winds 10 to 15 mph. Chance of precipitation
+near 100 percent. No lightning risk. 
+
+$$
+
+MEZ001-130845-
+Allagash Wilderness Waterway-
+243 PM EDT Mon Mar 12 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. Not as cool with low around 21. East winds
+around 10 mph. Wind chill values as low as 11. No lightning risk. 
+.TUESDAY...Cloudy. A chance of snow in the morning...then snow in
+the afternoon. High around 30. Northeast winds 10 to 15 mph. Chance
+of precipitation 90 percent. Wind chill values as low as 13. No
+lightning risk. 
+
+$$
+
+MEZ030-130845-
+St Croix River-
+243 PM EDT Mon Mar 12 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. Low around 25. Light winds becoming
+northeast around 10 mph after midnight. Wind chill values as low as
+14. No lightning risk. 
+.TUESDAY...Cloudy. A chance of snow in the morning...then snow in
+the afternoon. Patchy blowing snow in the afternoon. High around 33.
+Northeast winds 10 to 20 mph. Chance of precipitation 90 percent.
+Wind chill values as low as 16. No lightning risk. 
+
+$$
+
+MEZ030-130845-
+West Quoddy Head-
+243 PM EDT Mon Mar 12 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Low around 30. Northeast winds 10 to 15 mph. No lightning
+risk. Water temperature 39 degrees Fahrenheit. 
+.TUESDAY...Cloudy. A chance of snow in the morning...then snow and
+rain in the afternoon. Areas of blowing snow in the afternoon. Windy
+with high around 36. Northeast winds 20 to 30 mph. Chance of
+precipitation 90 percent. Wind chill values as low as 18. No
+lightning risk. Water temperature 39 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-130845-
+Upper Penobscot Watershed-
+243 PM EDT Mon Mar 12 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Low around 24. Light winds becoming
+northeast around 10 mph after midnight. Wind chill values as low as
+13. No lightning risk. 
+.TUESDAY...Cloudy. A chance of snow in the morning...then snow in
+the afternoon. Patchy blowing snow in the afternoon. High around 31.
+Northeast winds 10 to 15 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-130845-
+Lower Penobscot Watershed-
+243 PM EDT Mon Mar 12 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Low around 26. Northeast winds 10 to
+15 mph. Wind chill values as low as 15. No lightning risk. 
+.TUESDAY...Cloudy. A chance of snow in the morning...then snow in
+the afternoon. Patchy blowing snow in the afternoon. Snow may be
+heavy at times in the afternoon. High around 32. Northeast winds
+10 to 20 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

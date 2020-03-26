@@ -1,0 +1,73 @@
+
+114 
+SXUS41 KCAR 221931
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+331 PM EDT Sat Apr 22 2017
+
+MEZ004-230945-
+Top of Mount Katahdin-
+331 PM EDT Sat Apr 22 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Areas of fog. A chance of snow showers
+until midnight. a slight chance of snow showers after midnight. Near
+steady temperatures around 29. Northwest winds around 10 mph. Chance
+of precipitation 50 percent. 
+.SUNDAY...Cloudy in the morning...then becoming partly sunny. High
+around 37. Northwest winds 10 to 15 mph. 
+
+$$
+
+MEZ029-230945-
+Top of Cadillac Mountain-
+331 PM EDT Sat Apr 22 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Rain with snow likely until midnight...
+then a chance of rain and snow showers after midnight. Areas of fog
+after midnight. Near steady temperatures around 35. Northeast winds
+around 10 mph. Chance of precipitation 80 percent. 
+.SUNDAY...Summit in and out of clouds. Not as cool with high around
+46. Northwest winds around 10 mph shifting to the west in the
+afternoon. 
+
+$$
+
+MEZ004&gt;006-010-011-031-230945-
+Upper Penobscot Watershed-
+331 PM EDT Sat Apr 22 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Rain likely with a chance of snow
+showers until midnight. a slight chance of snow showers after
+midnight. Low around 33. Light winds. Chance of precipitation
+70 percent. 
+.SUNDAY...Cloudy in the morning...then becoming partly sunny. Not as
+cool with high around 54. Light winds. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-230945-
+Lower Penobscot Watershed-
+331 PM EDT Sat Apr 22 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain likely until midnight. Areas of fog. Low
+around 34. Light winds. Chance of precipitation 70 percent. 
+.SUNDAY...Cloudy in the morning...then becoming partly sunny. Not as
+cool with high around 58. Light winds. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

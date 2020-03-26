@@ -1,0 +1,218 @@
+
+815 
+SXUS41 KCAR 270653
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+253 AM EDT Tue Mar 27 2018
+
+MEZ004-272100-
+Top of Mount Katahdin-
+253 AM EDT Tue Mar 27 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Sunny. High around 34. Southeast winds 10 to 15 mph. No
+lightning risk. 
+.TONIGHT...Mostly clear. Low around 30. South winds 15 to 20 mph. No
+lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then summit in and out of
+clouds. A slight chance of snow in the morning. High around 34. 
+Southwest winds around 10 mph in the morning becoming light winds. 
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ005-272100-
+Katahdin Woods and Waters National Monument-
+253 AM EDT Tue Mar 27 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Sunny. High around 47. Light winds. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 23. Light winds. No lightning
+risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then becoming partly
+sunny. A chance of freezing rain and snow in the morning. High
+around 44. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ029-272100-
+Top of Cadillac Mountain-
+253 AM EDT Tue Mar 27 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny. High around 41. Northeast winds 10 to 15 mph. Wind
+chill values as low as 13. No lightning risk. 
+.TONIGHT...Clear until midnight, then becoming partly cloudy. Low
+around 32. Northeast winds 10 to 15 mph. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. A slight chance of rain and sleet in the
+morning. High around 41. Light winds. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ001-272100-
+Top of Deboullie Mountain-
+253 AM EDT Tue Mar 27 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Sunny. High around 45. Light winds becoming southeast
+around 10 mph this afternoon. Wind chill values as low as 9 above.
+No lightning risk. 
+.TONIGHT...Clear until midnight, then becoming partly cloudy. Not as
+cool with low around 27. Southeast winds around 10 mph. No lightning
+risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then becoming partly
+sunny. A slight chance of snow in the morning. High around 41. Light
+winds. Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ006-272100-
+Top of Mars Hill Mountain-
+253 AM EDT Tue Mar 27 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Sunny. High around 47. Light winds. No lightning risk. 
+.TONIGHT...Clear. Not as cool with low around 25. Light winds. No
+lightning risk. 
+.WEDNESDAY...Summit in and out of clouds in the morning, then
+becoming partly sunny. A chance of snow and freezing rain with a
+slight chance of rain in the morning. a slight chance of rain and
+snow showers in the afternoon. High around 41. Light winds. Chance
+of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ010-272100-
+Top of White Cap Mountain-
+253 AM EDT Tue Mar 27 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Sunny. High around 35. Southeast winds around 10 mph. No
+lightning risk. 
+.TONIGHT...Mostly clear. Low around 30. Southeast winds 10 to
+15 mph. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. A slight chance of rain and snow in the
+morning. High around 36. Light winds. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ010-272100-
+Moosehead Lake-
+253 AM EDT Tue Mar 27 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Sunny. High around 45. Light winds. No lightning risk. 
+.TONIGHT...Clear until midnight, then becoming partly cloudy. Not as
+cool with low around 24. Light winds. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then becoming partly
+sunny. A chance of snow and freezing rain with a slight chance of
+rain in the morning. High around 44. Light winds. Chance of
+precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ001-272100-
+Allagash Wilderness Waterway-
+253 AM EDT Tue Mar 27 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Sunny. High around 48. Light winds becoming southeast
+around 10 mph this afternoon. Wind chill values as low as 7 above.
+No lightning risk. 
+.TONIGHT...Clear until midnight, then becoming partly cloudy. Not as
+cool with low around 23. Southeast winds around 10 mph. Wind chill
+values as low as 19. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then becoming partly
+sunny. A chance of snow in the morning. High around 45. Light winds.
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ030-272100-
+St Croix River-
+253 AM EDT Tue Mar 27 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Sunny. High around 49. Light winds. No lightning risk. 
+.TONIGHT...Clear until midnight, then becoming partly cloudy. Low
+around 24. Light winds. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. A chance of freezing rain, snow and
+sleet with a slight chance of rain in the morning. a slight chance
+of rain showers in the afternoon. High around 43. Light winds.
+Chance of precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ030-272100-
+West Quoddy Head-
+253 AM EDT Tue Mar 27 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Sunny. High around 47. Northeast winds 10 to 15 mph. Wind
+chill values as low as 13. No lightning risk. Water temperature
+38 degrees Fahrenheit. 
+.TONIGHT...Clear until midnight, then becoming partly cloudy. Low
+around 28. Northeast winds 10 to 15 mph. Wind chill values as low as
+17 after midnight. No lightning risk. Water temperature 38 degrees
+Fahrenheit. 
+.WEDNESDAY...Cloudy. A chance of rain, sleet and freezing rain in
+the morning. a chance of rain showers in the afternoon. High around
+41. Northeast winds around 10 mph in the morning becoming light
+winds. Chance of precipitation 40 percent. Wind chill values as low
+as 19 in the morning. No lightning risk. Water temperature
+38 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-272100-
+Upper Penobscot Watershed-
+253 AM EDT Tue Mar 27 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 48. Light winds. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 24. Light winds. No lightning
+risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then becoming partly
+sunny. A slight chance of freezing rain and snow in the morning.
+High around 44. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-272100-
+Lower Penobscot Watershed-
+253 AM EDT Tue Mar 27 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 50. Light winds. No lightning risk. 
+.TONIGHT...Clear. Not as cool with low around 25. Light winds. No
+lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then becoming partly
+sunny. A slight chance of freezing rain and snow in the morning.
+High around 45. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

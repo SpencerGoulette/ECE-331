@@ -1,0 +1,219 @@
+
+946 
+SXUS41 KCAR 092003
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+303 PM EST Thu Jan 9 2020
+
+MEZ004-101015-
+Top of Mount Katahdin-
+303 PM EST Thu Jan 9 2020
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Strong winds and cold with low around 5 above. West winds
+15 to 20 mph becoming southwest and increasing to 40 to 60 mph after
+midnight. Wind chill values as low as 17 below. No lightning risk. 
+.FRIDAY...Mostly cloudy in the morning, then summit becoming
+obscured. A slight chance of snow showers in the morning. Strong
+winds and not as cool with high around 30. West winds 45 to 55 mph.
+Chance of precipitation 20 percent. Wind chill values as low as
+13 below in the morning. No lightning risk. 
+
+$$
+
+MEZ005-101015-
+Katahdin Woods and Waters National Monument-
+303 PM EST Thu Jan 9 2020
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Cold with low around 4 above. West winds 10 mph shifting to
+the south after midnight. No lightning risk. 
+.FRIDAY...Mostly cloudy. A slight chance of snow showers in the
+morning. Not as cool with high around 33. South winds 10 to 15 mph.
+Chance of precipitation 20 percent. Wind chill values as low as
+2 below in the morning. No lightning risk. 
+
+$$
+
+MEZ029-101015-
+Top of Cadillac Mountain-
+303 PM EST Thu Jan 9 2020
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear early this evening, then becoming partly
+cloudy. Very windy and cold with low around 9 above. Temperatures
+rising to around 24 after midnight. Northwest winds 10 to 20 mph
+increasing to southwest 20 to 40 mph after midnight. Wind chill
+values as low as 7 below. No lightning risk. 
+.FRIDAY...Mostly cloudy in the morning, then summit becoming
+obscured. A chance of rain and snow showers in the afternoon. Strong
+winds and not as cool with high around 39. Southwest winds 40 to
+55 mph. Chance of precipitation 30 percent. Wind chill values as low
+as 9 above in the morning. No lightning risk. 
+
+$$
+
+MEZ001-101015-
+Top of Deboullie Mountain-
+303 PM EST Thu Jan 9 2020
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Cold with low around 3 below. Temperatures rising to around
+6 above after midnight. Southwest winds 10 mph shifting to the south
+after midnight. Wind chill values as low as 14 below. No lightning
+risk. 
+.FRIDAY...Mostly cloudy in the morning, then summit becoming
+obscured. A slight chance of snow showers in the morning. Not as
+cool with high around 33. Southwest winds 10 to 20 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 7 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ006-101015-
+Top of Mars Hill Mountain-
+303 PM EST Thu Jan 9 2020
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy late this
+evening, then becoming mostly cloudy. Cold with low around 1 below.
+Northwest winds 10 mph shifting to the south after midnight. No
+lightning risk. 
+.FRIDAY...Summit in and out of clouds. A chance of snow showers in
+the morning...then a slight chance of snow showers in the afternoon.
+Not as cool with high around 31. South winds 10 to 20 mph. Chance of
+precipitation 40 percent. Wind chill values as low as 6 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ010-101015-
+Top of White Cap Mountain-
+303 PM EST Thu Jan 9 2020
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Strong winds and cold with low around 6 above. West winds
+10 to 20 mph becoming southwest and increasing to 40 to 60 mph after
+midnight. Wind chill values as low as 16 below. No lightning risk. 
+.FRIDAY...Mostly cloudy in the morning, then summit in and out of
+clouds. Strong winds and not as cool with high around 32. West winds
+35 to 55 mph. Wind chill values as low as 11 below in the morning.
+No lightning risk. 
+
+$$
+
+MEZ010-101015-
+Moosehead Lake-
+303 PM EST Thu Jan 9 2020
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Cold with low around 6 above. Southwest winds 10 mph
+shifting to the south after midnight. No lightning risk. 
+.FRIDAY...Mostly cloudy. Not as cool with high around 35. South
+winds 10 to 15 mph. Wind chill values as low as zero in the morning.
+No lightning risk. 
+
+$$
+
+MEZ001-101015-
+Allagash Wilderness Waterway-
+303 PM EST Thu Jan 9 2020
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Colder with low around 5 below. Temperatures rising to
+around 6 above after midnight. Southwest winds 10 mph shifting to
+the south after midnight. No lightning risk. 
+.FRIDAY...Mostly cloudy. Not as cool with high around 35. Southwest
+winds 10 to 15 mph. Wind chill values as low as 7 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ030-101015-
+St Croix River-
+303 PM EST Thu Jan 9 2020
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy through early
+morning, then becoming mostly cloudy. Colder with low around
+4 above. Northwest winds 10 mph shifting to the south after
+midnight. No lightning risk. 
+.FRIDAY...Cloudy. A slight chance of snow showers. a slight chance
+of rain showers in the afternoon. Not as cool with high around 35.
+South winds 10 to 15 mph. Chance of precipitation 20 percent. Wind
+chill values as low as 1 above in the morning. No lightning risk. 
+
+$$
+
+MEZ030-101015-
+West Quoddy Head-
+303 PM EST Thu Jan 9 2020
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 15. Temperatures rising to around 25 after midnight.
+Northwest winds 10 to 20 mph shifting to the southwest 20 mph after
+midnight. Wind chill values as low as 4 above. No lightning risk.
+Water temperature 41 degrees Fahrenheit. 
+.FRIDAY...Cloudy. A slight chance of rain showers in the morning...
+then a chance of rain showers in the afternoon. Breezy and not as
+cool with high around 42. Southwest winds 15 to 30 mph. Chance of
+precipitation 30 percent. Wind chill values as low as 18 in the
+morning. No lightning risk. Water temperature 41 degrees Fahrenheit.
+
+$$
+
+MEZ004&gt;006-010-011-031-101015-
+Upper Penobscot Watershed-
+303 PM EST Thu Jan 9 2020
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Cold with low around 3 above. West winds 10 mph shifting to
+the south after midnight. No lightning risk. 
+.FRIDAY...Mostly cloudy. A slight chance of snow showers in the
+morning. Not as cool with high around 33. South winds 10 to 15 mph.
+Chance of precipitation 20 percent. Wind chill values as low as
+2 below in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-101015-
+Lower Penobscot Watershed-
+303 PM EST Thu Jan 9 2020
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Cold with low around 6 above. West winds 10 mph shifting to
+the south after midnight. No lightning risk. 
+.FRIDAY...Mostly cloudy. Not as cool with high around 35. Southwest
+winds 10 to 20 mph. Wind chill values as low as 2 above in the
+morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

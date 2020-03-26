@@ -1,0 +1,218 @@
+
+000
+SXUS41 KCAR 200055
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+755 PM EST Sun Jan 19 2020
+
+MEZ004-201500-
+Top of Mount Katahdin-
+755 PM EST Sun Jan 19 2020
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Summit in and out of clouds until midnight, then
+becoming cloudy. Snow early this evening...then light snow likely
+late this evening. scattered snow showers. Cold with low around
+2 above. North winds 15 to 20 mph. Chance of precipitation
+90 percent. Wind chill values as low as 15 below. No lightning risk.
+.MARTIN LUTHER KING JR DAY...Partly sunny and windy, cold with high
+around 8 above. Northwest winds 15 to 35 mph. Wind chill values as
+low as 18 below. No lightning risk. 
+
+$$
+
+MEZ005-201500-
+Katahdin Woods and Waters National Monument-
+755 PM EST Sun Jan 19 2020
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.OVERNIGHT...Cloudy. Snow early this evening...then light snow
+likely late this evening. scattered snow showers. Cold with low
+around 4 above. Northwest winds 10 to 15 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as
+10 below. No lightning risk. 
+.MARTIN LUTHER KING JR DAY...Partly sunny. High around 16. Northwest
+winds 10 to 15 mph. Wind chill values as low as 7 below. No
+lightning risk. 
+
+$$
+
+MEZ029-201500-
+Top of Cadillac Mountain-
+755 PM EST Sun Jan 19 2020
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Mostly cloudy until midnight, then summit in and out of
+clouds. Isolated snow showers. Cold with low around 10 above. North
+winds 15 to 20 mph. Chance of precipitation 20 percent. Wind chill
+values as low as 4 below. No lightning risk. 
+.MARTIN LUTHER KING JR DAY...Mostly cloudy in the morning, then
+clearing. Brisk, cooler with high around 20. Northwest winds 15 to
+30 mph. Wind chill values as low as 4 below. No lightning risk. 
+
+$$
+
+MEZ001-201500-
+Top of Deboullie Mountain-
+755 PM EST Sun Jan 19 2020
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.OVERNIGHT...Summit in and out of clouds, then becoming cloudy, then
+becoming partly cloudy. Snow early this evening...then light snow
+likely late this evening. scattered snow showers. Cold with low
+around 2 below. North winds 10 to 15 mph. Chance of precipitation
+90 percent. Wind chill values as low as 16 below. No lightning risk.
+.MARTIN LUTHER KING JR DAY...Partly sunny. Cold with high around
+9 above. West winds 10 to 20 mph. Wind chill values as low as
+15 below. No lightning risk. 
+
+$$
+
+MEZ006-201500-
+Top of Mars Hill Mountain-
+755 PM EST Sun Jan 19 2020
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.OVERNIGHT...Mostly cloudy. Snow early this evening...then light
+snow likely late this evening. scattered snow showers. Cold with low
+around 1 above. North winds 10 to 20 mph. Chance of precipitation
+near 100 percent. Wind chill values as low as 12 below. No lightning
+risk. 
+.MARTIN LUTHER KING JR DAY...Partly sunny. High around 12. Northwest
+winds 10 to 15 mph. Wind chill values as low as 10 below. No
+lightning risk. 
+
+$$
+
+MEZ010-201500-
+Top of White Cap Mountain-
+755 PM EST Sun Jan 19 2020
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.OVERNIGHT...Cloudy, then summit in and out of clouds through early
+morning, then becoming cloudy. Scattered snow showers through early
+morning. Cold with low around 2 above. North winds 15 to 20 mph.
+Chance of precipitation 40 percent. Wind chill values as low as
+14 below. No lightning risk. 
+.MARTIN LUTHER KING JR DAY...Partly sunny and windy, cold with high
+around 8 above. Northwest winds 10 to 20 mph increasing to 15 to
+35 mph in the afternoon. Wind chill values as low as 17 below. No
+lightning risk. 
+
+$$
+
+MEZ010-201500-
+Moosehead Lake-
+755 PM EST Sun Jan 19 2020
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Mostly cloudy. Scattered snow showers through early
+morning. Cold with low around 2 above. North winds 10 to 15 mph.
+Chance of precipitation 50 percent. Wind chill values as low as
+11 below. No lightning risk. 
+.MARTIN LUTHER KING JR DAY...Partly sunny. High around 14. Northwest
+winds 10 to 15 mph. Wind chill values as low as 9 below. No
+lightning risk. 
+
+$$
+
+MEZ001-201500-
+Allagash Wilderness Waterway-
+755 PM EST Sun Jan 19 2020
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.OVERNIGHT...Cloudy through early morning, then becoming partly
+cloudy. Snow early this evening...then light snow likely late this
+evening. scattered snow showers. Cold with low around 3 below. North
+winds 10 to 15 mph. Chance of precipitation near 100 percent. Wind
+chill values as low as 14 below. No lightning risk. 
+.MARTIN LUTHER KING JR DAY...Partly sunny. High around 13. West
+winds 10 mph increasing to 10 to 15 mph in the afternoon. Wind chill
+values as low as 12 below. No lightning risk. 
+
+$$
+
+MEZ030-201500-
+St Croix River-
+755 PM EST Sun Jan 19 2020
+
+...ST CROIX RIVER...
+
+.OVERNIGHT...Cloudy. Light snow likely early this evening...then
+scattered snow showers through early morning. isolated snow showers
+late. Cold with low around 9 above. North winds 10 to 15 mph. Chance
+of precipitation 70 percent. Wind chill values as low as 4 below. No
+lightning risk. 
+.MARTIN LUTHER KING JR DAY...Partly sunny. High around 19. Northwest
+winds 10 to 15 mph. Wind chill values as low as 1 below. No
+lightning risk. 
+
+$$
+
+MEZ030-201500-
+West Quoddy Head-
+755 PM EST Sun Jan 19 2020
+
+...WEST QUODDY HEAD...
+
+.OVERNIGHT...Cloudy. Scattered snow showers through early morning...
+then isolated snow showers late. Low around 19. North winds 15 to
+20 mph. Chance of precipitation 40 percent. Wind chill values as low
+as 5 above. No lightning risk. Water temperature 44 degrees
+Fahrenheit. 
+.MARTIN LUTHER KING JR DAY...Mostly cloudy in the morning, then
+clearing. Isolated snow showers in the morning. Cooler with high
+around 24. Northwest winds 15 to 25 mph. Chance of precipitation
+20 percent. Wind chill values as low as 7 above. No lightning risk.
+Water temperature 44 degrees Fahrenheit. 
+
+$$
+
+MEZ004>006-010-011-031-201500-
+Upper Penobscot Watershed-
+755 PM EST Sun Jan 19 2020
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Cloudy. Snow likely until midnight...then scattered
+snow showers. Cold with low around 6 above. North winds 10 to
+15 mph. Chance of precipitation 70 percent. Wind chill values as low
+as 7 below. No lightning risk. 
+.MARTIN LUTHER KING JR DAY...Partly sunny. High around 18. Northwest
+winds 10 to 15 mph. Wind chill values as low as 6 below. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-201500-
+Lower Penobscot Watershed-
+755 PM EST Sun Jan 19 2020
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Mostly cloudy. Isolated snow showers. Cold with low
+around 9 above. North winds 10 to 15 mph. Chance of precipitation
+20 percent. Wind chill values as low as 3 below. No lightning risk. 
+.MARTIN LUTHER KING JR DAY...Partly sunny. High around 21. Northwest
+winds 10 to 15 mph. Wind chill values as low as zero. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

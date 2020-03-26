@@ -1,0 +1,181 @@
+
+237 
+SXUS41 KCAR 291955
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+255 PM EST Wed Nov 29 2017
+
+MEZ004-301000-
+Top of Mount Katahdin-
+255 PM EST Wed Nov 29 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear and very windy. Much cooler with low around 12.
+Northwest winds 30 to 40 mph with gusts to around 55 mph. Wind chill
+values as low as 12 below. No lightning risk. 
+.THURSDAY...Sunny and very windy. High around 34. South winds 30 to
+35 mph. Wind chill values as low as 2 above in the morning. No
+lightning risk. 
+
+$$
+
+MEZ005-301000-
+Katahdin Woods and Waters National Monument-
+255 PM EST Wed Nov 29 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear, cooler with low around 16. Northwest winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.THURSDAY...Sunny, cooler with high around 33. Light winds becoming
+south around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-301000-
+Top of Cadillac Mountain-
+255 PM EST Wed Nov 29 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy early this evening...then clearing. Brisk,
+cooler with low around 23. North winds 15 to 25 mph. Wind chill
+values as low as 11. No lightning risk. 
+.THURSDAY...Sunny. High around 39. Northeast winds around 15 mph
+shifting to the south in the afternoon. Wind chill values as low as
+12 in the morning. No lightning risk. 
+
+$$
+
+MEZ001-301000-
+Top of Deboullie Mountain-
+255 PM EST Wed Nov 29 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear, cooler with low around 15. West winds 10 to
+15 mph. Wind chill values as low as 3 above. No lightning risk. 
+.THURSDAY...Mostly sunny. High around 30. South winds around 10 mph
+increasing to 15 to 20 mph in the afternoon. Wind chill values as
+low as 5 above in the morning. No lightning risk. 
+
+$$
+
+MEZ006-301000-
+Top of Mars Hill Mountain-
+255 PM EST Wed Nov 29 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear. Low around 15. Northwest winds 10 to 20 mph. Wind
+chill values as low as 2 above. No lightning risk. 
+.THURSDAY...Mostly sunny. High around 31. Southwest winds 10 to
+15 mph shifting to the south 15 to 20 mph in the afternoon. Wind
+chill values as low as 4 above in the morning. No lightning risk. 
+
+$$
+
+MEZ010-301000-
+Top of White Cap Mountain-
+255 PM EST Wed Nov 29 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear, windy, cooler with low around 15. Northwest winds
+25 to 30 mph decreasing to 15 to 25 mph after midnight. Wind chill
+values as low as 5 below. No lightning risk. 
+.THURSDAY...Sunny, brisk with high around 32. Southwest winds around
+20 mph shifting to the south in the afternoon. Wind chill values as
+low as 10 above. No lightning risk. 
+
+$$
+
+MEZ010-301000-
+Moosehead Lake-
+255 PM EST Wed Nov 29 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Low around 18. Northwest winds 10 mph. Waves
+3 feet. No lightning risk. 
+.THURSDAY...Sunny, cooler with high around 34. Waves 1 foot. Light
+winds becoming south around 10 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ001-301000-
+Allagash Wilderness Waterway-
+255 PM EST Wed Nov 29 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear, cooler with low around 14. West winds 10 to 15 mph
+until midnight becoming light winds. No lightning risk. 
+.THURSDAY...Mostly sunny. High around 32. Light winds becoming south
+around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-301000-
+St Croix River-
+255 PM EST Wed Nov 29 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Low around 19. Northwest winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.THURSDAY...Sunny, cooler with high around 35. Light winds. No
+lightning risk. 
+
+$$
+
+MEZ030-301000-
+West Quoddy Head-
+255 PM EST Wed Nov 29 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear, cooler with low around 25. North winds around
+10 mph. Wind chill values as low as 18. No lightning risk. Water
+temperature 50 degrees Fahrenheit. 
+.THURSDAY...Sunny. High around 42. Light winds becoming south 10 to
+15 mph in the afternoon. No lightning risk. Water temperature
+50 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-301000-
+Upper Penobscot Watershed-
+255 PM EST Wed Nov 29 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 18. Northwest winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.THURSDAY...Sunny, cooler with high around 35. Light winds becoming
+south around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-301000-
+Lower Penobscot Watershed-
+255 PM EST Wed Nov 29 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 20. Northwest winds 10 to 15 mph until
+midnight becoming light winds. No lightning risk. 
+.THURSDAY...Sunny, cooler with high around 38. Light winds becoming
+south around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

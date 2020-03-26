@@ -1,0 +1,240 @@
+
+200 
+SXUS41 KCAR 130649
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+249 AM EDT Fri Oct 13 2017
+
+MEZ004-132100-
+Top of Mount Katahdin-
+249 AM EDT Fri Oct 13 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Sunny. Areas of frost this morning. Not as cool with high
+around 52. South winds 10 to 20 mph. No lightning risk. 
+.TONIGHT...Clear until midnight...then becoming mostly cloudy.
+Scattered showers after midnight. Not as cool with low around 44.
+Southwest winds around 25 mph. Chance of precipitation 30 percent.
+No lightning risk. 
+.SATURDAY...Summit obscured. A chance of showers. High around 47.
+West winds 25 to 30 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+
+$$
+
+MEZ005-132100-
+Katahdin Woods and Waters National Monument-
+249 AM EDT Fri Oct 13 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Sunny. Widespread frost this morning. High around 59. Light
+winds becoming south around 10 mph this afternoon. No lightning
+risk. 
+.TONIGHT...Clear until midnight...then becoming mostly cloudy.
+Scattered showers after midnight. Not as cool with low around 45.
+South winds around 10 mph. Chance of precipitation 30 percent. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. A chance of showers in the morning...then
+a slight chance of showers in the afternoon. High around 62.
+Southwest winds around 10 mph. Chance of precipitation 30 percent.
+No lightning risk. 
+
+$$
+
+MEZ029-132100-
+Top of Cadillac Mountain-
+249 AM EDT Fri Oct 13 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny this morning...then becoming partly sunny. High
+around 56. Light winds becoming south 10 to 15 mph this afternoon.
+No lightning risk. 
+.TONIGHT...Summit in and out of clouds. Low around 50. Southwest
+winds 15 to 25 mph. No lightning risk. 
+.SATURDAY...Summit obscured. A slight chance of showers in the
+afternoon. High around 57. West winds 25 to 35 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-132100-
+Top of Deboullie Mountain-
+249 AM EDT Fri Oct 13 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Sunny. Widespread frost this morning. High around 55. Light
+winds becoming south 10 to 15 mph this afternoon. No lightning risk.
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Isolated showers until midnight...then scattered showers
+after midnight. Not as cool with low around 46. Southwest winds
+15 to 20 mph. Chance of precipitation 30 percent. No lightning risk.
+.SATURDAY...Summit obscured. A chance of showers. High around 56.
+West winds 10 to 15 mph. Chance of precipitation 30 percent. No
+lightning risk. 
+
+$$
+
+MEZ006-132100-
+Top of Mars Hill Mountain-
+249 AM EDT Fri Oct 13 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Sunny. Widespread frost this morning. High around 55. Light
+winds becoming south 10 to 15 mph this afternoon. No lightning risk.
+.TONIGHT...Partly cloudy until midnight...then summit becoming
+obscured. Scattered showers after midnight. Not as cool with low
+around 45. Southwest winds 15 to 20 mph. Chance of precipitation
+30 percent. No lightning risk. 
+.SATURDAY...Summit obscured. A chance of showers. High around 58.
+Southwest winds 10 to 15 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+
+$$
+
+MEZ010-132100-
+Top of White Cap Mountain-
+249 AM EDT Fri Oct 13 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Sunny. Areas of frost this morning. High around 50. Light
+winds becoming south 10 to 20 mph this afternoon. No lightning risk.
+.TONIGHT...Clear until midnight...then becoming mostly cloudy.
+Scattered showers after midnight. Low around 44. Southwest winds
+20 to 25 mph. Chance of precipitation 30 percent. No lightning risk.
+.SATURDAY...Summit obscured. A chance of showers. High around 51.
+West winds 20 to 30 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+
+$$
+
+MEZ010-132100-
+Moosehead Lake-
+249 AM EDT Fri Oct 13 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Sunny. Widespread frost with patchy dense fog this morning.
+High around 58. Light winds becoming southeast around 10 mph this
+afternoon. Waves 2 feet. No lightning risk. Water temperature
+64 degrees Fahrenheit. 
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Scattered showers after midnight. Not as cool with low
+around 45. Waves 2 feet. South winds around 10 mph. Chance of
+precipitation 40 percent. No lightning risk. Water temperature
+64 degrees Fahrenheit. 
+.SATURDAY...Mostly cloudy. A chance of showers. High around 61.
+Waves 2 feet. Southwest winds around 10 mph. Chance of precipitation
+30 percent. No lightning risk. Water temperature 64 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-132100-
+Allagash Wilderness Waterway-
+249 AM EDT Fri Oct 13 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Sunny. Widespread frost with patchy dense fog this morning.
+High around 60. South winds 10 to 15 mph. Wind chill values as low
+as 20. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Scattered showers after midnight. Not as cool with low
+around 44. Southwest winds around 10 mph. Chance of precipitation
+30 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy. A chance of showers. High around 60.
+Southwest winds around 10 mph. Chance of precipitation 40 percent.
+No lightning risk. 
+
+$$
+
+MEZ030-132100-
+St Croix River-
+249 AM EDT Fri Oct 13 2017
+
+...ST CROIX RIVER...
+
+.TODAY...Sunny. Widespread frost this morning. High around 60. Light
+winds becoming south around 10 mph this afternoon. No lightning
+risk. 
+.TONIGHT...Clear until midnight...then becoming mostly cloudy.
+Isolated showers after midnight. Not as cool with low around 45.
+South winds around 10 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. A slight chance of showers. High around
+64. Southwest winds around 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ030-132100-
+West Quoddy Head-
+249 AM EDT Fri Oct 13 2017
+
+...WEST QUODDY HEAD...
+
+.TODAY...Sunny. Patchy frost this morning. High around 58. Light
+winds becoming south around 10 mph this afternoon. No lightning
+risk. Water temperature 56 degrees Fahrenheit. 
+.TONIGHT...Clear until midnight...then becoming partly cloudy. Not
+as cool with low around 50. Southwest winds 10 to 15 mph. No
+lightning risk. Water temperature 56 degrees Fahrenheit. 
+.SATURDAY...Mostly cloudy. A slight chance of showers. High around
+63. Southwest winds around 15 mph. Chance of precipitation
+20 percent. No lightning risk. Water temperature 56 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-132100-
+Upper Penobscot Watershed-
+249 AM EDT Fri Oct 13 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. Patchy dense fog and frost this morning. High around
+60. Light winds becoming south around 10 mph this afternoon. No
+lightning risk. 
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Scattered showers after midnight. Not as cool with low
+around 46. South winds around 10 mph. Chance of precipitation
+30 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy. A chance of showers in the morning...then
+a slight chance of showers in the afternoon. High around 64.
+Southwest winds around 10 mph. Chance of precipitation 40 percent.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-132100-
+Lower Penobscot Watershed-
+249 AM EDT Fri Oct 13 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. Areas of frost with patchy dense fog this morning.
+High around 62. Light winds becoming south around 10 mph this
+afternoon. No lightning risk. 
+.TONIGHT...Mostly clear until midnight...then becoming mostly
+cloudy. Isolated showers after midnight. Not as cool with low around
+49. South winds around 10 mph. Chance of precipitation 20 percent.
+No lightning risk. 
+.SATURDAY...Mostly cloudy. A slight chance of showers. High around
+67. Southwest winds around 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

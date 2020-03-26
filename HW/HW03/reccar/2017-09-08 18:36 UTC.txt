@@ -1,0 +1,222 @@
+
+400 
+SXUS41 KCAR 081836
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+236 PM EDT Fri Sep 8 2017
+
+MEZ004-090845-
+Top of Mount Katahdin-
+236 PM EDT Fri Sep 8 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy. Scattered showers and isolated
+thunderstorms until midnight...then isolated showers after midnight.
+Low around 41. Light winds. Chance of precipitation 40 percent.
+Lightning risk is limited. 
+.SATURDAY...Summit in and out of clouds. A chance of showers in the
+morning...then showers likely with a slight chance of thunderstorms
+in the afternoon. High around 45. Light winds becoming north around
+10 mph in the afternoon. Chance of precipitation 60 percent.
+Lightning risk is limited. 
+
+$$
+
+MEZ005-090845-
+Katahdin Woods and Waters National Monument-
+236 PM EDT Fri Sep 8 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Scattered showers and isolated
+thunderstorms until midnight...then isolated showers after midnight.
+Low around 48. Light winds. Chance of precipitation 40 percent.
+Lightning risk is limited. 
+.SATURDAY...Mostly cloudy. A chance of showers in the morning...then
+showers likely with a slight chance of thunderstorms in the
+afternoon. High around 64. Light winds. Chance of precipitation
+60 percent. Lightning risk is limited. 
+
+$$
+
+MEZ029-090845-
+Top of Cadillac Mountain-
+236 PM EDT Fri Sep 8 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Isolated showers until midnight. Low around 54. West winds 
+10 to 15 mph until midnight becoming light winds. Chance of 
+precipitation 20 percent. Lightning risk is limited. 
+.SATURDAY...Mostly cloudy in the morning...then becoming partly
+sunny. A slight chance of showers in the morning...then a chance of
+showers with a slight chance of thunderstorms in the afternoon. High
+around 61. West winds around 10 mph in the morning becoming light
+winds. Chance of precipitation 40 percent. Lightning risk is
+limited. 
+
+$$
+
+MEZ001-090845-
+Top of Deboullie Mountain-
+236 PM EDT Fri Sep 8 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy. Isolated thunderstorms until midnight.
+scattered showers. Low around 46. Light winds. Chance of
+precipitation 40 percent. Lightning risk is limited. 
+.SATURDAY...Summit in and out of clouds. A chance of showers in the
+morning...then showers likely with a slight chance of thunderstorms
+in the afternoon. High around 59. Light winds. Chance of
+precipitation 60 percent. Lightning risk is limited. 
+
+$$
+
+MEZ006-090845-
+Top of Mars Hill Mountain-
+236 PM EDT Fri Sep 8 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy. Isolated thunderstorms until midnight.
+scattered showers. Low around 48. Light winds. Chance of
+precipitation 40 percent. Lightning risk is limited. 
+.SATURDAY...Cloudy. Showers likely. a slight chance of thunderstorms
+in the afternoon. High around 61. Light winds becoming north around
+10 mph in the afternoon. Chance of precipitation 60 percent.
+Lightning risk is limited. 
+
+$$
+
+MEZ010-090845-
+Top of White Cap Mountain-
+236 PM EDT Fri Sep 8 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured until midnight...then becoming mostly
+cloudy. Scattered showers and isolated thunderstorms until
+midnight...then isolated showers after midnight. Low around 46.
+Light winds. Chance of precipitation 40 percent. Lightning risk is
+limited. 
+.SATURDAY...Summit obscured in the morning...then summit in and out
+of clouds. A chance of showers in the morning...then showers likely
+with a slight chance of thunderstorms in the afternoon. High around
+52. Light winds becoming north around 10 mph in the afternoon.
+Chance of precipitation 60 percent. Lightning risk is limited. 
+
+$$
+
+MEZ010-090845-
+Moosehead Lake-
+236 PM EDT Fri Sep 8 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Scattered showers and isolated
+thunderstorms until midnight...then isolated showers after midnight.
+Low around 48. Light winds. Waves 1 foot. Chance of precipitation
+40 percent. Lightning risk is limited. Water temperature 66 degrees
+Fahrenheit. 
+.SATURDAY...Mostly cloudy. A chance of showers in the morning...then
+showers likely with a slight chance of thunderstorms in the
+afternoon. High around 63. Waves 1 foot. Light winds. Chance of
+precipitation 60 percent. Lightning risk is limited. Water
+temperature 66 degrees Fahrenheit. 
+
+$$
+
+MEZ001-090845-
+Allagash Wilderness Waterway-
+236 PM EDT Fri Sep 8 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. Scattered showers and isolated
+thunderstorms until midnight...then isolated showers after midnight.
+Low around 43. Light winds. Chance of precipitation 50 percent.
+Lightning risk is limited. 
+.SATURDAY...Mostly cloudy. A chance of showers. a slight chance of
+thunderstorms in the afternoon. High around 63. Light winds. Chance
+of precipitation 50 percent. Lightning risk is limited. 
+
+$$
+
+MEZ030-090845-
+St Croix River-
+236 PM EDT Fri Sep 8 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. Isolated thunderstorms until midnight.
+scattered showers. Low around 50. Light winds. Chance of
+precipitation 40 percent. Lightning risk is limited. 
+.SATURDAY...Mostly cloudy. A chance of showers in the morning...then
+showers likely with a slight chance of thunderstorms in the
+afternoon. High around 67. Light winds. Chance of precipitation
+70 percent. Lightning risk is limited. 
+
+$$
+
+MEZ030-090845-
+West Quoddy Head-
+236 PM EDT Fri Sep 8 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear until midnight...then becoming partly
+cloudy. Isolated showers after midnight. Low around 52. Southwest
+winds around 10 mph until midnight becoming light winds. Chance of
+precipitation 20 percent. No lightning risk. Water temperature
+55 degrees Fahrenheit. 
+.SATURDAY...Mostly cloudy in the morning...then becoming partly
+sunny. A chance of showers. a slight chance of thunderstorms in the
+afternoon. High around 63. Light winds. Chance of precipitation
+40 percent. Lightning risk is limited. Water temperature 55 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-090845-
+Upper Penobscot Watershed-
+236 PM EDT Fri Sep 8 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Scattered showers and isolated
+thunderstorms until midnight...then isolated showers after midnight.
+Low around 49. Light winds. Chance of precipitation 40 percent.
+Lightning risk is limited. 
+.SATURDAY...Mostly cloudy. A chance of showers in the morning...then
+showers likely with a slight chance of thunderstorms in the
+afternoon. High around 66. Light winds. Chance of precipitation
+70 percent. Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-090845-
+Lower Penobscot Watershed-
+236 PM EDT Fri Sep 8 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Scattered showers and isolated
+thunderstorms until midnight...then isolated showers after midnight.
+Low around 50. Light winds. Chance of precipitation 40 percent.
+Lightning risk is limited. 
+.SATURDAY...Mostly cloudy. A chance of showers. a slight chance of
+thunderstorms in the afternoon. High around 68. Light winds. Chance
+of precipitation 50 percent. Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

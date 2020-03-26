@@ -1,0 +1,192 @@
+
+909 
+SXUS41 KCAR 300732
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+332 AM EDT Wed May 30 2018
+
+MEZ004-302145-
+Top of Mount Katahdin-
+332 AM EDT Wed May 30 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Sunny. High around 56. Light winds. No lightning risk. 
+.TONIGHT...Clear. Low around 53. West winds around 10 mph. No
+lightning risk. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Warmer with high around 66. West winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ005-302145-
+Katahdin Woods and Waters National Monument-
+332 AM EDT Wed May 30 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Sunny. High around 78. Light winds becoming south around
+10 mph this afternoon. No lightning risk. 
+.TONIGHT...Clear. Low around 51. Southwest winds around 10 mph. No
+lightning risk. 
+.THURSDAY...Mostly sunny. Warmer with high around 88. Light winds
+becoming south around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-302145-
+Top of Cadillac Mountain-
+332 AM EDT Wed May 30 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny. Much cooler with high around 59. East winds around
+10 mph shifting to the south this afternoon. No lightning risk. 
+.TONIGHT...Clear. Low around 49. Southwest winds 10 to 15 mph. No
+lightning risk. 
+.THURSDAY...Sunny. High around 67. Southwest winds around 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-302145-
+Top of Deboullie Mountain-
+332 AM EDT Wed May 30 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Sunny. High around 70. Light winds. No lightning risk. 
+.TONIGHT...Mostly clear. Not as cool with low around 53. Southwest
+winds 10 to 15 mph. No lightning risk. 
+.THURSDAY...Mostly sunny. Warmer with high around 83. Southwest
+winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ006-302145-
+Top of Mars Hill Mountain-
+332 AM EDT Wed May 30 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Sunny. High around 68. Light winds. No lightning risk. 
+.TONIGHT...Clear. Not as cool with low around 50. Southwest winds
+around 10 mph. No lightning risk. 
+.THURSDAY...Mostly sunny. Much warmer with high around 87. South
+winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ010-302145-
+Top of White Cap Mountain-
+332 AM EDT Wed May 30 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Sunny. High around 62. Light winds becoming southwest
+around 10 mph this afternoon. No lightning risk. 
+.TONIGHT...Clear. Not as cool with low around 55. Southwest winds
+10 to 15 mph. No lightning risk. 
+.THURSDAY...Mostly sunny. High around 71. Southwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ010-302145-
+Moosehead Lake-
+332 AM EDT Wed May 30 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Sunny. High around 72. Light winds becoming south around
+10 mph this afternoon. Waves 1 foot. No lightning risk. 
+.TONIGHT...Clear. Low around 51. Waves 1 foot. South winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.THURSDAY...Mostly sunny. Warmer with high around 85. Waves 2 feet.
+Light winds becoming south around 10 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ001-302145-
+Allagash Wilderness Waterway-
+332 AM EDT Wed May 30 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Sunny. High around 79. Light winds. No lightning risk.
+.TONIGHT...Mostly clear. Not as cool with low around 51. Southwest
+winds around 10 mph. No lightning risk. 
+.THURSDAY...Mostly sunny. Warmer with high around 90. Light winds
+becoming southwest around 10 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ030-302145-
+St Croix River-
+332 AM EDT Wed May 30 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Sunny. High around 74. Light winds. No lightning risk. 
+.TONIGHT...Clear. Low around 45. Light winds. No lightning risk. 
+.THURSDAY...Sunny, warmer with high around 84. Light winds becoming
+southwest around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-302145-
+West Quoddy Head-
+332 AM EDT Wed May 30 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Sunny, cooler with high around 62. Light winds becoming
+south around 10 mph this afternoon. No lightning risk. Water
+temperature 46 degrees Fahrenheit. 
+.TONIGHT...Clear. Low around 44. Southwest winds around 10 mph. No
+lightning risk. Water temperature 46 degrees Fahrenheit. 
+.THURSDAY...Sunny. High around 68. Southwest winds 10 to 15 mph. No
+lightning risk. Water temperature 46 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-302145-
+Upper Penobscot Watershed-
+332 AM EDT Wed May 30 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 77. Light winds becoming southwest
+around 10 mph this afternoon. No lightning risk. 
+.TONIGHT...Clear. Low around 48. Southwest winds around 10 mph. No
+lightning risk. 
+.THURSDAY...Sunny, warmer with high around 87. Southwest winds
+10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-302145-
+Lower Penobscot Watershed-
+332 AM EDT Wed May 30 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 76. Light winds becoming southwest
+around 10 mph this afternoon. No lightning risk. 
+.TONIGHT...Clear. Low around 47. Southwest winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.THURSDAY...Sunny. High around 84. Light winds becoming southwest
+around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

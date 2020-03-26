@@ -1,0 +1,206 @@
+
+141 
+SXUS41 KCAR 091939
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+339 PM EDT Mon Oct 9 2017
+
+MEZ004-100945-
+Top of Mount Katahdin-
+339 PM EDT Mon Oct 9 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured until midnight...then becoming cloudy.
+Rain until midnight...then a chance of showers after midnight. Rain
+may be heavy at times until midnight. Near steady temperatures
+around 56. Southwest winds 20 to 25 mph shifting to the northwest
+10 to 20 mph after midnight. Chance of precipitation near
+100 percent. No lightning risk. 
+.TUESDAY...Mostly cloudy in the morning...then becoming partly
+sunny. High around 56. Northwest winds 10 to 20 mph. No lightning
+risk. 
+
+$$
+
+MEZ005-100945-
+Katahdin Woods and Waters National Monument-
+339 PM EDT Mon Oct 9 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Areas of fog until midnight. Rain until
+midnight...then a chance of showers after midnight. Rain may be
+heavy at times until midnight. Near steady temperatures around 60.
+Southeast winds around 10 mph until midnight becoming light winds.
+Chance of precipitation near 100 percent. No lightning risk. 
+.TUESDAY...Mostly cloudy in the morning...then becoming partly
+sunny. High around 71. Northwest winds around 10 mph. No lightning
+risk. 
+
+$$
+
+MEZ029-100945-
+Top of Cadillac Mountain-
+339 PM EDT Mon Oct 9 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then summit
+becoming obscured. Areas of fog. Rain until midnight. a chance of
+showers after midnight. Rain may be heavy at times until midnight.
+Near steady temperatures around 64. Southwest winds 15 to 35 mph. 
+Chance of precipitation near 100 percent. No lightning risk. 
+.TUESDAY...Summit in and out of clouds in the morning...then
+becoming partly sunny. High around 68. Northwest winds around
+15 mph. No lightning risk. 
+
+$$
+
+MEZ001-100945-
+Top of Deboullie Mountain-
+339 PM EDT Mon Oct 9 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Rain until midnight...then a chance of
+showers after midnight. Low around 53. Southeast winds around 5 mph
+shifting to the north after midnight. Chance of precipitation near
+100 percent. No lightning risk. 
+.TUESDAY...Summit obscured. High around 66. Northwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ006-100945-
+Top of Mars Hill Mountain-
+339 PM EDT Mon Oct 9 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. Rain until midnight...then a chance of
+showers after midnight. Rain may be heavy at times until midnight.
+Near steady temperatures around 59. South winds 10 to 15 mph
+shifting to the southeast after midnight. Chance of precipitation
+near 100 percent. No lightning risk. 
+.TUESDAY...Summit obscured. High around 68. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ010-100945-
+Top of White Cap Mountain-
+339 PM EDT Mon Oct 9 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured until midnight...then becoming cloudy.
+Rain until midnight...then a chance of showers after midnight. Low
+around 56. Southwest winds around 20 mph shifting to the northwest
+10 to 15 mph after midnight. Chance of precipitation near
+100 percent. No lightning risk. 
+.TUESDAY...Partly sunny. High around 59. Northwest winds 15 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ010-100945-
+Moosehead Lake-
+339 PM EDT Mon Oct 9 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Rain until midnight...then a chance of showers
+after midnight. Low around 57. Southeast winds around 5 mph shifting
+to the northwest after midnight. Waves 2 feet. Chance of
+precipitation near 100 percent. No lightning risk. Water temperature
+62 degrees Fahrenheit. 
+.TUESDAY...Mostly cloudy in the morning...then becoming partly
+sunny. High around 67. Waves 2 feet. Northwest winds around 10 mph.
+No lightning risk. Water temperature 62 degrees Fahrenheit. 
+
+$$
+
+MEZ001-100945-
+Allagash Wilderness Waterway-
+339 PM EDT Mon Oct 9 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Rain until midnight...then a chance of showers
+after midnight. Low around 54. Light winds. Chance of precipitation
+near 100 percent. No lightning risk. 
+.TUESDAY...Mostly cloudy. High around 69. Northwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ030-100945-
+St Croix River-
+339 PM EDT Mon Oct 9 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Areas of fog. Rain until midnight. rain likely
+after midnight. Rain may be heavy at times until midnight. Near
+steady temperatures around 62. Light winds. Chance of precipitation
+near 100 percent. No lightning risk. 
+.TUESDAY...Cloudy in the morning...then becoming partly sunny. High
+around 73. Northwest winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-100945-
+West Quoddy Head-
+339 PM EDT Mon Oct 9 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Areas of fog. Rain until midnight. rain likely
+after midnight. Rain may be heavy at times until midnight. Low
+around 59. South winds 10 to 15 mph. Chance of precipitation near
+100 percent. No lightning risk. Water temperature 56 degrees
+Fahrenheit. 
+.TUESDAY...Mostly cloudy in the morning...then becoming partly
+sunny. Areas of fog in the morning. High around 70. Northwest winds
+around 10 mph. No lightning risk. Water temperature 56 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-100945-
+Upper Penobscot Watershed-
+339 PM EDT Mon Oct 9 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain until midnight...then a chance of showers
+after midnight. Low around 59. Light winds. Chance of precipitation
+near 100 percent. No lightning risk. 
+.TUESDAY...Partly sunny. High around 72. Northwest winds around
+10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-100945-
+Lower Penobscot Watershed-
+339 PM EDT Mon Oct 9 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain until midnight...then a chance of showers
+after midnight. Areas of fog after midnight. Low around 61. South
+winds around 10 mph until midnight becoming light winds. Chance of
+precipitation near 100 percent. No lightning risk. 
+.TUESDAY...Partly sunny. High around 76. Northwest winds around
+10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

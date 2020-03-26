@@ -1,0 +1,243 @@
+
+317 
+SXUS41 KCAR 060727
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+327 AM EDT Thu Sep 6 2018
+
+MEZ004-062130-
+Top of Mount Katahdin-
+327 AM EDT Thu Sep 6 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly cloudy, then summit in and out of clouds late this
+morning, then becoming mostly cloudy, then becoming mostly sunny
+late. Scattered showers through early afternoon. isolated
+thunderstorms late this morning and early afternoon. Very windy with
+high around 63. West winds 30 to 35 mph becoming northwest 15 to
+25 mph this afternoon. Chance of precipitation 40 percent. Lightning
+risk is limited. 
+.TONIGHT...Clear, breezy, cooler with low around 47. Northwest winds
+15 to 25 mph. No lightning risk. 
+.FRIDAY...Sunny, cooler with high around 49. West winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ005-062130-
+Katahdin Woods and Waters National Monument-
+327 AM EDT Thu Sep 6 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+Scattered showers through early afternoon. isolated thunderstorms
+late this morning and early afternoon. High around 77. Northwest
+winds 10 to 15 mph. Chance of precipitation 40 percent. Lightning
+risk is limited. 
+.TONIGHT...Clear. Much cooler with low around 46. Northwest winds
+around 10 mph until midnight becoming light winds. No lightning
+risk. 
+.FRIDAY...Sunny. High around 70. Light winds. No lightning risk. 
+
+$$
+
+MEZ029-062130-
+Top of Cadillac Mountain-
+327 AM EDT Thu Sep 6 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny this morning, then becoming cloudy. Isolated
+showers late this morning. isolated thunderstorms late this morning
+and early afternoon. scattered showers this afternoon. High around
+79. West winds 10 to 20 mph. Chance of precipitation 40 percent.
+Lightning risk is limited. 
+.TONIGHT...Mostly cloudy until midnight, then clearing. Isolated
+showers until midnight. Cooler with low around 54. North winds
+around 10 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+.FRIDAY...Mostly sunny. Not as warm with high around 69. Northeast
+winds around 10 mph in the morning becoming light winds. No
+lightning risk. 
+
+$$
+
+MEZ001-062130-
+Top of Deboullie Mountain-
+327 AM EDT Thu Sep 6 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Summit in and out of clouds, then becoming mostly cloudy
+late this morning, then becoming mostly sunny. Scattered showers
+this morning. High around 71. Northwest winds around 15 mph. Chance
+of precipitation 40 percent. No lightning risk. 
+.TONIGHT...Clear. Much cooler with low around 44. Northwest winds
+10 to 15 mph. No lightning risk. 
+.FRIDAY...Sunny. High around 64. Light winds becoming west around
+10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-062130-
+Top of Mars Hill Mountain-
+327 AM EDT Thu Sep 6 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Summit obscured, then becoming cloudy late this morning,
+then becoming partly sunny. Scattered showers this morning. isolated
+thunderstorms late this morning and early afternoon. isolated
+showers early this afternoon. High around 75. Northwest winds around
+15 mph. Chance of precipitation 40 percent. Lightning risk is
+limited. 
+.TONIGHT...Clear. Much cooler with low around 44. North winds 10 to
+15 mph. No lightning risk. 
+.FRIDAY...Sunny. High around 67. Light winds becoming west around
+10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-062130-
+Top of White Cap Mountain-
+327 AM EDT Thu Sep 6 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly cloudy, then summit becoming obscured late this
+morning, then summit in and out of clouds, then becoming mostly
+cloudy late. Scattered showers through early afternoon. isolated
+thunderstorms late this morning and early afternoon...then isolated
+showers late. Windy with high around 69. West winds 25 to 30 mph
+becoming northwest 15 to 20 mph this afternoon. Chance of
+precipitation 30 percent. Lightning risk is limited. 
+.TONIGHT...Clear. Much cooler with low around 47. Northwest winds
+10 to 15 mph. No lightning risk. 
+.FRIDAY...Sunny, cooler with high around 57. Northwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ010-062130-
+Moosehead Lake-
+327 AM EDT Thu Sep 6 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+Scattered showers through early afternoon. isolated thunderstorms
+late this morning and early afternoon...then isolated showers late.
+High around 75. Northwest winds 10 to 15 mph. Waves 3 feet. Chance
+of precipitation 40 percent. Lightning risk is limited. Water
+temperature 65 degrees Fahrenheit. 
+.TONIGHT...Clear. Much cooler with low around 48. Waves 2 feet.
+Northwest winds around 10 mph until midnight becoming light winds.
+No lightning risk. Water temperature 65 degrees Fahrenheit. 
+.FRIDAY...Sunny. High around 69. Waves 1 foot. Light winds. No
+lightning risk. Water temperature 65 degrees Fahrenheit. 
+
+$$
+
+MEZ001-062130-
+Allagash Wilderness Waterway-
+327 AM EDT Thu Sep 6 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Mostly cloudy, then becoming partly sunny late this morning
+and early afternoon, then becoming sunny. Scattered showers until
+mid morning...then isolated showers late this morning. High around
+72. Northwest winds around 10 mph. Chance of precipitation
+40 percent. Lightning risk is limited. 
+.TONIGHT...Clear. Much cooler with low around 42. Light winds. No
+lightning risk. 
+.FRIDAY...Sunny. High around 69. Light winds becoming west around
+10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-062130-
+St Croix River-
+327 AM EDT Thu Sep 6 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Partly sunny, then becoming mostly cloudy late this morning
+and early afternoon, then becoming partly sunny. Isolated showers
+until mid morning...then isolated thunderstorms late this morning
+and early afternoon. scattered showers from late morning on. High
+around 82. Southwest winds around 10 mph shifting to the northwest
+this afternoon. Chance of precipitation 40 percent. Lightning risk
+is limited. 
+.TONIGHT...Clear. Much cooler with low around 50. North winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.FRIDAY...Sunny. High around 73. Light winds. No lightning risk. 
+
+$$
+
+MEZ030-062130-
+West Quoddy Head-
+327 AM EDT Thu Sep 6 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Partly sunny this morning, then becoming mostly cloudy.
+Isolated showers late this morning. isolated thunderstorms late this
+morning and early afternoon. scattered showers this afternoon. High
+around 77. West winds 10 to 15 mph. Chance of precipitation
+40 percent. Lightning risk is limited. Water temperature 57 degrees
+Fahrenheit. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+55. North winds around 10 mph until midnight becoming light winds.
+No lightning risk. Water temperature 57 degrees Fahrenheit. 
+.FRIDAY...Sunny. High around 70. Light winds. No lightning risk.
+Water temperature 57 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-062130-
+Upper Penobscot Watershed-
+327 AM EDT Thu Sep 6 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+Isolated showers until mid morning...then scattered showers and
+isolated thunderstorms late this morning and early afternoon.
+isolated showers late. High around 81. West winds 10 to 15 mph
+shifting to the northwest this afternoon. Chance of precipitation
+40 percent. Lightning risk is limited. 
+.TONIGHT...Clear. Much cooler with low around 49. North winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.FRIDAY...Sunny. High around 72. Light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-062130-
+Lower Penobscot Watershed-
+327 AM EDT Thu Sep 6 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny, then becoming mostly cloudy late this morning
+and early afternoon, then becoming partly sunny. Isolated showers
+this morning. isolated thunderstorms late this morning and early
+afternoon. scattered showers this afternoon. High around 84.
+Southwest winds around 10 mph shifting to the northwest this
+afternoon. Chance of precipitation 50 percent. Lightning risk is
+limited. 
+.TONIGHT...Clear. Much cooler with low around 51. North winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.FRIDAY...Sunny. High around 75. Light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

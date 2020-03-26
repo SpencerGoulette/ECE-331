@@ -1,0 +1,201 @@
+
+769 
+SXUS41 KCAR 011921
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+321 PM EDT Fri Nov 1 2019
+
+MEZ004-020930-
+Top of Mount Katahdin-
+321 PM EDT Fri Nov 1 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Isolated snow showers early this evening. Strong winds and
+much cooler with low around 20. West winds 40 to 65 mph becoming 
+northwest and decreasing to 25 to 50 mph after midnight. Chance of 
+precipitation 20 percent. Wind chill values as low as 3 below. No 
+lightning risk. 
+.SATURDAY...Mostly sunny. Much cooler with high around 30. West
+winds 10 to 25 mph shifting to the southwest 10 to 20 mph in the
+afternoon. No lightning risk. 
+
+$$
+
+MEZ005-020930-
+Katahdin Woods and Waters National Monument-
+321 PM EDT Fri Nov 1 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Breezy and
+much cooler with low around 30. West winds 15 to 30 mph decreasing
+to 10 to 20 mph after midnight. No lightning risk. 
+.SATURDAY...Sunny, cooler with high around 42. West winds 10 mph
+shifting to the south in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-020930-
+Top of Cadillac Mountain-
+321 PM EDT Fri Nov 1 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear and very windy. Much cooler with low around 30.
+West winds 25 to 50 mph becoming northwest 15 to 25 mph after 
+midnight. Wind chill values as low as 19. No lightning risk. 
+.SATURDAY...Sunny. Much cooler with high around 43. West winds 10 to
+20 mph shifting to the south 10 to 15 mph in the afternoon. Wind
+chill values as low as 19 in the morning. No lightning risk. 
+
+$$
+
+MEZ001-020930-
+Top of Deboullie Mountain-
+321 PM EDT Fri Nov 1 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds, then becoming mostly cloudy
+late this evening, then becoming partly cloudy, then summit in and
+out of clouds late. Isolated snow showers early this evening. Very
+windy and much cooler with low around 23. West winds 25 to 50 mph 
+decreasing to 15 to 30 mph after midnight. Chance of precipitation 20
+percent. Wind chill values as low as 13. No lightning risk. 
+.SATURDAY...Summit in and out of clouds in the morning, then
+becoming partly sunny. High around 37. West winds 10 to 15 mph
+shifting to the south in the afternoon. Wind chill values as low as
+14 in the morning. No lightning risk. 
+
+$$
+
+MEZ006-020930-
+Top of Mars Hill Mountain-
+321 PM EDT Fri Nov 1 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Very windy
+and much cooler with low around 27. West winds 25 to 50 mph 
+decreasing to 10 to 25 mph after midnight. No lightning risk. 
+.SATURDAY...Sunny. Much cooler with high around 39. West winds
+10 mph shifting to the south in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-020930-
+Top of White Cap Mountain-
+321 PM EDT Fri Nov 1 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds, then becoming mostly cloudy
+late this evening, then becoming partly cloudy. Strong winds and
+much cooler with low around 22. West winds 35 to 60 mph becoming 
+northwest 20 to 40 mph after midnight. Wind chill values as low as 4 
+above. No lightning risk. 
+.SATURDAY...Mostly sunny. Much cooler with high around 32. West
+winds 10 to 25 mph shifting to the south 10 to 20 mph in the
+afternoon. Wind chill values as low as 7 above in the morning. No
+lightning risk. 
+
+$$
+
+MEZ010-020930-
+Moosehead Lake-
+321 PM EDT Fri Nov 1 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy and windy. Much cooler with low around 28.
+West winds 15 to 35 mph becoming northwest 10 to 20 mph after
+midnight. Waves 3 to 5 feet. No lightning risk. 
+.SATURDAY...Mostly sunny. Cooler with high around 43. Waves 1 to 2 
+feet. West winds 10 to 15 mph shifting to the south in the 
+afternoon. No lightning risk. 
+
+$$
+
+MEZ001-020930-
+Allagash Wilderness Waterway-
+321 PM EDT Fri Nov 1 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Isolated rain showers early this evening. Windy and much
+cooler with low around 23. West winds 20 to 35 mph decreasing to
+10 to 20 mph after midnight. Chance of precipitation 20 percent. No
+lightning risk. 
+.SATURDAY...Partly sunny. High around 41. West winds 10 mph shifting
+to the south in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-020930-
+St Croix River-
+321 PM EDT Fri Nov 1 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear and breezy. Much cooler with low around 30.
+West winds 15 to 30 mph decreasing to 10 to 15 mph after midnight.
+No lightning risk. 
+.SATURDAY...Sunny. Much cooler with high around 46. West winds
+10 mph shifting to the south in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-020930-
+West Quoddy Head-
+321 PM EDT Fri Nov 1 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear, windy and much cooler with low around 35. West
+winds 20 to 35 mph decreasing to 15 to 25 mph after midnight. No
+lightning risk. Water temperature 53 degrees Fahrenheit. 
+.SATURDAY...Sunny. Much cooler with high around 46. West winds 10 to
+15 mph shifting to the south 10 mph in the afternoon. No lightning
+risk. Water temperature 53 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-020930-
+Upper Penobscot Watershed-
+321 PM EDT Fri Nov 1 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Breezy
+and much cooler with low around 29. West winds 15 to 30 mph
+decreasing to 10 to 20 mph after midnight. No lightning risk. 
+.SATURDAY...Sunny, cooler with high around 44. West winds 10 mph
+shifting to the south in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-020930-
+Lower Penobscot Watershed-
+321 PM EDT Fri Nov 1 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Much cooler with low around 30. West winds
+10 to 25 mph decreasing to 15 mph after midnight. No lightning risk.
+.SATURDAY...Sunny. Much cooler with high around 46. West winds
+10 mph shifting to the south in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

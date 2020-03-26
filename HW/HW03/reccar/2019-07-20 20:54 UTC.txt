@@ -1,0 +1,259 @@
+
+461 
+SXUS41 KCAR 202054
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+454 PM EDT Sat Jul 20 2019
+
+MEZ004-211200-
+Top of Mount Katahdin-
+454 PM EDT Sat Jul 20 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming mostly cloudy. Isolated showers and
+thunderstorms until midnight. Scattered showers and thunderstorms 
+after midnight. Very windy with low around 62. West winds 20 to 40 
+mph. Chance of precipitation 30 percent. Lightning risk is elevated.
+.SUNDAY...Summit in and out of clouds. Scattered showers in the 
+morning. Scattered thunderstorms. Numerous showers in the afternoon.
+Some thunderstorms may produce gusty winds. Locally heavy rainfall 
+possible in the afternoon. Breezy with high around 67. East winds 10 
+to 20 mph shifting to the west 10 to 30 mph in the afternoon. Chance 
+of precipitation 60 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ005-211200-
+Katahdin Woods and Waters National Monument-
+454 PM EDT Sat Jul 20 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Isolated showers and thunderstorms until midnight. Scattered
+showers and thunderstorms after midnight. Patchy fog after midnight.
+Low around 70. West winds 10 to 15 mph shifting to the northwest 
+after midnight. Chance of precipitation 30 percent. Lightning risk is
+elevated. 
+.SUNDAY...Mostly cloudy. Patchy fog in the morning. Scattered
+showers in the morning. Scattered thunderstorms. Numerous showers in
+the afternoon. Some thunderstorms may produce gusty winds. Locally 
+heavy rainfall possible in the afternoon. High around 82. Northeast 
+winds 10 mph shifting to the northwest in the afternoon. Chance of 
+precipitation 60 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ029-211200-
+Top of Cadillac Mountain-
+454 PM EDT Sat Jul 20 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy, then becoming mostly clear late this
+evening, then becoming partly cloudy. Patchy fog after midnight.
+Isolated showers and thunderstorms late. Breezy with low around 69.
+West winds 15 to 30 mph. Chance of precipitation 20 percent.
+Lightning risk is limited. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Patchy fog in the morning. Scattered showers and thunderstorms. Some
+thunderstorms may produce gusty winds. Locally heavy rainfall
+possible in the afternoon. High around 79. Northwest winds 20 mph
+shifting to the west in the afternoon. Chance of precipitation
+40 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ001-211200-
+Top of Deboullie Mountain-
+454 PM EDT Sat Jul 20 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Isolated showers and thunderstorms early this evening...then
+scattered showers and thunderstorms from late evening on. Patchy fog
+after midnight. Low around 63. West winds 10 to 15 mph shifting to
+the northwest 10 mph after midnight. Chance of precipitation
+30 percent. Lightning risk is elevated. 
+.SUNDAY...Summit obscured in the morning, then becoming mostly
+cloudy. Scattered showers and thunderstorms. Some thunderstorms may 
+produce gusty winds. Locally heavy rainfall possible in the 
+afternoon. High around 74. Northwest winds 10 mph. Chance of 
+precipitation 50 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ006-211200-
+Top of Mars Hill Mountain-
+454 PM EDT Sat Jul 20 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Isolated showers and thunderstorms until midnight. Scattered
+showers and thunderstorms after midnight. Patchy fog after midnight.
+Low around 66. Southwest winds 10 to 15 mph shifting to the 
+northwest after midnight. Chance of precipitation 30 percent. 
+Lightning risk is elevated. 
+.SUNDAY...Mostly cloudy in the morning, then summit becoming
+obscured. Scattered showers in the morning. Scattered thunderstorms.
+Numerous showers in the afternoon. Some thunderstorms may produce 
+gusty winds. Locally heavy rainfall possible in the afternoon. Not as
+warm with high around 77. Northwest winds 10 mph. Chance of 
+precipitation 60 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ010-211200-
+Top of White Cap Mountain-
+454 PM EDT Sat Jul 20 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming mostly cloudy. Isolated showers and
+thunderstorms through early morning. Scattered showers and 
+thunderstorms late. Windy with low around 67. West winds 20 to 35 
+mph. Chance of precipitation 30 percent. Lightning risk is elevated.
+.SUNDAY...Mostly cloudy in the morning, then summit becoming
+obscured. Scattered showers in the morning. Scattered thunderstorms.
+Numerous showers in the afternoon. Some thunderstorms may produce 
+gusty winds. Locally heavy rainfall possible in the afternoon. Breezy
+with high around 70. Northeast winds 10 to 25 mph shifting to the 
+west 10 to 30 mph in the afternoon. Chance of precipitation 60 
+percent. Lightning risk is elevated. 
+
+$$
+
+MEZ010-211200-
+Moosehead Lake-
+454 PM EDT Sat Jul 20 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Isolated showers and thunderstorms until midnight. Scattered
+showers and thunderstorms after midnight. Patchy fog after midnight.
+Low around 68. Southwest winds 10 to 15 mph shifting to the west 10 
+mph after midnight. Waves 1 foot. Chance of precipitation 40 percent.
+Lightning risk is elevated. Water temperature 58 degrees Fahrenheit.
+.SUNDAY...Mostly cloudy. Patchy fog in the morning. Scattered
+showers in the morning. Scattered thunderstorms. Numerous showers in
+the afternoon. Some thunderstorms may produce gusty winds. Locally 
+heavy rainfall possible in the afternoon. High around 79. Waves 2 
+feet. Southwest winds 10 mph shifting to the northwest 10 to 15 mph 
+in the afternoon. Chance of precipitation 60 percent. Lightning risk 
+is elevated. Water temperature 58 degrees Fahrenheit.
+
+$$
+
+MEZ001-211200-
+Allagash Wilderness Waterway-
+454 PM EDT Sat Jul 20 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Isolated showers and thunderstorms early this evening...then
+scattered showers and thunderstorms from late evening on. Patchy fog
+after midnight. Low around 64. Southwest winds 10 to 15 mph shifting
+to the northwest 10 mph after midnight. Chance of precipitation
+30 percent. Lightning risk is elevated. 
+.SUNDAY...Mostly cloudy. Patchy fog in the morning. Scattered
+showers in the morning. Scattered thunderstorms. Numerous showers in
+the afternoon. Some thunderstorms may produce gusty winds. Locally 
+heavy rainfall possible in the afternoon. High around 78. Northeast 
+winds 10 mph shifting to the northwest 10 to 15 mph in the afternoon.
+Chance of precipitation 60 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ030-211200-
+St Croix River-
+454 PM EDT Sat Jul 20 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy. Patchy fog after midnight. Scattered
+showers and thunderstorms late. Low around 70. Southwest winds 10 to
+15 mph shifting to the west 10 mph after midnight. Chance of
+precipitation 30 percent. Lightning risk is elevated. 
+.SUNDAY...Mostly cloudy. Patchy fog in the morning. Scattered
+showers in the morning. Scattered thunderstorms. Numerous showers in
+the afternoon. Some thunderstorms may produce gusty winds. Locally 
+heavy rainfall possible in the afternoon. High around 86. North winds
+10 mph shifting to the west in the afternoon. Chance of 
+precipitation 60 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ030-211200-
+West Quoddy Head-
+454 PM EDT Sat Jul 20 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy. Patchy fog after midnight. Isolated 
+showers and thunderstorms late. Not as cool with low around 63. 
+Southwest winds 10 to 20 mph. Chance of precipitation 20 percent. 
+Lightning risk is limited. Water temperature 52 degrees Fahrenheit. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Patchy fog in the morning. Scattered showers in the morning.
+Scattered thunderstorms. Numerous showers in the afternoon. Some 
+thunderstorms may produce gusty winds. Locally heavy rainfall 
+possible in the afternoon. High around 76. Southeast winds 10 mph 
+shifting to the south in the afternoon. Chance of precipitation 60 
+percent. Lightning risk is elevated. Water temperature 52 degrees 
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-211200-
+Upper Penobscot Watershed-
+454 PM EDT Sat Jul 20 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Isolated showers and thunderstorms through
+early morning. Scattered showers and thunderstorms late. Patchy fog 
+after midnight. Low around 70. Southwest winds 15 mph shifting to the
+west 10 mph after midnight. Chance of precipitation 30 percent. 
+Lightning risk is elevated. 
+.SUNDAY...Mostly cloudy. Patchy fog in the morning. Scattered
+showers in the morning. Scattered thunderstorms. Numerous showers in
+the afternoon. Some thunderstorms may produce gusty winds. Locally 
+heavy rainfall possible in the afternoon. High around 84. North winds
+10 mph shifting to the west 10 to 15 mph in the afternoon. Chance of
+precipitation 60 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-211200-
+Lower Penobscot Watershed-
+454 PM EDT Sat Jul 20 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Patchy fog after midnight. Scattered
+showers and thunderstorms late. Low around 71. Southwest winds 10 to
+15 mph decreasing to 10 mph after midnight. Chance of precipitation
+30 percent. Lightning risk is elevated. 
+.SUNDAY...Mostly cloudy. Patchy fog in the morning. Scattered
+showers in the morning. Scattered thunderstorms. Numerous showers in
+the afternoon. Some thunderstorms may produce gusty winds. Locally 
+heavy rainfall possible in the afternoon. High around 87. Southwest 
+winds 10 mph shifting to the west 10 to 15 mph in the afternoon. 
+Chance of precipitation 60 percent. Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

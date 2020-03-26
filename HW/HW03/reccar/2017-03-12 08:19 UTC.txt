@@ -1,0 +1,79 @@
+
+090 
+SXUS41 KCAR 120819
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+419 AM EDT Sun Mar 12 2017
+
+MEZ004-122230-
+Top of Mount Katahdin-
+419 AM EDT Sun Mar 12 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Isolated snow showers this afternoon. Not as cool with high around
+2 below. Northwest winds 15 to 25 mph. Chance of precipitation
+20 percent. Wind chill values as low as 50 below. 
+.TONIGHT...Summit in and out of clouds until midnight...then
+becoming cloudy. Not as cool with low around 3 below. Northwest
+winds 15 to 20 mph. Wind chill values as low as 24 below. 
+.MONDAY...Partly sunny. Not as cool with high around 8 above.
+Northwest winds 10 to 15 mph. Wind chill values as low as 21 below
+in the morning. 
+
+$$
+
+MEZ029-122230-
+Top of Cadillac Mountain-
+419 AM EDT Sun Mar 12 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly sunny. Not as cool with high around 14. Northwest
+winds 20 to 25 mph. Wind chill values as low as 29 below. 
+.TONIGHT...Partly cloudy. Low around 4 above. Northwest winds around
+20 mph. Wind chill values as low as 13 below. 
+.MONDAY...Mostly sunny. High around 22. Northwest winds 10 to
+20 mph. Wind chill values as low as 17 below in the morning. 
+
+$$
+
+MEZ004&gt;006-010-011-031-122230-
+Upper Penobscot Watershed-
+419 AM EDT Sun Mar 12 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Not as cool with high around 15. Northwest winds 10 to 15 mph. Wind
+chill values as low as 27 below. 
+.TONIGHT...Mostly cloudy. Low around 3 above. Northwest winds 10 to
+15 mph. Wind chill values as low as 13 below. 
+.MONDAY...Mostly sunny. High around 23. Northwest winds around
+10 mph. Wind chill values as low as 14 below in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-122230-
+Lower Penobscot Watershed-
+419 AM EDT Sun Mar 12 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. Not as cool with high around 17. West winds
+10 to 15 mph. Wind chill values as low as 22 below. 
+.TONIGHT...Mostly cloudy. Low around 4 above. Northwest winds 10 to
+15 mph. Wind chill values as low as 8 below. 
+.MONDAY...Mostly sunny. High around 25. Northwest winds around
+10 mph. Wind chill values as low as 10 below in the morning. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,181 @@
+
+544 
+SXUS41 KCAR 131913
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+313 PM EDT Sun May 13 2018
+
+MEZ004-140915-
+Top of Mount Katahdin-
+313 PM EDT Sun May 13 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear, windy with low around 41. Southeast winds around
+30 mph. No lightning risk. 
+.MONDAY...Partly sunny and very windy. High around 54. Southwest
+winds 30 to 35 mph. No lightning risk. 
+
+$$
+
+MEZ005-140915-
+Katahdin Woods and Waters National Monument-
+313 PM EDT Sun May 13 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly clear. Low around 41. Light winds. No lightning
+risk. 
+.MONDAY...Partly sunny. High around 74. Southwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ029-140915-
+Top of Cadillac Mountain-
+313 PM EDT Sun May 13 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy. Areas of fog. Low around 43. Southwest winds
+10 to 15 mph. No lightning risk. 
+.MONDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. Areas of fog in the morning. High around 56.
+South winds 10 to 15 mph increasing to around 20 mph in the
+afternoon. No lightning risk. 
+
+$$
+
+MEZ001-140915-
+Top of Deboullie Mountain-
+313 PM EDT Sun May 13 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear. Not as cool with low around 41. South winds 10 to
+15 mph. No lightning risk. 
+.MONDAY...Mostly sunny. High around 68. Southwest winds 15 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ006-140915-
+Top of Mars Hill Mountain-
+313 PM EDT Sun May 13 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear. Low around 42. South winds 10 to 15 mph. No
+lightning risk. 
+.MONDAY...Partly sunny. High around 72. Southwest winds 15 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ010-140915-
+Top of White Cap Mountain-
+313 PM EDT Sun May 13 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear through early morning, then becoming partly cloudy.
+Low around 43. South winds 15 to 20 mph. No lightning risk. 
+.MONDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Breezy with high around 60. Southwest winds 15 to 25 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-140915-
+Moosehead Lake-
+313 PM EDT Sun May 13 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear. Patchy fog late. Low around 40. Light
+winds. Waves 1 foot. No lightning risk. 
+.MONDAY...Partly sunny. High around 70. Waves 1 foot. Light winds.
+No lightning risk. 
+
+$$
+
+MEZ001-140915-
+Allagash Wilderness Waterway-
+313 PM EDT Sun May 13 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear. Not as cool with low around 41. Southwest winds
+around 10 mph. No lightning risk. 
+.MONDAY...Mostly sunny. High around 72. Southwest winds 10 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ030-140915-
+St Croix River-
+313 PM EDT Sun May 13 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Patchy fog late. Not as cool with low around 40. South winds
+around 10 mph until midnight becoming light winds. No lightning
+risk. 
+.MONDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Patchy fog in the morning. High around 70. Southwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ030-140915-
+West Quoddy Head-
+313 PM EDT Sun May 13 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy late this
+evening, then becoming mostly cloudy. Areas of fog. Low around 42.
+Southwest winds 10 mph until midnight becoming light winds. No
+lightning risk. Water temperature 44 degrees Fahrenheit. 
+.MONDAY...Mostly cloudy. Areas of fog in the morning. High around
+54. South winds 10 mph. No lightning risk. Water temperature
+44 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-140915-
+Upper Penobscot Watershed-
+313 PM EDT Sun May 13 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Low around 41. South winds 10 mph until midnight becoming
+light winds. No lightning risk. 
+.MONDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 73. Southwest winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-140915-
+Lower Penobscot Watershed-
+313 PM EDT Sun May 13 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear, then becoming partly cloudy late this evening,
+then becoming mostly cloudy. Patchy fog late. Low around 42. South
+winds 10 mph until midnight becoming light winds. No lightning risk.
+.MONDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 71. Southwest winds 10 to 15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

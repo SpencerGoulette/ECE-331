@@ -1,0 +1,75 @@
+
+373 
+SXUS41 KCAR 191915
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+315 PM EDT Wed Apr 19 2017
+
+MEZ004-200915-
+Top of Mount Katahdin-
+315 PM EDT Wed Apr 19 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Snow. Low around 26. Southwest winds
+25 to 35 mph decreasing to 15 to 25 mph after midnight. Snow
+accumulation 3 to 5 inches. Chance of precipitation near 100 
+percent. Wind chill values as low as 10 above.
+.THURSDAY...Summit obscured. Snow likely with scattered rain showers
+in the morning. Any additional accumulation an inch or less. High 
+around 35. West winds 10 to 15 mph in the morning becoming light 
+winds. Chance of precipitation 70 percent.
+
+$$
+
+MEZ029-200915-
+Top of Cadillac Mountain-
+315 PM EDT Wed Apr 19 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then summit
+becoming obscured. Rain and snow. Low around 34. South winds around
+15 to 30 mph. Chance of precipitation 90 percent. 
+.THURSDAY...Summit obscured. Rain likely in the morning. High around
+45. South winds 10 to 20 mph. Chance of precipitation 60 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-200915-
+Upper Penobscot Watershed-
+315 PM EDT Wed Apr 19 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain early in the evening...changing to all 
+snow overnight. Low around 33. South winds around 10 mph. Chance of 
+precipitation near 100 percent.
+.THURSDAY...Cloudy. Rain and snow likely in the morning. High around
+49. Light winds. Chance of precipitation 70 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-200915-
+Lower Penobscot Watershed-
+315 PM EDT Wed Apr 19 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain and snow. Low around 35. South winds 10 to
+15 mph. Chance of precipitation near 100 percent. 
+.THURSDAY...Cloudy. Rain likely in the morning. High around 51.
+Southeast winds around 10 mph in the morning becoming light winds.
+Chance of precipitation 70 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

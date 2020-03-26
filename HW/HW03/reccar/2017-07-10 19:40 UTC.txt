@@ -1,0 +1,124 @@
+
+538 
+SXUS41 KCAR 101940
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+340 PM EDT Mon Jul 10 2017
+
+MEZ004-110945-
+Top of Mount Katahdin-
+340 PM EDT Mon Jul 10 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy until midnight...then summit in and out of
+clouds. Isolated showers. Near steady temperatures around 57.
+Southwest winds around 15 mph. Chance of precipitation 20 percent.
+No lightning risk. 
+.TUESDAY...Summit in and out of clouds. A chance of showers in the
+morning...then showers and thunderstorms likely in the afternoon.
+Some thunderstorms may produce damaging winds and small hail in the
+afternoon. Locally heavy rainfall possible in the afternoon. High
+around 61. Southwest winds 15 to 20 mph. Chance of precipitation
+60 percent. Lightning risk is significant. 
+
+$$
+
+MEZ005-110945-
+Katahdin Woods and Waters National Monument-
+340 PM EDT Mon Jul 10 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Isolated showers. Low around 61. Southwest
+winds around 10 mph until midnight becoming light winds. Chance of
+precipitation 20 percent. Lightning risk is limited. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. A chance of showers in the morning...then showers and
+thunderstorms likely in the afternoon. Some thunderstorms may
+produce damaging winds and small hail in the afternoon. Locally
+heavy rainfall possible in the afternoon. High around 79. South
+winds around 10 mph. Chance of precipitation 70 percent. Lightning
+risk is significant. 
+
+$$
+
+MEZ029-110945-
+Top of Cadillac Mountain-
+340 PM EDT Mon Jul 10 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy. A slight chance of showers after midnight.
+Low around 63. Southwest winds 15 to 20 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.TUESDAY...Mostly cloudy. A chance of showers in the morning...then
+showers and thunderstorms likely in the afternoon. High around 68.
+Southwest winds 15 to 20 mph. Chance of precipitation 60 percent.
+Lightning risk is significant. 
+
+$$
+
+MEZ010-110945-
+Moosehead Lake-
+340 PM EDT Mon Jul 10 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Isolated thunderstorms until midnight.
+isolated showers. Patchy fog after midnight. Low around 60. Light
+winds. Waves 1 foot. Chance of precipitation 20 percent. Lightning
+risk is limited. 
+.TUESDAY...Mostly cloudy. Showers likely. thunderstorms likely in
+the afternoon. Some thunderstorms may produce damaging winds and
+small hail in the afternoon. Locally heavy rainfall possible in the
+afternoon. High around 76. Waves 1 foot. Light winds becoming south
+around 10 mph in the afternoon. Chance of precipitation 60 percent.
+Lightning risk is significant. 
+
+$$
+
+MEZ004&gt;006-010-011-031-110945-
+Upper Penobscot Watershed-
+340 PM EDT Mon Jul 10 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Isolated thunderstorms until midnight. a
+slight chance of showers. Low around 61. Light winds. Chance of
+precipitation 20 percent. Lightning risk is limited. 
+.TUESDAY...Mostly cloudy. A chance of showers. a chance of
+thunderstorms in the afternoon. Some thunderstorms may produce
+damaging winds and small hail in the afternoon. Locally heavy
+rainfall possible in the afternoon. High around 79. South winds
+around 10 mph. Chance of precipitation 50 percent. Lightning risk is
+significant. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-110945-
+Lower Penobscot Watershed-
+340 PM EDT Mon Jul 10 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. A slight chance of showers after midnight.
+Low around 62. South winds around 10 mph until midnight becoming
+light winds. Chance of precipitation 20 percent. Lightning risk is
+limited. 
+.TUESDAY...Mostly cloudy. A chance of showers. a chance of
+thunderstorms in the afternoon. Some thunderstorms may produce
+damaging winds and small hail in the afternoon. Locally heavy
+rainfall possible in the afternoon. High around 79. South winds
+around 10 mph. Chance of precipitation 50 percent. Lightning risk is
+elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

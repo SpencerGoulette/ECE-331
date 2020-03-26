@@ -1,0 +1,183 @@
+
+068 
+SXUS41 KCAR 090047
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+847 PM EDT Wed May 8 2019
+
+MEZ004-091500-
+Top of Mount Katahdin-
+847 PM EDT Wed May 8 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Partly cloudy late this evening, then clearing. Brisk
+with low around 21. Northeast winds 25 to 35 mph. Wind chill values 
+as low as 6 above. No lightning risk. 
+.THURSDAY...Mostly sunny and brisk. High around 39. North winds
+15 to 30 mph shifting to the northeast 10 to 20 mph in the
+afternoon. Wind chill values as low as 11 in the morning. No
+lightning risk. 
+
+$$
+
+MEZ005-091500-
+Katahdin Woods and Waters National Monument-
+847 PM EDT Wed May 8 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.OVERNIGHT...Mostly clear. Low around 31. Northwest winds 10 to
+20 mph. No lightning risk. 
+.THURSDAY...Sunny. Not as cool with high around 60. North winds
+10 to 15 mph shifting to the northeast 10 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ029-091500-
+Top of Cadillac Mountain-
+847 PM EDT Wed May 8 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Clear. Low around 36. Northwest winds 15 to 30 mph 
+shifting to the south 15 to 20 mph. No lightning risk. 
+.THURSDAY...Sunny, breezy with high around 52. North winds 20 to
+30 mph decreasing to 10 to 20 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ001-091500-
+Top of Deboullie Mountain-
+847 PM EDT Wed May 8 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.OVERNIGHT...Partly cloudy through early morning, then clearing. Low
+around 26. Northwest winds 15 to 25 mph. No lightning risk. 
+.THURSDAY...Mostly sunny. Not as cool with high around 56. North
+winds 10 to 20 mph shifting to the northeast 10 mph in the
+afternoon. Wind chill values as low as 19 in the morning. No
+lightning risk. 
+
+$$
+
+MEZ006-091500-
+Top of Mars Hill Mountain-
+847 PM EDT Wed May 8 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.OVERNIGHT...Partly cloudy through early morning, then clearing. Low
+around 30. Northwest winds 10 to 25 mph. No lightning risk. 
+.THURSDAY...Mostly sunny. Not as cool with high around 57. North
+winds 10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ010-091500-
+Top of White Cap Mountain-
+847 PM EDT Wed May 8 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.OVERNIGHT...Mostly clear and brisk. Low around 26. Northeast winds
+20 to 30 mph. Wind chill values as low as 13. No lightning risk. 
+.THURSDAY...Mostly sunny and breezy. High around 45. North winds
+15 to 30 mph becoming northeast 10 to 15 mph in the afternoon. Wind
+chill values as low as 14 in the morning. No lightning risk. 
+
+$$
+
+MEZ010-091500-
+Moosehead Lake-
+847 PM EDT Wed May 8 2019
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Clear. Low around 27. North winds 10 to 15 mph. Waves
+2 feet. No lightning risk. 
+.THURSDAY...Sunny. High around 56. Waves 2 feet. North winds 10 to
+15 mph shifting to the northeast in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ001-091500-
+Allagash Wilderness Waterway-
+847 PM EDT Wed May 8 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.OVERNIGHT...Partly cloudy late this evening, then clearing. Low
+around 27. Northwest winds 15 mph. No lightning risk. 
+.THURSDAY...Sunny. Not as cool with high around 59. North winds
+10 to 15 mph shifting to the northeast 10 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ030-091500-
+St Croix River-
+847 PM EDT Wed May 8 2019
+
+...ST CROIX RIVER...
+
+.OVERNIGHT...Clear. Low around 33. Northwest winds 10 to 15 mph. No
+lightning risk. 
+.THURSDAY...Sunny. High around 62. North winds 10 to 20 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-091500-
+West Quoddy Head-
+847 PM EDT Wed May 8 2019
+
+...WEST QUODDY HEAD...
+
+.OVERNIGHT...Clear. Low around 38. Northwest winds 15 to 20 mph. No
+lightning risk. Water temperature 41 degrees Fahrenheit. 
+.THURSDAY...Sunny. High around 56. North winds 10 to 20 mph shifting
+to the west in the afternoon. No lightning risk. Water temperature
+41 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-091500-
+Upper Penobscot Watershed-
+847 PM EDT Wed May 8 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Clear. Low around 32. Northwest winds 10 to 15 mph. No
+lightning risk. 
+.THURSDAY...Sunny. High around 61. North winds 10 to 15 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-091500-
+Lower Penobscot Watershed-
+847 PM EDT Wed May 8 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Clear. Low around 33. Northwest winds 10 to 15 mph. No
+lightning risk. 
+.THURSDAY...Sunny. High around 64. North winds 15 mph. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

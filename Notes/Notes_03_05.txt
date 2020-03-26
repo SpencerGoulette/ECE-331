@@ -1,0 +1,97 @@
+ECE 331
+03/05/20
+Spencer Goulette
+Notes
+
+
+HAT
+I2C emulates a EEPROM
+dts - device tree source
+dtb - device tree binary
+
+KERNEL
+probe function to be called
+
+static int wwv_probe(struct platform_device *pdev)
+{
+	struct device *dev = &pdev->dev;
+
+	printk(KERN_INFO "Registered\n");
+	dev_info(dev, "Initialized);
+	return 0;
+}
+
+static const struct of_device_id wwv_of_match[] = {
+	{.compatible = "brcm,bcm2835-wwv",},
+	{\* sentinel *\},
+};
+
+static struct platform_drive wwv_driver = {
+	.probe = wwvprobe,
+	.remove = wwv_remove,
+	.driver = {
+		.name = "bcm2835-wwv",
+		.owner = THIS_MODULE,
+		.of_match_table = wwv_of_match,
+	},
+};
+
+module_platform_driver(wwv_driver);
+
+
+/var/log/messages			- to see log of kernel
+
+<linux/module.h>
+<linux/kernel.h>
+<linux/device.h>
+<linux/err.h>
+<linux/fs.h>
+<linux/spinlock.h>
+<linux/platform_device.h>
+
+Return values need to be negative
+ret = -ENODEV;
+return ret;
+
+errno in includes in linux
+
+use goto to jump to fail
+
+kmalloc(sizeof(struct wwv_data_t),GFP_ATOMIC)			malloc memory kernel
+
+Do not make prototypes
+
+/proc/devices
+
+findfile
+
+User Space
+- Open
+- Write
+- Close
+- io control
+
+
+open function
+two pointers to struct inode and file as arguments
+returns an int
+
+.open = 
+
+release function
+two pointers to struct inode and file as arguments
+returns int
+
+.release
+
+unlocked_ioctl function
+struct file pointer, unsigned int, unsigned long as arguments
+returns long
+
+static const struct file_operations eev_fops = {
+
+}
+
+struct file pointer, char __user pointer, size_t, loff_t
+
+gpiod_set_value(gpiod_pin,init_val);

@@ -1,0 +1,178 @@
+
+995 
+SXUS41 KCAR 282036
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+436 PM EDT Mon Oct 28 2019
+
+MEZ004-291200-
+Top of Mount Katahdin-
+436 PM EDT Mon Oct 28 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Near steady temperatures around 36. 
+Southwest winds 10 to 20 mph. No lightning risk. 
+.TUESDAY...Summit obscured. Breezy with high around 43. Southwest 
+winds 10 to 25 mph increasing to 20 to 30 mph in the afternoon. No 
+lightning risk. 
+
+$$
+
+MEZ005-291200-
+Katahdin Woods and Waters National Monument-
+436 PM EDT Mon Oct 28 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Patchy fog. Near steady temperatures around 41.
+South winds 10 mph. No lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. High around 51. South
+winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ029-291200-
+Top of Cadillac Mountain-
+436 PM EDT Mon Oct 28 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Low around 44. East winds 10 mph until 
+midnight becoming light winds. No lightning risk.
+.TUESDAY...Summit obscured in the morning, then summit in and out of
+clouds. High around 48. Southwest winds 10 mph increasing to 10 to 
+20 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-291200-
+Top of Deboullie Mountain-
+436 PM EDT Mon Oct 28 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured through early morning, then becoming
+cloudy. Low around 37. South winds 10 mph. No lightning risk.
+.TUESDAY...Cloudy in the morning, then summit becoming obscured.
+High around 45. South winds 10 to 15 mph. No lightning risk.
+
+$$
+
+MEZ006-291200-
+Top of Mars Hill Mountain-
+436 PM EDT Mon Oct 28 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. Low around 40. South winds 10 mph 
+increasing to 10 to 15 mph after midnight. No lightning risk.
+.TUESDAY...Summit obscured. High around 48. South winds 10 to 15 
+mph. No lightning risk. 
+
+$$
+
+MEZ010-291200-
+Top of White Cap Mountain-
+436 PM EDT Mon Oct 28 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. Low around 36. Southwest winds 10 to 20 
+mph. No lightning risk. 
+.TUESDAY...Summit obscured. Windy with high around 41. Southwest 
+winds 15 to 30 mph increasing to 25 to 35 mph in the afternoon. No 
+lightning risk. 
+
+$$
+
+MEZ010-291200-
+Moosehead Lake-
+436 PM EDT Mon Oct 28 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Patchy fog. Low around 40. South winds 10 mph.
+Waves 1 foot. No lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. High around 49. Waves
+2 feet. South winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ001-291200-
+Allagash Wilderness Waterway-
+436 PM EDT Mon Oct 28 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Patchy fog. Low around 37. South winds 10 mph. No
+lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. High around 49. South
+winds 10 mph increasing to 10 to 15 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ030-291200-
+St Croix River-
+436 PM EDT Mon Oct 28 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Patchy fog. Low around 39. South winds 10 mph. No
+lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. High around 52. South
+winds 10 mph increasing to 10 to 15 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ030-291200-
+West Quoddy Head-
+436 PM EDT Mon Oct 28 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy. Patchy fog. Low around 45. East winds
+10 to 15 mph shifting to the southeast 10 mph after midnight. No
+lightning risk. Water temperature 53 degrees Fahrenheit. 
+.TUESDAY...Mostly cloudy. Patchy fog in the morning. High around 50.
+South winds 10 mph increasing to 10 to 15 mph in the afternoon. No
+lightning risk. Water temperature 53 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-291200-
+Upper Penobscot Watershed-
+436 PM EDT Mon Oct 28 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog. Low around 40. South winds 10 mph. No
+lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. High around 50. South
+winds 10 to 15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-291200-
+Lower Penobscot Watershed-
+436 PM EDT Mon Oct 28 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog. Low around 42. South winds 10 mph. No
+lightning risk. 
+.TUESDAY...Cloudy. Patchy fog in the morning. High around 52. South
+winds 10 mph increasing to 10 to 15 mph in the afternoon. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

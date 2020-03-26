@@ -1,0 +1,201 @@
+
+295 
+SXUS41 KCAR 161950
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+350 PM EDT Thu Aug 16 2018
+
+MEZ004-171000-
+Top of Mount Katahdin-
+350 PM EDT Thu Aug 16 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds, then becoming mostly cloudy
+late this evening, then becoming mostly clear. Low around 46.
+Northwest winds 10 to 15 mph. No lightning risk. 
+.FRIDAY...Mostly sunny in the morning, then becoming cloudy. Rain 
+and isolated thunderstorms in the afternoon. High around 58. 
+Southwest winds 10 to 15 mph. Chance of precipitation 80 percent. 
+Lightning risk is limited. 
+
+$$
+
+MEZ005-171000-
+Katahdin Woods and Waters National Monument-
+350 PM EDT Thu Aug 16 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming clear. Patchy fog late. Low around 51. Light
+winds. No lightning risk. 
+.FRIDAY...Mostly sunny in the morning, then becoming mostly cloudy.
+Rain likely in the afternoon. High around 76. Light winds becoming
+south around 10 mph in the afternoon. Chance of precipitation
+70 percent. No lightning risk. 
+
+$$
+
+MEZ029-171000-
+Top of Cadillac Mountain-
+350 PM EDT Thu Aug 16 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+59. Northeast winds around 10 mph. No lightning risk. 
+.FRIDAY...Partly sunny...then mostly cloudy with isolated showers in
+the afternoon. High around 68. Light winds becoming south around 10 
+mph in the afternoon. Chance of precipitation 20 percent. No 
+lightning risk. 
+
+$$
+
+MEZ001-171000-
+Top of Deboullie Mountain-
+350 PM EDT Thu Aug 16 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming clear. Low around 52. North winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.FRIDAY...Mostly sunny in the morning, then becoming mostly cloudy.
+Scattered showers in the afternoon. High around 70. Southwest winds
+around 10 mph. Chance of precipitation 50 percent. No lightning
+risk. 
+
+$$
+
+MEZ006-171000-
+Top of Mars Hill Mountain-
+350 PM EDT Thu Aug 16 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming clear. Patchy fog late. Low around 49. North
+winds 10 mph until midnight becoming light winds. No lightning risk.
+.FRIDAY...Partly sunny. Patchy fog in the morning. Isolated showers
+in the afternoon. High around 78. Light winds becoming south around
+10 mph in the afternoon. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ010-171000-
+Top of White Cap Mountain-
+350 PM EDT Thu Aug 16 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly cloudy through early morning, then clearing. Low
+around 51. Northwest winds 10 to 15 mph. No lightning risk. 
+.FRIDAY...Mostly sunny in the morning, then becoming cloudy. Rain
+and isolated thunderstorms in the afternoon. High around 63.
+Southwest winds 10 to 15 mph. Chance of precipitation 80 percent.
+Lightning risk is limited. 
+
+$$
+
+MEZ010-171000-
+Moosehead Lake-
+350 PM EDT Thu Aug 16 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Patchy fog
+late. Low around 52. Northwest winds 10 mph until midnight becoming
+light winds. Waves 1 foot. No lightning risk. Water temperature
+64 degrees Fahrenheit. 
+.FRIDAY...Mostly sunny in the morning, then becoming cloudy. Patchy 
+fog in the morning. Rain likely in the afternoon. High around 74. 
+Waves 2 feet. South winds 10 mph. Chance of precipitation 70 percent.
+Lightning risk is limited. Water temperature 64 degrees Fahrenheit. 
+
+$$
+
+MEZ001-171000-
+Allagash Wilderness Waterway-
+350 PM EDT Thu Aug 16 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy late this
+evening, then becoming clear. Patchy fog late. Low around 46. Light
+winds. No lightning risk. 
+.FRIDAY...Mostly sunny in the morning, then becoming cloudy. Patchy 
+fog in the morning. Rain likely in the afternoon. High around 76. 
+Light winds becoming south around 10 mph in the afternoon. Chance of 
+precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ030-171000-
+St Croix River-
+350 PM EDT Thu Aug 16 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Patchy fog
+late. Cooler with low around 50. Light winds. No lightning risk. 
+.FRIDAY...Partly sunny...then mostly cloudy with isolated showers in
+the afternoon. High around 78. Light winds. Chance of precipitation 
+20 percent. No lightning risk. 
+
+$$
+
+MEZ030-171000-
+West Quoddy Head-
+350 PM EDT Thu Aug 16 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+54. Light winds. No lightning risk. Water temperature 56 degrees
+Fahrenheit. 
+.FRIDAY...Mostly sunny. High around 72. Light winds becoming
+southeast around 10 mph in the afternoon. No lightning risk. Water
+temperature 56 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-171000-
+Upper Penobscot Watershed-
+350 PM EDT Thu Aug 16 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Patchy fog
+late. Low around 52. Light winds. No lightning risk. 
+.FRIDAY...Partly sunny then cloudy with scattered showers in the 
+afternoon. High around 77. Light winds. Chance of precipitation 50 
+percent. Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-171000-
+Lower Penobscot Watershed-
+350 PM EDT Thu Aug 16 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Patchy fog
+late. Cooler with low around 54. Light winds. No lightning risk. 
+.FRIDAY...Partly sunny...then cloudy with scattered showers in the 
+afternoon. High around 78. Light winds becoming south around 10 mph 
+in the afternoon. Chance of precipitation 50 percent. No lightning 
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

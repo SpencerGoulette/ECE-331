@@ -1,0 +1,240 @@
+
+374 
+SXUS41 KCAR 130842
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+442 AM EDT Sun Oct 13 2019
+
+MEZ004-140000-
+Top of Mount Katahdin-
+442 AM EDT Sun Oct 13 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit obscured, then becoming mostly cloudy early this
+afternoon, then becoming partly sunny. Patchy drizzle this morning. 
+High around 45. West winds 15 to 25 mph. No lightning risk.
+.TONIGHT...Mostly clear. Low around 40. West winds 10 to 20 mph
+shifting to the southwest after midnight. No lightning risk. 
+.COLUMBUS DAY...Partly sunny. A chance of showers in the afternoon.
+High around 43. South winds 10 to 20 mph. Chance of precipitation
+30 percent. No lightning risk. 
+
+$$
+
+MEZ005-140000-
+Katahdin Woods and Waters National Monument-
+442 AM EDT Sun Oct 13 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. Patchy fog this morning. Patchy drizzle this morning. High
+around 59. Northwest winds 10 mph shifting to the west this
+afternoon. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+39. West winds 10 mph shifting to the south after midnight. No
+lightning risk. 
+.COLUMBUS DAY...Partly sunny. A chance of showers in the afternoon.
+High around 57. Southeast winds 10 mph shifting to the south 10 to
+15 mph in the afternoon. Chance of precipitation 30 percent. No
+lightning risk. 
+
+$$
+
+MEZ029-140000-
+Top of Cadillac Mountain-
+442 AM EDT Sun Oct 13 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Summit in and out of clouds. Patchy drizzle this morning. 
+High around 58. North winds 10 to 25 mph. No lightning risk.
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 49. West winds 10 to 15 mph shifting to the south
+after midnight. No lightning risk. 
+.COLUMBUS DAY...Summit in and out of clouds. A slight chance of 
+showers in the morning...then a chance of showers in the afternoon. 
+High around 54. Southeast winds 10 to 15 mph. Chance of precipitation
+30 percent. No lightning risk. 
+
+$$
+
+MEZ001-140000-
+Top of Deboullie Mountain-
+442 AM EDT Sun Oct 13 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Summit obscured through early afternoon, then becoming
+mostly cloudy. Patchy drizzle this morning. High around 54. North 
+winds 10 mph shifting to the west 10 to 15 mph this afternoon. No 
+lightning risk. 
+.TONIGHT...Mostly clear. Low around 33. Southwest winds 10 to 15 mph
+shifting to the southeast 10 mph after midnight. No lightning risk. 
+.COLUMBUS DAY...Mostly sunny in the morning, then summit becoming
+obscured. A chance of rain showers in the afternoon. High around 54.
+Southeast winds 10 to 15 mph. Chance of precipitation 30 percent. No
+lightning risk. 
+
+$$
+
+MEZ006-140000-
+Top of Mars Hill Mountain-
+442 AM EDT Sun Oct 13 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Summit obscured, then becoming mostly cloudy early this
+afternoon, then becoming partly sunny. Patchy drizzle this morning. 
+High around 56. North winds 10 mph shifting to the northwest this 
+afternoon. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly clear.
+Low around 35. West winds 10 mph shifting to the southeast after
+midnight. No lightning risk. 
+.COLUMBUS DAY...Mostly cloudy in the morning, then summit becoming
+obscured. A slight chance of showers in the afternoon. High around
+56. Southeast winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ010-140000-
+Top of White Cap Mountain-
+442 AM EDT Sun Oct 13 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Summit obscured, then summit in and out of clouds late this
+morning, then becoming mostly cloudy, then becoming mostly sunny
+late. Patchy drizzle this morning. Breezy with high around 48. 
+Northwest winds 15 to 30 mph. No lightning risk.
+.TONIGHT...Mostly clear and breezy. Low around 41. West winds 10 to
+20 mph shifting to the south 10 to 30 mph after midnight. No
+lightning risk. 
+.COLUMBUS DAY...Partly sunny. A chance of showers in the afternoon.
+High around 47. South winds 10 to 15 mph. Chance of precipitation
+30 percent. No lightning risk. 
+
+$$
+
+MEZ010-140000-
+Moosehead Lake-
+442 AM EDT Sun Oct 13 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy this morning, then becoming mostly sunny.
+Patchy fog this morning. Patchy drizzle this morning. High around
+57. Northwest winds 10 mph increasing to 10 to 15 mph this
+afternoon. Waves 1 foot. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 37. Waves 1 foot. West winds
+10 mph shifting to the south after midnight. No lightning risk. 
+.COLUMBUS DAY...Partly sunny. A chance of rain showers in the
+afternoon. High around 56. Waves 2 feet. South winds 10 to 15 mph.
+Chance of precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ001-140000-
+Allagash Wilderness Waterway-
+442 AM EDT Sun Oct 13 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Cloudy this morning, then becoming partly sunny. Patchy fog
+this morning. Patchy drizzle this morning. High around 56. West
+winds 10 mph increasing to 10 to 15 mph this afternoon. No lightning
+risk. 
+.TONIGHT...Mostly clear. Low around 31. Southwest winds 10 mph
+shifting to the southeast after midnight. No lightning risk. 
+.COLUMBUS DAY...Partly sunny. A chance of rain showers in the
+afternoon. High around 58. Southeast winds 10 to 15 mph. Chance of
+precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ030-140000-
+St Croix River-
+442 AM EDT Sun Oct 13 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. Patchy fog this morning. Patchy drizzle this morning. High
+around 62. Northwest winds 10 mph. No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 41. Northwest winds 10 mph
+shifting to the southeast after midnight. No lightning risk. 
+.COLUMBUS DAY...Partly sunny in the morning, then becoming mostly
+cloudy. A slight chance of showers in the afternoon. High around 61.
+Southeast winds 10 mph increasing to 10 to 15 mph in the afternoon.
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ030-140000-
+West Quoddy Head-
+442 AM EDT Sun Oct 13 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. Patchy fog this morning. Patchy drizzle this morning. High
+around 57. North winds 10 to 15 mph shifting to the northwest 10 mph
+this afternoon. No lightning risk. Water temperature 53 degrees
+Fahrenheit. 
+.TONIGHT...Partly cloudy. Low around 48. West winds 10 mph shifting
+to the south after midnight. No lightning risk. Water temperature
+53 degrees Fahrenheit. 
+.COLUMBUS DAY...Mostly cloudy. A slight chance of showers in the
+afternoon. High around 57. Southeast winds 10 mph shifting to the
+south 10 to 15 mph in the afternoon. Chance of precipitation
+20 percent. No lightning risk. Water temperature 53 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-140000-
+Upper Penobscot Watershed-
+442 AM EDT Sun Oct 13 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+Patchy fog this morning. Patchy drizzle this morning. High around
+60. Northwest winds 10 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly clear.
+Low around 38. West winds 10 mph shifting to the southeast after
+midnight. No lightning risk. 
+.COLUMBUS DAY...Partly sunny. A chance of rain showers in the
+afternoon. High around 59. Southeast winds 10 mph increasing to
+10 to 15 mph in the afternoon. Chance of precipitation 40 percent.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-140000-
+Lower Penobscot Watershed-
+442 AM EDT Sun Oct 13 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+Patchy fog this morning. Patchy drizzle this morning. High around
+63. Northwest winds 10 mph. No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 43. West winds 10 mph shifting
+to the south after midnight. No lightning risk. 
+.COLUMBUS DAY...Partly sunny in the morning, then becoming mostly
+cloudy. A chance of showers in the afternoon. High around 61.
+Southeast winds 10 mph increasing to 10 to 15 mph in the afternoon.
+Chance of precipitation 30 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

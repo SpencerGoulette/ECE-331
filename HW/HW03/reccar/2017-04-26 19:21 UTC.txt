@@ -1,0 +1,77 @@
+
+065 
+SXUS41 KCAR 261921
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+321 PM EDT Wed Apr 26 2017
+
+MEZ004-270930-
+Top of Mount Katahdin-
+321 PM EDT Wed Apr 26 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds. Areas of fog. Light rain and
+drizzle likely until midnight. a chance of light rain and drizzle
+after midnight. Not as cool. Near steady temperatures around 49.
+South winds around 20 mph. Chance of precipitation 60 percent. 
+.THURSDAY...Summit in and out of clouds in the morning...then summit
+becoming obscured. A chance of light rain and drizzle. High around
+52. South winds 15 to 20 mph. Chance of precipitation 40 percent. 
+
+$$
+
+MEZ029-270930-
+Top of Cadillac Mountain-
+321 PM EDT Wed Apr 26 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Areas of fog. Rain until midnight.
+Drizzle. light rain likely after midnight. Near steady temperatures
+around 50. South winds 15 to 20 mph. Chance of precipitation
+80 percent. 
+.THURSDAY...Summit obscured. Areas of fog. A chance of light rain
+and drizzle. Near steady temperatures around 50. Southeast winds
+10 to 15 mph. Chance of precipitation 40 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-270930-
+Upper Penobscot Watershed-
+321 PM EDT Wed Apr 26 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Rain and drizzle likely until
+midnight. a chance of light rain and drizzle after midnight. Not as
+cool with low around 50. Light winds. Chance of precipitation
+70 percent. 
+.THURSDAY...Cloudy. Areas of fog. A chance of light rain and
+drizzle. High around 58. Light winds. Chance of precipitation
+40 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-270930-
+Lower Penobscot Watershed-
+321 PM EDT Wed Apr 26 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Rain and drizzle until midnight. a
+chance of light rain and drizzle after midnight. Low around 51.
+Light winds. Chance of precipitation 80 percent. 
+.THURSDAY...Cloudy. Areas of fog in the morning. A chance of light
+rain and drizzle. High around 59. Light winds. Chance of
+precipitation 40 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

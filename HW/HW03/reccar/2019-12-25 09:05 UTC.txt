@@ -1,0 +1,214 @@
+
+520 
+SXUS41 KCAR 250905
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+405 AM EST Wed Dec 25 2019
+
+MEZ004-252315-
+Top of Mount Katahdin-
+405 AM EST Wed Dec 25 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. High around 19. Northwest winds 15 to 20 mph. Wind chill
+values as low as 6 below. No lightning risk. 
+.TONIGHT...Clear, windy, cold with low around 9 above. North winds
+15 to 25 mph increasing to 20 to 35 mph after midnight. Wind chill
+values as low as 7 below. No lightning risk. 
+.THURSDAY...Sunny, windy, cold with high around 14. North winds
+15 to 35 mph becoming northwest 10 to 15 mph in the afternoon. Wind
+chill values as low as 6 below. No lightning risk. 
+
+$$
+
+MEZ005-252315-
+Katahdin Woods and Waters National Monument-
+405 AM EST Wed Dec 25 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. High around 25. Northwest winds 10 mph. No lightning risk. 
+.TONIGHT...Clear, cold with low around 9 above. Northwest winds
+10 mph. No lightning risk. 
+.THURSDAY...Sunny. High around 21. North winds 10 to 15 mph. Wind
+chill values as low as 1 above. No lightning risk. 
+
+$$
+
+MEZ029-252315-
+Top of Cadillac Mountain-
+405 AM EST Wed Dec 25 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny this morning, then becoming mostly cloudy.
+High around 25. Northwest winds 10 to 20 mph. Wind chill values as
+low as zero. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Brisk, cold
+with low around 13. North winds 15 to 30 mph. Wind chill values as
+low as 5 below after midnight. No lightning risk. 
+.THURSDAY...Sunny, brisk with high around 24. North winds 15 to
+30 mph decreasing to 10 to 20 mph in the afternoon. Wind chill
+values as low as 5 below in the morning. No lightning risk. 
+
+$$
+
+MEZ001-252315-
+Top of Deboullie Mountain-
+405 AM EST Wed Dec 25 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. High around 19. Northwest winds 10 mph. No lightning risk. 
+.TONIGHT...Clear, cold with low around 4 above. Northwest winds
+10 mph increasing to 10 to 15 mph after midnight. Wind chill values
+as low as 5 below. No lightning risk. 
+.THURSDAY...Sunny. High around 17. North winds 10 to 15 mph. Wind
+chill values as low as 4 below. No lightning risk. 
+
+$$
+
+MEZ006-252315-
+Top of Mars Hill Mountain-
+405 AM EST Wed Dec 25 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. High around 19. Northwest winds 10 to 15 mph decreasing to
+10 mph this afternoon. Wind chill values as low as 2 below. No
+lightning risk. 
+.TONIGHT...Clear until midnight, then summit in and out of clouds.
+Cold with low around 5 above. Northwest winds 10 to 15 mph. Wind
+chill values as low as 5 below. No lightning risk. 
+.THURSDAY...Partly sunny in the morning, then clearing. High around
+16. Northwest winds 10 to 20 mph. Wind chill values as low as
+5 below. No lightning risk. 
+
+$$
+
+MEZ010-252315-
+Top of White Cap Mountain-
+405 AM EST Wed Dec 25 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly cloudy. High around 22. Northwest winds 10 to
+20 mph. Wind chill values as low as 3 below. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Windy, cold
+with low around 12. North winds 15 to 25 mph increasing to 20 to
+35 mph after midnight. Wind chill values as low as 4 below. No
+lightning risk. 
+.THURSDAY...Sunny, windy with high around 17. North winds 15 to
+35 mph decreasing to 10 to 15 mph in the afternoon. Wind chill
+values as low as 9 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-252315-
+Moosehead Lake-
+405 AM EST Wed Dec 25 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy. High around 28. North winds 10 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Cold with
+low around 13. North winds 10 mph. No lightning risk. 
+.THURSDAY...Sunny. High around 26. North winds 10 to 15 mph. Wind
+chill values as low as 6 above. No lightning risk. 
+
+$$
+
+MEZ001-252315-
+Allagash Wilderness Waterway-
+405 AM EST Wed Dec 25 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Mostly cloudy through early afternoon, then becoming partly
+sunny. High around 23. Light winds. No lightning risk. 
+.TONIGHT...Clear, cold with low around 3 above. North winds 10 mph.
+No lightning risk. 
+.THURSDAY...Sunny. High around 21. Temperatures falling to around
+13 in the afternoon. North winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-252315-
+St Croix River-
+405 AM EST Wed Dec 25 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Partly sunny until mid morning, then becoming mostly
+cloudy. High around 27. Northwest winds 10 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Cold with
+low around 9 above. Northwest winds 10 mph shifting to the north
+10 to 15 mph after midnight. Wind chill values as low as 3 above. No
+lightning risk. 
+.THURSDAY...Sunny. High around 23. North winds 10 to 15 mph. Wind
+chill values as low as 2 above. No lightning risk. 
+
+$$
+
+MEZ030-252315-
+West Quoddy Head-
+405 AM EST Wed Dec 25 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Partly sunny this morning, then becoming mostly cloudy.
+High around 29. Northwest winds 10 to 15 mph. Wind chill values as
+low as 7 above. No lightning risk. Water temperature 45 degrees
+Fahrenheit. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+16. Northwest winds 10 to 20 mph. Wind chill values as low as
+7 above. No lightning risk. Water temperature 45 degrees Fahrenheit.
+.THURSDAY...Sunny. High around 27. North winds 15 to 20 mph. Wind
+chill values as low as 7 above. No lightning risk. Water temperature
+45 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-252315-
+Upper Penobscot Watershed-
+405 AM EST Wed Dec 25 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. High around 26. North winds 10 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Cold with
+low around 8 above. North winds 10 mph. No lightning risk. 
+.THURSDAY...Sunny. High around 23. North winds 10 to 15 mph. Wind
+chill values as low as 3 above. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-252315-
+Lower Penobscot Watershed-
+405 AM EST Wed Dec 25 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. High around 29. North winds 10 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then clearing. Cold with
+low around 10 above. North winds 10 mph. No lightning risk. 
+.THURSDAY...Sunny. High around 28. North winds 10 to 15 mph. Wind
+chill values as low as 7 above. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,199 @@
+
+697 
+SXUS41 KCAR 201935
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+235 PM EST Sat Jan 20 2018
+
+MEZ004-210945-
+Top of Mount Katahdin-
+235 PM EST Sat Jan 20 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Windy with low around 12. Northwest winds 45 to 50 mph 
+decreasing to 35 to 45 mph after midnight. Wind chill values as low 
+as 9 below after midnight. No lightning risk. 
+.SUNDAY...Partly sunny and very windy. Colder with high around 17. 
+Northwest winds 30 to 40 mph. Wind chill values as low as 11 below in
+the morning. No lightning risk. 
+
+$$
+
+MEZ005-210945-
+Katahdin Woods and Waters National Monument-
+235 PM EST Sat Jan 20 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy early this evening...then becoming partly
+cloudy. Low around 16. Northwest winds 10 to 20 mph. Wind chill
+values as low as 8 above after midnight. No lightning risk. 
+.SUNDAY...Mostly sunny. Colder with high around 25. Northwest winds 
+around 10 mph. Wind chill values as low as 9 above in the morning. 
+No lightning risk. 
+
+$$
+
+MEZ029-210945-
+Top of Cadillac Mountain-
+235 PM EST Sat Jan 20 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear...then becoming mostly cloudy after
+midnight...then becoming partly cloudy. Brisk with low around 25.
+Northwest winds 20 to 25 mph. Wind chill values as low as 14 after
+midnight. No lightning risk. 
+.SUNDAY...Partly sunny. High around 30. Northwest winds 10 to
+20 mph. Wind chill values as low as 15 in the morning. No lightning 
+risk.
+
+
+$$
+
+MEZ001-210945-
+Top of Deboullie Mountain-
+235 PM EST Sat Jan 20 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds...then becoming mostly cloudy
+late this evening...then becoming partly cloudy. Isolated snow
+showers early this evening. Brisk and much colder with low around 7 
+above. Northwest winds 15 to 25 mph. Chance of precipitation 20 
+percent. Wind chill values as low as 7 below after midnight. No 
+lightning risk.
+.SUNDAY...Partly sunny. Much colder with high around 16. Northwest 
+winds around 15 mph. Wind chill values as low as 6 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ006-210945-
+Top of Mars Hill Mountain-
+235 PM EST Sat Jan 20 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit in and out of clouds...then becoming mostly cloudy
+late this evening...then becoming partly cloudy. Isolated snow
+showers early this evening. Windy, colder with low around 10 above. 
+Northwest winds 25 to 30 mph decreasing to 15 to 20 mph after 
+midnight. Chance of precipitation 20 percent. Wind chill values as 
+low as 3 below after midnight. No lightning risk. 
+.SUNDAY...Mostly sunny. Much colder with high around 18. Northwest 
+winds around 15 mph. Wind chill values as low as 3 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ010-210945-
+Top of White Cap Mountain-
+235 PM EST Sat Jan 20 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured...then becoming mostly cloudy after
+midnight...then becoming partly cloudy. Windy with low around 14. 
+Northwest winds 30 to 35 mph. Wind chill values as low as 5 below
+after midnight. No lightning risk. 
+.SUNDAY...Partly sunny and brisk. High around 19. Northwest winds
+20 to 25 mph. Wind chill values as low as 3 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ010-210945-
+Moosehead Lake-
+235 PM EST Sat Jan 20 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy early this evening...then becoming partly
+cloudy. Low around 17. Northwest winds 10 to 15 mph. Wind chill
+values as low as 9 above after midnight. No lightning risk. 
+.SUNDAY...Partly sunny. Colder with high around 25. Northwest winds 
+around 10 mph. No lightning risk. 
+
+$$
+
+MEZ001-210945-
+Allagash Wilderness Waterway-
+235 PM EST Sat Jan 20 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Isolated snow showers early this evening. Much cooler with
+low around 8 above. Northwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 1 below after
+midnight. No lightning risk. 
+.SUNDAY...Partly sunny. Much colder with high around 20. West winds 
+around 10 mph. Wind chill values as low as 5 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-210945-
+St Croix River-
+235 PM EST Sat Jan 20 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+clear. Low around 19. West winds around 10 mph. No lightning risk.
+.SUNDAY...Mostly sunny. High around 27. Northwest winds around
+10 mph. No lightning risk. 
+
+$$
+
+MEZ030-210945-
+West Quoddy Head-
+235 PM EST Sat Jan 20 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy early this evening...then clearing. Low
+around 27. West winds 15 to 20 mph. No lightning risk. Water 
+temperature 43 degrees Fahrenheit. 
+.SUNDAY...Mostly sunny. High around 32. Northwest winds 10 to
+15 mph. No lightning risk. Water temperature 43 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-210945-
+Upper Penobscot Watershed-
+235 PM EST Sat Jan 20 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Low around 18. Northwest winds 10 to
+15 mph. No lightning risk. 
+.SUNDAY...Partly sunny. Colder with high around 28. Northwest winds 
+around 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-210945-
+Lower Penobscot Watershed-
+235 PM EST Sat Jan 20 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy through early morning...then becoming
+mostly clear. Low around 22. West winds around 10 mph. No lightning
+risk. 
+.SUNDAY...Partly sunny. High around 32. Northwest winds around
+10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

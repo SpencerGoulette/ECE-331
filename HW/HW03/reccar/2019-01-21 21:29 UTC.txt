@@ -1,0 +1,222 @@
+
+197 
+SXUS41 KCAR 212129
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+429 PM EST Mon Jan 21 2019
+
+MEZ004-221200-
+Top of Mount Katahdin-
+429 PM EST Mon Jan 21 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds through early morning, then 
+becoming partly cloudy. Scattered snow showers until midnight. 
+Isolated snow showers after midnight. Blowing snow. Strong winds and
+colder with low around 13 below. North winds 35 to 45 mph increasing
+to 40 to 55 mph after midnight. Chance of precipitation 40 percent. 
+Wind chill values as low as 48 below. No lightning risk. 
+.TUESDAY...Mostly sunny. Blowing snow in the morning. Strong winds 
+with high around 7 above. North winds 55 to 60 mph decreasing to 35 
+to 55 mph in the afternoon. Wind chill values as low as 51 below in 
+the morning. No lightning risk. 
+
+$$
+
+MEZ005-221200-
+Katahdin Woods and Waters National Monument-
+429 PM EST Mon Jan 21 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Scattered snow showers until midnight. Isolated snow showers
+after midnight. Blowing snow. Low around 4 below. Northwest winds 10
+to 20 mph. Chance of precipitation 40 percent. Wind chill values as 
+low as 23 below. No lightning risk. 
+.TUESDAY...Sunny. Blowing snow in the morning. High around 12.
+Northwest winds 10 to 20 mph. Wind chill values as low as 24 below
+in the morning. No lightning risk. 
+
+$$
+
+MEZ029-221200-
+Top of Cadillac Mountain-
+429 PM EST Mon Jan 21 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Scattered snow showers early this evening...then isolated
+snow showers late this evening. Strong winds and cooler with low
+around zero. North winds 30 to 45 mph increasing to 40 to 50 mph
+after midnight. Chance of precipitation 30 percent. Wind chill
+values as low as 29 below. No lightning risk. 
+.TUESDAY...Sunny with strong winds. High around 16. North winds
+45 to 55 mph decreasing to 35 to 45 mph in the afternoon. Wind chill
+values as low as 31 below in the morning. No lightning risk. 
+
+$$
+
+MEZ001-221200-
+Top of Deboullie Mountain-
+429 PM EST Mon Jan 21 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy through early morning, then becoming partly
+cloudy. Blowing snow. Scattered snow showers through early morning.
+Isolated snow showers late. Cold with low around 9 below. North 
+winds 15 to 25 mph. Chance of precipitation 40 percent. Wind chill 
+values as low as 31 below. No lightning risk. 
+.TUESDAY...Sunny. Blowing snow in the morning. High around 8 above.
+Northwest winds 10 to 20 mph. Wind chill values as low as 32 below
+in the morning. No lightning risk. 
+
+$$
+
+MEZ006-221200-
+Top of Mars Hill Mountain-
+429 PM EST Mon Jan 21 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy. Blowing snow. Scattered snow showers
+through early morning. Isolated snow showers late. Colder with low 
+around 6 below. North winds 15 to 25 mph. Chance of precipitation 40 
+percent. Wind chill values as low as 28 below. No lightning risk.
+.TUESDAY...Mostly sunny. Blowing snow in the morning. High around
+9 above. Northwest winds 15 to 25 mph. Wind chill values as low as
+29 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-221200-
+Top of White Cap Mountain-
+429 PM EST Mon Jan 21 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Scattered snow showers early this evening. Isolated snow 
+showers late this evening. Blowing snow. Strong winds and cold with 
+low around 10 below. Northwest winds 40 to 55 mph. Chance of 
+precipitation 30 percent. Wind chill values as low as 44 below. No 
+lightning risk. 
+.TUESDAY...Sunny. Blowing snow in the morning. Strong winds and not
+as cool with high around 6 above. North winds 50 to 65 mph
+decreasing to 35 to 50 mph in the afternoon. Wind chill values as
+low as 47 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-221200-
+Moosehead Lake-
+429 PM EST Mon Jan 21 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Scattered snow showers early this evening. Isolated snow 
+showers late this evening. Blowing snow. Colder with low around 9 
+below. Northwest winds 15 to 20 mph. Chance of precipitation 40 
+percent. Wind chill values as low as 32 below. No lightning risk.
+.TUESDAY...Sunny. Blowing snow in the morning. High around 8 above.
+Northwest winds 10 to 20 mph. Wind chill values as low as 34 below
+in the morning. No lightning risk. 
+
+$$
+
+MEZ001-221200-
+Allagash Wilderness Waterway-
+429 PM EST Mon Jan 21 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Scattered snow showers through early morning. Blowing snow.
+Colder with low around 10 below. Northwest winds 10 to 20 mph.
+Chance of precipitation 40 percent. Wind chill values as low as
+28 below. No lightning risk. 
+.TUESDAY...Sunny. Blowing snow in the morning. High around 11.
+Northwest winds 10 to 20 mph. Wind chill values as low as 30 below
+in the morning. No lightning risk. 
+
+$$
+
+MEZ030-221200-
+St Croix River-
+429 PM EST Mon Jan 21 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. Scattered snow showers until midnight.
+Isolated snow showers after midnight. Blowing snow. Cooler with low 
+around 1 below. North winds 15 to 20 mph. Chance of precipitation 40 
+percent. Wind chill values as low as 21 below. No lightning risk.
+.TUESDAY...Partly sunny in the morning, then clearing. Blowing snow
+in the morning. High around 15. Northwest winds 10 to 20 mph. Wind
+chill values as low as 22 below in the morning. No lightning risk. 
+
+$$
+
+MEZ030-221200-
+West Quoddy Head-
+429 PM EST Mon Jan 21 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy. Scattered snow showers until midnight...
+then isolated snow showers after midnight. Windy and much cooler
+with low around 5 above. North winds 20 to 35 mph. Chance of
+precipitation 40 percent. Wind chill values as low as 17 below. No
+lightning risk. Water temperature 41 degrees Fahrenheit. 
+.TUESDAY...Partly sunny in the morning, then clearing. Windy with
+high around 20. Northwest winds 20 to 35 mph. Wind chill values as
+low as 18 below in the morning. No lightning risk. Water temperature
+41 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-221200-
+Upper Penobscot Watershed-
+429 PM EST Mon Jan 21 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Scattered snow showers until midnight. Isolated snow showers
+after midnight. Blowing snow. Low around 3 below. Northwest winds 10
+to 20 mph. Chance of precipitation 40 percent. Wind chill values as 
+low as 25 below. No lightning risk. 
+.TUESDAY...Sunny. Blowing snow in the morning. High around 14.
+Northwest winds 10 to 20 mph. Wind chill values as low as 26 below
+in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-221200-
+Lower Penobscot Watershed-
+429 PM EST Mon Jan 21 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Isolated snow showers until midnight. Cooler with low around
+2 below. Northwest winds 10 to 20 mph. Chance of precipitation
+20 percent. Wind chill values as low as 20 below. No lightning risk.
+.TUESDAY...Sunny. High around 17. Northwest winds 10 to 20 mph. Wind
+chill values as low as 21 below in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

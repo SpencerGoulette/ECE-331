@@ -1,0 +1,194 @@
+
+134 
+SXUS41 KCAR 022036
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+336 PM EST Tue Jan 2 2018
+
+MEZ004-031045-
+Top of Mount Katahdin-
+336 PM EST Tue Jan 2 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy. Scattered flurries through early morning. 
+Brisk and not as cold with low around 6 below. Northwest winds around
+25 mph. Wind chill values as low as 32 below. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning...then becoming partly
+sunny. Brisk with high around 6 above. West winds 15 to 25 mph. Wind
+chill values as low as 32 below in the morning. No lightning risk. 
+
+$$
+
+MEZ005-031045-
+Katahdin Woods and Waters National Monument-
+336 PM EST Tue Jan 2 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Scattered flurries through early morning.
+Cold with low around 8 below. Light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 13. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ029-031045-
+Top of Cadillac Mountain-
+336 PM EST Tue Jan 2 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy...then becoming mostly cloudy through early
+morning...then becoming partly cloudy. Scattered flurries until
+midnight. Not as cool with low around 5 above. West winds 15 to
+20 mph. Wind chill values as low as 14 below. No lightning risk. 
+.WEDNESDAY...Partly sunny. Not as cool with high around 22.
+Southwest winds 10 to 15 mph. Wind chill values as low as 13 below
+in the morning. No lightning risk. 
+
+$$
+
+MEZ001-031045-
+Top of Deboullie Mountain-
+336 PM EST Tue Jan 2 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy. Scattered flurries through early morning.
+Cold with low around 10 below. West winds 10 to 15 mph. Wind chill
+values as low as 29 below. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 5 above. Southwest winds
+around 10 mph. Wind chill values as low as 29 below in the morning.
+No lightning risk. 
+
+$$
+
+MEZ006-031045-
+Top of Mars Hill Mountain-
+336 PM EST Tue Jan 2 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy. Scattered flurries through early morning.
+Cold with low around 15 below. West winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 6 above. Light winds becoming
+southwest around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-031045-
+Top of White Cap Mountain-
+336 PM EST Tue Jan 2 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy. Scattered flurries through early morning. Brisk
+and not as cool. Near steady temperatures around 1 below. West winds
+20 to 25 mph. Wind chill values as low as 26 below. No lightning
+risk. 
+.WEDNESDAY...Mostly cloudy in the morning...then becoming partly
+sunny. High around 9 above. Southwest winds 10 to 20 mph. Wind chill
+values as low as 25 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-031045-
+Moosehead Lake-
+336 PM EST Tue Jan 2 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Scattered snow showers until midnight...
+then scattered flurries after midnight. Cold with low around
+7 below. Southwest winds 10 mph until midnight becoming light winds.
+Chance of precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Partly sunny. Not as cool with high around 16. Light
+winds becoming south around 10 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ001-031045-
+Allagash Wilderness Waterway-
+336 PM EST Tue Jan 2 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. Scattered flurries through early morning.
+Cold with low around 14 below. West winds 10 mph until midnight
+becoming light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 10 above. Light winds. No
+lightning risk. 
+
+$$
+
+MEZ030-031045-
+St Croix River-
+336 PM EST Tue Jan 2 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy...then becoming mostly cloudy after
+midnight...then becoming partly cloudy. Low around 4 below. Light
+winds. No lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 16. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ030-031045-
+West Quoddy Head-
+336 PM EST Tue Jan 2 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy...then becoming mostly cloudy through early
+morning...then becoming partly cloudy. Scattered flurries early this
+evening. Not as cool with low around 7 above. Northwest winds around
+15 mph. Wind chill values as low as 10 below. No lightning risk.
+Water temperature 44 degrees Fahrenheit. 
+.WEDNESDAY...Mostly sunny. Not as cool with high around 29.
+Northwest winds 10 to 15 mph in the morning becoming light winds.
+Wind chill values as low as 10 below in the morning. No lightning
+risk. Water temperature 44 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-031045-
+Upper Penobscot Watershed-
+336 PM EST Tue Jan 2 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Scattered flurries through early morning.
+Cold with low around 6 below. Light winds. No lightning risk. 
+.WEDNESDAY...Partly sunny. High around 15. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-031045-
+Lower Penobscot Watershed-
+336 PM EST Tue Jan 2 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy...then becoming mostly cloudy through early
+morning...then becoming partly cloudy. Low around 4 below. Light
+winds. No lightning risk. 
+.WEDNESDAY...Mostly sunny. Not as cool with high around 19. Light
+winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

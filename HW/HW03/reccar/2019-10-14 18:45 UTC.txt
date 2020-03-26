@@ -1,0 +1,208 @@
+
+536 
+SXUS41 KCAR 141845
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+245 PM EDT Mon Oct 14 2019
+
+MEZ004-150845-
+Top of Mount Katahdin-
+245 PM EDT Mon Oct 14 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy, then summit becoming obscured late this
+evening, then becoming cloudy, then becoming partly cloudy late.
+Scattered rain showers early this evening...then numerous rain
+showers late this evening. scattered rain showers after midnight.
+Low around 31. Southwest winds 15 to 20 mph shifting to the west
+after midnight. Chance of precipitation 60 percent. No lightning
+risk. 
+.TUESDAY...Sunny, cooler with high around 32. West winds 10 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ005-150845-
+Katahdin Woods and Waters National Monument-
+245 PM EDT Mon Oct 14 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Scattered showers through early morning. Low around 40.
+Southwest winds 10 to 15 mph shifting to the northwest 10 mph after
+midnight. Chance of precipitation 50 percent. No lightning risk. 
+.TUESDAY...Sunny. High around 53. West winds 10 mph increasing to
+10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-150845-
+Top of Cadillac Mountain-
+245 PM EDT Mon Oct 14 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured through early morning, then becoming
+mostly cloudy. Isolated showers through early morning. Low around
+45. South winds 10 to 20 mph shifting to the northwest 10 to 15 mph
+after midnight. Chance of precipitation 20 percent. No lightning
+risk. 
+.TUESDAY...Sunny. High around 52. Northwest winds 10 to 20 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-150845-
+Top of Deboullie Mountain-
+245 PM EDT Mon Oct 14 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy, then summit becoming obscured through
+early morning, then summit in and out of clouds. Scattered showers
+early this evening...then numerous showers late this evening.
+scattered showers after midnight. Low around 35. Southwest winds
+10 to 20 mph. Chance of precipitation 60 percent. No lightning risk.
+.TUESDAY...Partly sunny in the morning, then clearing. Cooler with
+high around 47. West winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ006-150845-
+Top of Mars Hill Mountain-
+245 PM EDT Mon Oct 14 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured through early morning, then becoming
+mostly cloudy. Isolated showers early this evening...then scattered
+showers from late evening on. Low around 40. South winds 10 to
+15 mph shifting to the west after midnight. Chance of precipitation
+50 percent. No lightning risk. 
+.TUESDAY...Mostly cloudy in the morning, then clearing. Isolated
+showers in the morning. High around 51. West winds 10 to 15 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ010-150845-
+Top of White Cap Mountain-
+245 PM EDT Mon Oct 14 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly cloudy, then summit becoming obscured late this
+evening, then becoming mostly cloudy, then becoming partly cloudy
+late. Scattered showers through early morning. Low around 34.
+Southwest winds 10 to 20 mph shifting to the northwest after
+midnight. Chance of precipitation 50 percent. No lightning risk. 
+.TUESDAY...Sunny. High around 38. West winds 10 to 20 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-150845-
+Moosehead Lake-
+245 PM EDT Mon Oct 14 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered showers through early morning. Low around 39.
+Southwest winds 10 to 15 mph shifting to the northwest 10 mph after
+midnight. Waves 2 feet. Chance of precipitation 50 percent. No
+lightning risk. 
+.TUESDAY...Sunny. High around 52. Waves 2 feet. West winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ001-150845-
+Allagash Wilderness Waterway-
+245 PM EDT Mon Oct 14 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Numerous rain showers until midnight...then scattered rain
+showers after midnight. Not as cool with low around 35. South winds
+10 to 15 mph shifting to the west 10 mph after midnight. Chance of
+precipitation 60 percent. No lightning risk. 
+.TUESDAY...Sunny, cooler with high around 51. West winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ030-150845-
+St Croix River-
+245 PM EDT Mon Oct 14 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Isolated showers early this evening...then scattered showers
+through early morning. isolated showers late. Low around 45. South
+winds 10 to 15 mph shifting to the west after midnight. Chance of
+precipitation 40 percent. No lightning risk. 
+.TUESDAY...Partly sunny in the morning, then clearing. High around
+56. Northwest winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ030-150845-
+West Quoddy Head-
+245 PM EDT Mon Oct 14 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy. Scattered showers until midnight...then
+isolated showers after midnight. Low around 49. South winds 10 to
+15 mph. Chance of precipitation 40 percent. No lightning risk. Water
+temperature 53 degrees Fahrenheit. 
+.TUESDAY...Partly sunny in the morning, then clearing. High around
+56. Northwest winds 10 to 20 mph. No lightning risk. Water
+temperature 53 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-150845-
+Upper Penobscot Watershed-
+245 PM EDT Mon Oct 14 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Isolated showers early this evening...then scattered showers
+through early morning. isolated showers late. Low around 41. South
+winds 10 to 15 mph shifting to the northwest 10 mph after midnight.
+Chance of precipitation 50 percent. No lightning risk. 
+.TUESDAY...Sunny. High around 55. West winds 10 to 15 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-150845-
+Lower Penobscot Watershed-
+245 PM EDT Mon Oct 14 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Isolated showers early this evening...then scattered showers
+through early morning. Low around 43. South winds 15 mph shifting to
+the northwest 10 mph after midnight. Chance of precipitation
+50 percent. No lightning risk. 
+.TUESDAY...Sunny. High around 57. Northwest winds 10 to 15 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

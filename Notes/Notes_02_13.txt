@@ -1,0 +1,69 @@
+ECE 331
+02/13/20
+Spencer Goulette
+Notes
+
+Project pushed a week
+Give time stamp before and after,
+if better than Sheaff's time, then bonus points
+
+Start with TOP OF MOUNT KATAHDIN
+
+([0-9]+) TO ([0-9]+) MPH
+
+./t *txt | sed -e 'y/:-/  /' | awk '{print $2}' | sort -n | uniq
+
+Quoting - `    ` -> execute as shell command stdout sub in on the command line
+
+touch 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+INODE Table		Dirent
+			[Inode|len|len|name]
+
+Hardlink does not work across filesystems
+No hardlinks to directory
+
+Symbolic Links
+Goes to INODE table
+From INODE table goes to data area
+Goes to file
+Gets INODE of file
+
+ln -s (existing) (new)
+ln (existing) (new)
+
+Symbolic link is completely transparent
+
+du -s .		disk usage
+
+find . -iname `*fire*`
+
+-Perl
+-Users/Root
+-SW Mngmt
+-kernel
+
+Perl
+
+- 3 types in pearl
+scalar		begins with $
+list		begins with @
+hash		begins with %
+
+$i=4;
+$i++;
+print $i;
+$j="42";
+$j++;
+print $j;
+$k="abcd";
+$k++;
+print $k;
+$l++;
+print $l;
+
+$m[4000]="xyz";
+
+
+
+

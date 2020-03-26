@@ -1,0 +1,96 @@
+
+254 
+SXUS41 KCAR 161841
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+241 PM EDT Fri Jun 16 2017
+
+MEZ004-170845-
+Top of Mount Katahdin-
+241 PM EDT Fri Jun 16 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Areas of fog. Rain likely until
+midnight. scattered showers after midnight. Low around 43. Southwest
+winds 20 to 30 mph. Chance of precipitation 60 percent. No lightning
+risk. 
+.SATURDAY...Summit in and out of clouds in the morning...then
+becoming cloudy. Areas of fog in the morning. Not as cool with high
+around 62. Southwest winds 10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ029-170845-
+Top of Cadillac Mountain-
+241 PM EDT Fri Jun 16 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy until midnight...then summit becoming obscured.
+Rain until midnight...then rain with a chance of thunderstorms after
+midnight. Areas of fog after midnight. Rain may be heavy at times
+after midnight. Near steady temperatures around 54. South winds
+15 to 20 mph. Chance of precipitation near 100 percent. Lightning
+risk is elevated. 
+.SATURDAY...Summit obscured. Areas of fog in the morning. areas of
+fog in the afternoon. A chance of thunderstorms in the morning.
+Rain. High around 60. South winds 10 to 20 mph. Chance of
+precipitation near 100 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ010-170845-
+Moosehead Lake-
+241 PM EDT Fri Jun 16 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Areas of fog. Rain likely until midnight.
+scattered showers after midnight. Near steady temperatures around
+52. South winds 10 to 15 mph. Waves 3 feet. Chance of precipitation
+60 percent. No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog in the morning. Warmer with high
+around 68. Waves 1 foot. Light winds. No lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-170845-
+Upper Penobscot Watershed-
+241 PM EDT Fri Jun 16 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain likely. Areas of fog after midnight. Near
+steady temperatures around 53. South winds around 10 mph. Chance of
+precipitation 70 percent. No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog in the morning. A chance of showers
+in the morning. Warmer with high around 66. South winds around
+10 mph in the morning becoming light winds. Chance of precipitation
+50 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-170845-
+Lower Penobscot Watershed-
+241 PM EDT Fri Jun 16 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy, rain. Areas of fog after midnight. Near steady
+temperatures around 54. South winds around 10 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog in the morning. Rain in the
+morning...then a chance of showers in the afternoon. High around 66.
+Southeast winds around 10 mph in the morning becoming light winds.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

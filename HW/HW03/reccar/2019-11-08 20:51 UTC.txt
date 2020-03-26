@@ -1,0 +1,197 @@
+
+016 
+SXUS41 KCAR 082051
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+351 PM EST Fri Nov 8 2019
+
+MEZ004-091100-
+Top of Mount Katahdin-
+351 PM EST Fri Nov 8 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy through early
+morning, then becoming mostly clear. Scattered snow showers early
+this evening. Brisk with low around 2 above. Northwest winds 15 to
+30 mph. Chance of precipitation 30 percent. Wind chill values as low
+as 11 below. No lightning risk. 
+.SATURDAY...Partly sunny. High around 17. West winds 15 to 25 mph.
+Wind chill values as low as 19 below in the morning. No lightning
+risk. 
+
+$$
+
+MEZ005-091100-
+Katahdin Woods and Waters National Monument-
+351 PM EST Fri Nov 8 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Isolated
+snow showers early this evening. Low around 15. Northwest winds
+10 to 15 mph. Chance of precipitation 20 percent. No lightning risk.
+.SATURDAY...Partly sunny. High around 31. West winds 10 to 15 mph.
+Wind chill values as low as 5 above in the morning. No lightning
+risk. 
+
+$$
+
+MEZ029-091100-
+Top of Cadillac Mountain-
+351 PM EST Fri Nov 8 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 19. Northwest winds 10 to 20 mph. Wind
+chill values as low as 7 above. No lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny. High
+around 36. West winds 10 to 20 mph. Wind chill values as low as
+6 above in the morning. No lightning risk. 
+
+$$
+
+MEZ001-091100-
+Top of Deboullie Mountain-
+351 PM EST Fri Nov 8 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy through early
+morning, then becoming mostly clear. Low around 12. Northwest winds
+10 to 20 mph. Wind chill values as low as 1 above. No lightning
+risk. 
+.SATURDAY...Mostly sunny in the morning, then becoming mostly
+cloudy. High around 25. Southwest winds 10 to 20 mph. Wind chill
+values as low as zero in the morning. No lightning risk. 
+
+$$
+
+MEZ006-091100-
+Top of Mars Hill Mountain-
+351 PM EST Fri Nov 8 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+15. Northwest winds 10 to 20 mph. Wind chill values as low as
+2 above. No lightning risk. 
+.SATURDAY...Partly sunny. High around 28. West winds 10 to 15 mph.
+Wind chill values as low as 4 above in the morning. No lightning
+risk. 
+
+$$
+
+MEZ010-091100-
+Top of White Cap Mountain-
+351 PM EST Fri Nov 8 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds, then becoming mostly cloudy
+late this evening, then becoming mostly clear. Isolated snow showers
+early this evening. Low around 9 above. Northwest winds 15 to
+25 mph. Chance of precipitation 20 percent. Wind chill values as low
+as 5 below. No lightning risk. 
+.SATURDAY...Partly sunny. High around 22. West winds 10 to 20 mph.
+Wind chill values as low as 7 below in the morning. No lightning
+risk. 
+
+$$
+
+MEZ010-091100-
+Moosehead Lake-
+351 PM EST Fri Nov 8 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Isolated
+snow showers early this evening. Low around 15. Northwest winds
+10 to 20 mph. Waves 3 feet. Chance of precipitation 20 percent. Wind
+chill values as low as 4 above. No lightning risk. 
+.SATURDAY...Partly sunny. High around 31. Waves 1 foot. West winds
+10 to 15 mph. Wind chill values as low as 5 above in the morning. No
+lightning risk. 
+
+$$
+
+MEZ001-091100-
+Allagash Wilderness Waterway-
+351 PM EST Fri Nov 8 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Low around
+13. West winds 10 to 15 mph. No lightning risk. 
+.SATURDAY...Mostly sunny in the morning, then becoming mostly
+cloudy. High around 29. Southwest winds 10 to 15 mph. Wind chill
+values as low as 2 above in the morning. No lightning risk. 
+
+$$
+
+MEZ030-091100-
+St Croix River-
+351 PM EST Fri Nov 8 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Cooler
+with low around 16. Northwest winds 10 to 15 mph. No lightning risk.
+.SATURDAY...Mostly sunny. High around 34. West winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-091100-
+West Quoddy Head-
+351 PM EST Fri Nov 8 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy through early morning, then clearing. Low
+around 24. Northwest winds 15 to 25 mph. Wind chill values as low as
+12. No lightning risk. Water temperature 51 degrees Fahrenheit. 
+.SATURDAY...Sunny. High around 41. West winds 10 to 20 mph. Wind
+chill values as low as 12 in the morning. No lightning risk. Water
+temperature 51 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-091100-
+Upper Penobscot Watershed-
+351 PM EST Fri Nov 8 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Isolated
+snow showers early this evening. Low around 16. Northwest winds
+10 to 15 mph. Chance of precipitation 20 percent. No lightning risk.
+.SATURDAY...Mostly sunny. High around 33. Southwest winds 10 to
+15 mph. Wind chill values as low as 6 above in the morning. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-091100-
+Lower Penobscot Watershed-
+351 PM EST Fri Nov 8 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Isolated snow showers early this evening. Cooler
+with low around 16. West winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny. High
+around 36. West winds 10 to 15 mph shifting to the southwest 10 mph
+in the afternoon. Wind chill values as low as 9 above in the
+morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

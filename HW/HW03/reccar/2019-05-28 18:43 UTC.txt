@@ -1,0 +1,204 @@
+
+147 
+SXUS41 KCAR 281843
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+243 PM EDT Tue May 28 2019
+
+MEZ004-290845-
+Top of Mount Katahdin-
+243 PM EDT Tue May 28 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy through early morning, then summit becoming
+obscured. A chance of rain. A chance of snow after midnight. Low
+around 35. South winds 10 to 15 mph. Chance of precipitation
+40 percent. No lightning risk. 
+.WEDNESDAY...Summit obscured. A chance of snow in the morning.
+scattered rain showers. High around 42. South winds 10 mph
+increasing to 10 to 15 mph in the afternoon. Chance of precipitation
+30 percent. No lightning risk. 
+
+$$
+
+MEZ005-290845-
+Katahdin Woods and Waters National Monument-
+243 PM EDT Tue May 28 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A slight chance of rain from late evening on. Low around 40.
+South winds 10 to 15 mph decreasing to 10 mph after midnight. Chance
+of precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then becoming partly
+sunny. High around 58. Southeast winds 10 mph shifting to the south
+in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-290845-
+Top of Cadillac Mountain-
+243 PM EDT Tue May 28 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy early this evening, then summit becoming obscured.
+Patchy fog. Rain. Low around 40. South winds 10 to 15 mph shifting
+to the southeast 10 to 20 mph after midnight. Chance of
+precipitation near 100 percent. No lightning risk. 
+.WEDNESDAY...Summit obscured. Patchy fog in the morning. Rain likely
+in the morning. High around 49. Northeast winds 10 to 20 mph. Chance
+of precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ001-290845-
+Top of Deboullie Mountain-
+243 PM EDT Tue May 28 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly clear. Not as cool with low around 38. Southwest
+winds 10 mph. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then summit becoming
+obscured. High around 57. South winds 10 mph increasing to 10 to
+15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-290845-
+Top of Mars Hill Mountain-
+243 PM EDT Tue May 28 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Low around 39. South winds 10 to 15 mph. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning, then summit becoming
+obscured. High around 56. South winds 10 mph increasing to 10 to
+15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-290845-
+Top of White Cap Mountain-
+243 PM EDT Tue May 28 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy until midnight, then summit becoming obscured. A
+chance of rain. Low around 38. South winds 10 to 15 mph. Chance of
+precipitation 40 percent. No lightning risk. 
+.WEDNESDAY...Summit obscured. Isolated showers in the morning. High
+around 46. South winds 10 mph increasing to 10 to 15 mph in the
+afternoon. Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ010-290845-
+Moosehead Lake-
+243 PM EDT Tue May 28 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. A chance of rain through early morning...
+then a slight chance of rain late. Low around 41. South winds 10 to
+15 mph shifting to the southeast after midnight. Waves 1 foot.
+Chance of precipitation 40 percent. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. High around 57. Waves 1 foot. Southeast
+winds 10 mph shifting to the south 10 to 15 mph in the afternoon. No
+lightning risk. 
+
+$$
+
+MEZ001-290845-
+Allagash Wilderness Waterway-
+243 PM EDT Tue May 28 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. Not as cool with low around 37. South winds 10 to 15 mph. No
+lightning risk. 
+.WEDNESDAY...Partly sunny. High around 62. South winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-290845-
+St Croix River-
+243 PM EDT Tue May 28 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy until midnight, then becoming cloudy. A
+slight chance of rain early this evening...then a chance of rain
+late this evening. rain after midnight. Patchy fog from late evening
+on. Low around 41. Southwest winds 10 to 15 mph shifting to the
+southeast 10 mph after midnight. Chance of precipitation 80 percent.
+No lightning risk. 
+.WEDNESDAY...Mostly cloudy. Scattered showers in the morning. High
+around 57. East winds 10 mph. Chance of precipitation 50 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-290845-
+West Quoddy Head-
+243 PM EDT Tue May 28 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy. A chance of rain early this evening...then
+rain from late evening on. Patchy fog from late evening on. Low
+around 41. Southwest winds 10 to 20 mph shifting to the southeast
+10 to 15 mph after midnight. Chance of precipitation near
+100 percent. No lightning risk. Water temperature 42 degrees
+Fahrenheit. 
+.WEDNESDAY...Mostly cloudy. Patchy fog in the morning. Rain in the
+morning...then isolated showers in the afternoon. High around 47.
+Northeast winds 10 to 20 mph. Chance of precipitation 90 percent. No
+lightning risk. Water temperature 42 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-290845-
+Upper Penobscot Watershed-
+243 PM EDT Tue May 28 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. A chance of rain. Patchy fog through early morning. Low
+around 41. South winds 10 to 15 mph shifting to the southeast after
+midnight. Chance of precipitation 50 percent. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. Isolated showers in the morning. High
+around 58. Southeast winds 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-290845-
+Lower Penobscot Watershed-
+243 PM EDT Tue May 28 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog. Rain. Low around 43. South winds
+15 mph shifting to the east after midnight. Chance of precipitation
+near 100 percent. No lightning risk. 
+.WEDNESDAY...Mostly cloudy. Scattered showers in the morning. High
+around 58. East winds 10 mph. Chance of precipitation 50 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

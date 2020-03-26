@@ -1,0 +1,83 @@
+
+434 
+SXUS41 KCAR 111858
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+258 PM EDT Thu May 11 2017
+
+MEZ004-120900-
+Top of Mount Katahdin-
+258 PM EDT Thu May 11 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Isolated snow showers until midnight.
+isolated rain showers. Near steady temperatures around 35. East
+winds 10 to 20 mph. Chance of precipitation 20 percent. 
+.FRIDAY...Mostly cloudy. High around 42. Northeast winds around
+10 mph. 
+
+$$
+
+MEZ029-120900-
+Top of Cadillac Mountain-
+258 PM EDT Thu May 11 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then summit
+becoming obscured. Isolated showers after midnight. Low around 43.
+Northeast winds 10 to 15 mph. Chance of precipitation 20 percent. 
+.FRIDAY...Summit in and out of clouds in the morning...then becoming
+mostly cloudy. High around 53. Northeast winds 10 to 15 mph
+decreasing to around 5 mph in the afternoon. 
+
+$$
+
+MEZ010-120900-
+Moosehead Lake-
+258 PM EDT Thu May 11 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Isolated showers until midnight. Low around 40.
+Northeast winds around 10 mph until midnight becoming light winds.
+Waves 1 foot. Chance of precipitation 20 percent. 
+.FRIDAY...Mostly cloudy in the morning...then becoming partly sunny.
+High around 59. Waves 1 foot. Light winds. 
+
+$$
+
+MEZ004&gt;006-010-011-031-120900-
+Upper Penobscot Watershed-
+258 PM EDT Thu May 11 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Isolated showers. Low around 42. Northeast winds
+around 10 mph. Chance of precipitation 20 percent. 
+.FRIDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Not as cool with high around 62. Northeast winds around 10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-120900-
+Lower Penobscot Watershed-
+258 PM EDT Thu May 11 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Isolated showers after midnight. Low around 43.
+Northeast winds around 10 mph. Chance of precipitation 20 percent. 
+.FRIDAY...Mostly cloudy in the morning...then becoming partly sunny.
+Not as cool with high around 62. Northeast winds around 10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,245 @@
+
+531 
+SXUS41 KCAR 180842
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+342 AM EST Sun Feb 18 2018
+
+MEZ004-182245-
+Top of Mount Katahdin-
+342 AM EST Sun Feb 18 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit in and out of clouds, then becoming mostly cloudy
+late this morning, then becoming mostly sunny. A chance of snow
+until mid morning...then a slight chance of snow late this morning.
+High around 20. Northwest winds 10 to 20 mph. Chance of
+precipitation 50 percent. Wind chill values as low as 1 below. No
+lightning risk. 
+.TONIGHT...Partly cloudy and brisk. Low around 14. West winds 15 to
+25 mph. Wind chill values as low as zero. No lightning risk. 
+.WASHINGTONS BIRTHDAY...Partly sunny with strong winds. Not as cool
+with high around 31. Southwest winds 30 to 45 mph. Wind chill values
+as low as 5 above. No lightning risk. 
+
+$$
+
+MEZ005-182245-
+Katahdin Woods and Waters National Monument-
+342 AM EST Sun Feb 18 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Cloudy until mid morning, then becoming partly sunny. A
+chance of snow until mid morning...then a slight chance of snow late
+this morning. High around 32. Northwest winds 10 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 20. West winds around 10 mph
+until midnight becoming light winds. No lightning risk. 
+.WASHINGTONS BIRTHDAY...Partly sunny. High around 37. South winds
+10 to 15 mph. Wind chill values as low as 10 above in the morning.
+No lightning risk. 
+
+$$
+
+MEZ029-182245-
+Top of Cadillac Mountain-
+342 AM EST Sun Feb 18 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Summit obscured, then becoming partly sunny early this
+afternoon, then becoming sunny. Snow this morning. High around 32.
+East winds 10 to 15 mph shifting to the northwest 15 to 20 mph this
+afternoon. Chance of precipitation near 100 percent. No lightning
+risk. 
+.TONIGHT...Clear, brisk with low around 27. West winds 10 to 25 mph.
+Wind chill values as low as 16. No lightning risk. 
+.WASHINGTONS BIRTHDAY...Mostly sunny in the morning, then summit
+becoming obscured. Strong winds with high around 40. Southwest winds
+25 to 40 mph increasing to 40 to 45 mph in the afternoon. Wind chill
+values as low as 19. No lightning risk. 
+
+$$
+
+MEZ001-182245-
+Top of Deboullie Mountain-
+342 AM EST Sun Feb 18 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Summit in and out of clouds, then becoming mostly cloudy
+early this afternoon, then becoming partly sunny. A chance of snow
+until mid morning. High around 28. West winds 10 to 15 mph. Chance
+of precipitation 30 percent. Wind chill values as low as 6 above. No
+lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 18. Southwest winds 10 to 15 mph. Wind chill
+values as low as 6 above. No lightning risk. 
+.WASHINGTONS BIRTHDAY...Mostly cloudy in the morning, then becoming
+partly sunny. A slight chance of snow in the morning. High around
+34. South winds around 15 mph. Chance of precipitation 20 percent.
+Wind chill values as low as 7 above in the morning. No lightning
+risk. 
+
+$$
+
+MEZ006-182245-
+Top of Mars Hill Mountain-
+342 AM EST Sun Feb 18 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Summit in and out of clouds through early afternoon, then
+becoming mostly cloudy. Snow likely until mid morning...then a
+chance of snow late this morning. Not as cool with high around 30.
+Southwest winds around 10 mph shifting to the west this afternoon.
+Chance of precipitation 70 percent. Wind chill values as low as
+7 above. No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 18. West winds 10 to 15 mph. No
+lightning risk. 
+.WASHINGTONS BIRTHDAY...Mostly cloudy in the morning, then becoming
+partly sunny. High around 35. South winds 10 to 20 mph. Wind chill
+values as low as 15. No lightning risk. 
+
+$$
+
+MEZ010-182245-
+Top of White Cap Mountain-
+342 AM EST Sun Feb 18 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Summit in and out of clouds, then becoming partly sunny
+late this morning, then becoming mostly cloudy, then becoming partly
+sunny late. A chance of snow until mid morning...then a slight
+chance of snow late this morning. High around 23. Northwest winds
+10 to 20 mph. Chance of precipitation 50 percent. Wind chill values
+as low as 5 above. No lightning risk. 
+.TONIGHT...Partly cloudy and brisk. Low around 19. West winds 10 to
+15 mph increasing to 10 to 25 mph after midnight. Wind chill values
+as low as 5 above. No lightning risk. 
+.WASHINGTONS BIRTHDAY...Partly sunny and very windy. High around 32.
+Southwest winds 30 to 40 mph. Wind chill values as low as 7 above.
+No lightning risk. 
+
+$$
+
+MEZ010-182245-
+Moosehead Lake-
+342 AM EST Sun Feb 18 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Cloudy until mid morning, then becoming partly sunny. A
+chance of snow until mid morning. High around 30. Northwest winds
+10 mph. Chance of precipitation 40 percent. No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 20. West winds around 10 mph
+until midnight becoming light winds. No lightning risk. 
+.WASHINGTONS BIRTHDAY...Partly sunny. High around 37. South winds
+10 to 15 mph. Wind chill values as low as 11 in the morning. No
+lightning risk. 
+
+$$
+
+MEZ001-182245-
+Allagash Wilderness Waterway-
+342 AM EST Sun Feb 18 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny. A
+chance of snow until mid morning. High around 30. West winds around
+10 mph. Chance of precipitation 30 percent. No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 18. West winds around 10 mph
+until midnight becoming light winds. No lightning risk. 
+.WASHINGTONS BIRTHDAY...Mostly cloudy in the morning, then becoming
+partly sunny. High around 36. South winds around 10 mph. Wind chill
+values as low as 17. No lightning risk. 
+
+$$
+
+MEZ030-182245-
+St Croix River-
+342 AM EST Sun Feb 18 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+Snow this morning...then a slight chance of snow early this
+afternoon. Not as cool with high around 35. Light winds becoming
+northwest around 10 mph this afternoon. Chance of precipitation
+80 percent. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 21. Light winds. No lightning
+risk. 
+.WASHINGTONS BIRTHDAY...Partly sunny. High around 43. South winds
+10 to 15 mph. Wind chill values as low as 16 in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-182245-
+West Quoddy Head-
+342 AM EST Sun Feb 18 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Cloudy this morning, then becoming partly sunny. Snow this
+morning...then a slight chance of rain and snow early this
+afternoon. High around 36. East winds 10 to 15 mph shifting to the
+northwest this afternoon. Chance of precipitation 90 percent. No
+lightning risk. Water temperature 40 degrees Fahrenheit. 
+.TONIGHT...Mostly clear. Low around 28. Northwest winds around
+10 mph. No lightning risk. Water temperature 40 degrees Fahrenheit. 
+.WASHINGTONS BIRTHDAY...Partly sunny. High around 45. South winds
+10 to 20 mph. No lightning risk. Water temperature 40 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-182245-
+Upper Penobscot Watershed-
+342 AM EST Sun Feb 18 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy until mid morning, then becoming partly sunny. A
+chance of snow until mid morning...then a slight chance of snow late
+this morning. High around 34. Northwest winds 10 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 20. West winds around 10 mph until midnight becoming
+light winds. No lightning risk. 
+.WASHINGTONS BIRTHDAY...Partly sunny. High around 40. South winds
+10 to 15 mph. Wind chill values as low as 12 in the morning. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-182245-
+Lower Penobscot Watershed-
+342 AM EST Sun Feb 18 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy, then becoming partly sunny late this morning and
+early afternoon, then becoming sunny. Snow likely until mid
+morning...then a chance of snow late this morning. High around 36.
+Northwest winds 10 mph. Chance of precipitation 70 percent. No
+lightning risk. 
+.TONIGHT...Mostly clear. Low around 22. West winds around 10 mph
+until midnight becoming light winds. No lightning risk. 
+.WASHINGTONS BIRTHDAY...Partly sunny. High around 43. South winds
+15 mph increasing to 10 to 15 mph in the afternoon. Wind chill
+values as low as 15 in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

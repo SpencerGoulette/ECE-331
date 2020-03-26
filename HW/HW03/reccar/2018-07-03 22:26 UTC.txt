@@ -1,0 +1,190 @@
+
+278 
+SXUS41 KCAR 032226
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+626 PM EDT Tue Jul 3 2018
+
+MEZ004-041230-
+Top of Mount Katahdin-
+626 PM EDT Tue Jul 3 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Mostly clear. Low around 59. Northwest winds 10 to 20 
+mph. No lightning risk. 
+.INDEPENDENCE DAY...Partly sunny. High around 70. Northwest winds
+10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ005-041230-
+Katahdin Woods and Waters National Monument-
+626 PM EDT Tue Jul 3 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.OVERNIGHT...Clear. Low around 64. Northwest winds 10 mph until
+midnight becoming light winds. No lightning risk. 
+.INDEPENDENCE DAY...Sunny in the morning, then becoming partly
+sunny. Hot with high around 90. Light winds becoming west around
+10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-041230-
+Top of Cadillac Mountain-
+626 PM EDT Tue Jul 3 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Mostly cloudy. Isolated thunderstorms and showers early
+this evening. Low around 67. West winds around 10 mph. Chance of 
+precipitation 20 percent. Lightning risk is limited. 
+.INDEPENDENCE DAY...Partly sunny in the morning, then clearing. High
+around 82. Light winds becoming southwest 10 to 15 mph in the
+afternoon. No lightning risk. 
+
+$$
+
+MEZ001-041230-
+Top of Deboullie Mountain-
+626 PM EDT Tue Jul 3 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.OVERNIGHT...Clear. Low around 61. West winds 10 to 15 mph. No
+lightning risk. 
+.INDEPENDENCE DAY...Partly sunny. Scattered showers and isolated
+thunderstorms in the afternoon. High around 84. West winds 10 to
+15 mph. Chance of precipitation 30 percent. Lightning risk is
+limited. 
+
+$$
+
+MEZ006-041230-
+Top of Mars Hill Mountain-
+626 PM EDT Tue Jul 3 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.OVERNIGHT...Clear. Low around 63. Northwest winds 10 to 15 mph. No
+lightning risk. 
+.INDEPENDENCE DAY...Partly sunny. Isolated showers and thunderstorms
+in the afternoon. High around 88. West winds around 10 mph. Chance
+of precipitation 20 percent. Lightning risk is limited. 
+
+$$
+
+MEZ010-041230-
+Top of White Cap Mountain-
+626 PM EDT Tue Jul 3 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.OVERNIGHT...Mostly clear. Low around 64. Northwest winds around
+15 mph. No lightning risk. 
+.INDEPENDENCE DAY...Sunny in the morning, then becoming partly
+sunny. High around 78. Northwest winds around 10 mph. No lightning
+risk. 
+
+$$
+
+MEZ010-041230-
+Moosehead Lake-
+626 PM EDT Tue Jul 3 2018
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Clear. Low around 64. Northwest winds 10 mph until
+midnight becoming light winds. Waves 1 foot. No lightning risk.
+Water temperature 61 degrees Fahrenheit. 
+.INDEPENDENCE DAY...Mostly sunny. High around 86. Waves 1 foot.
+Light winds becoming west around 10 mph in the afternoon. No
+lightning risk. Water temperature 61 degrees Fahrenheit. 
+
+$$
+
+MEZ001-041230-
+Allagash Wilderness Waterway-
+626 PM EDT Tue Jul 3 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.OVERNIGHT...Clear, cooler with low around 59. West winds 10 mph
+until midnight becoming light winds. No lightning risk. 
+.INDEPENDENCE DAY...Partly sunny. Isolated showers and thunderstorms
+in the afternoon. High around 88. West winds 10 mph. Chance of
+precipitation 20 percent. Lightning risk is limited. 
+
+$$
+
+MEZ030-041230-
+St Croix River-
+626 PM EDT Tue Jul 3 2018
+
+...ST CROIX RIVER...
+
+.OVERNIGHT...Partly cloudy early this evening, then becoming mostly
+clear. Isolated thunderstorms early this evening. Low around 62. 
+Light winds. Chance of precipitation 20 percent. Lightning risk is 
+limited.
+.INDEPENDENCE DAY...Mostly sunny. Hot with high around 92. Light
+winds becoming west around 10 mph in the afternoon. No lightning
+risk. 
+
+$$
+
+MEZ030-041230-
+West Quoddy Head-
+626 PM EDT Tue Jul 3 2018
+
+...WEST QUODDY HEAD...
+
+.OVERNIGHT...Mostly cloudy. Isolated showers and thunderstorms early
+this evening. Low around 53. Southwest winds around 10 mph until
+midnight becoming light winds. Chance of precipitation 20 percent.
+Lightning risk is limited. Water temperature 50 degrees Fahrenheit. 
+.INDEPENDENCE DAY...Partly sunny in the morning, then clearing.
+Warmer with high around 73. Light winds becoming south 10 to 15 mph
+in the afternoon. No lightning risk. Water temperature 50 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-041230-
+Upper Penobscot Watershed-
+626 PM EDT Tue Jul 3 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Clear. Low around 65. Northwest winds 10 mph until
+midnight becoming light winds. No lightning risk. 
+.INDEPENDENCE DAY...Mostly sunny. Hot with high around 91. Light
+winds becoming west around 10 mph in the afternoon. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-041230-
+Lower Penobscot Watershed-
+626 PM EDT Tue Jul 3 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Mostly clear. Low around 65. West winds 10 mph until 
+midnight becoming light winds. 
+.INDEPENDENCE DAY...Sunny, hot with high around 93. Light winds
+becoming west around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

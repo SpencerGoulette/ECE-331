@@ -1,0 +1,225 @@
+
+152 
+SXUS41 KCAR 122003
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+303 PM EST Sun Jan 12 2020
+
+MEZ004-131015-
+Top of Mount Katahdin-
+303 PM EST Sun Jan 12 2020
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured, then becoming mostly cloudy through
+early morning, then becoming partly cloudy. A chance of snow early
+this evening. Much colder with low around 5 above. Northeast winds
+10 to 20 mph. Chance of precipitation 40 percent. Wind chill values
+as low as 12 below. No lightning risk. 
+.MONDAY...Partly sunny in the morning, then becoming cloudy.
+Numerous snow showers in the afternoon. Windy with high around 16.
+Southeast winds 10 to 20 mph increasing to south 20 to 35 mph in the
+afternoon. Chance of precipitation 60 percent. Wind chill values as
+low as 10 below. No lightning risk. 
+
+$$
+
+MEZ005-131015-
+Katahdin Woods and Waters National Monument-
+303 PM EST Sun Jan 12 2020
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. A chance of snow early this evening. Much colder with low
+around 5 above. North winds 10 to 15 mph decreasing to 10 mph after
+midnight. Chance of precipitation 40 percent. No lightning risk. 
+.MONDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Scattered snow showers in the afternoon. High around 19. Northeast
+winds 10 mph shifting to the southeast in the afternoon. Chance of
+precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ029-131015-
+Top of Cadillac Mountain-
+303 PM EST Sun Jan 12 2020
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured, then summit in and out of clouds late
+this evening, then becoming mostly cloudy. Brisk and much cooler
+with low around 16. North winds 15 to 30 mph shifting to the
+northeast 10 to 20 mph after midnight. Wind chill values as low as
+4 above. No lightning risk. 
+.MONDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. Scattered snow showers. Cooler with high around
+30. Southeast winds 10 to 20 mph. Chance of precipitation
+50 percent. Wind chill values as low as 9 above. No lightning risk. 
+
+$$
+
+MEZ001-131015-
+Top of Deboullie Mountain-
+303 PM EST Sun Jan 12 2020
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds, then becoming mostly cloudy
+late this evening, then becoming partly cloudy. A chance of snow
+early this evening. Colder with low around zero. North winds 10 to
+15 mph decreasing to 10 mph after midnight. Chance of precipitation
+40 percent. No lightning risk. 
+.MONDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Scattered snow showers in the afternoon. High around 14. East winds
+10 mph. Chance of precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ006-131015-
+Top of Mars Hill Mountain-
+303 PM EST Sun Jan 12 2020
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit in and out of clouds, then becoming mostly cloudy
+late this evening, then becoming partly cloudy. A chance of snow
+early this evening. Much colder with low around 3 above. North winds
+10 to 20 mph. Chance of precipitation 40 percent. Wind chill values
+as low as 6 below. No lightning risk. 
+.MONDAY...Partly sunny in the morning, then summit becoming
+obscured. Scattered snow showers in the afternoon. High around 17.
+Northeast winds 10 mph shifting to the southeast in the afternoon.
+Chance of precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ010-131015-
+Top of White Cap Mountain-
+303 PM EST Sun Jan 12 2020
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured, then becoming mostly cloudy late this
+evening, then becoming partly cloudy. A chance of snow early this
+evening. Much colder with low around 5 above. Northeast winds 10 to
+25 mph. Chance of precipitation 30 percent. Wind chill values as low
+as 10 below. No lightning risk. 
+.MONDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Scattered snow showers in the afternoon. Brisk with high around 17.
+Southeast winds 10 to 20 mph increasing to south 20 to 30 mph in the
+afternoon. Chance of precipitation 50 percent. Wind chill values as
+low as 10 below. No lightning risk. 
+
+$$
+
+MEZ010-131015-
+Moosehead Lake-
+303 PM EST Sun Jan 12 2020
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. A slight chance of snow early this evening. Much colder with
+low around 7 above. North winds 10 to 15 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 3 below. No
+lightning risk. 
+.MONDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Scattered snow showers in the afternoon. High around 21. East winds
+10 to 15 mph shifting to the south in the afternoon. Chance of
+precipitation 40 percent. Wind chill values as low as 1 below. No
+lightning risk. 
+
+$$
+
+MEZ001-131015-
+Allagash Wilderness Waterway-
+303 PM EST Sun Jan 12 2020
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. A chance of snow early this evening. Much colder with low
+around zero. North winds 10 to 15 mph decreasing to 10 mph after
+midnight. Chance of precipitation 40 percent. No lightning risk. 
+.MONDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Scattered snow showers in the afternoon. High around 17. Southeast
+winds 10 mph. Chance of precipitation 40 percent. No lightning risk.
+
+$$
+
+MEZ030-131015-
+St Croix River-
+303 PM EST Sun Jan 12 2020
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. A chance of snow early this evening. Much cooler with low
+around 10 above. North winds 10 to 15 mph decreasing to 10 mph after
+midnight. Chance of precipitation 30 percent. No lightning risk. 
+.MONDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Scattered snow showers in the afternoon. High around 25. East winds
+10 mph. Chance of precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ030-131015-
+West Quoddy Head-
+303 PM EST Sun Jan 12 2020
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. A slight chance of snow early this evening. Much cooler with
+low around 21. North winds 10 to 20 mph. Chance of precipitation
+20 percent. Wind chill values as low as 9 above. No lightning risk.
+Water temperature 43 degrees Fahrenheit. 
+.MONDAY...Mostly cloudy. Scattered snow showers. High around 34.
+Northeast winds 10 to 15 mph shifting to the southeast in the
+afternoon. Chance of precipitation 40 percent. Wind chill values as
+low as 10 above in the morning. No lightning risk. Water temperature
+43 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-131015-
+Upper Penobscot Watershed-
+303 PM EST Sun Jan 12 2020
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. A chance of snow early this evening. Much colder with low
+around 7 above. North winds 10 to 15 mph decreasing to 10 mph after
+midnight. Chance of precipitation 40 percent. Wind chill values as
+low as 1 below. No lightning risk. 
+.MONDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Scattered snow showers in the afternoon. High around 21. Northeast
+winds 10 mph shifting to the southeast in the afternoon. Chance of
+precipitation 50 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-131015-
+Lower Penobscot Watershed-
+303 PM EST Sun Jan 12 2020
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Much cooler with low around 12. North winds 10 to 15 mph.
+Wind chill values as low as 2 above. No lightning risk. 
+.MONDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Scattered snow showers in the afternoon. High around 25. East winds
+10 mph. Chance of precipitation 50 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

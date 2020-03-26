@@ -1,0 +1,234 @@
+
+117 
+SXUS41 KCAR 182154
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+454 PM EST Sat Nov 18 2017
+
+MEZ004-191200-
+Top of Mount Katahdin-
+454 PM EST Sat Nov 18 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy...then summit in and out of clouds after
+midnight...then summit becoming obscured. A chance of freezing
+rain...snow and sleet late this evening. Sleet with freezing rain 
+likely after midnight. Rain after midnight. Very windy and not as 
+cool with an early low around 29. South winds 25 to 35 mph 
+increasing to 35 to 45 mph after midnight. Chance of precipitation 
+near 100 percent. Wind chill values as low as 14. No lightning risk. 
+.SUNDAY...Summit obscured. Rain. A slight chance of snow in the 
+afternoon. Very windy with high around 40. Southwest winds 35 to 45 
+mph. Chance of precipitation near 100 percent. Wind chill values as 
+low as 19. No lightning risk. 
+
+$$
+
+MEZ005-191200-
+Katahdin Woods and Waters National Monument-
+454 PM EST Sat Nov 18 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. A chance of snow until midnight. A chance of 
+freezing rain. Rain with sleet likely after midnight. Patchy fog 
+after midnight. Early lows around 28. Southeast winds around 10 mph.
+Chance of precipitation near 100 percent. No lightning risk.
+.SUNDAY...Cloudy. Patchy fog. Rain. Not as cool with high around 45.
+Southeast winds 10 to 15 mph shifting to the south 15 to 25 mph in 
+the afternoon. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+$$
+
+MEZ029-191200-
+Top of Cadillac Mountain-
+454 PM EST Sat Nov 18 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy until midnight...then summit becoming obscured. A
+slight chance of rain early this evening...then a chance of rain
+late this evening. Rain after midnight. Strong winds and not as cool
+with an early low around 39. Southwest winds 20 to 30 mph increasing
+to 35 to 45 mph after midnight. Chance of precipitation near 100 
+percent. No lightning risk. 
+.SUNDAY...Summit obscured. Rain. Strong winds and not as cool with 
+high around 52. Southwest winds 45 to 55 mph. Chance of precipitation
+near 100 percent. No lightning risk. 
+
+$$
+
+MEZ001-191200-
+Top of Deboullie Mountain-
+454 PM EST Sat Nov 18 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy through early morning...then summit becoming
+obscured. A chance of freezing rain and snow after midnight.
+Freezing rain...snow and sleet late. Patchy fog late. Early low 
+around 24. Southeast winds 10 to 20 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.SUNDAY...Summit obscured. Patchy fog. Freezing rain in the morning.
+Rain. Not as cool with high around 41. South winds 15 to 25 mph. 
+Chance of precipitation near 100 percent. Wind chill values as low as
+21. No lightning risk. 
+
+$$
+
+MEZ006-191200-
+Top of Mars Hill Mountain-
+454 PM EST Sat Nov 18 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy through early morning...then summit in and out of
+clouds. A chance of freezing rain and snow after midnight. Freezing 
+rain and snow late. Patchy fog late. Windy with an early low around 
+23. South winds 10 to 20 mph increasing to southeast 20 to 30 mph 
+after midnight. Chance of precipitation near 100 percent. No 
+lightning risk. 
+.SUNDAY...Summit obscured. Freezing rain in the morning. Rain, windy
+and not as cool with high around 45. South winds 25 to 35 mph. 
+Chance of precipitation near 100 percent. Wind chill values as low as
+15 in the morning. No lightning risk. 
+
+$$
+
+MEZ010-191200-
+Top of White Cap Mountain-
+454 PM EST Sat Nov 18 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy until midnight...then summit becoming obscured. A
+chance of freezing rain...snow and sleet until midnight...then rain 
+and sleet with freezing rain likely after midnight. Patchy fog after 
+midnight. Very windy and not as cool with an early low around 30. 
+South winds 25 to 35 mph. Chance of precipitation near 100 percent. 
+Wind chill values as low as 17. No lightning risk. 
+.SUNDAY...Summit obscured. Rain. A slight chance of snow in the 
+afternoon. Very windy and not as cool with high around 44. Southwest 
+winds 30 to 40 mph. Chance of precipitation near 100 percent. Wind 
+chill values as low as 21. No lightning risk. 
+
+$$
+
+MEZ010-191200-
+Moosehead Lake-
+454 PM EST Sat Nov 18 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. A chance of snow until midnight. Freezing rain 
+and sleet. Rain after midnight. Patchy fog after midnight. Early low
+around 29. Southeast winds around 10 mph. Waves 2 feet. Chance of 
+precipitation near 100 percent. No lightning risk. Water temperature 
+55 degrees Fahrenheit. 
+.SUNDAY...Cloudy. Patchy fog. Rain. High around 42. Waves 4 feet.
+Southeast winds around 10 mph shifting to the southwest 15 to 25 mph
+in the afternoon. Chance of precipitation near 100 percent. No 
+lightning risk. Water temperature 55 degrees Fahrenheit. 
+
+$$
+
+MEZ001-191200-
+Allagash Wilderness Waterway-
+454 PM EST Sat Nov 18 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. A slight chance of freezing rain until midnight.
+A slight chance of snow. Freezing rain...sleet and rain after 
+midnight. Patchy fog after midnight. Not as cool with an early low 
+around 26. Southeast winds around 10 mph. Chance of precipitation 
+near 100 percent. No lightning risk. 
+.SUNDAY...Cloudy. Patchy fog. Rain. Not as cool with high around 42.
+Southeast winds 10 to 20 mph with gusts to around 30 mph. Chance of 
+precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ030-191200-
+St Croix River-
+454 PM EST Sat Nov 18 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. A slight chance of rain and snow late this
+evening. Rain after midnight. Patchy fog after midnight. Not as cool
+with an early low around 33. Light winds becoming southeast 10 to 15
+mph after midnight. Chance of precipitation near 100 percent. No 
+lightning risk. 
+.SUNDAY...Cloudy. Patchy fog. Rain. Not as cool with high around 52.
+Southeast winds 15 to 25 mph shifting to the southwest in the 
+afternoon. 29. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+$$
+
+MEZ030-191200-
+West Quoddy Head-
+454 PM EST Sat Nov 18 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. A slight chance of rain late this evening. Rain 
+after midnight. Patchy fog after midnight. Not as cool with an early  
+low around 41. South winds 10 to 20 mph. Chance of precipitation near
+100 percent. No lightning risk. Water temperature 52 degrees 
+Fahrenheit.
+.SUNDAY...Cloudy. Patchy fog. Rain, windy and not as cool with high
+around 55. South winds 25 to 30 mph. Chance of precipitation near
+100 percent. No lightning risk. Water temperature 52 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-191200-
+Upper Penobscot Watershed-
+454 PM EST Sat Nov 18 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A chance of rain...snow and freezing rain and 
+sleet late this evening. Freezing rain and sleet likely after 
+midnight. Rain after midnight. Patchy fog after midnight. Not as 
+cool with an early low around 31. Southeast winds around 10 mph. 
+Chance of precipitation near 100 percent. No lightning risk. 
+.SUNDAY...Cloudy. Patchy fog. Rain. Not as cool with high around 48.
+Southeast winds 10 to 15 mph shifting to the southwest 15 to 25 mph 
+in the afternoon. 34. Chance of precipitation near 100 percent. No 
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-191200-
+Lower Penobscot Watershed-
+454 PM EST Sat Nov 18 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A slight chance of rain early this evening...then
+a chance of rain and snow late this evening. Rain after midnight. 
+Patchy fog after midnight. Not as cool with an early low around 34. 
+Southeast winds around 10 mph. Chance of precipitation near 100 
+percent. No lightning risk. 
+.SUNDAY...Cloudy. Patchy fog. Rain. Not as cool with high around 51.
+South winds 10 to 15 mph shifting to the southwest 15 to 25 mph in 
+the afternoon. 34. Chance of precipitation near 100 percent. No 
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

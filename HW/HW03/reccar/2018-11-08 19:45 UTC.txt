@@ -1,0 +1,183 @@
+
+334 
+SXUS41 KCAR 081945
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+245 PM EST Thu Nov 8 2018
+
+MEZ004-090945-
+Top of Mount Katahdin-
+245 PM EST Thu Nov 8 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds through early morning, then
+becoming partly cloudy. Low around 20. Northwest winds 15 to 20 mph.
+Wind chill values as low as 7 above. No lightning risk. 
+.FRIDAY...Partly sunny. High around 29. Northwest winds 10 to 15 mph
+in the morning becoming light winds. Wind chill values as low as
+11 in the morning. No lightning risk. 
+
+$$
+
+MEZ005-090945-
+Katahdin Woods and Waters National Monument-
+245 PM EST Thu Nov 8 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Cooler with low around 29. West winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.FRIDAY...Partly sunny. High around 41. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ029-090945-
+Top of Cadillac Mountain-
+245 PM EST Thu Nov 8 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 35. Northwest winds 10 to 15 mph. No
+lightning risk. 
+.FRIDAY...Partly sunny. High around 41. North winds around 10 mph
+shifting to the east in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-090945-
+Top of Deboullie Mountain-
+245 PM EST Thu Nov 8 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds, then becoming mostly cloudy
+after midnight, then becoming partly cloudy. Cooler with low around
+25. West winds 10 to 15 mph. No lightning risk. 
+.FRIDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 35. Northwest winds around 10 mph in the morning
+becoming light winds. No lightning risk. 
+
+$$
+
+MEZ006-090945-
+Top of Mars Hill Mountain-
+245 PM EST Thu Nov 8 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Cooler with low around 27. West winds 10 to 15 mph. No
+lightning risk. 
+.FRIDAY...Mostly sunny. High around 38. Northwest winds around
+10 mph in the morning becoming light winds. No lightning risk. 
+
+$$
+
+MEZ010-090945-
+Top of White Cap Mountain-
+245 PM EST Thu Nov 8 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds, then summit becoming
+obscured through early morning, then summit in and out of clouds.
+Low around 25. Northwest winds around 15 mph. No lightning risk. 
+.FRIDAY...Partly sunny. High around 31. North winds 10 to 15 mph in
+the morning becoming light winds. No lightning risk. 
+
+$$
+
+MEZ010-090945-
+Moosehead Lake-
+245 PM EST Thu Nov 8 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Cooler with low around 29. West winds
+around 10 mph until midnight becoming light winds. Waves 2 feet. No
+lightning risk. Water temperature 56 degrees Fahrenheit. 
+.FRIDAY...Partly sunny. High around 40. Waves 1 foot. Light winds.
+No lightning risk. Water temperature 56 degrees Fahrenheit. 
+
+$$
+
+MEZ001-090945-
+Allagash Wilderness Waterway-
+245 PM EST Thu Nov 8 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Cooler with low around 25. West winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.FRIDAY...Partly sunny. High around 39. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ030-090945-
+St Croix River-
+245 PM EST Thu Nov 8 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy through early morning, then clearing. Low
+around 31. West winds around 10 mph until midnight becoming light
+winds. No lightning risk. 
+.FRIDAY...Sunny in the morning, then becoming partly sunny. High
+around 45. Light winds. No lightning risk. 
+
+$$
+
+MEZ030-090945-
+West Quoddy Head-
+245 PM EST Thu Nov 8 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Low around 38. West winds 10 to 15 mph. No
+lightning risk. Water temperature 52 degrees Fahrenheit. 
+.FRIDAY...Mostly sunny. High around 46. Northwest winds around
+10 mph in the morning becoming light winds. No lightning risk. Water
+temperature 52 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-090945-
+Upper Penobscot Watershed-
+245 PM EST Thu Nov 8 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy. Cooler with low around 30. West winds
+around 10 mph until midnight becoming light winds. No lightning
+risk. 
+.FRIDAY...Partly sunny. High around 43. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-090945-
+Lower Penobscot Watershed-
+245 PM EST Thu Nov 8 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Cooler with low around 30. West winds
+around 10 mph until midnight becoming light winds. No lightning
+risk. 
+.FRIDAY...Partly sunny. High around 45. Light winds. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

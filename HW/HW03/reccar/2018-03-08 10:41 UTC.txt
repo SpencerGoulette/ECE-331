@@ -1,0 +1,261 @@
+
+647 
+SXUS41 KCAR 081041
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+541 AM EST Thu Mar 8 2018
+
+MEZ004-090000-
+Top of Mount Katahdin-
+541 AM EST Thu Mar 8 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit obscured. Snow. Very windy with high around 19. East
+winds 30 to 40 mph. Chance of precipitation near 100 percent. Wind 
+chill values as low as 7 below. No lightning risk.
+.TONIGHT...Summit obscured until midnight, then summit in and out of
+clouds. Snow, windy with low around 15. East winds 15 to 30 mph
+becoming south 15 mph after midnight. Chance of precipitation near
+100 percent. Wind chill values as low as 1 below. No lightning risk.
+.FRIDAY...Summit in and out of clouds. A chance of snow in the 
+morning...then snow likely in the afternoon. Windy with high around 
+23. Southeast winds 15 to 30 mph shifting to the northeast around 30 
+mph in the afternoon. Chance of precipitation 60 percent. Wind chill 
+values as low as 1 above. No lightning risk. 
+
+$$
+
+MEZ005-090000-
+Katahdin Woods and Waters National Monument-
+541 AM EST Thu Mar 8 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Cloudy, snow. High around 29. Northeast winds 15 to 20 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 10 above. No lightning risk. 
+.TONIGHT...Cloudy, snow. Low around 26. Northeast winds 10 to
+15 mph. Chance of precipitation near 100 percent. No lightning risk.
+.FRIDAY...Cloudy. A chance of snow with a slight chance of rain in
+the morning...then rain likely in the afternoon. High around 37.
+Light winds. Chance of precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ029-090000-
+Top of Cadillac Mountain-
+541 AM EST Thu Mar 8 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Summit obscured. Areas of blowing snow this morning. Snow
+through early afternoon. Snow likely late. Snow may be heavy at 
+times until mid morning. Strong winds with high around 32. East winds
+around 55 mph becoming northeast and decreasing to 35 to 50 mph this
+afternoon. Chance of precipitation near 100 percent. Wind chill 
+values as low as 6 above. No lightning risk. 
+.TONIGHT...Summit obscured until midnight, then summit in and out of
+clouds. A chance of snow until midnight...then a slight chance of
+snow after midnight. Brisk with low around 28. Northwest winds 20 to
+25 mph shifting to the southwest after midnight. Chance of
+precipitation 30 percent. Wind chill values as low as 16. No
+lightning risk. 
+.FRIDAY...Summit obscured in the morning, then summit in and out of
+clouds. A chance of snow in the morning...then a slight chance of
+rain and snow in the afternoon. High around 33. South winds 15 to
+20 mph. Chance of precipitation 30 percent. Wind chill values as low
+as 18. No lightning risk. 
+
+$$
+
+MEZ001-090000-
+Top of Deboullie Mountain-
+541 AM EST Thu Mar 8 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Summit obscured this morning, then summit in and out of
+clouds. Snow, brisk with high around 23. East winds 20 to 25 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 4 above. No lightning risk. 
+.TONIGHT...Summit in and out of clouds. Snow. Near steady
+temperatures around 23. East winds 15 to 20 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as 9 above.
+No lightning risk. 
+.FRIDAY...Summit obscured in the morning, then summit in and out of
+clouds. Snow likely in the morning...then a chance of rain and snow
+in the afternoon. Not as cool with high around 33. East winds 10 to
+15 mph. Chance of precipitation 70 percent. Wind chill values as low
+as 11 in the morning. No lightning risk. 
+
+$$
+
+MEZ006-090000-
+Top of Mars Hill Mountain-
+541 AM EST Thu Mar 8 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Summit in and out of clouds. Snow, brisk with high around
+25. East winds around 25 mph. Chance of precipitation near
+100 percent. Wind chill values as low as 6 above. No lightning risk.
+.TONIGHT...Summit in and out of clouds until midnight, then summit
+becoming obscured. Snow, brisk. Near steady temperatures around 25.
+East winds around 25 mph decreasing to 15 to 20 mph after midnight.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 10 above. No lightning risk. 
+.FRIDAY...Summit obscured in the morning, then summit in and out of
+clouds. A chance of snow in the morning...then a chance of rain in
+the afternoon. Not as cool with high around 35. Southeast winds
+around 15 mph. Chance of precipitation 50 percent. Wind chill values
+as low as 13 in the morning. No lightning risk. 
+
+$$
+
+MEZ010-090000-
+Top of White Cap Mountain-
+541 AM EST Thu Mar 8 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Summit in and out of clouds. Snow, windy with high around
+21. Northeast winds 20 to 30 mph. Chance of precipitation near
+100 percent. Wind chill values as low as 3 below. No lightning risk.
+.TONIGHT...Summit in and out of clouds. Snow until midnight...then a
+chance of snow after midnight. Low around 19. Northeast winds 10 to
+20 mph shifting to the west 10 to 15 mph after midnight. Chance of
+precipitation near 100 percent. Wind chill values as low as 5 above.
+No lightning risk. 
+.FRIDAY...Cloudy in the morning, then summit in and out of clouds. A
+chance of snow. High around 26. East winds 10 to 20 mph shifting to
+the northeast around 20 mph in the afternoon. Chance of
+precipitation 40 percent. Wind chill values as low as 9 above. No
+lightning risk. 
+
+$$
+
+MEZ010-090000-
+Moosehead Lake-
+541 AM EST Thu Mar 8 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Cloudy, snow. High around 29. Northeast winds around
+15 mph. Chance of precipitation near 100 percent. Wind chill values
+as low as 8 above. No lightning risk. 
+.TONIGHT...Cloudy, snow. Low around 23. North winds 10 to 15 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+.FRIDAY...Cloudy. A chance of snow in the morning...then a chance of
+rain in the afternoon. High around 36. Light winds. Chance of
+precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ001-090000-
+Allagash Wilderness Waterway-
+541 AM EST Thu Mar 8 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Cloudy, snow. High around 28. Northeast winds 15 to 20 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 10 above. No lightning risk. 
+.TONIGHT...Cloudy, snow. Low around 25. Northeast winds 10 to
+15 mph. Chance of precipitation near 100 percent. No lightning risk.
+.FRIDAY...Mostly cloudy. Snow likely in the morning. a slight chance
+of rain. High around 36. East winds around 10 mph. Chance of
+precipitation 70 percent. No lightning risk. 
+
+$$
+
+MEZ030-090000-
+St Croix River-
+541 AM EST Thu Mar 8 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Cloudy, snow. High around 33. Northeast winds 10 to 20 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 13. No lightning risk. 
+.TONIGHT...Cloudy. Snow until midnight...then a chance of snow after
+midnight. Low around 29. East winds 10 to 15 mph shifting to the
+south after midnight. Chance of precipitation 80 percent. No
+lightning risk. 
+.FRIDAY...Cloudy. A chance of snow in the morning. A chance of rain.
+High around 40. Light winds. Chance of precipitation 50 percent. No 
+lightning risk. 
+
+$$
+
+MEZ030-090000-
+West Quoddy Head-
+541 AM EST Thu Mar 8 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Cloudy. Areas of blowing snow this morning. Snow through
+early afternoon. Rain this afternoon. Snow may be heavy at times 
+until mid morning. Windy with high around 38. Northeast winds 25 to 
+30 mph shifting to the east 15 to 25 mph this afternoon. Chance of 
+precipitation near 100 percent. Wind chill values as low as 16. No 
+lightning risk. Water temperature 39 degrees Fahrenheit. 
+.TONIGHT...Cloudy. A chance of rain until midnight...then a slight
+chance of rain and snow after midnight. Low around 35. Southeast
+winds 10 to 15 mph shifting to the southwest after midnight. Chance
+of precipitation 40 percent. No lightning risk. Water temperature
+39 degrees Fahrenheit. 
+.FRIDAY...Cloudy. A slight chance of snow in the morning. a chance
+of rain. High around 41. Light winds. Chance of precipitation
+40 percent. No lightning risk. Water temperature 39 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-090000-
+Upper Penobscot Watershed-
+541 AM EST Thu Mar 8 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy, snow. High around 31. Northeast winds 15 to 20 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 10 above. No lightning risk. 
+.TONIGHT...Cloudy. Snow until midnight...then a chance of snow after
+midnight. Low around 26. North winds 10 to 15 mph shifting to the
+west after midnight. Chance of precipitation near 100 percent. No
+lightning risk. 
+.FRIDAY...Cloudy. A chance of snow with a slight chance of rain in
+the morning...then rain likely in the afternoon. High around 38.
+Light winds. Chance of precipitation 60 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-090000-
+Lower Penobscot Watershed-
+541 AM EST Thu Mar 8 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Cloudy. Areas of blowing snow this morning. Snow. High
+around 32. Northeast winds 15 to 20 mph. Chance of precipitation
+near 100 percent. Wind chill values as low as 13. No lightning risk.
+.TONIGHT...Cloudy. Snow likely until midnight...then a chance of
+snow after midnight. Low around 26. Northwest winds 10 to 15 mph
+shifting to the southwest after midnight. Chance of precipitation
+70 percent. No lightning risk. 
+.FRIDAY...Mostly cloudy. A slight chance of rain and snow in the
+morning...then a chance of rain in the afternoon. High around 39.
+Light winds. Chance of precipitation 50 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

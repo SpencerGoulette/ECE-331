@@ -1,0 +1,214 @@
+
+785 
+SXUS41 KCAR 022050
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+450 PM EDT Tue Apr 2 2019
+
+MEZ004-031000-
+Top of Mount Katahdin-
+450 PM EDT Tue Apr 2 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Windy and not as cool with low around 21. Southwest winds
+30 to 35 mph. Wind chill values as low as 4 above. No lightning
+risk. 
+.WEDNESDAY...Summit obscured. Snow, brisk with high around 27. 
+Southwest winds 10 to 30 mph. Chance of precipitation 80 percent. 
+Wind chill values as low as 8 above. No lightning risk. 
+
+$$
+
+MEZ005-031000-
+Katahdin Woods and Waters National Monument-
+450 PM EDT Tue Apr 2 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 27. South winds 10 to 15 mph. No lightning risk. 
+.WEDNESDAY...Cloudy, snow. Rain likely in the afternoon. High around
+39. Southeast winds 10 mph shifting to the north 10 to 15 mph in the
+afternoon. Chance of precipitation near 100 percent. No lightning 
+risk. 
+
+$$
+
+MEZ029-031000-
+Top of Cadillac Mountain-
+450 PM EDT Tue Apr 2 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy late this
+evening, then becoming mostly cloudy, then summit becoming obscured
+late. Snow likely late. Windy with low around 33. South winds 25 to
+35 mph. Chance of precipitation 60 percent. No lightning risk. 
+.WEDNESDAY...Summit obscured. Snow. Rain likely in the afternoon. 
+Windy with high around 41. East winds 25 to 35 mph shifting to the 
+north 20 to 35 mph in the afternoon. Chance of precipitation near 100
+percent. No lightning risk. 
+
+$$
+
+MEZ001-031000-
+Top of Deboullie Mountain-
+450 PM EDT Tue Apr 2 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy through early
+morning, then becoming mostly cloudy. Low around 22. South winds
+10 to 20 mph. Wind chill values as low as 12. No lightning risk. 
+.WEDNESDAY...Cloudy in the morning, then summit becoming obscured.
+Snow likely. High around 34. Southeast winds 10 to 15 mph. Chance of
+precipitation 60 percent. Wind chill values as low as 12 in the
+morning. No lightning risk. 
+
+$$
+
+MEZ006-031000-
+Top of Mars Hill Mountain-
+450 PM EDT Tue Apr 2 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Low around 24. South winds 10 to 20 mph. Wind chill values
+as low as 14. No lightning risk. 
+.WEDNESDAY...Cloudy in the morning, then summit becoming obscured.
+Snow. High around 36. Southeast winds 10 to 20 mph shifting to the
+northeast 10 to 15 mph in the afternoon. Chance of precipitation
+near 100 percent. Wind chill values as low as 19. No lightning risk.
+
+$$
+
+MEZ010-031000-
+Top of White Cap Mountain-
+450 PM EDT Tue Apr 2 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Very windy and not as cool. Near steady temperatures around
+26. South winds 25 to 45 mph. Wind chill values as low as 9 above.
+No lightning risk. 
+.WEDNESDAY...Summit obscured. Snow likely. High around 30. Southeast
+winds 10 to 25 mph shifting to the southwest in the afternoon. 
+Chance of precipitation 60 percent. Wind chill values as low as 14. 
+No lightning risk. 
+
+$$
+
+MEZ010-031000-
+Moosehead Lake-
+450 PM EDT Tue Apr 2 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Not as cool with low around 27. South winds 10 to 15 mph. No
+lightning risk. 
+.WEDNESDAY...Cloudy. A chance of snow. A chance of rain in the
+afternoon. High around 41. Southeast winds 10 mph shifting to the
+southwest 10 to 15 mph in the afternoon. Chance of precipitation
+50 percent. No lightning risk. 
+
+$$
+
+MEZ001-031000-
+Allagash Wilderness Waterway-
+450 PM EDT Tue Apr 2 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Not as cool with low around 26. South winds 10 to 15 mph.
+Wind chill values as low as 17. No lightning risk. 
+.WEDNESDAY...Cloudy. Snow likely in the morning...then a chance of
+rain and snow in the afternoon. High around 40. Southeast winds
+10 to 15 mph. Chance of precipitation 60 percent. Wind chill values
+as low as 17 in the morning. No lightning risk. 
+
+$$
+
+MEZ030-031000-
+St Croix River-
+450 PM EDT Tue Apr 2 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy through early
+morning, then becoming mostly cloudy. A chance of snow late. Not as
+cool with low around 29. South winds 10 to 15 mph. Chance of
+precipitation 40 percent. Wind chill values as low as 20. No
+lightning risk. 
+.WEDNESDAY...Cloudy, snow, cooler with high around 37. East winds
+10 to 15 mph shifting to the north 10 to 20 mph in the afternoon.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ030-031000-
+West Quoddy Head-
+450 PM EDT Tue Apr 2 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy through early
+morning, then becoming mostly cloudy. Snow likely late. Not as cool
+with low around 34. South winds 15 to 20 mph. Chance of
+precipitation 60 percent. No lightning risk. Water temperature
+38 degrees Fahrenheit. 
+.WEDNESDAY...Cloudy, snow. Rain in the afternoon. Breezy with high 
+around 39. Northeast winds 15 to 25 mph shifting to the north 20 to 
+30 mph in the afternoon. Chance of precipitation near 100 percent. No
+lightning risk. Water temperature 38 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-031000-
+Upper Penobscot Watershed-
+450 PM EDT Tue Apr 2 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A slight chance of snow late. Low around 28. South winds
+10 to 15 mph shifting to the southeast 10 mph after midnight. Chance
+of precipitation 20 percent. No lightning risk. 
+.WEDNESDAY...Cloudy, snow. A chance of rain in the afternoon. High
+around 41. East winds 10 to 15 mph shifting to the north in the
+afternoon. Chance of precipitation near 100 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-031000-
+Lower Penobscot Watershed-
+450 PM EDT Tue Apr 2 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear, then becoming partly cloudy through early
+morning, then becoming mostly cloudy. A chance of snow late. Not as
+cool with low around 30. Southeast winds 10 to 20 mph. Chance of
+precipitation 40 percent. No lightning risk. 
+.WEDNESDAY...Cloudy. Snow in the morning...then a chance of rain in
+the afternoon. High around 44. East winds 10 to 15 mph shifting to
+the north 10 to 20 mph in the afternoon. Chance of precipitation
+near 100 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

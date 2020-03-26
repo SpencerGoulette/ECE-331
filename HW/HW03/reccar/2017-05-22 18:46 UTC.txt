@@ -1,0 +1,83 @@
+
+665 
+SXUS41 KCAR 221846
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+246 PM EDT Mon May 22 2017
+
+MEZ004-230900-
+Top of Mount Katahdin-
+246 PM EDT Mon May 22 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Patchy fog. Showers likely. Near steady
+temperatures around 42. Southwest winds 15 to 20 mph. Chance of
+precipitation 70 percent. 
+.TUESDAY...Mostly cloudy. High around 47. West winds 15 to 20 mph. 
+
+$$
+
+MEZ029-230900-
+Top of Cadillac Mountain-
+246 PM EDT Mon May 22 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy until midnight...then summit becoming obscured.
+Showers likely. Patchy fog after midnight. Low around 47. South
+winds around 15 mph. Chance of precipitation 70 percent. 
+.TUESDAY...Summit obscured in the morning...then becoming partly
+sunny. Patchy fog in the morning. High around 61. Southwest winds
+around 10 mph. 
+
+$$
+
+MEZ010-230900-
+Moosehead Lake-
+246 PM EDT Mon May 22 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Showers likely until midnight...then scattered
+showers after midnight. Low around 45. South winds around 10 mph.
+Waves 2 feet. Chance of precipitation 70 percent. 
+.TUESDAY...Mostly cloudy in the morning...then becoming partly
+sunny. Warmer with high around 65. Waves 1 foot. Light winds
+becoming west around 10 mph in the afternoon. 
+
+$$
+
+MEZ004&gt;006-010-011-031-230900-
+Upper Penobscot Watershed-
+246 PM EDT Mon May 22 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Showers likely. Low around 46. South winds around
+10 mph. Chance of precipitation 70 percent. 
+.TUESDAY...Mostly cloudy in the morning...then becoming partly
+sunny. Warmer with high around 70. Southwest winds around 10 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-230900-
+Lower Penobscot Watershed-
+246 PM EDT Mon May 22 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Showers likely. Low around 48. South winds around
+10 mph. Chance of precipitation 70 percent. 
+.TUESDAY...Mostly cloudy in the morning...then becoming partly
+sunny. Warmer with high around 72. Light winds. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

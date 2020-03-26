@@ -1,0 +1,241 @@
+
+000
+SXUS41 KCAR 270810
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+310 AM EST Mon Jan 27 2020
+
+MEZ004-272215-
+Top of Mount Katahdin-
+310 AM EST Mon Jan 27 2020
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit obscured. Snow likely this morning...then snow 
+showers likely this afternoon. Brisk, cooler with high around 22. 
+Northwest winds 20 to 30 mph. Chance of precipitation 70 percent. 
+Wind chill values as low as 4 above. No lightning risk. 
+.TONIGHT...Summit in and out of clouds until midnight, then becoming
+cloudy. Scattered snow showers. Brisk, cooler with low around 11.
+North winds 20 to 30 mph. Chance of precipitation 50 percent. Wind
+chill values as low as 4 below. No lightning risk. 
+.TUESDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 15. North winds 15 to 20 mph. Wind chill values as low
+as 4 below. No lightning risk. 
+
+$$
+
+MEZ005-272215-
+Katahdin Woods and Waters National Monument-
+310 AM EST Mon Jan 27 2020
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Cloudy. Scattered snow showers. scattered rain showers this
+afternoon. High around 34. West winds 10 to 15 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Scattered snow showers until midnight.
+Cooler with low around 18. Northwest winds 10 to 15 mph. Chance of
+precipitation 40 percent. Wind chill values as low as 13. No
+lightning risk. 
+.TUESDAY...Partly sunny. High around 25. North winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ029-272215-
+Top of Cadillac Mountain-
+310 AM EST Mon Jan 27 2020
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny through early afternoon, then becoming cloudy
+with isolated rain and snow showers. Chance of precipitation 20 
+percent. High around 38. West winds 15 to 25 mph. Wind chill values 
+as low as 20. No lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Low around 27. Northwest winds 15 to 20 mph. No lightning
+risk. 
+.TUESDAY...Partly sunny. Cooler with high around 27. North winds
+10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ001-272215-
+Top of Deboullie Mountain-
+310 AM EST Mon Jan 27 2020
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Summit in and out of clouds. Snow likely until mid
+morning...then scattered snow showers from late morning on. High
+around 27. Northwest winds 10 to 20 mph. Chance of precipitation 60 
+percent. No lightning risk. 
+.TONIGHT...Summit obscured. Scattered snow showers until midnight...
+then isolated snow showers after midnight. Cooler with low around
+11. North winds 15 to 20 mph. Chance of precipitation 40 percent.
+Wind chill values as low as 1 above. No lightning risk. 
+.TUESDAY...Summit in and out of clouds. High around 19. North winds
+10 to 15 mph. Wind chill values as low as zero. No lightning risk. 
+
+$$
+
+MEZ006-272215-
+Top of Mars Hill Mountain-
+310 AM EST Mon Jan 27 2020
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Cloudy. Scattered snow showers. High around 30. West winds
+10 to 15 mph. Chance of precipitation 50 percent. No lightning risk.
+.TONIGHT...Cloudy. Scattered snow showers until midnight. Cooler
+with low around 14. Northwest winds 10 to 15 mph shifting to the
+north 10 mph after midnight. Chance of precipitation 30 percent. No
+lightning risk. 
+.TUESDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Cooler with high around 20. North winds 10 to 15 mph. No lightning
+risk. 
+
+$$
+
+MEZ010-272215-
+Top of White Cap Mountain-
+310 AM EST Mon Jan 27 2020
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Summit in and out of clouds this morning, then summit
+becoming obscured. Scattered snow showers. Brisk with high around
+26. West winds 20 to 30 mph. Chance of precipitation 50 percent.
+Wind chill values as low as 9 above. No lightning risk. 
+.TONIGHT...Summit in and out of clouds until midnight, then becoming
+cloudy. Scattered snow showers until midnight...then isolated snow
+showers after midnight. Cooler with low around 13. North winds 15 to
+25 mph. Chance of precipitation 40 percent. Wind chill values as low
+as 1 above. No lightning risk. 
+.TUESDAY...Summit in and out of clouds in the morning, then becoming
+mostly cloudy. Near steady temperatures around 14. North winds 10 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ010-272215-
+Moosehead Lake-
+310 AM EST Mon Jan 27 2020
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Cloudy. Scattered snow showers. scattered rain showers
+early this afternoon. High around 33. West winds 10 to 15 mph.
+Chance of precipitation 50 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Scattered snow showers until midnight...
+then isolated snow showers after midnight. Low around 20. Northwest
+winds 10 to 15 mph. Chance of precipitation 40 percent. No lightning
+risk. 
+.TUESDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 26. North winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ001-272215-
+Allagash Wilderness Waterway-
+310 AM EST Mon Jan 27 2020
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Cloudy. Snow likely until mid morning...then scattered snow
+showers from late morning on. High around 32. Northwest winds 10 to
+15 mph. Chance of precipitation 60 percent. No lightning risk. 
+.TONIGHT...Cloudy. Scattered snow showers until midnight...then
+isolated snow showers after midnight. Much cooler with low around
+12. North winds 10 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+.TUESDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Cooler with high around 22. North winds 10 to 15 mph. Wind chill
+values as low as 3 above. No lightning risk. 
+
+$$
+
+MEZ030-272215-
+St Croix River-
+310 AM EST Mon Jan 27 2020
+
+...ST CROIX RIVER...
+
+.TODAY...Mostly cloudy. Isolated snow showers this morning.
+scattered rain showers from late morning on. scattered snow showers
+this afternoon. High around 38. West winds 10 to 15 mph. Chance of
+precipitation 40 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Isolated snow showers until midnight.
+Cooler with low around 18. Northwest winds 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.TUESDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Cooler with high around 27. North winds 10 to 15 mph. No lightning
+risk. 
+
+$$
+
+MEZ030-272215-
+West Quoddy Head-
+310 AM EST Mon Jan 27 2020
+
+...WEST QUODDY HEAD...
+
+.TODAY...Partly sunny this morning, then becoming mostly cloudy.
+Isolated rain showers this afternoon. High around 41. West winds
+10 to 20 mph. Chance of precipitation 20 percent. No lightning risk.
+Water temperature 43 degrees Fahrenheit. 
+.TONIGHT...Mostly cloudy. Low around 26. Northwest winds 15 to
+20 mph. Wind chill values as low as 19. No lightning risk. Water
+temperature 43 degrees Fahrenheit. 
+.TUESDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 32. North winds 15 to 20 mph. No lightning risk. Water
+temperature 43 degrees Fahrenheit. 
+
+$$
+
+MEZ004>006-010-011-031-272215-
+Upper Penobscot Watershed-
+310 AM EST Mon Jan 27 2020
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. Scattered snow showers. scattered rain
+showers from late morning on. High around 37. West winds 10 to
+15 mph. Chance of precipitation 50 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Scattered snow showers until midnight. Low
+around 19. Northwest winds 10 to 15 mph. Chance of precipitation
+40 percent. No lightning risk. 
+.TUESDAY...Partly sunny. Cooler with high around 27. North winds
+10 to 15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-272215-
+Lower Penobscot Watershed-
+310 AM EST Mon Jan 27 2020
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny until mid morning, then becoming mostly
+cloudy. Isolated rain and snow showers this morning...then scattered
+rain and snow showers this afternoon. High around 40. West winds
+10 to 15 mph. Chance of precipitation 40 percent. No lightning risk.
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Isolated snow showers until midnight. Low around 21.
+Northwest winds 10 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.TUESDAY...Partly sunny. Cooler with high around 29. North winds
+10 to 15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

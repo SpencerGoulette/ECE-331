@@ -1,0 +1,196 @@
+
+492 
+SXUS41 KCAR 211915
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+215 PM EST Sun Jan 21 2018
+
+MEZ004-220915-
+Top of Mount Katahdin-
+215 PM EST Sun Jan 21 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy...then becoming cloudy late this evening...
+then summit in and out of clouds...then summit becoming obscured
+late. Brisk with low around 12. Northwest winds 15 to 25 mph. Wind
+chill values as low as 6 below. No lightning risk. 
+.MONDAY...Summit obscured in the morning...then summit in and out of
+clouds. A chance of snow in the afternoon. High around 17. Northwest
+winds 10 to 15 mph in the morning becoming light winds. Chance of
+precipitation 30 percent. Wind chill values as low as 3 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ005-220915-
+Katahdin Woods and Waters National Monument-
+215 PM EST Sun Jan 21 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 9 above. Northwest winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.MONDAY...Mostly cloudy. A slight chance of snow in the afternoon.
+High around 20. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ029-220915-
+Top of Cadillac Mountain-
+215 PM EST Sun Jan 21 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy through early morning...then summit in and
+out of clouds. Low around 23. Northwest winds 10 to 15 mph. No
+lightning risk. 
+.MONDAY...Summit in and out of clouds. A slight chance of snow in
+the morning...then a chance of snow in the afternoon. High around
+26. East winds 10 to 15 mph. Chance of precipitation 30 percent.
+Wind chill values as low as 10 above. No lightning risk. 
+
+$$
+
+MEZ001-220915-
+Top of Deboullie Mountain-
+215 PM EST Sun Jan 21 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy. Low around 2 below. Northwest winds around
+10 mph. Wind chill values as low as 15 below. No lightning risk. 
+.MONDAY...Partly sunny. High around 11. North winds around 10 mph in
+the morning becoming light winds. Wind chill values as low as
+18 below in the morning. No lightning risk. 
+
+$$
+
+MEZ006-220915-
+Top of Mars Hill Mountain-
+215 PM EST Sun Jan 21 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy. Low around 2 above. Northwest winds around
+10 mph. Wind chill values as low as 12 below. No lightning risk. 
+.MONDAY...Partly sunny. High around 13. North winds around 10 mph.
+Wind chill values as low as 15 below in the morning. No lightning
+risk. 
+
+$$
+
+MEZ010-220915-
+Top of White Cap Mountain-
+215 PM EST Sun Jan 21 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy...then becoming cloudy late this evening...
+then summit in and out of clouds. A chance of snow after midnight.
+Low around 14. Northwest winds 10 to 20 mph. Chance of precipitation
+30 percent. Wind chill values as low as 1 below. No lightning risk. 
+.MONDAY...Summit in and out of clouds in the morning...then summit
+becoming obscured. A chance of snow. High around 17. North winds
+10 mph in the morning becoming light winds. Chance of precipitation
+40 percent. No lightning risk. 
+
+$$
+
+MEZ010-220915-
+Moosehead Lake-
+215 PM EST Sun Jan 21 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy early this evening...then becoming mostly
+cloudy. A chance of snow after midnight. Low around 14. Light winds.
+Chance of precipitation 40 percent. No lightning risk. 
+.MONDAY...Cloudy. A chance of snow. High around 22. Light winds.
+Chance of precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ001-220915-
+Allagash Wilderness Waterway-
+215 PM EST Sun Jan 21 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around zero. Light winds. No lightning risk. 
+.MONDAY...Partly sunny. High around 16. Light winds. No lightning
+risk. 
+
+$$
+
+MEZ030-220915-
+St Croix River-
+215 PM EST Sun Jan 21 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear...then becoming partly cloudy late this
+evening...then becoming mostly cloudy. Low around 11. Light winds.
+No lightning risk. 
+.MONDAY...Cloudy. A slight chance of snow in the afternoon. High
+around 22. Light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-220915-
+West Quoddy Head-
+215 PM EST Sun Jan 21 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 19. Northwest winds around 10 mph. Wind chill
+values as low as 9 above. No lightning risk. Water temperature
+44 degrees Fahrenheit. 
+.MONDAY...Cloudy. A slight chance of snow. High around 27. Northeast
+winds around 10 mph. Chance of precipitation 20 percent. Wind chill
+values as low as 11. No lightning risk. Water temperature 44 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-220915-
+Upper Penobscot Watershed-
+215 PM EST Sun Jan 21 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening...then becoming mostly
+cloudy. A chance of snow after midnight. Low around 13. Light winds.
+Chance of precipitation 40 percent. No lightning risk. 
+.MONDAY...Cloudy. A slight chance of snow. High around 22. Light
+winds. Chance of precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-220915-
+Lower Penobscot Watershed-
+215 PM EST Sun Jan 21 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening...then becoming mostly
+cloudy. A chance of snow after midnight. Low around 18. Light winds.
+Chance of precipitation 40 percent. No lightning risk. 
+.MONDAY...Cloudy. A chance of snow. High around 25. Northeast winds
+around 10 mph. Chance of precipitation 40 percent. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

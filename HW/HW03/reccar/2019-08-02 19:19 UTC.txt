@@ -1,0 +1,198 @@
+
+630 
+SXUS41 KCAR 021919
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+319 PM EDT Fri Aug 2 2019
+
+MEZ004-030930-
+Top of Mount Katahdin-
+319 PM EDT Fri Aug 2 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Low around 51. West winds 10 to 20 mph. No
+lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny.
+Isolated showers in the morning...then scattered showers and
+thunderstorms in the afternoon. High around 63. West winds 15 to
+20 mph. Chance of precipitation 40 percent. Lightning risk is
+elevated. 
+
+$$
+
+MEZ005-030930-
+Katahdin Woods and Waters National Monument-
+319 PM EDT Fri Aug 2 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Low around 60. West winds 10 mph. No lightning
+risk. 
+.SATURDAY...Mostly sunny. Isolated showers and thunderstorms in the
+afternoon. High around 81. Southwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ029-030930-
+Top of Cadillac Mountain-
+319 PM EDT Fri Aug 2 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 62. Southwest winds 15 to 20 mph. No
+lightning risk. 
+.SATURDAY...Mostly sunny. High around 73. Southwest winds 15 to
+25 mph. No lightning risk. 
+
+$$
+
+MEZ001-030930-
+Top of Deboullie Mountain-
+319 PM EDT Fri Aug 2 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy. Isolated showers early this evening. Low
+around 56. West winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.SATURDAY...Partly sunny in the morning becoming mostly cloudy. 
+Isolated showers in the morning...then numerous showers and scattered
+thunderstorms in the afternoon. Some thunderstorms may produce gusty
+winds in the afternoon. High around 73. Temperatures falling to 
+around 64 in the afternoon. West winds 10 to 15 mph. Chance of 
+precipitation 60 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ006-030930-
+Top of Mars Hill Mountain-
+319 PM EDT Fri Aug 2 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Isolated
+showers early this evening. Low around 57. West winds 10 mph. Chance
+of precipitation 20 percent. No lightning risk. 
+.SATURDAY...Partly sunny. Scattered showers and thunderstorms in the
+afternoon. Some thunderstorms may produce gusty winds in the
+afternoon. High around 77. Southwest winds 10 to 15 mph. Chance of
+precipitation 50 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ010-030930-
+Top of White Cap Mountain-
+319 PM EDT Fri Aug 2 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Low around 57. West winds 10 to 20 mph. No
+lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny.
+Scattered showers and thunderstorms in the afternoon. High around
+71. Southwest winds 10 to 20 mph. Chance of precipitation
+30 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ010-030930-
+Moosehead Lake-
+319 PM EDT Fri Aug 2 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Low around 57. Southwest winds 10 mph. Waves
+1 foot. No lightning risk. Water temperature 59 degrees Fahrenheit. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny.
+Isolated showers and thunderstorms in the afternoon. High around 77.
+Waves 2 feet. Southwest winds 10 mph shifting to the west 10 to
+15 mph in the afternoon. Chance of precipitation 20 percent.
+Lightning risk is limited. Water temperature 59 degrees Fahrenheit. 
+
+$$
+
+MEZ001-030930-
+Allagash Wilderness Waterway-
+319 PM EDT Fri Aug 2 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Isolated
+showers early this evening. Low around 55. Southwest winds 10 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Numerous showers and scattered thunderstorms in the
+afternoon. Some thunderstorms may produce gusty winds in the
+afternoon. High around 78. Temperatures falling to around 66 in the
+afternoon. Southwest winds 10 to 15 mph. Chance of precipitation
+60 percent. Lightning risk is elevated. 
+
+$$
+
+MEZ030-030930-
+St Croix River-
+319 PM EDT Fri Aug 2 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Low around 57. Southwest winds 10 mph. No
+lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny.
+Isolated showers and thunderstorms in the afternoon. High around 83.
+Southwest winds 10 mph increasing to 10 to 15 mph in the afternoon.
+Chance of precipitation 20 percent. Lightning risk is limited. 
+
+$$
+
+MEZ030-030930-
+West Quoddy Head-
+319 PM EDT Fri Aug 2 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Low around 54. Southwest winds 10 to 20 mph. No
+lightning risk. Water temperature 56 degrees Fahrenheit. 
+.SATURDAY...Mostly sunny. High around 65. Southwest winds 10 to
+20 mph. No lightning risk. Water temperature 56 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-030930-
+Upper Penobscot Watershed-
+319 PM EDT Fri Aug 2 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 58. Southwest winds 10 mph. No
+lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny.
+Isolated showers and thunderstorms in the afternoon. High around 82.
+Southwest winds 10 to 15 mph. Chance of precipitation 20 percent.
+Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-030930-
+Lower Penobscot Watershed-
+319 PM EDT Fri Aug 2 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 58. Southwest winds 10 mph. No
+lightning risk. 
+.SATURDAY...Mostly sunny. Isolated showers and thunderstorms in the
+afternoon. High around 83. Southwest winds 10 mph increasing to
+10 to 15 mph in the afternoon. Chance of precipitation 20 percent.
+Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

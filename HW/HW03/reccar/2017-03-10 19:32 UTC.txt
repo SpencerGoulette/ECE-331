@@ -1,0 +1,73 @@
+
+054 
+SXUS41 KCAR 101932
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+232 PM EST Fri Mar 10 2017
+
+MEZ004-110945-
+Top of Mount Katahdin-
+232 PM EST Fri Mar 10 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Isolated snow showers until midnight. Much colder with low
+around 21 below. Northwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 45 below. 
+.SATURDAY...Mostly cloudy. Much colder with high around 15 below.
+Northwest winds 20 to 30 mph. Wind chill values as low as 49 below. 
+
+$$
+
+MEZ029-110945-
+Top of Cadillac Mountain-
+232 PM EST Fri Mar 10 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy. Scattered snow showers until midnight...
+then isolated snow showers after midnight. Cooler with low around
+1 below. North winds 10 to 20 mph. Chance of precipitation
+30 percent. Wind chill values as low as 22 below. 
+.SATURDAY...Mostly cloudy. Cooler with high around 5 above.
+Northwest winds 20 to 30 mph. Wind chill values as low as 23 below. 
+
+$$
+
+MEZ004&gt;006-010-011-031-110945-
+Upper Penobscot Watershed-
+232 PM EST Fri Mar 10 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Isolated snow showers until midnight. Much cooler with low
+around 3 below. North winds around 10 mph. Chance of precipitation
+20 percent. Wind chill values as low as 21 below. 
+.SATURDAY...Mostly cloudy. Much cooler with high around 5 above.
+Northwest winds 10 to 20 mph. Wind chill values as low as 22 below. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-110945-
+Lower Penobscot Watershed-
+232 PM EST Fri Mar 10 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers until midnight. Much
+cooler with low around 1 above. Northwest winds 10 to 15 mph. Chance
+of precipitation 20 percent. Wind chill values as low as 17 below. 
+.SATURDAY...Mostly cloudy. Much cooler with high around 8 above.
+Northwest winds 15 to 20 mph. Wind chill values as low as 17 below. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

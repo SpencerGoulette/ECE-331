@@ -1,0 +1,65 @@
+ECE 331
+Spencer Goulette
+02/20/20
+Notes
+
+**** group **** - Simple - Set of users
+/etc/group
+
+addgroup
+delgroup
+usermod
+groupmod
+adduser
+useradd
+
+BSD		- Berkley 
+SYS V	- Bell Labs
+
+**** root ****
+
+Report to supervisors any suspicious activity
+
+**** Processes ****
+DEFINITION: An abstraction of a (running) program that includes system resources
+Every process shares resources -> kernel resource manager
+Kernel acts on behalf of the processes
+Attributes of processes - PID. Large array in memory uint16_t
+ps - list processes in current terminal
+ps agxu | more
+process 1 is always /sbin/int first process parent of all processes
+PIDs have to be unique
+IPC Signals
+T-Traced/Stopped
+S-Sleeping		can be woken up by an interrupt
+R-Running
+Z-Zombie
+I-Idle kernel thread
+s-session leader
+<-high priority
+l-multi-threaded
+L-Pages locked in memory
+t-debugger
+D-uninterruptible sleep
+Can find more in man ps
+
+Kill			sends a signal
+
+fork()
+wait() 			reaps return value from children
+
+int main(int argc, char *argv[])
+{
+	pid_t pid;
+	
+	pid=fork();
+
+	if(pid>0) {
+		printf("Parent\n");
+		sleep(60);
+	} else if (pid==0) {
+		printf("child\n");
+	} else {
+		printf("fork\n");
+	}
+}

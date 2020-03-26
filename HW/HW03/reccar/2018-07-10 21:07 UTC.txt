@@ -1,0 +1,197 @@
+
+481 
+SXUS41 KCAR 102107
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+507 PM EDT Tue Jul 10 2018
+
+MEZ004-111200-
+Top of Mount Katahdin-
+507 PM EDT Tue Jul 10 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy. Cooler with low around 46. North winds 10 
+to 20 mph. No lightning risk. 
+.WEDNESDAY...Summit in and out of clouds in the morning, then
+clearing. High around 58. Northwest winds around 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ005-111200-
+Katahdin Woods and Waters National Monument-
+507 PM EDT Tue Jul 10 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Isolated
+showers and thunderstorms early this evening. Cooler with low around
+53. North winds around 10 mph until midnight becoming light winds.
+Chance of precipitation 20 percent. Lightning risk is limited. 
+.WEDNESDAY...Sunny. High around 78. Light winds. No lightning risk. 
+
+$$
+
+MEZ029-111200-
+Top of Cadillac Mountain-
+507 PM EDT Tue Jul 10 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Scattered showers and thunderstorms early this evening...
+then isolated showers through early morning. Some thunderstorms may
+produce gusty winds and hail early this evening. Low around 60. 
+North winds around 15 mph shifting to the northeast after midnight. 
+Chance of precipitation 40 percent. Lightning risk is elevated. 
+.WEDNESDAY...Partly sunny. High around 68. Northeast winds 10 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ001-111200-
+Top of Deboullie Mountain-
+507 PM EDT Tue Jul 10 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly clear. Cooler with low around 47. North winds
+around 10 mph. No lightning risk. 
+.WEDNESDAY...Sunny. High around 70. Light winds. No lightning risk. 
+
+$$
+
+MEZ006-111200-
+Top of Mars Hill Mountain-
+507 PM EDT Tue Jul 10 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Much
+cooler with low around 49. North winds 10 to 15 mph. No lightning
+risk. 
+.WEDNESDAY...Sunny. High around 74. Light winds. No lightning risk. 
+
+$$
+
+MEZ010-111200-
+Top of White Cap Mountain-
+507 PM EDT Tue Jul 10 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Isolated
+showers and thunderstorms early this evening. Breezy, cooler with
+low around 51. North winds 20 to 25 mph shifting to the northeast
+10 to 20 mph after midnight. Chance of precipitation 20 percent.
+Lightning risk is limited. 
+.WEDNESDAY...Sunny. High around 63. North winds around 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-111200-
+Moosehead Lake-
+507 PM EDT Tue Jul 10 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Isolated
+showers and thunderstorms early this evening. Cooler with low around
+50. Northwest winds around 10 mph until midnight becoming light
+winds. Waves 2 feet. Chance of precipitation 20 percent. Lightning
+risk is limited. Water temperature 61 degrees Fahrenheit. 
+.WEDNESDAY...Sunny. High around 76. Waves 1 foot. Light winds. No
+lightning risk. Water temperature 61 degrees Fahrenheit. 
+
+$$
+
+MEZ001-111200-
+Allagash Wilderness Waterway-
+507 PM EDT Tue Jul 10 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly clear. Much cooler with low around 46. North winds
+around 10 mph until midnight becoming light winds. No lightning
+risk. 
+.WEDNESDAY...Sunny. High around 74. Light winds. No lightning risk. 
+
+$$
+
+MEZ030-111200-
+St Croix River-
+507 PM EDT Tue Jul 10 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy through early morning, then clearing.
+Scattered showers and thunderstorms early this evening. Some
+thunderstorms may produce gusty winds and hail early this evening. 
+Low around 53. Light winds. Chance of precipitation 40 percent. 
+Lightning risk is elevated. 
+.WEDNESDAY...Sunny. High around 79. Light winds. No lightning risk. 
+
+$$
+
+MEZ030-111200-
+West Quoddy Head-
+507 PM EDT Tue Jul 10 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy. Scattered thunderstorms early this 
+evening. Scattered showers until midnight...then isolated showers 
+after midnight. Some thunderstorms may produce gusty winds and hail 
+early this evening. Low around 55. Southwest winds around 10 mph 
+until midnight becoming light winds. Chance of precipitation 40 
+percent. Lightning risk is elevated. Water temperature 52 degrees 
+Fahrenheit. 
+.WEDNESDAY...Mostly sunny. High around 69. Northeast winds around
+10 mph. No lightning risk. Water temperature 52 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-111200-
+Upper Penobscot Watershed-
+507 PM EDT Tue Jul 10 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Isolated
+showers and thunderstorms early this evening. Some thunderstorms may
+produce gusty winds and hail early this evening. Cooler with low 
+around 53. North winds around 10 mph until midnight becoming light 
+winds. Chance of precipitation 20 percent. Lightning risk is 
+elevated. 
+.WEDNESDAY...Sunny. High around 78. North winds around 10 mph in the
+morning becoming light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-111200-
+Lower Penobscot Watershed-
+507 PM EDT Tue Jul 10 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+clear. Scattered showers and thunderstorms early this evening. Some
+thunderstorms may produce gusty winds and hail early this evening. 
+Low around 56. North winds around 10 mph. Chance of precipitation 40 
+percent. Lightning risk is elevated. 
+.WEDNESDAY...Sunny. High around 80. North winds around 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

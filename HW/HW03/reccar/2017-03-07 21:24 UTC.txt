@@ -1,0 +1,81 @@
+
+813 
+SXUS41 KCAR 072124
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+424 PM EST Tue Mar 7 2017
+
+MEZ004-081200-
+Top of Mount Katahdin-
+424 PM EST Tue Mar 7 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Sleet until midnight. freezing rain. 
+rain after midnight. Not as cool with low around 30. Southwest winds 
+around 25 mph. Chance of precipitation 90 percent. Wind chill values 
+as low as 17. 
+.WEDNESDAY...Summit obscured in the morning...then becoming mostly
+cloudy. Rain in the morning...then a chance of rain showers in the 
+afternoon. High around 37. Southwest winds 20 to 25 mph shifting to 
+the west 20 to 35 mph in the afternoon. Chance of precipitation 90 
+percent. Wind chill values as low as 19. 
+
+$$
+
+MEZ029-081200-
+Top of Cadillac Mountain-
+424 PM EST Tue Mar 7 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Sleet likely until midnight. Rain. Not 
+as cool with low around 34. South winds 25 to 30 mph. Chance of 
+precipitation 90 percent. 
+.WEDNESDAY...Summit obscured. Rain in the morning...then a chance of
+showers in the afternoon. Not as cool with high around 46. Southwest
+winds 25 to 30 mph shifting to the west 15 to 30 mph in the 
+afternoon. Chance of precipitation 90 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-081200-
+Upper Penobscot Watershed-
+424 PM EST Tue Mar 7 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Sleet with freezing rain likely
+until midnight. Rain. Not as cool with low around 32. South winds
+10 to 20 mph. Chance of precipitation 90 percent. 
+.WEDNESDAY...Cloudy in the morning...then becoming partly sunny.
+Areas of fog in the morning. Rain in the morning...then a chance of
+rain showers in the afternoon. Not as cool with high around 46.
+Southwest winds around 10 mph. Chance of precipitation 90 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-081200-
+Lower Penobscot Watershed-
+424 PM EST Tue Mar 7 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Rain. Not as cool with low around
+35. South winds 10 to 20 mph. Chance of precipitation 90 percent. 
+.WEDNESDAY...Cloudy in the morning...then becoming partly sunny.
+Areas of fog in the morning. Rain in the morning...then a chance of
+rain in the afternoon. Not as cool with high around 49. Southwest
+winds around 10 mph. Chance of precipitation 90 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

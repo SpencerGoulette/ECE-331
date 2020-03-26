@@ -1,0 +1,212 @@
+
+202 
+SXUS41 KCAR 102035
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+335 PM EST Sat Feb 10 2018
+
+MEZ004-111045-
+Top of Mount Katahdin-
+335 PM EST Sat Feb 10 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds. Snow. Not as cool with low 
+around 22. West winds 15 to 25 mph. Chance of precipitation near 100
+percent. Wind chill values as low as 8 above. No lightning risk.
+.SUNDAY...Cloudy in the morning...then summit becoming obscured.
+Snow likely. sleet in the afternoon. Brisk and not as cool with high
+around 33. West winds 10 to 15 mph shifting to the south 10 to
+25 mph in the afternoon. Chance of precipitation near 100 percent.
+Wind chill values as low as 13. No lightning risk. 
+
+$$
+
+MEZ005-111045-
+Katahdin Woods and Waters National Monument-
+335 PM EST Sat Feb 10 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy, snow. Not as cool with low around 22. Light
+winds. Chance of precipitation near 100 percent. No lightning risk. 
+.SUNDAY...Cloudy. A chance of snow in the morning...then sleet with
+snow likely in the afternoon. High around 31. Light winds becoming
+east around 10 mph in the afternoon. Chance of precipitation near
+100 percent. No lightning risk. 
+
+$$
+
+MEZ029-111045-
+Top of Cadillac Mountain-
+335 PM EST Sat Feb 10 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured...then summit in and out of clouds late
+this evening...then becoming cloudy...then summit in and out of
+clouds late. Rain, windy and not as cool with low around 36.
+Southwest winds 15 to 30 mph becoming west 10 to 15 mph after
+midnight. Chance of precipitation near 100 percent. No lightning
+risk. 
+.SUNDAY...Summit obscured. Rain. High around 41. East winds around
+15 mph. Chance of precipitation near 100 percent. No lightning risk.
+
+$$
+
+MEZ001-111045-
+Top of Deboullie Mountain-
+335 PM EST Sat Feb 10 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds...then becoming cloudy after
+midnight...then summit in and out of clouds. Snow until midnight...
+then a chance of snow after midnight. Not as cool with low around
+15. Light winds. Chance of precipitation 90 percent. No lightning
+risk. 
+.SUNDAY...Summit in and out of clouds. A slight chance of snow in
+the morning. snow in the afternoon. High around 25. Light winds
+becoming east 10 to 15 mph in the afternoon. Chance of precipitation
+90 percent. No lightning risk. 
+
+$$
+
+MEZ006-111045-
+Top of Mars Hill Mountain-
+335 PM EST Sat Feb 10 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit in and out of clouds...then becoming cloudy after
+midnight...then summit in and out of clouds. Snow through early
+morning...then a chance of snow late. Not as cool with low around
+22. Light winds. Chance of precipitation near 100 percent. No
+lightning risk. 
+.SUNDAY...Summit in and out of clouds in the morning...then summit
+becoming obscured. A chance of snow in the morning...then snow in
+the afternoon. High around 28. Northeast winds around 10 mph
+shifting to the east in the afternoon. Chance of precipitation
+80 percent. No lightning risk. 
+
+$$
+
+MEZ010-111045-
+Top of White Cap Mountain-
+335 PM EST Sat Feb 10 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds...then becoming cloudy after
+midnight...then summit in and out of clouds. Snow. Not as cool with
+low around 24. West winds 10 to 15 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.SUNDAY...Summit in and out of clouds. Snow. sleet and freezing rain
+in the afternoon. High around 31. North winds around 10 mph shifting
+to the southeast 10 to 20 mph in the afternoon. Chance of
+precipitation 90 percent. No lightning risk. 
+
+$$
+
+MEZ010-111045-
+Moosehead Lake-
+335 PM EST Sat Feb 10 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Snow through early morning...then a chance of
+snow late. Not as cool with low around 22. Light winds. Chance of
+precipitation 90 percent. No lightning risk. 
+.SUNDAY...Cloudy. A chance of snow in the morning...then sleet with
+snow and freezing rain likely in the afternoon. High around 30.
+Light winds becoming east around 10 mph in the afternoon. Chance of
+precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ001-111045-
+Allagash Wilderness Waterway-
+335 PM EST Sat Feb 10 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Snow until midnight...then a chance of snow after
+midnight. Not as cool with low around 16. Light winds. Chance of
+precipitation 90 percent. No lightning risk. 
+.SUNDAY...Cloudy. A slight chance of snow in the morning. snow in
+the afternoon. High around 28. Light winds becoming east around
+10 mph in the afternoon. Chance of precipitation near 100 percent.
+No lightning risk. 
+
+$$
+
+MEZ030-111045-
+St Croix River-
+335 PM EST Sat Feb 10 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Rain. freezing rain after midnight. sleet late. 
+Not as cool with low around 30. Light winds. Chance of precipitation 
+near 100 percent. No lightning risk. 
+.SUNDAY...Cloudy. Sleet and freezing rain. rain and snow likely in
+the afternoon. High around 35. Northeast winds around 10 mph. Chance
+of precipitation 90 percent. No lightning risk. 
+
+$$
+
+MEZ030-111045-
+West Quoddy Head-
+335 PM EST Sat Feb 10 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy, rain. Not as cool with low around 37. West winds
+10 to 15 mph. Chance of precipitation near 100 percent. No lightning
+risk. Water temperature 41 degrees Fahrenheit. 
+.SUNDAY...Cloudy, rain. High around 40. Northeast winds 10 to
+15 mph. Chance of precipitation near 100 percent. No lightning risk.
+Water temperature 41 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-111045-
+Upper Penobscot Watershed-
+335 PM EST Sat Feb 10 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Light snow until midnight. snow or freezing rain.
+sleet likely after midnight. Not as cool with low around 25. Light 
+winds. Chance of precipitation near 100 percent. No lightning risk. 
+.SUNDAY...Cloudy. A chance of snow in the morning. Sleet. rain...
+freezing rain AND snow likely in the afternoon. High around 33.
+Light winds becoming east around 10 mph in the afternoon. Chance of
+precipitation near 100 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-111045-
+Lower Penobscot Watershed-
+335 PM EST Sat Feb 10 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Rain or snow this evening. freezing rain after 
+midnight. sleet late. Not as cool with low around 29. Light winds. 
+Chance of precipitation near 100 percent. No lightning risk. 
+.SUNDAY...Cloudy. Freezing rain in the morning. Sleet. rain in the
+afternoon. High around 35. Northeast winds around 10 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

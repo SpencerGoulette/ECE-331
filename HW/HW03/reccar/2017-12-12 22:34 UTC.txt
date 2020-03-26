@@ -1,0 +1,253 @@
+
+395 
+SXUS41 KCAR 122234
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+534 PM EST Tue Dec 12 2017
+
+MEZ004-131200-
+Top of Mount Katahdin-
+534 PM EST Tue Dec 12 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Snow. Freezing rain after midnight. 
+Strong winds and not as cool with low around 23. Southeast winds 35 
+to 50 mph becoming south 15 to 30 mph after midnight. Chance of 
+precipitation near 100 percent. Wind chill values as low as 3 above. 
+No lightning risk.
+.WEDNESDAY...Summit obscured. Snow and freezing rain likely in the 
+morning...then numerous snow showers in the afternoon. Very windy 
+with high around 25. Temperatures falling to around 10 above in the 
+afternoon. West winds 10 to 15 mph increasing to northwest 20 to 35 
+mph in the afternoon. Chance of precipitation 70 percent. Wind chill 
+values as low as 17 below in the afternoon. No lightning risk. 
+
+$$
+
+MEZ005-131200-
+Katahdin Woods and Waters National Monument-
+534 PM EST Tue Dec 12 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy, snow. Freezing rain after midnight. Not as cool 
+with low around 18. Temperatures rising to around 31 after midnight. 
+East winds 10 to 15 mph. Chance of precipitation near 100 percent. 
+Wind chill values as low as 3 above. No lightning risk. 
+.WEDNESDAY...Cloudy. Freezing rain and snow likely in the morning...
+then numerous snow showers in the afternoon. Not as cool with high
+around 33. Temperatures falling to around 20 in the afternoon. South
+winds around 10 mph shifting to the west in the afternoon. Chance of
+precipitation 70 percent. Wind chill values as low as 5 above in the
+afternoon. No lightning risk. 
+
+$$
+
+MEZ029-131200-
+Top of Cadillac Mountain-
+534 PM EST Tue Dec 12 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. A chance of freezing rain early this
+evening. Rain until midnight...then a chance of rain after midnight.
+Strong winds and not as cool with low around 34. South winds 40 to 
+55 mph becoming southwest and decreasing to 20 to 30 mph after 
+midnight. Chance of precipitation near 100 percent. Wind chill values
+as low as 18. No lightning risk. 
+.WEDNESDAY...Summit obscured in the morning...then becoming cloudy.
+A chance of rain in the morning. Scattered snow showers. Very windy 
+with high around 36. Temperatures falling to around 23 in the 
+afternoon. West winds around 20 mph increasing to northwest 25 to 40 
+mph in the afternoon. Chance of precipitation 40 percent. Wind chill 
+values as low as 2 above in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-131200-
+Top of Deboullie Mountain-
+534 PM EST Tue Dec 12 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then summit
+becoming obscured. Snow. Freezing rain late. Brisk and not as cool 
+with low around 13. Temperatures rising to around 26 after midnight. 
+East winds 20 to 25 mph. Chance of precipitation near 100 percent. 
+Wind chill values as low as 5 below. No lightning risk. 
+.WEDNESDAY...Summit obscured in the morning...then summit in and out
+of clouds. Freezing rain and snow in the morning...then numerous
+snow showers in the afternoon. Not as cool with high around 29.
+Temperatures falling to around 18 in the afternoon. Southeast winds
+10 to 20 mph. Chance of precipitation 80 percent. Wind chill values
+as low as 1 above in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-131200-
+Top of Mars Hill Mountain-
+534 PM EST Tue Dec 12 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. Snow. Freezing rain after midnight. 
+Windy and not as cool with low around 19. Temperatures rising to 
+around 31 after midnight. East winds 25 to 30 mph. Chance of 
+precipitation near 100 percent. Wind chill values as low as zero. No 
+lightning risk. 
+.WEDNESDAY...Summit obscured in the morning...then summit in and out
+of clouds. Snow and freezing rain with rain likely in the morning...
+then numerous snow showers in the afternoon. Not as cool with high
+around 34. Temperatures falling to around 20 in the afternoon.
+Southeast winds around 20 mph shifting to the west in the afternoon.
+Chance of precipitation 80 percent. Wind chill values as low as
+4 above in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-131200-
+Top of White Cap Mountain-
+534 PM EST Tue Dec 12 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. Snow. Freezing rain likely from late 
+evening on. Very windy and not as cool with low around 21. East winds
+25 to 40 mph becoming south 10 to 20 mph after midnight. Chance of 
+precipitation near 100 percent. Wind chill values as low as 1 above. 
+No lightning risk. 
+.WEDNESDAY...Summit obscured in the morning...then becoming cloudy.
+Snow likely in the morning...then scattered snow showers in the
+afternoon. Very windy with high around 27. Temperatures falling to
+around 11 in the afternoon. West winds 10 to 20 mph increasing to
+northwest 25 to 35 mph in the afternoon. Chance of precipitation
+60 percent. Wind chill values as low as 15 below in the afternoon.
+No lightning risk. 
+
+$$
+
+MEZ010-131200-
+Moosehead Lake-
+534 PM EST Tue Dec 12 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy, snow. Freezing rain likely after midnight. Not as
+cool with low around 19. Northeast winds 10 to 15 mph. Chance of 
+precipitation near 100 percent. Wind chill values as low as 4 above. 
+No lightning risk. 
+.WEDNESDAY...Cloudy. Snow likely in the morning...then numerous snow
+showers in the afternoon. High around 27. Temperatures falling to
+around 18 in the afternoon. West winds 10 to 15 mph. Chance of
+precipitation 70 percent. Wind chill values as low as 1 above in the
+afternoon. No lightning risk. 
+
+$$
+
+MEZ001-131200-
+Allagash Wilderness Waterway-
+534 PM EST Tue Dec 12 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy, snow. Freezing rain late. Not as cool with low 
+around 15. Temperatures rising to around 26 after midnight. East 
+winds around 15 mph. Chance of precipitation near 100 percent. Wind 
+chill values as low as zero. No lightning risk. 
+.WEDNESDAY...Cloudy. Snow and freezing rain in the morning...then
+numerous snow showers in the afternoon. Not as cool with high around
+29. Temperatures falling to around 19 in the afternoon. East winds
+10 to 15 mph shifting to the west in the afternoon. Chance of
+precipitation 80 percent. Wind chill values as low as 9 above. No
+lightning risk. 
+
+$$
+
+MEZ030-131200-
+St Croix River-
+534 PM EST Tue Dec 12 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Snow and freezing rain until midnight. Rain 
+likely from late evening on. Not as cool with low around 27. 
+Temperatures rising to around 37 after midnight. East winds 10 to 15 
+mph. Chance of precipitation near 100 percent. Wind chill values as 
+low as 13. No lightning risk. 
+.WEDNESDAY...Cloudy. Rain and snow likely in the morning...then
+scattered snow showers in the afternoon. High around 38.
+Temperatures falling to around 26 in the afternoon. Southwest winds
+10 to 15 mph. Chance of precipitation 70 percent. Wind chill values
+as low as 13 in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-131200-
+West Quoddy Head-
+534 PM EST Tue Dec 12 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. A chance of freezing rain early this evening.
+Rain. Very windy and not as cool with low around 40. Southeast winds
+25 to 35 mph decreasing to 15 to 30 mph after midnight. Chance of
+precipitation near 100 percent. No lightning risk. Water temperature
+49 degrees Fahrenheit. 
+.WEDNESDAY...Mostly cloudy. Rain likely in the morning...then
+scattered rain and snow showers in the afternoon. Breezy with high
+around 45. Temperatures falling to around 33 in the afternoon.
+Southwest winds 10 to 15 mph increasing to 20 to 25 mph in the
+afternoon. Chance of precipitation 60 percent. Wind chill values as
+low as 19 in the afternoon. No lightning risk. Water temperature
+49 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-131200-
+Upper Penobscot Watershed-
+534 PM EST Tue Dec 12 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy, snow. Freezing rain from late evening on. Rain 
+likely after midnight. Not as cool with low around 21. Temperatures 
+rising to around 32 after midnight. East winds 10 to 15 mph. Chance 
+of precipitation near 100 percent. Wind chill values as low as 6 
+above. No lightning risk. 
+.WEDNESDAY...Cloudy. Snow...rain and freezing rain likely in the 
+morning...then scattered snow showers in the afternoon. High around 
+34. Temperatures falling to around 21 in the afternoon. West winds 10
+to 15 mph. Chance of precipitation 70 percent. Wind chill values as 
+low as 5 above in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-131200-
+Lower Penobscot Watershed-
+534 PM EST Tue Dec 12 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Snow and freezing rain with rain likely until
+midnight...then a chance of rain and snow after midnight. Not as
+cool with low around 27. East winds 10 to 15 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as 11. No
+lightning risk. 
+.WEDNESDAY...Cloudy. A chance of rain and freezing rain in the
+morning. scattered snow showers. High around 34. Temperatures
+falling to around 23 in the afternoon. West winds 10 to 15 mph.
+Chance of precipitation 50 percent. Wind chill values as low as
+8 above in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

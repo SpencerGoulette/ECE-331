@@ -1,0 +1,209 @@
+
+022 
+SXUS41 KCAR 271838
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+238 PM EDT Sun May 27 2018
+
+MEZ004-280845-
+Top of Mount Katahdin-
+238 PM EDT Sun May 27 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly sunny. Much cooler with high around 47. South winds
+10 to 15 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 43. South winds around 15 mph. No lightning risk.
+.MEMORIAL DAY...Summit obscured in the morning, then summit in and
+out of clouds. High around 54. Southwest winds around 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ005-280845-
+Katahdin Woods and Waters National Monument-
+238 PM EDT Sun May 27 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Sunny. High around 67. South winds 10 mph. No lightning
+risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 43. South winds around 10 mph. No lightning risk.
+.MEMORIAL DAY...Cloudy. High around 68. South winds around 10 mph.
+No lightning risk. 
+
+$$
+
+MEZ029-280845-
+Top of Cadillac Mountain-
+238 PM EDT Sun May 27 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny. Much cooler with high around 50. Southeast
+winds 10 to 20 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 44. Southeast winds around 10 mph. No lightning
+risk. 
+.MEMORIAL DAY...Cloudy. Patchy fog in the afternoon. High around 53.
+Southeast winds around 10 mph. No lightning risk. 
+
+$$
+
+MEZ001-280845-
+Top of Deboullie Mountain-
+238 PM EDT Sun May 27 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Sunny. High around 64. South winds around 10 mph. No
+lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming mostly cloudy.
+Not as cool with low around 41. South winds around 10 mph. No
+lightning risk. 
+.MEMORIAL DAY...Cloudy. A slight chance of showers. High around 64.
+Southwest winds 10 to 15 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ006-280845-
+Top of Mars Hill Mountain-
+238 PM EDT Sun May 27 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Sunny. High around 63. South winds around 10 mph. No
+lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 42. South winds around 10 mph. No lightning risk. 
+.MEMORIAL DAY...Cloudy. High around 64. South winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-280845-
+Top of White Cap Mountain-
+238 PM EDT Sun May 27 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly cloudy, then becoming partly sunny late this
+morning, then becoming mostly cloudy, then becoming partly sunny
+late. Cooler with high around 50. South winds 10 to 15 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 43. South winds 10 to 15 mph. No lightning risk. 
+.MEMORIAL DAY...Cloudy. High around 55. Southwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ010-280845-
+Moosehead Lake-
+238 PM EDT Sun May 27 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly sunny. High around 63. South winds 10 mph. Waves
+2 feet. No lightning risk. 
+.TONIGHT...Mostly cloudy. Low around 43. Waves 2 feet. South winds
+around 10 mph. No lightning risk. 
+.MEMORIAL DAY...Cloudy. High around 65. Waves 2 feet. South winds
+around 10 mph. No lightning risk. 
+
+$$
+
+MEZ001-280845-
+Allagash Wilderness Waterway-
+238 PM EDT Sun May 27 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Sunny. High around 68. South winds 10 mph. No lightning
+risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. A slight chance of showers after midnight. Not as cool with
+low around 42. South winds around 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.MEMORIAL DAY...Cloudy. A slight chance of showers. High around 67.
+Southwest winds around 10 mph. Chance of precipitation 20 percent.
+No lightning risk. 
+
+$$
+
+MEZ030-280845-
+St Croix River-
+238 PM EDT Sun May 27 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Sunny. High around 64. Light winds becoming south around
+10 mph this afternoon. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 40. Light winds. No lightning risk. 
+.MEMORIAL DAY...Cloudy. High around 64. South winds around 10 mph.
+No lightning risk. 
+
+$$
+
+MEZ030-280845-
+West Quoddy Head-
+238 PM EDT Sun May 27 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Sunny. Much cooler with high around 53. East winds 10 to
+15 mph. No lightning risk. Water temperature 46 degrees Fahrenheit. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 43. Light winds becoming southeast around 10 mph after
+midnight. No lightning risk. Water temperature 46 degrees
+Fahrenheit. 
+.MEMORIAL DAY...Mostly cloudy. Patchy fog in the afternoon. High
+around 54. Southeast winds around 10 mph shifting to the south in
+the afternoon. No lightning risk. Water temperature 46 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-280845-
+Upper Penobscot Watershed-
+238 PM EDT Sun May 27 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 67. South winds 10 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 42. South winds around 10 mph until midnight
+becoming light winds. No lightning risk. 
+.MEMORIAL DAY...Cloudy. High around 67. South winds around 10 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-280845-
+Lower Penobscot Watershed-
+238 PM EDT Sun May 27 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. Not as warm with high around 66. South winds
+10 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 43. South winds around 10 mph until midnight
+becoming light winds. No lightning risk. 
+.MEMORIAL DAY...Cloudy. High around 65. Light winds becoming south
+around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

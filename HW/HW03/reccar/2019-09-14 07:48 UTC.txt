@@ -1,0 +1,247 @@
+
+426 
+SXUS41 KCAR 140748
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+348 AM EDT Sat Sep 14 2019
+
+MEZ004-142200-
+Top of Mount Katahdin-
+348 AM EDT Sat Sep 14 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny, then becoming cloudy late this morning, then
+summit becoming obscured. Isolated showers until mid morning...then
+showers from late morning on. Breezy with high around 52. Southwest
+winds 20 to 30 mph. Chance of precipitation 90 percent. No lightning
+risk. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered showers until midnight. isolated showers after
+midnight. Low around 45. Southwest winds 15 to 25 mph. Chance of
+precipitation 40 percent. No lightning risk. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Very windy with high around 47. West winds 20 to 40 mph decreasing
+to 20 to 30 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ005-142200-
+Katahdin Woods and Waters National Monument-
+348 AM EDT Sat Sep 14 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Partly sunny until mid morning, then becoming mostly
+cloudy. Isolated showers until mid morning...then showers from late
+morning on. High around 58. South winds 10 to 20 mph. Chance of
+precipitation 90 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered showers until midnight. isolated showers after
+midnight. Near steady temperatures around 55. Southwest winds 10 to
+15 mph. Chance of precipitation 40 percent. No lightning risk. 
+.SUNDAY...Partly sunny. High around 64. West winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-142200-
+Top of Cadillac Mountain-
+348 AM EDT Sat Sep 14 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny, then becoming mostly cloudy late this morning
+and early afternoon, then summit in and out of clouds. Scattered
+showers early this afternoon. numerous showers late. High around 61.
+South winds 15 to 25 mph. Chance of precipitation 60 percent. No
+lightning risk. 
+.TONIGHT...Summit obscured. Numerous showers until midnight...then
+scattered showers after midnight. Not as cool with low around 56.
+Southwest winds 15 to 25 mph. Chance of precipitation 60 percent. No
+lightning risk. 
+.SUNDAY...Summit in and out of clouds in the morning, then becoming
+partly sunny. Windy with high around 67. West winds 15 to 35 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-142200-
+Top of Deboullie Mountain-
+348 AM EDT Sat Sep 14 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Mostly cloudy this morning, then summit becoming obscured.
+Scattered showers until mid morning...then showers from late morning
+on. High around 57. South winds 15 to 25 mph. Chance of
+precipitation 80 percent. No lightning risk. 
+.TONIGHT...Summit obscured. Scattered showers. Low around 48.
+Southwest winds 10 to 20 mph. Chance of precipitation 30 percent. No
+lightning risk. 
+.SUNDAY...Summit obscured in the morning, then becoming mostly
+cloudy. High around 59. West winds 10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ006-142200-
+Top of Mars Hill Mountain-
+348 AM EDT Sat Sep 14 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Partly sunny until mid morning, then summit becoming
+obscured. Isolated showers until mid morning...then showers from
+late morning on. High around 57. South winds 15 to 20 mph. Chance of
+precipitation 90 percent. No lightning risk. 
+.TONIGHT...Summit obscured. Scattered showers until midnight...then
+isolated showers after midnight. Not as cool with low around 53.
+Southwest winds 10 to 20 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+.SUNDAY...Summit obscured in the morning, then becoming mostly
+cloudy. High around 63. West winds 10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ010-142200-
+Top of White Cap Mountain-
+348 AM EDT Sat Sep 14 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Partly sunny, then becoming cloudy late this morning, then
+summit becoming obscured. Isolated showers until mid morning...then
+showers from late morning on. Breezy with high around 55. South
+winds 15 to 30 mph. Chance of precipitation 80 percent. No lightning
+risk. 
+.TONIGHT...Summit obscured. Scattered showers until midnight.
+isolated showers after midnight. Low around 48. Southwest winds
+10 to 20 mph. Chance of precipitation 40 percent. No lightning risk.
+.SUNDAY...Summit obscured in the morning, then becoming mostly
+cloudy. Windy with high around 52. West winds 15 to 35 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-142200-
+Moosehead Lake-
+348 AM EDT Sat Sep 14 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy. Scattered showers until mid morning...then
+showers from late morning on. High around 58. South winds 10 to
+20 mph. Waves 3 feet. Chance of precipitation 80 percent. No
+lightning risk. Water temperature 62 degrees Fahrenheit. 
+.TONIGHT...Partly cloudy. Scattered showers until midnight. isolated
+showers after midnight. Low around 53. Waves 1 foot. South winds
+10 to 15 mph shifting to the southwest 10 mph after midnight. Chance
+of precipitation 30 percent. No lightning risk. Water temperature
+62 degrees Fahrenheit. 
+.SUNDAY...Partly sunny. High around 63. Waves 2 feet. West winds
+10 to 15 mph. No lightning risk. Water temperature 62 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-142200-
+Allagash Wilderness Waterway-
+348 AM EDT Sat Sep 14 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Mostly cloudy. Scattered showers until mid morning...then
+showers from late morning on. High around 58. South winds 10 to
+20 mph. Chance of precipitation 80 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Scattered showers. Low around 49.
+Southwest winds 10 to 15 mph. Chance of precipitation 50 percent. No
+lightning risk. 
+.SUNDAY...Mostly cloudy. High around 62. West winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-142200-
+St Croix River-
+348 AM EDT Sat Sep 14 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Partly sunny this morning, then becoming mostly cloudy.
+Isolated showers late this morning. Showers this afternoon. High
+around 61. Southwest winds 10 to 20 mph. Chance of precipitation
+80 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy. Showers until midnight...then isolated
+showers after midnight. Not as cool with low around 53. Southwest
+winds 10 to 15 mph. Chance of precipitation 80 percent. No lightning
+risk. 
+.SUNDAY...Partly sunny. High around 70. West winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-142200-
+West Quoddy Head-
+348 AM EDT Sat Sep 14 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Mostly sunny this morning, then becoming mostly cloudy.
+Scattered showers this afternoon. High around 60. South winds 10 to
+25 mph. Chance of precipitation 50 percent. No lightning risk. Water
+temperature 53 degrees Fahrenheit. 
+.TONIGHT...Cloudy. Numerous showers. Near steady temperatures around
+54. Southwest winds 15 to 25 mph. Chance of precipitation
+70 percent. No lightning risk. Water temperature 53 degrees
+Fahrenheit. 
+.SUNDAY...Partly sunny. High around 64. Southwest winds 10 to
+15 mph. No lightning risk. Water temperature 53 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-142200-
+Upper Penobscot Watershed-
+348 AM EDT Sat Sep 14 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny until mid morning, then becoming mostly
+cloudy. Isolated showers until mid morning...then scattered showers
+late this morning. Showers this afternoon. High around 59. Southwest
+winds 10 to 15 mph. Chance of precipitation 90 percent. No lightning
+risk. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered showers until midnight. isolated showers after
+midnight. Low around 53. Southwest winds 10 to 15 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+.SUNDAY...Partly sunny. High around 67. West winds 10 to 15 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-142200-
+Lower Penobscot Watershed-
+348 AM EDT Sat Sep 14 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny until mid morning, then becoming mostly
+cloudy. Scattered showers late this morning. Showers this afternoon.
+High around 62. South winds 10 to 20 mph. Chance of precipitation
+90 percent. No lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. Scattered showers until midnight. Not as cool with low
+around 55. Southwest winds 10 to 15 mph. Chance of precipitation
+50 percent. No lightning risk. 
+.SUNDAY...Partly sunny. High around 70. West winds 10 to 15 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

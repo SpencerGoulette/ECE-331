@@ -1,0 +1,203 @@
+
+000
+SXUS41 KCAR 240817
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+317 AM EST Fri Jan 24 2020
+
+MEZ004-242230-
+Top of Mount Katahdin-
+317 AM EST Fri Jan 24 2020
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly cloudy. High around 29. Northwest winds 10 to 15 mph
+shifting to the west 10 mph this afternoon. No lightning risk. 
+.TONIGHT...Cloudy. Low around 12. South winds 10 to 15 mph. Wind
+chill values as low as 5 above. No lightning risk. 
+.SATURDAY...Cloudy. High around 29. South winds 10 to 25 mph. Wind
+chill values as low as 4 above. No lightning risk. 
+
+$$
+
+MEZ005-242230-
+Katahdin Woods and Waters National Monument-
+317 AM EST Fri Jan 24 2020
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+High around 30. Northeast winds 10 mph. No lightning risk. 
+.TONIGHT...Mostly cloudy. Low around 17. Southeast winds 10 mph. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. High around 30. Southeast winds 10 mph.
+No lightning risk. 
+
+$$
+
+MEZ029-242230-
+Top of Cadillac Mountain-
+317 AM EST Fri Jan 24 2020
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly cloudy, then becoming partly sunny late this morning
+and early afternoon, then becoming mostly cloudy. High around 37.
+Northeast winds 10 to 15 mph. No lightning risk. 
+.TONIGHT...Summit obscured until midnight, then summit in and out of
+clouds. Low around 24. East winds 10 to 15 mph. Wind chill values as
+low as 18. No lightning risk. 
+.SATURDAY...Summit obscured. High around 35. East winds 10 to
+20 mph. Wind chill values as low as 17. No lightning risk. 
+
+$$
+
+MEZ001-242230-
+Top of Deboullie Mountain-
+317 AM EST Fri Jan 24 2020
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Partly sunny. High around 25. Northeast winds 10 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then summit in and out of
+clouds. Cold with low around 9 above. Southeast winds 10 mph. No
+lightning risk. 
+.SATURDAY...Summit obscured in the morning, then summit in and out
+of clouds. High around 26. Southeast winds 10 to 15 mph. Wind chill
+values as low as 3 above. No lightning risk. 
+
+$$
+
+MEZ006-242230-
+Top of Mars Hill Mountain-
+317 AM EST Fri Jan 24 2020
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+High around 29. North winds 10 mph. No lightning risk. 
+.TONIGHT...Summit in and out of clouds until midnight, then becoming
+partly cloudy. Cold with low around 10 above. Southeast winds
+10 mph. No lightning risk. 
+.SATURDAY...Mostly cloudy. High around 26. Southeast winds 10 mph.
+No lightning risk. 
+
+$$
+
+MEZ010-242230-
+Top of White Cap Mountain-
+317 AM EST Fri Jan 24 2020
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Cloudy, then summit becoming obscured late this morning and
+early afternoon, then becoming mostly cloudy. High around 28.
+Northwest winds 10 mph shifting to the west 10 to 15 mph this
+afternoon. No lightning risk. 
+.TONIGHT...Cloudy. Low around 14. Southeast winds 10 to 15 mph. Wind
+chill values as low as 7 above. No lightning risk. 
+.SATURDAY...Cloudy. High around 28. Southeast winds 10 to 25 mph.
+Wind chill values as low as zero in the morning. No lightning risk. 
+
+$$
+
+MEZ010-242230-
+Moosehead Lake-
+317 AM EST Fri Jan 24 2020
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+High around 32. Northeast winds 10 mph. No lightning risk. 
+.TONIGHT...Mostly cloudy. Low around 20. Southeast winds 10 mph. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. High around 31. Southeast winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ001-242230-
+Allagash Wilderness Waterway-
+317 AM EST Fri Jan 24 2020
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Partly sunny. High around 28. Northeast winds 10 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy. Cold with low around 8 above. Southeast
+winds 10 mph. No lightning risk. 
+.SATURDAY...Mostly cloudy. High around 30. Southeast winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-242230-
+St Croix River-
+317 AM EST Fri Jan 24 2020
+
+...ST CROIX RIVER...
+
+.TODAY...Mostly cloudy until mid morning, then becoming partly
+sunny. High around 34. Northeast winds 10 mph. No lightning risk. 
+.TONIGHT...Mostly cloudy. Low around 16. Northeast winds 10 mph. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. High around 32. East winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-242230-
+West Quoddy Head-
+317 AM EST Fri Jan 24 2020
+
+...WEST QUODDY HEAD...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+High around 38. Northeast winds 10 to 15 mph. No lightning risk.
+Water temperature 40 degrees Fahrenheit. 
+.TONIGHT...Mostly cloudy. Low around 27. East winds 10 to 20 mph. No
+lightning risk. Water temperature 40 degrees Fahrenheit. 
+.SATURDAY...Mostly cloudy. High around 37. East winds 10 to 15 mph.
+Wind chill values as low as 21. No lightning risk. Water temperature
+40 degrees Fahrenheit. 
+
+$$
+
+MEZ004>006-010-011-031-242230-
+Upper Penobscot Watershed-
+317 AM EST Fri Jan 24 2020
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy this morning, then becoming partly sunny.
+High around 33. Northeast winds 10 mph. No lightning risk. 
+.TONIGHT...Mostly cloudy. Low around 17. East winds 10 mph. No
+lightning risk. 
+.SATURDAY...Mostly cloudy. High around 31. Southeast winds 10 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-242230-
+Lower Penobscot Watershed-
+317 AM EST Fri Jan 24 2020
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy until mid morning, then becoming partly
+sunny. High around 35. Northeast winds 10 mph. No lightning risk. 
+.TONIGHT...Mostly cloudy. Low around 21. Northeast winds 10 mph. No
+lightning risk. 
+.SATURDAY...Cloudy. High around 34. East winds 10 mph. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

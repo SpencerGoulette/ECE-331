@@ -1,0 +1,195 @@
+
+617 
+SXUS41 KCAR 110709
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+309 AM EDT Wed Oct 11 2017
+
+MEZ004-112115-
+Top of Mount Katahdin-
+309 AM EDT Wed Oct 11 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly sunny. Much cooler with high around 40. North winds
+10 to 20 mph. No lightning risk. 
+.TONIGHT...Clear. Low around 29. North winds around 10 mph. No
+lightning risk. 
+.THURSDAY...Sunny. High around 40. North winds around 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ005-112115-
+Katahdin Woods and Waters National Monument-
+309 AM EDT Wed Oct 11 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Sunny. Much cooler with high around 54. North winds around
+10 mph. No lightning risk. 
+.TONIGHT...Clear, cooler with low around 34. Light winds. No
+lightning risk. 
+.THURSDAY...Sunny. High around 57. Light winds becoming north around
+10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-112115-
+Top of Cadillac Mountain-
+309 AM EDT Wed Oct 11 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly sunny this morning...then becoming mostly cloudy.
+Cooler with high around 56. North winds 10 to 15 mph. No lightning
+risk. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Cooler with
+low around 39. Northeast winds around 10 mph. No lightning risk. 
+.THURSDAY...Sunny. High around 52. North winds around 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-112115-
+Top of Deboullie Mountain-
+309 AM EDT Wed Oct 11 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Sunny. Much cooler with high around 46. Northwest winds
+10 to 15 mph. No lightning risk. 
+.TONIGHT...Clear, cooler with low around 27. Northwest winds around
+10 mph until midnight becoming light winds. No lightning risk. 
+.THURSDAY...Sunny. High around 48. Northwest winds around 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ006-112115-
+Top of Mars Hill Mountain-
+309 AM EDT Wed Oct 11 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Sunny. Much cooler with high around 49. North winds 10 to
+15 mph. No lightning risk. 
+.TONIGHT...Clear. Low around 32. Northwest winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.THURSDAY...Sunny. High around 49. Northwest winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-112115-
+Top of White Cap Mountain-
+309 AM EDT Wed Oct 11 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly sunny. Much cooler with high around 44. North winds
+10 to 15 mph. No lightning risk. 
+.TONIGHT...Clear. Low around 34. North winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.THURSDAY...Sunny. High around 45. Light winds. No lightning risk. 
+
+$$
+
+MEZ010-112115-
+Moosehead Lake-
+309 AM EDT Wed Oct 11 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly sunny. Much cooler with high around 54. North winds
+10 to 15 mph. Waves 2 feet. No lightning risk. Water temperature
+63 degrees Fahrenheit. 
+.TONIGHT...Clear. Low around 37. Waves 1 foot until midnight. North
+winds around 10 mph until midnight becoming light winds. No
+lightning risk. Water temperature 63 degrees Fahrenheit. 
+.THURSDAY...Sunny. High around 57. Light winds becoming northwest
+around 10 mph in the afternoon. No lightning risk. Water temperature
+63 degrees Fahrenheit. 
+
+$$
+
+MEZ001-112115-
+Allagash Wilderness Waterway-
+309 AM EDT Wed Oct 11 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Sunny. Much cooler with high around 52. Northwest winds
+10 to 15 mph. No lightning risk. 
+.TONIGHT...Clear, cooler with low around 25. Light winds. No
+lightning risk. 
+.THURSDAY...Sunny. High around 56. Light winds becoming north around
+10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-112115-
+St Croix River-
+309 AM EDT Wed Oct 11 2017
+
+...ST CROIX RIVER...
+
+.TODAY...Sunny, cooler with high around 58. North winds around
+10 mph. No lightning risk. 
+.TONIGHT...Clear, cooler with low around 34. Light winds. No
+lightning risk. 
+.THURSDAY...Sunny. High around 58. Light winds becoming north around
+10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-112115-
+West Quoddy Head-
+309 AM EDT Wed Oct 11 2017
+
+...WEST QUODDY HEAD...
+
+.TODAY...Mostly sunny. Cooler with high around 59. North winds 10 to
+15 mph. No lightning risk. Water temperature 57 degrees Fahrenheit. 
+.TONIGHT...Clear, cooler with low around 42. North winds 10 to
+15 mph. No lightning risk. Water temperature 57 degrees Fahrenheit. 
+.THURSDAY...Sunny. High around 58. North winds around 10 mph. No
+lightning risk. Water temperature 57 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-112115-
+Upper Penobscot Watershed-
+309 AM EDT Wed Oct 11 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. Much cooler with high around 57. North winds
+around 10 mph. No lightning risk. 
+.TONIGHT...Clear, cooler with low around 35. Light winds. No
+lightning risk. 
+.THURSDAY...Sunny. High around 58. Light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-112115-
+Lower Penobscot Watershed-
+309 AM EDT Wed Oct 11 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. Cooler with high around 61. North winds
+around 10 mph. No lightning risk. 
+.TONIGHT...Clear, cooler with low around 37. Light winds. No
+lightning risk. 
+.THURSDAY...Sunny. High around 60. Light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

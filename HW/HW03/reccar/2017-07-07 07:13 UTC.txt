@@ -1,0 +1,146 @@
+
+656 
+SXUS41 KCAR 070713
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+313 AM EDT Fri Jul 7 2017
+
+MEZ004-072115-
+Top of Mount Katahdin-
+313 AM EDT Fri Jul 7 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly cloudy. Isolated showers and thunderstorms this
+afternoon. Near steady temperatures around 59. Southwest winds 15 to
+20 mph. Chance of precipitation 20 percent. Lightning risk is
+limited. 
+.TONIGHT...Summit in and out of clouds until midnight...then
+becoming cloudy. Patchy fog. Isolated thunderstorms until midnight.
+isolated showers. Low around 55. Southwest winds 10 to 15 mph.
+Chance of precipitation 20 percent. Lightning risk is limited. 
+.SATURDAY...Summit obscured in the morning...then summit in and out
+of clouds. Patchy fog in the morning. A chance of showers and
+isolated thunderstorms in the morning...then showers and
+thunderstorms in the afternoon. Some thunderstorms may produce gusty
+winds, small hail and heavy rainfall in the afternoon. High around
+59. Southwest winds around 15 mph. Chance of precipitation
+90 percent. Lightning risk is extreme. 
+
+$$
+
+MEZ005-072115-
+Katahdin Woods and Waters National Monument-
+313 AM EDT Fri Jul 7 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Isolated showers and thunderstorms this afternoon. High around 77.
+South winds 10 to 15 mph. Chance of precipitation 20 percent.
+Lightning risk is limited. 
+.TONIGHT...Mostly cloudy. Patchy fog. Isolated thunderstorms until
+midnight. isolated showers. Low around 60. South winds around 10 mph
+until midnight becoming light winds. Chance of precipitation
+20 percent. Lightning risk is limited. 
+.SATURDAY...Mostly cloudy. Patchy fog in the morning. A chance of
+showers in the morning...then showers and thunderstorms in the
+afternoon. Some thunderstorms may produce gusty winds, small hail
+and heavy rainfall in the afternoon. High around 75. Light winds.
+Chance of precipitation 80 percent. Lightning risk is extreme. 
+
+$$
+
+MEZ029-072115-
+Top of Cadillac Mountain-
+313 AM EDT Fri Jul 7 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly cloudy. Isolated showers this morning...then
+scattered showers this afternoon. High around 64. Southwest winds
+around 15 mph. Chance of precipitation 30 percent. No lightning
+risk. 
+.TONIGHT...Summit obscured. Isolated showers until midnight. Patchy
+fog. Low around 59. Southeast winds 10 to 15 mph until midnight
+becoming light winds. Chance of precipitation 20 percent. No
+lightning risk. 
+.SATURDAY...Summit obscured. Patchy fog in the morning. A chance of
+showers and isolated thunderstorms in the afternoon. High around 72.
+Southwest winds 10 to 15 mph. Chance of precipitation 40 percent.
+Lightning risk is limited. 
+
+$$
+
+MEZ010-072115-
+Moosehead Lake-
+313 AM EDT Fri Jul 7 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Isolated showers and thunderstorms this afternoon. High around 74.
+South winds around 10 mph. Waves 2 feet. Chance of precipitation
+20 percent. Lightning risk is elevated. 
+.TONIGHT...Mostly cloudy. Patchy fog. Isolated thunderstorms until
+midnight. isolated showers. Low around 60. Waves 1 foot. South winds
+around 10 mph until midnight becoming light winds. Chance of
+precipitation 20 percent. Lightning risk is elevated. 
+.SATURDAY...Mostly cloudy. Patchy fog in the morning. A chance of
+showers and isolated thunderstorms in the morning...then showers and
+thunderstorms in the afternoon. Some thunderstorms may produce gusty
+winds, small hail and heavy rainfall in the afternoon. High around
+74. Waves 1 foot. Light winds. Chance of precipitation 80 percent.
+Lightning risk is extreme. 
+
+$$
+
+MEZ004&gt;006-010-011-031-072115-
+Upper Penobscot Watershed-
+313 AM EDT Fri Jul 7 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+Isolated showers and thunderstorms this afternoon. High around 78.
+South winds 10 to 15 mph. Chance of precipitation 20 percent.
+Lightning risk is elevated. 
+.TONIGHT...Mostly cloudy. Patchy fog. Isolated showers. Low around
+61. South winds around 10 mph until midnight becoming light winds.
+Chance of precipitation 20 percent. Lightning risk is elevated. 
+.SATURDAY...Mostly cloudy. Patchy fog in the morning. A slight
+chance of showers in the morning...then showers and thunderstorms
+likely in the afternoon. Some thunderstorms may produce gusty winds,
+small hail and heavy rainfall in the afternoon. High around 77.
+Light winds becoming southwest around 10 mph in the afternoon.
+Chance of precipitation 70 percent. Lightning risk is extreme. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-072115-
+Lower Penobscot Watershed-
+313 AM EDT Fri Jul 7 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny this morning...then becoming mostly cloudy.
+High around 77. South winds around 10 mph. Lightning risk is
+limited. 
+.TONIGHT...Mostly cloudy. Patchy fog. Low around 60. South winds
+around 10 mph until midnight becoming light winds. No lightning
+risk. 
+.SATURDAY...Mostly cloudy. Patchy fog in the morning. Showers and
+thunderstorms likely in the afternoon. Some thunderstorms may
+produce gusty winds, small hail and heavy rainfall in the afternoon.
+High around 78. Southwest winds around 10 mph. Chance of
+precipitation 70 percent. Lightning risk is significant. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

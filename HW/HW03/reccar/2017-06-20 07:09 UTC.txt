@@ -1,0 +1,128 @@
+
+926 
+SXUS41 KCAR 200709
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+309 AM EDT Tue Jun 20 2017
+
+MEZ004-202115-
+Top of Mount Katahdin-
+309 AM EDT Tue Jun 20 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Summit obscured this morning...then becoming mostly cloudy.
+Numerous showers. a chance of thunderstorms this afternoon. Some
+thunderstorms may produce small hail this afternoon. Cooler with
+high around 57. Southwest winds 10 to 20 mph. Chance of
+precipitation 70 percent. Wind chill values as low as 120 below.
+Lightning risk is elevated. 
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Scattered showers until midnight. Low around 47. West winds
+15 to 25 mph. Chance of precipitation 30 percent. Wind chill values
+as low as 120 below until midnight. No lightning risk. 
+.WEDNESDAY...Mostly cloudy in the morning...then summit becoming
+obscured. A chance of showers and thunderstorms in the afternoon.
+High around 52. West winds 15 to 20 mph. Chance of precipitation
+30 percent. Wind chill values as low as 120 below. Lightning risk is
+elevated. 
+
+$$
+
+MEZ029-202115-
+Top of Cadillac Mountain-
+309 AM EDT Tue Jun 20 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Summit obscured this morning...then summit in and out of
+clouds. Areas of fog this morning. Numerous showers this morning...
+then scattered showers this afternoon. High around 66. Southwest
+winds around 20 mph. Chance of precipitation 60 percent. Wind chill
+values as low as 120 below. No lightning risk. 
+.TONIGHT...Mostly clear. Low around 60. Southwest winds 10 to
+20 mph. Wind chill values as low as 120 below until midnight. No
+lightning risk. 
+.WEDNESDAY...Mostly sunny. High around 67. Southwest winds 15 to
+20 mph. Wind chill values as low as 120 below. Lightning risk is
+limited. 
+
+$$
+
+MEZ010-202115-
+Moosehead Lake-
+309 AM EDT Tue Jun 20 2017
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly cloudy. Numerous showers. a chance of thunderstorms
+this afternoon. Some thunderstorms may produce small hail this
+afternoon. High around 73. Light winds becoming southwest around
+10 mph this afternoon. Waves 2 feet. Chance of precipitation
+60 percent. Wind chill values as low as 120 below. Lightning risk is
+elevated. 
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Scattered showers until midnight. Low around 56. Waves
+2 feet. West winds around 10 mph. Chance of precipitation
+30 percent. Wind chill values as low as 120 below until midnight. No
+lightning risk. 
+.WEDNESDAY...Partly sunny. A chance of showers and thunderstorms in
+the afternoon. High around 70. Waves 2 feet. West winds 10 to
+15 mph. Chance of precipitation 30 percent. Wind chill values as low
+as 120 below. Lightning risk is elevated. 
+
+$$
+
+MEZ004&gt;006-010-011-031-202115-
+Upper Penobscot Watershed-
+309 AM EDT Tue Jun 20 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. Numerous showers this morning...then
+scattered showers with a chance of thunderstorms this afternoon.
+Some thunderstorms may produce small hail this afternoon. High
+around 76. Southwest winds 10 to 15 mph. Chance of precipitation
+70 percent. Wind chill values as low as 120 below. Lightning risk is
+elevated. 
+.TONIGHT...Partly cloudy. Scattered showers until midnight. Low
+around 58. Southwest winds around 10 mph until midnight becoming
+light winds. Chance of precipitation 40 percent. Wind chill values
+as low as 120 below until midnight. No lightning risk. 
+.WEDNESDAY...Partly sunny. A chance of showers and thunderstorms in
+the afternoon. High around 75. Southwest winds 10 to 15 mph. Chance
+of precipitation 40 percent. Wind chill values as low as 120 below.
+Lightning risk is elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-202115-
+Lower Penobscot Watershed-
+309 AM EDT Tue Jun 20 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly cloudy. Numerous showers this morning...then
+scattered showers with a chance of thunderstorms this afternoon.
+Some thunderstorms may produce small hail this afternoon. High
+around 78. Southwest winds 10 to 15 mph. Chance of precipitation
+60 percent. Wind chill values as low as 120 below. Lightning risk is
+elevated. 
+.TONIGHT...Partly cloudy until midnight...then clearing. Scattered
+showers until midnight. Low around 59. Southwest winds 10 to 15 mph
+until midnight becoming light winds. Chance of precipitation
+30 percent. Wind chill values as low as 120 below until midnight. No
+lightning risk. 
+.WEDNESDAY...Partly sunny. High around 78. Southwest winds 10 to
+15 mph. Wind chill values as low as 120 below. Lightning risk is
+elevated. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

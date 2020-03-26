@@ -1,0 +1,207 @@
+
+762 
+SXUS41 KCAR 142050
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+350 PM EST Wed Nov 14 2018
+
+MEZ004-151100-
+Top of Mount Katahdin-
+350 PM EST Wed Nov 14 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Scattered
+flurries early this evening. Very windy with low around 1 below.
+Northwest winds 30 to 40 mph decreasing to 20 to 25 mph after
+midnight. Wind chill values as low as 25 below. No lightning risk. 
+.THURSDAY...Partly sunny. Not as cool with high around 17. West
+winds 10 to 20 mph. Wind chill values as low as 24 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ005-151100-
+Katahdin Woods and Waters National Monument-
+350 PM EST Wed Nov 14 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy early this evening, then clearing.
+Scattered flurries early this evening. Low around 4 above. Northwest
+winds 10 to 20 mph. Wind chill values as low as 9 below. No
+lightning risk. 
+.THURSDAY...Mostly sunny. Not as cool with high around 25. Northwest
+winds around 10 mph in the morning becoming light winds. Wind chill
+values as low as 10 below in the morning. No lightning risk. 
+
+$$
+
+MEZ029-151100-
+Top of Cadillac Mountain-
+350 PM EST Wed Nov 14 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear and very windy. Low around 10 above. Northwest
+winds 25 to 35 mph decreasing to 15 to 25 mph after midnight. Wind
+chill values as low as 7 below. No lightning risk. 
+.THURSDAY...Sunny in the morning, then becoming partly sunny. Not as
+cool with high around 30. Northwest winds 10 to 15 mph in the
+morning becoming light winds. Wind chill values as low as 7 below in
+the morning. No lightning risk. 
+
+$$
+
+MEZ001-151100-
+Top of Deboullie Mountain-
+350 PM EST Wed Nov 14 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Patchy
+blowing snow early this evening. Scattered flurries early this
+evening. Windy with low around 4 above. Northwest winds 20 to 30 mph
+decreasing to 15 to 20 mph after midnight. Wind chill values as low
+as 15 below. No lightning risk. 
+.THURSDAY...Mostly sunny. Not as cool with high around 20. West
+winds 10 to 15 mph. Wind chill values as low as 13 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ006-151100-
+Top of Mars Hill Mountain-
+350 PM EST Wed Nov 14 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy until midnight, then clearing. Scattered
+flurries early this evening. Windy with low around 4 above.
+Northwest winds 15 to 30 mph decreasing to 10 to 15 mph after
+midnight. Wind chill values as low as 14 below. No lightning risk. 
+.THURSDAY...Mostly sunny. Not as cool with high around 22. West
+winds around 10 mph. Wind chill values as low as 10 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ010-151100-
+Top of White Cap Mountain-
+350 PM EST Wed Nov 14 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy early this evening, then clearing.
+Scattered flurries early this evening. Very windy with low around
+2 above. Northwest winds 25 to 35 mph decreasing to 20 to 25 mph
+after midnight. Wind chill values as low as 21 below. No lightning
+risk. 
+.THURSDAY...Mostly sunny. Not as cool with high around 18. West
+winds 10 to 20 mph. Wind chill values as low as 19 below in the
+morning. No lightning risk. 
+
+$$
+
+MEZ010-151100-
+Moosehead Lake-
+350 PM EST Wed Nov 14 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy early this evening, then clearing.
+Scattered flurries early this evening. Low around 5 above. Northwest
+winds 10 to 15 mph. Waves 4 feet. Wind chill values as low as
+6 below. No lightning risk. Water temperature 55 degrees Fahrenheit.
+.THURSDAY...Mostly sunny. High around 25. Waves 1 foot. Northwest
+winds around 10 mph in the morning becoming light winds. Wind chill
+values as low as 5 below in the morning. No lightning risk. Water
+temperature 55 degrees Fahrenheit. 
+
+$$
+
+MEZ001-151100-
+Allagash Wilderness Waterway-
+350 PM EST Wed Nov 14 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Patchy
+blowing snow early this evening. Scattered flurries early this
+evening. Low around 1 above. Northwest winds 10 to 15 mph shifting
+to the west after midnight. Wind chill values as low as 9 below. No
+lightning risk. 
+.THURSDAY...Mostly sunny. Not as cool with high around 24. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ030-151100-
+St Croix River-
+350 PM EST Wed Nov 14 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear. Low around 9 above. Northwest winds 10 to
+20 mph. Wind chill values as low as 4 below. No lightning risk. 
+.THURSDAY...Sunny. Not as cool with high around 30. Northwest winds
+10 mph. Wind chill values as low as 4 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-151100-
+West Quoddy Head-
+350 PM EST Wed Nov 14 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear, windy with low around 15. Northwest winds 20 to
+30 mph. Wind chill values as low as 2 below. No lightning risk.
+Water temperature 49 degrees Fahrenheit. 
+.THURSDAY...Sunny. High around 33. Northwest winds 15 to 20 mph
+decreasing to around 10 mph in the afternoon. Wind chill values as
+low as 2 below in the morning. No lightning risk. Water temperature
+49 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-151100-
+Upper Penobscot Watershed-
+350 PM EST Wed Nov 14 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Scattered flurries early this evening. Low
+around 7 above. Northwest winds 10 to 20 mph. Wind chill values as
+low as 7 below. No lightning risk. 
+.THURSDAY...Mostly sunny. Not as cool with high around 28. Northwest
+winds around 10 mph in the morning becoming light winds. Wind chill
+values as low as 7 below in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-151100-
+Lower Penobscot Watershed-
+350 PM EST Wed Nov 14 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear, cooler with low around 8 above. Northwest winds
+10 to 20 mph. Wind chill values as low as 3 below. No lightning
+risk. 
+.THURSDAY...Mostly sunny. High around 30. Northwest winds around
+10 mph in the morning becoming light winds. Wind chill values as low
+as 4 below in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

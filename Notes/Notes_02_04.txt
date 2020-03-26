@@ -1,0 +1,69 @@
+ECE331
+Notes
+02/04/20
+Spencer Goulette
+
+Globing can be used in place of grep
+
+static		linked at compile time
+dynamic		linked at run time
+
+objdump -d filename	disassemble file
+
+!obj
+
+Fhs		File Hierarchy Standard
+
+/
+lib, bin, etc, home, usr, var, tmp, root, boot
+
+sbin - system binaries, administrative commands
+lib - loader, c, math, etc.
+bin - essential binaries for boot
+etc - config data system wide
+home - user home dirs
+usr - Mirror of first 4 dirs
+	- lib, share, bin, include, local, sbin
+	lib - most libraries here
+	share - static data
+	bin - exec
+	include - headers
+	local - mirrors usr
+	sbin - admin bin
+var - files that change often and fast
+tmp - "transient" files
+root - root's home dir
+dev - interface to hardware
+boot - boot files (separate partition for pi)
+
+cd absolute paths /
+   relative paths no /
+
+ERE
+?
+\
+$
+.
+^
+*
++
+{n}
+{n,}
+{n,m}
+[]
+[^ ]
+()
+|
+
+^[0-9]+$	anchor
+
+^[a-zA-Z][0-9]+$
+
+#!/usr/bin/python
+import re
+
+line=['04403', 'asdasf']
+for l in line:
+	m=re.search(r'^[0-9]{5}',i)
+	print m
+

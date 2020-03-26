@@ -1,0 +1,213 @@
+
+382 
+SXUS41 KCAR 291901
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+301 PM EDT Sat Jun 29 2019
+
+MEZ004-300915-
+Top of Mount Katahdin-
+301 PM EDT Sat Jun 29 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds until midnight, then summit
+becoming obscured. Scattered showers and isolated thunderstorms
+through early morning...then numerous showers late. Low around 49.
+North winds 10 to 15 mph. Chance of precipitation 60 percent.
+Lightning risk is limited. 
+.SUNDAY...Summit obscured. Numerous showers and isolated
+thunderstorms. High around 52. Northeast winds 10 to 25 mph. Chance
+of precipitation 70 percent. Lightning risk is limited. 
+
+$$
+
+MEZ005-300915-
+Katahdin Woods and Waters National Monument-
+301 PM EDT Sat Jun 29 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Isolated thunderstorms until midnight.
+scattered showers through early morning...then numerous showers
+late. Low around 58. North winds 10 mph. Chance of precipitation
+60 percent. Lightning risk is limited. 
+.SUNDAY...Cloudy. Numerous showers. isolated thunderstorms in the
+afternoon. High around 68. Northeast winds 10 to 15 mph. Chance of
+precipitation 70 percent. Lightning risk is limited. 
+
+$$
+
+MEZ029-300915-
+Top of Cadillac Mountain-
+301 PM EDT Sat Jun 29 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured, then summit in and out of clouds after
+midnight, then summit becoming obscured. Isolated thunderstorms
+until midnight. scattered showers. Low around 57. Southwest winds
+10 mph shifting to the north after midnight. Chance of precipitation
+40 percent. Lightning risk is limited. 
+.SUNDAY...Summit obscured. Numerous showers. isolated thunderstorms
+in the afternoon. High around 64. North winds 10 mph shifting to the
+northeast 10 to 20 mph in the afternoon. Chance of precipitation
+70 percent. Lightning risk is limited. 
+
+$$
+
+MEZ001-300915-
+Top of Deboullie Mountain-
+301 PM EDT Sat Jun 29 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds until midnight, then summit
+becoming obscured. Isolated thunderstorms until midnight. scattered
+showers through early morning...then numerous showers late. Low
+around 55. Northeast winds 10 mph. Chance of precipitation
+60 percent. Lightning risk is limited. 
+.SUNDAY...Summit obscured. Numerous showers. isolated thunderstorms
+in the afternoon. High around 64. Northeast winds 10 to 15 mph.
+Chance of precipitation 60 percent. Lightning risk is limited. 
+
+$$
+
+MEZ006-300915-
+Top of Mars Hill Mountain-
+301 PM EDT Sat Jun 29 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured, then becoming cloudy through early
+morning, then summit in and out of clouds. Isolated thunderstorms
+early this evening. scattered showers. Low around 56. East winds
+10 mph. Chance of precipitation 50 percent. Lightning risk is
+limited. 
+.SUNDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. Numerous showers in the morning...then scattered
+showers in the afternoon. High around 65. Northeast winds 10 to
+15 mph. Chance of precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ010-300915-
+Top of White Cap Mountain-
+301 PM EDT Sat Jun 29 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds until midnight, then summit
+becoming obscured. Isolated thunderstorms through early morning.
+scattered showers. Low around 53. Northwest winds 10 mph shifting to
+the north 10 to 15 mph after midnight. Chance of precipitation
+50 percent. Lightning risk is limited. 
+.SUNDAY...Summit obscured. Numerous showers and isolated
+thunderstorms. High around 57. Northeast winds 10 to 20 mph. Chance
+of precipitation 70 percent. Lightning risk is limited. 
+
+$$
+
+MEZ010-300915-
+Moosehead Lake-
+301 PM EDT Sat Jun 29 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Isolated thunderstorms through early
+morning. scattered showers. Low around 57. North winds 10 mph. Waves
+1 foot. Chance of precipitation 50 percent. Lightning risk is
+limited. Water temperature 57 degrees Fahrenheit. 
+.SUNDAY...Cloudy. Widespread showers and isolated thunderstorms.
+High around 66. Waves 2 feet. North winds 10 mph increasing to 10 to
+15 mph in the afternoon. Chance of precipitation 80 percent.
+Lightning risk is limited. Water temperature 57 degrees Fahrenheit. 
+
+$$
+
+MEZ001-300915-
+Allagash Wilderness Waterway-
+301 PM EDT Sat Jun 29 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Isolated thunderstorms until midnight. scattered
+showers. Low around 56. Northeast winds 10 mph. Chance of
+precipitation 50 percent. Lightning risk is limited. 
+.SUNDAY...Cloudy. Numerous showers. isolated thunderstorms in the
+afternoon. High around 68. Northeast winds 10 mph shifting to the
+north 10 to 15 mph in the afternoon. Chance of precipitation
+70 percent. Lightning risk is limited. 
+
+$$
+
+MEZ030-300915-
+St Croix River-
+301 PM EDT Sat Jun 29 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Isolated thunderstorms early this evening.
+scattered showers. Low around 57. East winds 10 mph. Chance of
+precipitation 50 percent. Lightning risk is limited. 
+.SUNDAY...Cloudy. Numerous showers in the morning...then scattered
+showers in the afternoon. High around 68. Northeast winds 15 mph.
+Chance of precipitation 60 percent. No lightning risk. 
+
+$$
+
+MEZ030-300915-
+West Quoddy Head-
+301 PM EDT Sat Jun 29 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Scattered showers. Low around 52. Southeast winds
+10 mph until midnight becoming light winds. Chance of precipitation
+40 percent. No lightning risk. Water temperature 48 degrees
+Fahrenheit. 
+.SUNDAY...Cloudy. Scattered showers. High around 61. Northeast winds
+10 mph shifting to the north in the afternoon. Chance of
+precipitation 40 percent. No lightning risk. Water temperature
+48 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-300915-
+Upper Penobscot Watershed-
+301 PM EDT Sat Jun 29 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Isolated thunderstorms through early
+morning. scattered showers. Low around 59. North winds 10 mph.
+Chance of precipitation 50 percent. Lightning risk is limited. 
+.SUNDAY...Cloudy. Numerous showers and isolated thunderstorms. High
+around 69. Northeast winds 10 to 15 mph. Chance of precipitation
+70 percent. Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-300915-
+Lower Penobscot Watershed-
+301 PM EDT Sat Jun 29 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Isolated thunderstorms through early
+morning. scattered showers. Low around 60. South winds 10 mph
+shifting to the north after midnight. Chance of precipitation
+50 percent. Lightning risk is limited. 
+.SUNDAY...Cloudy. Numerous showers and isolated thunderstorms. High
+around 70. North winds 10 to 15 mph. Chance of precipitation
+70 percent. Lightning risk is limited. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,196 @@
+
+135 
+SXUS41 KCAR 131829
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+229 PM EDT Fri Jul 13 2018
+
+MEZ004-140830-
+Top of Mount Katahdin-
+229 PM EDT Fri Jul 13 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured, then summit in and out of clouds late
+this evening, then becoming mostly cloudy, then becoming mostly
+clear late. A slight chance of showers late. Windy and not as cool
+with low around 51. Southeast winds 25 to 30 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then summit in and out of
+clouds. A chance of showers. Windy with high around 57. Southeast
+winds 25 to 30 mph. Chance of precipitation 40 percent. No lightning
+risk. 
+
+$$
+
+MEZ005-140830-
+Katahdin Woods and Waters National Monument-
+229 PM EDT Fri Jul 13 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. A slight
+chance of showers late. Low around 56. Light winds. Chance of
+precipitation 20 percent. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming cloudy. A
+chance of showers. High around 73. Light winds. Chance of
+precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ029-140830-
+Top of Cadillac Mountain-
+229 PM EDT Fri Jul 13 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Low around 56. South winds around 10 mph. No
+lightning risk. 
+.SATURDAY...Sunny in the morning, then becoming mostly cloudy. High
+around 64. Southeast winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ001-140830-
+Top of Deboullie Mountain-
+229 PM EDT Fri Jul 13 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. A slight chance of showers late. Low around 53. South winds
+around 10 mph. Chance of precipitation 20 percent. No lightning
+risk. 
+.SATURDAY...Mostly cloudy. A chance of showers. Cooler with high
+around 64. South winds around 10 mph. Chance of precipitation
+30 percent. No lightning risk. 
+
+$$
+
+MEZ006-140830-
+Top of Mars Hill Mountain-
+229 PM EDT Fri Jul 13 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear. Low around 53. Southeast winds around
+10 mph. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming cloudy. A
+slight chance of showers. High around 70. South winds 10 to 15 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ010-140830-
+Top of White Cap Mountain-
+229 PM EDT Fri Jul 13 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds, then becoming mostly cloudy
+late this evening, then becoming mostly clear. A slight chance of
+showers late. Low around 55. Southeast winds around 15 mph. Chance
+of precipitation 20 percent. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then summit in and out of
+clouds. A chance of showers. High around 60. Southeast winds 15 to
+20 mph. Chance of precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ010-140830-
+Moosehead Lake-
+229 PM EDT Fri Jul 13 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy, then becoming mostly clear through early
+morning, then becoming partly cloudy. A slight chance of showers
+late. Low around 54. Light winds. Waves 1 foot. Chance of
+precipitation 20 percent. No lightning risk. Water temperature
+61 degrees Fahrenheit. 
+.SATURDAY...Mostly cloudy. A chance of showers. High around 71.
+Waves 1 foot. Light winds. Chance of precipitation 50 percent. No
+lightning risk. Water temperature 61 degrees Fahrenheit. 
+
+$$
+
+MEZ001-140830-
+Allagash Wilderness Waterway-
+229 PM EDT Fri Jul 13 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly clear through early morning, then becoming partly
+cloudy. A slight chance of showers late. Not as cool with low around
+53. South winds around 10 mph until midnight becoming light winds.
+Chance of precipitation 20 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy. A chance of showers. High around 71.
+South winds around 10 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-140830-
+St Croix River-
+229 PM EDT Fri Jul 13 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear. Low around 51. Light winds. No lightning
+risk. 
+.SATURDAY...Sunny in the morning, then becoming mostly cloudy. High
+around 76. Light winds. No lightning risk. 
+
+$$
+
+MEZ030-140830-
+West Quoddy Head-
+229 PM EDT Fri Jul 13 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear. Low around 52. Light winds. No lightning
+risk. Water temperature 53 degrees Fahrenheit. 
+.SATURDAY...Sunny in the morning, then becoming partly sunny. High
+around 65. Light winds. No lightning risk. Water temperature
+53 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-140830-
+Upper Penobscot Watershed-
+229 PM EDT Fri Jul 13 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Low
+around 53. Light winds. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming cloudy. A
+slight chance of showers in the morning...then a chance of showers
+in the afternoon. High around 75. Light winds. Chance of
+precipitation 40 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-140830-
+Lower Penobscot Watershed-
+229 PM EDT Fri Jul 13 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Low
+around 53. Light winds. No lightning risk. 
+.SATURDAY...Mostly sunny in the morning, then becoming cloudy. A
+slight chance of showers in the afternoon. High around 76. Light
+winds becoming south around 10 mph in the afternoon. Chance of
+precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

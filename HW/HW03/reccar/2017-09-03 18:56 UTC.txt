@@ -1,0 +1,212 @@
+
+066 
+SXUS41 KCAR 031856
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+256 PM EDT Sun Sep 3 2017
+
+MEZ004-040900-
+Top of Mount Katahdin-
+256 PM EDT Sun Sep 3 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy until midnight...then summit becoming obscured.
+Patchy fog. Rain. Near steady temperatures around 43. Southeast
+winds 15 to 25 mph shifting to the south 10 to 15 mph after
+midnight. Chance of precipitation near 100 percent. No lightning
+risk. 
+.LABOR DAY...Summit in and out of clouds in the morning...then
+becoming partly sunny. Patchy fog in the morning. A slight chance of
+showers in the morning. High around 53. West winds 15 to 25 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ005-040900-
+Katahdin Woods and Waters National Monument-
+256 PM EDT Sun Sep 3 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Patchy fog. Rain. Low around 51. Southeast winds
+around 10 mph shifting to the north after midnight. Chance of
+precipitation near 100 percent. No lightning risk. 
+.LABOR DAY...Cloudy in the morning...then becoming partly sunny.
+Patchy fog in the morning. A slight chance of showers in the
+morning. High around 68. West winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ029-040900-
+Top of Cadillac Mountain-
+256 PM EDT Sun Sep 3 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Patchy fog. Rain. Low around 53.
+Southeast winds 25 to 30 mph shifting to the southwest 20 to 25 mph
+after midnight. Chance of precipitation 80 percent. No lightning
+risk. 
+.LABOR DAY...Mostly cloudy in the morning...then becoming partly
+sunny. Patchy fog in the morning. High around 63. West winds 15 to
+20 mph. No lightning risk. 
+
+$$
+
+MEZ001-040900-
+Top of Deboullie Mountain-
+256 PM EDT Sun Sep 3 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy until midnight...then summit becoming
+obscured. Patchy fog. Rain. Low around 48. Southeast winds 10 to
+15 mph shifting to the east after midnight. Chance of precipitation
+near 100 percent. No lightning risk. 
+.LABOR DAY...Summit obscured. Patchy fog in the morning. A chance of
+showers in the morning. High around 59. West winds 10 to 15 mph.
+Chance of precipitation 30 percent. No lightning risk. 
+
+$$
+
+MEZ006-040900-
+Top of Mars Hill Mountain-
+256 PM EDT Sun Sep 3 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy until midnight...then summit becoming
+obscured. Patchy fog. Rain. Low around 50. Southeast winds around
+15 mph shifting to the east after midnight. Chance of precipitation
+near 100 percent. No lightning risk. 
+.LABOR DAY...Summit obscured in the morning...then becoming partly
+sunny. Patchy fog in the morning. A chance of showers in the
+morning. High around 62. West winds around 15 mph. Chance of
+precipitation 40 percent. No lightning risk. 
+
+$$
+
+MEZ010-040900-
+Top of White Cap Mountain-
+256 PM EDT Sun Sep 3 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Cloudy until midnight...then summit becoming obscured.
+Patchy fog. Rain. Near steady temperatures around 46. Southeast
+winds 10 to 25 mph becoming north around 5 mph after midnight.
+Chance of precipitation near 100 percent. No lightning risk. 
+.LABOR DAY...Summit in and out of clouds in the morning...then
+becoming mostly cloudy. Patchy fog in the morning. A slight chance
+of showers in the morning. High around 58. West winds 10 to 25 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ010-040900-
+Moosehead Lake-
+256 PM EDT Sun Sep 3 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Patchy fog. Rain. Low around 48. East winds
+around 15 mph until midnight becoming light winds. Waves 3 feet.
+Chance of precipitation near 100 percent. No lightning risk. Water
+temperature 69 degrees Fahrenheit. 
+.LABOR DAY...Mostly cloudy in the morning...then becoming partly
+sunny. Patchy fog in the morning. A slight chance of showers in the
+morning. High around 67. Waves 3 feet. West winds 10 to 15 mph.
+Chance of precipitation 20 percent. No lightning risk. Water
+temperature 69 degrees Fahrenheit. 
+
+$$
+
+MEZ001-040900-
+Allagash Wilderness Waterway-
+256 PM EDT Sun Sep 3 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Patchy fog. Rain. Not as cool with low around 47.
+Southeast winds around 10 mph until midnight becoming light winds.
+Chance of precipitation near 100 percent. No lightning risk. 
+.LABOR DAY...Cloudy in the morning...then becoming partly sunny.
+Patchy fog in the morning. A chance of showers in the morning. High
+around 65. West winds 10 to 15 mph. Chance of precipitation
+30 percent. No lightning risk. 
+
+$$
+
+MEZ030-040900-
+St Croix River-
+256 PM EDT Sun Sep 3 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Patchy fog. Rain. Not as cool with low around 52.
+Southeast winds around 10 mph. Chance of precipitation 90 percent.
+No lightning risk. 
+.LABOR DAY...Cloudy in the morning...then becoming partly sunny.
+Patchy fog in the morning. A slight chance of showers in the
+morning. High around 71. West winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ030-040900-
+West Quoddy Head-
+256 PM EDT Sun Sep 3 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Patchy fog. Rain. Low around 54. Southeast winds
+10 to 20 mph shifting to the south 15 to 20 mph after midnight.
+Chance of precipitation 90 percent. No lightning risk. Water
+temperature 56 degrees Fahrenheit. 
+.LABOR DAY...Mostly cloudy in the morning...then becoming partly
+sunny. Patchy fog in the morning. High around 66. Southwest winds
+around 15 mph. No lightning risk. Water temperature 56 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-040900-
+Upper Penobscot Watershed-
+256 PM EDT Sun Sep 3 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog. Rain. Low around 51. East winds
+around 10 mph shifting to the north after midnight. Chance of
+precipitation near 100 percent. No lightning risk. 
+.LABOR DAY...Mostly cloudy in the morning...then becoming partly
+sunny. Patchy fog in the morning. A slight chance of showers in the
+morning. High around 70. West winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-040900-
+Lower Penobscot Watershed-
+256 PM EDT Sun Sep 3 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog. Rain. Low around 53. East winds 10 to
+15 mph shifting to the northwest after midnight. Chance of
+precipitation near 100 percent. No lightning risk. 
+.LABOR DAY...Mostly cloudy in the morning...then becoming partly
+sunny. Patchy fog in the morning. High around 73. West winds 10 to
+15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

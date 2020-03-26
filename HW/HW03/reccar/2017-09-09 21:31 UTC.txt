@@ -1,0 +1,222 @@
+
+056 
+SXUS41 KCAR 092131
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+531 PM EDT Sat Sep 9 2017
+
+MEZ004-101200-
+Top of Mount Katahdin-
+531 PM EDT Sat Sep 9 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then
+becoming mostly cloudy. Scattered showers and isolated thunderstorms
+until midnight. Some thunderstorms may produce small hail this
+evening. Low around 40. Northeast winds around 15 mph. Chance of 
+precipitation 50 percent. Lightning risk is limited. 
+.SUNDAY...Mostly cloudy. Isolated showers. High around 49. North 
+winds 15 to 25 mph. Chance of precipitation 20 percent. No lightning 
+risk. 
+
+$$
+
+MEZ005-101200-
+Katahdin Woods and Waters National Monument-
+531 PM EDT Sat Sep 9 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Scattered showers and isolated
+thunderstorms until midnight. Patchy fog after midnight. Some
+thunderstorms may produce small hail this evening. Low around 48. 
+North winds around 10 mph. Chance of precipitation 50 percent. 
+Lightning risk is limited. 
+.SUNDAY...Partly sunny in the morning...then becoming mostly cloudy.
+Patchy fog in the morning. Isolated showers. High around 66. North
+winds around 10 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+
+$$
+
+MEZ029-101200-
+Top of Cadillac Mountain-
+531 PM EDT Sat Sep 9 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy. Scattered showers and isolated
+thunderstorms until midnight. Patchy fog after midnight. Some
+thunderstorms may produce small hail this evening. Low around 52. 
+Northeast winds around 15 mph. Chance of precipitation 30 percent. 
+Lightning risk is limited. 
+.SUNDAY...Summit obscured in the morning...then becoming mostly
+cloudy. High around 61. North winds 15 to 20 mph. No lightning risk.
+
+$$
+
+MEZ001-101200-
+Top of Deboullie Mountain-
+531 PM EDT Sat Sep 9 2017
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Mostly cloudy. Scattered showers and isolated
+thunderstorms until midnight. Patchy fog after midnight. Some
+thunderstorms may produce small hail this evening. Low around 47. 
+North winds around 10 mph. Chance of precipitation 50 percent. 
+Lightning risk is limited. 
+.SUNDAY...Mostly cloudy. Patchy fog in the morning. Isolated
+showers. High around 58. North winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ006-101200-
+Top of Mars Hill Mountain-
+531 PM EDT Sat Sep 9 2017
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly cloudy. Numerous showers and isolated
+thunderstorms until midnight. Patchy fog after midnight. Some
+thunderstorms may produce small hail this evening. Low around 48. 
+Northeast winds around 10 mph. Chance of precipitation 60 percent. 
+Lightning risk is limited. 
+.SUNDAY...Mostly cloudy. Patchy fog in the morning. Isolated
+showers. High around 62. North winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ010-101200-
+Top of White Cap Mountain-
+531 PM EDT Sat Sep 9 2017
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds until midnight...then 
+becoming mostly cloudy. Scattered showers and isolated thunderstorms 
+until midnight. Patchy fog after midnight. Some thunderstorms may 
+produce small hail this evening. Low around 45. Northeast winds 
+around 15 mph. Chance of precipitation 50 percent. Lightning risk is 
+limited. 
+.SUNDAY...Mostly cloudy. Patchy fog in the morning. Isolated showers.
+High around 53. North winds 15 to 25 mph. Chance of precipitation 20
+percent. No lightning risk.
+
+$$
+
+MEZ010-101200-
+Moosehead Lake-
+531 PM EDT Sat Sep 9 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Scattered showers and isolated
+thunderstorms until midnight. Patchy fog after midnight. Some
+thunderstorms may produce small hail this evening. Low around 46. 
+Light winds. Waves 1 foot. Chance of precipitation 50 percent. 
+Lightning risk is limited. Water temperature 66 degrees Fahrenheit. 
+.SUNDAY...Partly sunny. Patchy fog in the morning. High around 63.
+Waves 2 feet. North winds around 10 mph. No lightning risk. Water
+temperature 66 degrees Fahrenheit. 
+
+$$
+
+MEZ001-101200-
+Allagash Wilderness Waterway-
+531 PM EDT Sat Sep 9 2017
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. Scattered showers and isolated
+thunderstorms until midnight. Patchy fog after midnight. Some
+thunderstorms may produce small hail this evening. Low around 42. 
+Light winds. Chance of precipitation 50 percent. Lightning risk is 
+limited. 
+.SUNDAY...Partly sunny. Patchy fog in the morning. Isolated showers.
+High around 64. Northwest winds around 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ030-101200-
+St Croix River-
+531 PM EDT Sat Sep 9 2017
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. Scattered showers and isolated
+thunderstorms until midnight. Patchy fog after midnight. Some
+thunderstorms may produce small hail this evening. Low around 48. 
+Light winds becoming north around 10 mph after midnight. Chance of 
+precipitation 50 percent. Lightning risk is limited. 
+.SUNDAY...Mostly cloudy. Patchy fog in the morning. Isolated
+showers. High around 70. Northeast winds around 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ030-101200-
+West Quoddy Head-
+531 PM EDT Sat Sep 9 2017
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy. Scattered showers and isolated
+thunderstorms until midnight. Patchy fog after midnight. Some
+thunderstorms may produce small hail this evening. Low around 51. 
+Light winds becoming north 10 to 15 mph after midnight. Chance of 
+precipitation 40 percent. Lightning risk is limited. Water 
+temperature 56 degrees Fahrenheit. 
+.SUNDAY...Mostly cloudy. Patchy fog in the morning. High around 67.
+North winds around 15 mph. No lightning risk. Water temperature
+56 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-101200-
+Upper Penobscot Watershed-
+531 PM EDT Sat Sep 9 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Scattered showers and isolated
+thunderstorms until midnight. Patchy fog after midnight. Some
+thunderstorms may produce small hail this evening. Low around 48. 
+North winds around 10 mph. Chance of precipitation 50 percent. 
+Lightning risk is limited. 
+.SUNDAY...Partly sunny in the morning...then becoming mostly cloudy.
+Patchy fog in the morning. Isolated showers in the afternoon. High
+around 67. North winds around 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-101200-
+Lower Penobscot Watershed-
+531 PM EDT Sat Sep 9 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy until midnight...then becoming partly
+cloudy. Scattered showers and isolated thunderstorms until midnight.
+Patchy fog after midnight. Some thunderstorms may produce small hail
+this evening. Low around 50. North winds around 10 mph. Chance of 
+precipitation 50 percent. Lightning risk is limited. 
+.SUNDAY...Partly sunny. Patchy fog in the morning. High around 69.
+North winds around 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+Norcross

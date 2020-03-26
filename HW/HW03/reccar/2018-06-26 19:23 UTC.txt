@@ -1,0 +1,170 @@
+
+354 
+SXUS41 KCAR 261923
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+323 PM EDT Tue Jun 26 2018
+
+MEZ004-270930-
+Top of Mount Katahdin-
+323 PM EDT Tue Jun 26 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear, windy and not as cool with low around 49. West
+winds around 30 mph. No lightning risk. 
+.WEDNESDAY...Sunny, windy and not as cool with high around 62. West
+winds around 30 mph. No lightning risk. 
+
+$$
+
+MEZ005-270930-
+Katahdin Woods and Waters National Monument-
+323 PM EDT Tue Jun 26 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Low around 51. Light winds. No lightning risk. 
+.WEDNESDAY...Sunny. High around 81. Light winds becoming west around
+10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ029-270930-
+Top of Cadillac Mountain-
+323 PM EDT Tue Jun 26 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Not as cool with low around 56. West winds 10 to
+20 mph. No lightning risk. 
+.WEDNESDAY...Sunny. High around 67. Southwest winds 10 to 20 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-270930-
+Top of Deboullie Mountain-
+323 PM EDT Tue Jun 26 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Clear. Not as cool with low around 50. West winds 10 to
+15 mph. No lightning risk. 
+.WEDNESDAY...Sunny. High around 77. West winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ006-270930-
+Top of Mars Hill Mountain-
+323 PM EDT Tue Jun 26 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Clear. Low around 50. Southwest winds around 10 mph. No
+lightning risk. 
+.WEDNESDAY...Sunny, warmer with high around 80. Southwest winds
+10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ010-270930-
+Top of White Cap Mountain-
+323 PM EDT Tue Jun 26 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Clear. Low around 54. Northwest winds around 20 mph. No
+lightning risk. 
+.WEDNESDAY...Sunny. High around 68. Northwest winds around 20 mph
+shifting to the southwest in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-270930-
+Moosehead Lake-
+323 PM EDT Tue Jun 26 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Low around 50. Light winds. Waves 1 foot. No
+lightning risk. Water temperature 60 degrees Fahrenheit. 
+.WEDNESDAY...Sunny. High around 77. Waves 1 foot. Light winds. No
+lightning risk. Water temperature 60 degrees Fahrenheit. 
+
+$$
+
+MEZ001-270930-
+Allagash Wilderness Waterway-
+323 PM EDT Tue Jun 26 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Clear. Not as cool with low around 49. Southwest winds
+around 10 mph. No lightning risk. 
+.WEDNESDAY...Sunny. High around 80. West winds 10 to 15 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-270930-
+St Croix River-
+323 PM EDT Tue Jun 26 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Clear. Low around 49. Light winds. No lightning risk. 
+.WEDNESDAY...Sunny. High around 82. Light winds becoming southwest
+around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-270930-
+West Quoddy Head-
+323 PM EDT Tue Jun 26 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Clear. Low around 50. Southwest winds 10 mph until
+midnight becoming light winds. No lightning risk. Water temperature
+50 degrees Fahrenheit. 
+.WEDNESDAY...Sunny. High around 67. Southwest winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk.
+Water temperature 50 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-270930-
+Upper Penobscot Watershed-
+323 PM EDT Tue Jun 26 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 50. West winds 10 mph until midnight
+becoming light winds. No lightning risk. 
+.WEDNESDAY...Sunny. High around 81. Light winds becoming southwest
+around 10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-270930-
+Lower Penobscot Watershed-
+323 PM EDT Tue Jun 26 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 51. Southwest winds 10 mph until
+midnight becoming light winds. No lightning risk. 
+.WEDNESDAY...Sunny. High around 81. Southwest winds 10 mph
+increasing to 10 to 15 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

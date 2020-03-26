@@ -1,0 +1,195 @@
+
+310 
+SXUS41 KCAR 231854
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+254 PM EDT Fri Mar 23 2018
+
+MEZ004-240900-
+Top of Mount Katahdin-
+254 PM EDT Fri Mar 23 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy, then becoming partly cloudy late this evening,
+then becoming mostly cloudy. Low around 14. North winds around
+15 mph. Wind chill values as low as zero. No lightning risk. 
+.SATURDAY...Cloudy in the morning, then summit becoming obscured. A
+chance of snow showers in the morning...then snow showers likely in
+the afternoon. High around 19. Northeast winds 10 to 15 mph. Chance
+of precipitation 70 percent. Wind chill values as low as 3 above. 
+
+$$
+
+MEZ005-240900-
+Katahdin Woods and Waters National Monument-
+254 PM EDT Fri Mar 23 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 21. North winds around 10 mph until midnight
+becoming light winds. No lightning risk. 
+.SATURDAY...Cloudy. A chance of snow showers in the morning...then
+snow showers likely in the afternoon. High around 37. North winds
+around 10 mph. Chance of precipitation 70 percent. Wind chill values
+as low as 14 in the morning. 
+$$
+
+MEZ029-240900-
+Top of Cadillac Mountain-
+254 PM EDT Fri Mar 23 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy. Low around 28. North winds 10 to 15 mph.
+No lightning risk. 
+.SATURDAY...Mostly cloudy. A chance of snow showers in the morning...
+then snow showers likely in the afternoon. High around 34. North
+winds 10 to 15 mph. Chance of precipitation 60 percent. 
+
+$$
+
+MEZ001-240900-
+Top of Deboullie Mountain-
+254 PM EDT Fri Mar 23 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Low around 17. North winds around 10 mph. Wind chill values
+as low as 8 above. No lightning risk. 
+.SATURDAY...Cloudy in the morning, then summit becoming obscured. A
+chance of snow showers in the morning...then snow showers likely in
+the afternoon. High around 34. North winds around 10 mph. Chance of
+precipitation 60 percent. Wind chill values as low as 7 above in the
+morning. 
+
+$$
+
+MEZ006-240900-
+Top of Mars Hill Mountain-
+254 PM EDT Fri Mar 23 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Low around 20. North winds around 10 mph. Wind chill values
+as low as 13. No lightning risk. 
+.SATURDAY...Cloudy in the morning, then summit in and out of clouds.
+A chance of snow showers. High around 38. North winds around 10 mph.
+Chance of precipitation 50 percent. Wind chill values as low as
+11 in the morning. 
+
+$$
+
+MEZ010-240900-
+Top of White Cap Mountain-
+254 PM EDT Fri Mar 23 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds until midnight, then summit
+becoming obscured. Low around 19. North winds 10 to 15 mph. Wind
+chill values as low as 7 above. No lightning risk. 
+.SATURDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. A chance of snow showers in the morning...then
+snow showers likely in the afternoon. High around 24. North winds
+10 to 15 mph. Chance of precipitation 60 percent. Wind chill values
+as low as 9 above. 
+$$
+
+MEZ010-240900-
+Moosehead Lake-
+254 PM EDT Fri Mar 23 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Low around 20. Light winds. No lightning risk. 
+.SATURDAY...Cloudy. A chance of snow showers in the morning...then
+snow showers likely in the afternoon. High around 34. Light winds
+becoming north around 10 mph in the afternoon. Chance of
+precipitation 60 percent. 
+$$
+
+MEZ001-240900-
+Allagash Wilderness Waterway-
+254 PM EDT Fri Mar 23 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 17. Light winds. No lightning risk. 
+.SATURDAY...Cloudy. A chance of snow showers in the morning...then
+snow showers likely in the afternoon. High around 36. Light winds
+becoming north around 10 mph in the afternoon. Chance of
+precipitation 60 percent. 
+
+$$
+
+MEZ030-240900-
+St Croix River-
+254 PM EDT Fri Mar 23 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. Low around 23. Light winds. No lightning
+risk. 
+.SATURDAY...Cloudy. A chance of snow showers. High around 38. Light
+winds becoming northeast around 10 mph in the afternoon. Chance of
+precipitation 40 percent. 
+
+$$
+
+MEZ030-240900-
+West Quoddy Head-
+254 PM EDT Fri Mar 23 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy. Low around 29. North winds around 10 mph.
+No lightning risk. Water temperature 38 degrees Fahrenheit. 
+.SATURDAY...Cloudy. A slight chance of snow showers in the morning...
+then a chance of snow showers in the afternoon. High around 39.
+North winds 10 to 15 mph. Chance of precipitation 40 percent. No
+lightning risk. Water temperature 38 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-240900-
+Upper Penobscot Watershed-
+254 PM EDT Fri Mar 23 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+cloudy. Low around 22. Light winds. No lightning risk. 
+.SATURDAY...Mostly cloudy. A chance of snow showers in the morning...
+then snow showers likely in the afternoon. High around 39. Light
+winds becoming north around 10 mph in the afternoon. Chance of
+precipitation 70 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-240900-
+Lower Penobscot Watershed-
+254 PM EDT Fri Mar 23 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Low around 24. Light winds. No lightning
+risk. 
+.SATURDAY...Mostly cloudy. A chance of snow showers. High around 40.
+Light winds becoming north around 10 mph in the afternoon. Chance of
+precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

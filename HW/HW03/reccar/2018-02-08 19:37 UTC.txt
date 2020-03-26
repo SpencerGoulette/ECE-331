@@ -1,0 +1,202 @@
+
+793 
+SXUS41 KCAR 081937
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+237 PM EST Thu Feb 8 2018
+
+MEZ004-090945-
+Top of Mount Katahdin-
+237 PM EST Thu Feb 8 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear...then becoming partly cloudy late this
+evening...then becoming cloudy. Windy and much colder with low
+around 13 below. West winds around 30 mph shifting to the southwest
+after midnight. Wind chill values as low as 44 below. No lightning
+risk. 
+.FRIDAY...Partly sunny in the morning...then becoming mostly cloudy.
+Very windy with high around 5 above. Southwest winds 30 to 35 mph.
+Wind chill values as low as 42 below in the morning. No lightning
+risk. 
+
+$$
+
+MEZ005-090945-
+Katahdin Woods and Waters National Monument-
+237 PM EST Thu Feb 8 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear...then becoming partly cloudy late this evening...
+then becoming mostly cloudy. Cooler with low around 3 below. Light
+winds. No lightning risk. 
+.FRIDAY...Partly sunny in the morning...then becoming mostly cloudy.
+High around 20. West winds 10 mph. Wind chill values as low as
+6 below in the morning. No lightning risk. 
+
+$$
+
+MEZ029-090945-
+Top of Cadillac Mountain-
+237 PM EST Thu Feb 8 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear...then becoming partly cloudy through early
+morning...then becoming mostly cloudy. Low around 7 above. Northwest
+winds around 15 mph. Wind chill values as low as 10 below. No
+lightning risk. 
+.FRIDAY...Partly sunny in the morning...then becoming mostly cloudy.
+High around 22. West winds 15 to 20 mph. Wind chill values as low as
+1 below. No lightning risk. 
+
+$$
+
+MEZ001-090945-
+Top of Deboullie Mountain-
+237 PM EST Thu Feb 8 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy early this evening...then becoming cloudy.
+Cold with low around 8 below. Southwest winds around 10 mph. Wind
+chill values as low as 25 below. No lightning risk. 
+.FRIDAY...Mostly cloudy in the morning...then becoming partly sunny.
+A slight chance of snow showers in the morning. High around 14.
+Southwest winds 10 to 15 mph. Chance of precipitation 20 percent.
+Wind chill values as low as 23 below in the morning. No lightning
+risk. 
+
+$$
+
+MEZ006-090945-
+Top of Mars Hill Mountain-
+237 PM EST Thu Feb 8 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Mostly clear...then becoming partly cloudy late this
+evening...then becoming mostly cloudy. Much colder with low around
+8 below. West winds around 10 mph shifting to the southwest after
+midnight. Wind chill values as low as 25 below. No lightning risk. 
+.FRIDAY...Partly sunny in the morning...then becoming mostly cloudy.
+High around 17. Southwest winds 10 to 15 mph. Wind chill values as
+low as 24 below in the morning. No lightning risk. 
+
+$$
+
+MEZ010-090945-
+Top of White Cap Mountain-
+237 PM EST Thu Feb 8 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly clear...then becoming partly cloudy late this
+evening...then becoming mostly cloudy. Cold with low around 5 below.
+Northwest winds around 20 mph shifting to the northeast after
+midnight. Wind chill values as low as 28 below. No lightning risk. 
+.FRIDAY...Mostly cloudy in the morning...then summit in and out of
+clouds. Brisk with high around 10 above. Southwest winds 20 to
+25 mph. Wind chill values as low as 28 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ010-090945-
+Moosehead Lake-
+237 PM EST Thu Feb 8 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear...then becoming partly cloudy late this
+evening...then becoming mostly cloudy. Low around 4 below. Light
+winds. No lightning risk. 
+.FRIDAY...Partly sunny in the morning...then becoming mostly cloudy.
+High around 19. Light winds. No lightning risk. 
+
+$$
+
+MEZ001-090945-
+Allagash Wilderness Waterway-
+237 PM EST Thu Feb 8 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly clear...then becoming partly cloudy late this
+evening...then becoming mostly cloudy. Cold with low around
+10 below. Light winds. No lightning risk. 
+.FRIDAY...Partly sunny in the morning...then becoming mostly cloudy.
+High around 17. Southwest winds 10 to 15 mph. Wind chill values as
+low as 23 below in the morning. No lightning risk. 
+
+$$
+
+MEZ030-090945-
+St Croix River-
+237 PM EST Thu Feb 8 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear...then becoming partly cloudy after
+midnight...then becoming mostly cloudy. Cooler with low around
+1 below. Light winds. No lightning risk. 
+.FRIDAY...Partly sunny in the morning...then becoming mostly cloudy.
+High around 24. Light winds becoming west around 10 mph in the
+afternoon. No lightning risk. 
+
+$$
+
+MEZ030-090945-
+West Quoddy Head-
+237 PM EST Thu Feb 8 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear early this evening...then becoming partly
+cloudy. Low around 11. Light winds. No lightning risk. Water
+temperature 41 degrees Fahrenheit. 
+.FRIDAY...Partly sunny in the morning...then becoming mostly cloudy.
+High around 28. Light winds becoming west around 10 mph in the
+afternoon. No lightning risk. Water temperature 41 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-090945-
+Upper Penobscot Watershed-
+237 PM EST Thu Feb 8 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear...then becoming partly cloudy late this evening...
+then becoming mostly cloudy. Cooler with low around 2 below. Light
+winds. No lightning risk. 
+.FRIDAY...Partly sunny in the morning...then becoming mostly cloudy.
+High around 22. West winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-090945-
+Lower Penobscot Watershed-
+237 PM EST Thu Feb 8 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear...then becoming partly cloudy late this
+evening...then becoming mostly cloudy. Cooler with low around
+1 below. Light winds. No lightning risk. 
+.FRIDAY...Partly sunny in the morning...then becoming mostly cloudy.
+High around 25. Southwest winds 10 mph. Wind chill values as low as
+3 below in the morning. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

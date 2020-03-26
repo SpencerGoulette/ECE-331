@@ -1,0 +1,208 @@
+
+876 
+SXUS41 KCAR 050800
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+300 AM EST Wed Dec 5 2018
+
+MEZ004-052200-
+Top of Mount Katahdin-
+300 AM EST Wed Dec 5 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly sunny. High around 14. Northwest winds 10 to 15 mph
+shifting to the west 10 mph this afternoon. Wind chill values as low
+as 15 below. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 8 above. West winds 10 mph. No lightning risk. 
+.THURSDAY...Mostly cloudy. High around 12. West winds 10 to 25 mph.
+Wind chill values as low as 7 below. No lightning risk. 
+
+$$
+
+MEZ005-052200-
+Katahdin Woods and Waters National Monument-
+300 AM EST Wed Dec 5 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly sunny. High around 22. West winds 10 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 11. Southwest winds 10 mph. No lightning risk. 
+.THURSDAY...Partly sunny in the morning, then becoming mostly
+cloudy. High around 26. Southwest winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ029-052200-
+Top of Cadillac Mountain-
+300 AM EST Wed Dec 5 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny. High around 23. North winds 10 to 15 mph shifting to
+the northwest 10 mph this afternoon. No lightning risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 17. South winds 10 mph shifting to the northwest after
+midnight. No lightning risk. 
+.THURSDAY...Partly sunny. High around 30. West winds 10 to 25 mph.
+No lightning risk. 
+
+$$
+
+MEZ001-052200-
+Top of Deboullie Mountain-
+300 AM EST Wed Dec 5 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Mostly sunny. High around 17. West winds 10 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 10 above. West winds 10 mph. No lightning risk. 
+.THURSDAY...Mostly cloudy in the morning, then summit in and out of
+clouds. A slight chance of snow showers. High around 22. Southwest
+winds 10 mph increasing to 10 to 15 mph in the afternoon. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ006-052200-
+Top of Mars Hill Mountain-
+300 AM EST Wed Dec 5 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Mostly sunny. High around 18. Northwest winds 10 to 15 mph
+shifting to the west this afternoon. No lightning risk. 
+.TONIGHT...Partly cloudy. Low around 8 above. Southwest winds
+10 mph. No lightning risk. 
+.THURSDAY...Partly sunny in the morning, then summit in and out of
+clouds. A slight chance of snow showers. High around 23. Southwest
+winds 10 mph. Chance of precipitation 20 percent. No lightning risk.
+
+$$
+
+MEZ010-052200-
+Top of White Cap Mountain-
+300 AM EST Wed Dec 5 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly sunny. High around 15. Northwest winds 10 to 15 mph
+shifting to the west this afternoon. Wind chill values as low as
+7 below. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 11. West winds 10 mph. No lightning risk. 
+.THURSDAY...Mostly cloudy. High around 17. West winds 10 to 25 mph.
+Wind chill values as low as 1 above. No lightning risk. 
+
+$$
+
+MEZ010-052200-
+Moosehead Lake-
+300 AM EST Wed Dec 5 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly sunny. High around 23. West winds 10 mph. Waves
+1 foot. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 15. Waves 1 foot. Light winds becoming southwest
+10 mph after midnight. No lightning risk. 
+.THURSDAY...Mostly cloudy. A slight chance of snow showers in the
+afternoon. High around 27. Waves 1 foot. Southwest winds 10 mph.
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-052200-
+Allagash Wilderness Waterway-
+300 AM EST Wed Dec 5 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Mostly sunny. High around 21. West winds 10 mph. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming mostly
+cloudy. Low around 9 above. Southwest winds 10 mph. No lightning
+risk. 
+.THURSDAY...Mostly cloudy. A slight chance of snow showers. High
+around 25. Southwest winds 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ030-052200-
+St Croix River-
+300 AM EST Wed Dec 5 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Sunny. High around 24. Northwest winds 10 mph. No lightning
+risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 11. Light winds. No lightning risk. 
+.THURSDAY...Mostly sunny in the morning, then becoming mostly
+cloudy. High around 29. Southwest winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-052200-
+West Quoddy Head-
+300 AM EST Wed Dec 5 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Sunny. High around 27. Northwest winds 10 to 20 mph. Wind
+chill values as low as 10 above. No lightning risk. Water
+temperature 47 degrees Fahrenheit. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 21. North winds 10 mph increasing to 10 to 15 mph after
+midnight. No lightning risk. Water temperature 47 degrees
+Fahrenheit. 
+.THURSDAY...Partly sunny. High around 34. West winds 10 to 15 mph.
+Wind chill values as low as 11 in the morning. No lightning risk.
+Water temperature 47 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-052200-
+Upper Penobscot Watershed-
+300 AM EST Wed Dec 5 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 24. West winds 10 mph. No lightning
+risk. 
+.TONIGHT...Partly cloudy. Low around 11. West winds 10 mph. No
+lightning risk. 
+.THURSDAY...Partly sunny in the morning, then becoming mostly
+cloudy. High around 28. Southwest winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-052200-
+Lower Penobscot Watershed-
+300 AM EST Wed Dec 5 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 26. West winds 10 mph. No lightning
+risk. 
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 12. Light winds. No lightning risk. 
+.THURSDAY...Partly sunny. High around 30. Southwest winds 10 mph. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

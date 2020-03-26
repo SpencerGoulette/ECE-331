@@ -1,0 +1,79 @@
+
+032 
+SXUS41 KCAR 030705
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+305 AM EDT Mon Apr 3 2017
+
+MEZ004-032115-
+Top of Mount Katahdin-
+305 AM EDT Mon Apr 3 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly sunny. Much cooler with high around 24. North winds
+20 to 25 mph decreasing to 10 to 20 mph this afternoon. Wind chill
+values as low as 1 below. 
+.TONIGHT...Mostly clear. Low around 23. Northwest winds around
+10 mph until midnight becoming light winds. 
+.TUESDAY...Partly sunny in the morning...then becoming cloudy. Snow
+in the afternoon. High around 28. South winds 10 to 20 mph
+increasing to southeast 25 to 30 mph in the afternoon. Chance of
+precipitation 90 percent. Wind chill values as low as 11. 
+
+$$
+
+MEZ029-032115-
+Top of Cadillac Mountain-
+305 AM EDT Mon Apr 3 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny. High around 41. Northwest winds 10 to 20 mph. Wind
+chill values as low as 18. 
+.TONIGHT...Clear. Low around 31. North winds around 10 mph shifting
+to the east after midnight. 
+.TUESDAY...Partly sunny in the morning...then becoming cloudy. Rain
+and snow in the afternoon. High around 36. Southeast winds 10 to
+20 mph. Chance of precipitation 90 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-032115-
+Upper Penobscot Watershed-
+305 AM EDT Mon Apr 3 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 45. Northwest winds around
+10 mph. Wind chill values as low as 15. 
+.TONIGHT...Clear. Low around 24. North winds around 5 mph until
+midnight becoming light winds. 
+.TUESDAY...Partly sunny in the morning...then becoming cloudy. Rain
+and snow in the afternoon. High around 40. Southeast winds around
+5 mph. Chance of precipitation near 100 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-032115-
+Lower Penobscot Watershed-
+305 AM EDT Mon Apr 3 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 49. Northwest winds around
+10 mph. Wind chill values as low as 19. 
+.TONIGHT...Clear. Low around 26. Light winds. 
+.TUESDAY...Mostly cloudy. A chance of rain and snow in the morning...
+then rain in the afternoon. High around 40. Southeast winds around
+5 mph. Chance of precipitation near 100 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,195 @@
+
+078 
+SXUS41 KCAR 220727
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+327 AM EDT Sun Apr 22 2018
+
+MEZ004-222130-
+Top of Mount Katahdin-
+327 AM EDT Sun Apr 22 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly sunny and brisk. Near steady temperatures around 28.
+Northwest winds 15 to 25 mph. No lightning risk. 
+.TONIGHT...Clear. Low around 26. Northwest winds around 15 mph. No
+lightning risk. 
+.MONDAY...Sunny. High around 37. Northwest winds 10 to 15 mph. Wind
+chill values as low as 14 in the morning. No lightning risk. 
+
+$$
+
+MEZ005-222130-
+Katahdin Woods and Waters National Monument-
+327 AM EDT Sun Apr 22 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly sunny. High around 50. Northwest winds around 10 mph
+with gusts to around 20 mph. Wind chill values as low as 18 in the
+morning. No lightning risk. 
+.TONIGHT...Clear. Low around 27. Northwest winds around 10 mph until
+midnight becoming light winds. No lightning risk. 
+.MONDAY...Sunny. High around 57. Light winds. No lightning risk. 
+
+$$
+
+MEZ029-222130-
+Top of Cadillac Mountain-
+327 AM EDT Sun Apr 22 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Mostly sunny. High around 47. Northwest winds 10 to 15 mph.
+No lightning risk. 
+.TONIGHT...Clear. Low around 37. North winds 10 to 15 mph. No
+lightning risk. 
+.MONDAY...Sunny. High around 50. Northwest winds around 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ001-222130-
+Top of Deboullie Mountain-
+327 AM EDT Sun Apr 22 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Mostly sunny. High around 42. Northwest winds 10 to 15 mph.
+Wind chill values as low as 10 above in the morning. No lightning risk.
+.TONIGHT...Clear. Low around 26. Northwest winds around 10 mph. Wind
+chill values as low as 23. No lightning risk. 
+.MONDAY...Sunny. High around 50. West winds around 10 mph. No 
+lightning risk. 
+
+$$
+
+MEZ006-222130-
+Top of Mars Hill Mountain-
+327 AM EDT Sun Apr 22 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Mostly sunny. High around 47. Northwest winds 10 to 15 mph.
+Wind chill values as low as 19 in the morning. No lightning risk. 
+.TONIGHT...Clear. Low around 24. Northwest winds 10 to 15 mph
+decreasing to 10 mph after midnight. No lightning risk. 
+.MONDAY...Sunny. High around 54. Northwest winds around 10 mph in
+the morning becoming light winds. No lightning risk.
+
+
+$$
+
+MEZ010-222130-
+Top of White Cap Mountain-
+327 AM EDT Sun Apr 22 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly sunny. High around 36. Northwest winds 15 to 20 mph.
+Wind chill values as low as 15. No lightning risk. 
+.TONIGHT...Clear. Low around 30. North winds 10 to 15 mph. No
+lightning risk. 
+.MONDAY...Sunny. High around 44. Northwest winds 10 to 15 mph. Wind
+chill values as low as 19 in the morning. No lightning risk. 
+
+$$
+
+MEZ010-222130-
+Moosehead Lake-
+327 AM EDT Sun Apr 22 2018
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly sunny. High around 48. Northwest winds 10 to 15 mph.
+Wind chill values as low as 18 in the morning. No lightning risk. 
+.TONIGHT...Clear. Low around 25. Light winds. No lightning risk. 
+.MONDAY...Sunny. High around 55. Light winds becoming west around
+10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-222130-
+Allagash Wilderness Waterway-
+327 AM EDT Sun Apr 22 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Mostly sunny. High around 48. Northwest winds 10 to 15 mph.
+Wind chill values as low as 14 in the morning. No lightning risk. 
+.TONIGHT...Clear. Low around 22. Light winds. No lightning risk. 
+.MONDAY...Sunny. High around 56. Light winds becoming west around
+10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ030-222130-
+St Croix River-
+327 AM EDT Sun Apr 22 2018
+
+...ST CROIX RIVER...
+
+.TODAY...Mostly sunny. High around 52. Northwest winds around
+10 mph. Wind chill values as low as 15 in the morning. No lightning 
+risk.
+.TONIGHT...Clear. Low around 27. Light winds. No lightning risk. 
+.MONDAY...Sunny. High around 58. Light winds. No lightning risk. 
+
+$$
+
+MEZ030-222130-
+West Quoddy Head-
+327 AM EDT Sun Apr 22 2018
+
+...WEST QUODDY HEAD...
+
+.TODAY...Partly sunny through early afternoon, then clearing. High
+around 51. Northwest winds around 10 mph. Wind chill values as low
+as 20 in the morning. No lightning risk. Water temperature 39 
+degrees Fahrenheit.
+.TONIGHT...Clear. Low around 34. Northwest winds around 10 mph. No
+lightning risk. Water temperature 39 degrees Fahrenheit. 
+.MONDAY...Sunny. High around 53. Northwest winds around 10 mph
+shifting to the southwest in the afternoon. No lightning risk. Water
+temperature 39 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-222130-
+Upper Penobscot Watershed-
+327 AM EDT Sun Apr 22 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 51. Northwest winds around 10 mph
+with gusts to around 20 mph. Wind chill values as low as 12 in the
+morning. No lightning risk. 
+.TONIGHT...Clear. Low around 27. Northwest winds 10 mph until
+midnight becoming light winds. No lightning risk. 
+.MONDAY...Sunny. High around 59. Light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-222130-
+Lower Penobscot Watershed-
+327 AM EDT Sun Apr 22 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Sunny. High around 54. Northwest winds around 10 mph. Wind
+chill values as low as 18 in the morning. No lightning risk. 
+.TONIGHT...Clear. Low around 29. Northwest winds 10 mph until
+midnight becoming light winds. No lightning risk. 
+.MONDAY...Sunny. High around 60. Light winds becoming west around
+10 mph in the afternoon. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

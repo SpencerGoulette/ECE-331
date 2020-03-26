@@ -1,0 +1,207 @@
+
+115 
+SXUS41 KCAR 151836
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+Issued by National Weather Service Gray ME
+236 PM EDT Wed May 15 2019
+
+MEZ004-160845-
+Top of Mount Katahdin-
+236 PM EDT Wed May 15 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. A chance of snow showers until
+midnight...then a slight chance of snow showers after midnight.
+Brisk with low around 28. North winds 15 to 30 mph. Chance of
+precipitation 40 percent. Wind chill values as low as 13. No
+lightning risk. 
+.THURSDAY...Summit obscured in the morning, then summit in and out
+of clouds. A slight chance of snow showers in the morning. High
+around 37. Northwest winds 15 to 20 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ005-160845-
+Katahdin Woods and Waters National Monument-
+236 PM EDT Wed May 15 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. A chance of showers until midnight...then
+a slight chance of showers after midnight. Low around 37. North
+winds 10 to 15 mph shifting to the northwest 10 mph after midnight.
+Chance of precipitation 40 percent. No lightning risk. 
+.THURSDAY...Mostly cloudy. High around 53. Northwest winds 10 mph.
+No lightning risk. 
+
+$$
+
+MEZ029-160845-
+Top of Cadillac Mountain-
+236 PM EDT Wed May 15 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming mostly clear.
+A slight chance of showers early this evening. Low around 37.
+Northwest winds 10 to 20 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.THURSDAY...Sunny. High around 53. Northwest winds 10 mph shifting
+to the southwest 10 to 15 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ001-160845-
+Top of Deboullie Mountain-
+236 PM EDT Wed May 15 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy. A chance of rain showers through early morning. a
+slight chance of snow showers after midnight. a slight chance of
+rain showers late. Low around 33. North winds 10 to 15 mph shifting
+to the northwest 10 mph after midnight. Chance of precipitation
+50 percent. No lightning risk. 
+.THURSDAY...Cloudy. A slight chance of rain and snow showers in the
+morning. High around 47. North winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ006-160845-
+Top of Mars Hill Mountain-
+236 PM EDT Wed May 15 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy. A chance of rain showers through early morning...
+then a slight chance of rain showers late. Low around 35. North
+winds 10 to 20 mph. Chance of precipitation 40 percent. No lightning
+risk. 
+.THURSDAY...Cloudy. A slight chance of showers in the morning. High
+around 48. Northwest winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+
+$$
+
+MEZ010-160845-
+Top of White Cap Mountain-
+236 PM EDT Wed May 15 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. A slight chance of rain and snow
+showers. Low around 31. Northwest winds 15 to 25 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.THURSDAY...Summit obscured in the morning, then summit in and out
+of clouds. High around 43. Northwest winds 15 to 20 mph. No
+lightning risk. 
+
+$$
+
+MEZ010-160845-
+Moosehead Lake-
+236 PM EDT Wed May 15 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. A slight chance of rain showers through early morning. Low
+around 32. North winds 10 to 15 mph shifting to the northwest 10 mph
+after midnight. Chance of precipitation 20 percent. No lightning
+risk. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. High around 50. Northwest winds 10 to 15 mph. No lightning
+risk. 
+
+$$
+
+MEZ001-160845-
+Allagash Wilderness Waterway-
+236 PM EDT Wed May 15 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. A chance of rain showers until midnight...then a
+slight chance of rain showers after midnight. Low around 34.
+Northwest winds 10 mph. Chance of precipitation 40 percent. No
+lightning risk. 
+.THURSDAY...Cloudy. High around 52. Northwest winds 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ030-160845-
+St Croix River-
+236 PM EDT Wed May 15 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. A chance of rain showers until midnight...
+then a slight chance of rain showers after midnight. Low around 34.
+Northwest winds 10 mph. Chance of precipitation 50 percent. No
+lightning risk. 
+.THURSDAY...Cloudy. Not as cool with high around 53. Northwest winds
+10 mph. No lightning risk. 
+
+$$
+
+MEZ030-160845-
+West Quoddy Head-
+236 PM EDT Wed May 15 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. A chance of rain showers until midnight...then a
+slight chance of rain showers after midnight. Low around 37.
+Northwest winds 10 to 15 mph decreasing to 10 mph after midnight.
+Chance of precipitation 50 percent. No lightning risk. Water
+temperature 41 degrees Fahrenheit. 
+.THURSDAY...Partly sunny. High around 48. Northwest winds 10 mph
+shifting to the southwest in the afternoon. No lightning risk. Water
+temperature 41 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-160845-
+Upper Penobscot Watershed-
+236 PM EDT Wed May 15 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy until midnight, then becoming partly
+cloudy. A chance of rain showers early this evening. a slight chance
+of rain showers from late evening on. Low around 35. North winds
+15 mph shifting to the northwest after midnight. Chance of
+precipitation 40 percent. No lightning risk. 
+.THURSDAY...Mostly cloudy. Not as cool with high around 55.
+Northwest winds 10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-160845-
+Lower Penobscot Watershed-
+236 PM EDT Wed May 15 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. A slight chance of rain showers until midnight. Low around
+36. Northwest winds 10 to 15 mph decreasing to 10 mph after
+midnight. Chance of precipitation 20 percent. No lightning risk. 
+.THURSDAY...Partly sunny. Not as cool with high around 58. Northwest
+winds 10 mph increasing to 10 to 15 mph in the afternoon. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

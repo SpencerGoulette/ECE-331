@@ -1,0 +1,80 @@
+
+079 
+SXUS41 KCAR 310648
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+248 AM EDT Fri Mar 31 2017
+
+MEZ004-312100-
+Top of Mount Katahdin-
+248 AM EDT Fri Mar 31 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Mostly sunny. High around 22. Northeast winds 10 to 15 mph.
+Wind chill values as low as 1 below early this morning. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 20. Light winds becoming southeast 10 to 15 mph
+after midnight. 
+.SATURDAY...Cloudy. A chance of snow in the afternoon. Near steady
+temperatures around 20. Southeast winds 10 to 15 mph. Chance of
+precipitation 50 percent. 
+
+$$
+
+MEZ029-312100-
+Top of Cadillac Mountain-
+248 AM EDT Fri Mar 31 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Partly sunny. High around 39. North winds 10 to 15 mph this
+morning becoming light winds. Wind chill values as low as 13 early
+this morning. 
+.TONIGHT...Mostly cloudy. Low around 30. Light winds becoming east
+10 to 20 mph after midnight. Wind chill values as low as 17 after
+midnight. 
+.SATURDAY...Cloudy. A chance of snow in the morning...then snow
+likely in the afternoon. High around 32. East winds around 20 mph.
+Chance of precipitation 70 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-312100-
+Upper Penobscot Watershed-
+248 AM EDT Fri Mar 31 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. High around 41. North winds around 5 mph. 
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Low around 25. Light winds. 
+.SATURDAY...Cloudy. A chance of snow. a chance of rain in the
+afternoon. High around 35. East winds around 10 mph. Chance of
+precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-312100-
+Lower Penobscot Watershed-
+248 AM EDT Fri Mar 31 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Partly sunny. High around 42. North winds around 5 mph.
+Wind chill values as low as 17 early this morning. 
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy. Low
+around 28. Light winds becoming east around 10 mph after midnight. 
+.SATURDAY...Cloudy. A chance of snow in the morning...then rain and
+snow likely in the afternoon. High around 36. East winds around
+10 mph. Chance of precipitation 70 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

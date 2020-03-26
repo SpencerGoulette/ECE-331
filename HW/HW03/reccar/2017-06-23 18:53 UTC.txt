@@ -1,0 +1,99 @@
+
+860 
+SXUS41 KCAR 231853
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+253 PM EDT Fri Jun 23 2017
+
+MEZ004-240900-
+Top of Mount Katahdin-
+253 PM EDT Fri Jun 23 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy. Patchy fog. Showers and isolated thunderstorms until
+midnight...then showers likely after midnight. Locally heavy 
+rainfall possible until midnight. Low around 57. Southwest winds 20 
+to 25 mph. Chance of precipitation 80 percent. Lightning risk is 
+limited. 
+.SATURDAY...Summit obscured in the morning...then becoming partly
+sunny. Patchy fog in the morning. A chance of showers in the
+morning. High around 61. West winds 15 to 20 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ029-240900-
+Top of Cadillac Mountain-
+253 PM EDT Fri Jun 23 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy until midnight...then summit becoming obscured.
+Areas of fog. Isolated showers until midnight...then scattered 
+showers after midnight. Low around 60. Southwest winds 15 to 25 mph. 
+Chance of precipitation 30 percent. No lightning risk. 
+.SATURDAY...Summit obscured. Areas of fog in the morning. A chance
+of showers. High around 70. West winds 15 to 25 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ010-240900-
+Moosehead Lake-
+253 PM EDT Fri Jun 23 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Patchy fog. Showers with isolated thunderstorms 
+until midnight...then showers likely. Locally heavy rainfall 
+possible until midnight. Low around 63. South winds around 10 mph 
+until midnight becoming light winds. Waves 1 foot. Chance of 
+precipitation 80 percent. Lightning risk is limited. 
+.SATURDAY...Cloudy in the morning...then becoming partly sunny.
+Patchy fog in the morning. A chance of showers in the morning. High
+around 76. Waves 3 feet. West winds 10 to 15 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-240900-
+Upper Penobscot Watershed-
+253 PM EDT Fri Jun 23 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog. Showers likely with isolated
+thunderstorms until midnight...then scattered showers. Low around 
+64. South winds around 10 mph. Chance of precipitation 70 percent. 
+Lightning risk is limited. 
+.SATURDAY...Cloudy in the morning...then becoming partly sunny.
+Patchy fog in the morning. A chance of showers in the morning. High
+around 80. West winds around 10 mph. Chance of precipitation
+50 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-240900-
+Lower Penobscot Watershed-
+253 PM EDT Fri Jun 23 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Patchy fog. Scattered showers. Low around 64. 
+South winds around 10 mph. Chance of precipitation 50 percent. No 
+lightning risk. 
+.SATURDAY...Cloudy in the morning...then becoming partly sunny.
+Patchy fog in the morning. Showers likely in the morning. High
+around 82. West winds around 10 mph. Chance of precipitation
+60 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

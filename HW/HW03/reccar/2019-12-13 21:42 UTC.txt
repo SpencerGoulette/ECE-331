@@ -1,0 +1,212 @@
+
+127 
+SXUS41 KCAR 132142
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+442 PM EST Fri Dec 13 2019
+
+MEZ004-141200-
+Top of Mount Katahdin-
+442 PM EST Fri Dec 13 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds early this evening, then
+summit becoming obscured. A slight chance of snow early this
+evening...then a chance of snow late this evening. Snow after 
+midnight. Very windy and not as cool with low around 23. Southwest 
+winds 35 to 45 mph. Chance of precipitation 90 percent. Wind chill 
+values as low as 5 above. No lightning risk. 
+.SATURDAY...Summit obscured. Snow in the morning. Rain. Strong winds
+and not as cool with high around 41. Southeast winds 30 to 50 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 11 in the morning. No lightning risk. 
+
+$$
+
+MEZ005-141200-
+Katahdin Woods and Waters National Monument-
+442 PM EST Fri Dec 13 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. A slight chance of snow early this evening...then
+a chance of snow late this evening. Rain and snow after midnight. 
+Not as cool with low around 30. South winds 10 to 15 mph. Chance of 
+precipitation 90 percent. No lightning risk. 
+.SATURDAY...Cloudy, rain. High around 44. East winds 10 to 20 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ029-141200-
+Top of Cadillac Mountain-
+442 PM EST Fri Dec 13 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy early this evening, then summit becoming obscured.
+A slight chance of snow early this evening...then a chance of rain
+late this evening. Rain after midnight. Windy and not as cool with 
+low around 35. South winds 25 to 35 mph. Chance of precipitation 90 
+percent. No lightning risk. 
+.SATURDAY...Summit obscured. Rain. Strong winds and not as cool with
+high around 51. Southeast winds 45 to 55 mph shifting to the south 
+in the afternoon. Chance of precipitation near 100 percent. No 
+lightning risk. 
+
+$$
+
+MEZ001-141200-
+Top of Deboullie Mountain-
+442 PM EST Fri Dec 13 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy early this evening, then summit becoming obscured.
+A slight chance of snow early this evening...then a chance of snow
+late this evening. Snow after midnight. Not as cool with low around 
+25. South winds 10 to 15 mph. Chance of precipitation 80 percent. No 
+lightning risk. 
+.SATURDAY...Summit obscured. Snow in the morning. Rain. High around
+38. East winds 10 to 20 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+
+$$
+
+MEZ006-141200-
+Top of Mars Hill Mountain-
+442 PM EST Fri Dec 13 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit in and out of clouds early this evening, then
+summit becoming obscured. A chance of snow until midnight...then
+snow and rain after midnight. Not as cool with low around 28. South
+winds 10 to 20 mph. Chance of precipitation 80 percent. No lightning
+risk. 
+.SATURDAY...Summit obscured. Snow in the morning. Rain. High around
+41. East winds 15 to 25 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+
+$$
+
+MEZ010-141200-
+Top of White Cap Mountain-
+442 PM EST Fri Dec 13 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. A chance of snow early this evening.
+Patchy freezing drizzle until midnight. Snow from late evening on. 
+Very windy and not as cool with low around 27. South winds 35 to 45 
+mph. Chance of precipitation 90 percent. Wind chill values as low as 
+10 above. No lightning risk. 
+.SATURDAY...Summit obscured. Snow in the morning. Rain. Strong winds
+and not as cool with high around 43. Southeast winds 30 to 50 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 16 in the morning. No lightning risk. 
+
+$$
+
+MEZ010-141200-
+Moosehead Lake-
+442 PM EST Fri Dec 13 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Patchy freezing drizzle until midnight. Snow.
+Rain after midnight. Not as cool with low around 29. South winds 10 
+to 15 mph. Chance of precipitation 90 percent. No lightning risk.
+.SATURDAY...Cloudy. Snow in the morning. Rain. High around 41. East
+winds 10 to 20 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-141200-
+Allagash Wilderness Waterway-
+442 PM EST Fri Dec 13 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. A chance of snow until midnight...then snow and
+rain after midnight. Not as cool with low around 27. South winds
+10 to 15 mph. Chance of precipitation 90 percent. No lightning risk.
+.SATURDAY...Cloudy. Snow in the morning. Rain. High around 40. East
+winds 10 to 15 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-141200-
+St Croix River-
+442 PM EST Fri Dec 13 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. A slight chance of rain early this evening...then
+a chance of rain late this evening. Rain after midnight. Not as cool
+with low around 32. Southeast winds 10 to 15 mph. Chance of 
+precipitation 80 percent. No lightning risk. 
+.SATURDAY...Cloudy, rain. High around 48. East winds 10 to 20 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ030-141200-
+West Quoddy Head-
+442 PM EST Fri Dec 13 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. A slight chance of rain early this evening...then
+a chance of rain late this evening. Rain after midnight. Not as cool
+with low around 38. South winds 15 to 20 mph. Chance of 
+precipitation 80 percent. No lightning risk. Water temperature 46 
+degrees Fahrenheit. 
+.SATURDAY...Cloudy, rain, windy with high around 51. Southeast winds
+15 to 25 mph increasing to 25 to 35 mph in the afternoon. Chance of
+precipitation near 100 percent. No lightning risk. Water temperature
+46 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-141200-
+Upper Penobscot Watershed-
+442 PM EST Fri Dec 13 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A slight chance of snow early this evening...then
+a chance of snow late this evening. Rain with snow likely after 
+midnight. Not as cool with low around 31. Southeast winds 10 to 15 
+mph. Chance of precipitation near 100 percent. No lightning risk.
+.SATURDAY...Cloudy, rain. High around 45. East winds 10 to 20 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-141200-
+Lower Penobscot Watershed-
+442 PM EST Fri Dec 13 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A chance of rain with a slight chance of snow
+early this evening...then a chance of snow late this evening. Rain 
+from late evening on. Not as cool with low around 35. Southeast winds
+10 to 15 mph. Chance of precipitation 90 percent. No lightning risk.
+.SATURDAY...Cloudy, rain. Not as cool with high around 48. East
+winds 10 to 20 mph. Chance of precipitation near 100 percent. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,224 @@
+
+710 
+SXUS41 KCAR 271959
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+359 PM EDT Sat Oct 27 2018
+
+MEZ004-281000-
+Top of Mount Katahdin-
+359 PM EDT Sat Oct 27 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit in and out of clouds early this evening, then
+summit becoming obscured. Snow early this evening. Freezing rain and
+sleet. Rain late. Very windy and not as cool with low around 30. 
+East winds 20 to 35 mph increasing to 30 to 35 mph after midnight. 
+Chance of precipitation near 100 percent. Wind chill values as low as
+15. No lightning risk. 
+.SUNDAY...Summit obscured in the morning, then becoming cloudy.
+Rain, windy with high around 40. Southeast winds 20 to 30 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 23. No lightning risk. 
+
+$$
+
+MEZ005-281000-
+Katahdin Woods and Waters National Monument-
+359 PM EDT Sat Oct 27 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Snow or rain likely early this evening. Freezing 
+rain and sleet. Rain after midnight. Not as cool with low around 31.
+East winds 10 to 15 mph. Chance of precipitation near 100 percent. 
+No lightning risk. 
+.SUNDAY...Cloudy, rain. High around 45. East winds 10 to 15 mph.
+Chance of precipitation 90 percent. No lightning risk. 
+
+$$
+
+MEZ029-281000-
+Top of Cadillac Mountain-
+359 PM EDT Sat Oct 27 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Rain. Rain may be heavy at times early
+this evening. Very windy and not as cool with low around 40. East
+winds around 40 mph decreasing to 25 to 35 mph after midnight.
+Chance of precipitation near 100 percent. No lightning risk. 
+.SUNDAY...Summit obscured. Rain likely in the morning...then
+isolated showers in the afternoon. Not as cool with high around 53.
+South winds 15 to 20 mph. Chance of precipitation 60 percent. No
+lightning risk. 
+
+$$
+
+MEZ001-281000-
+Top of Deboullie Mountain-
+359 PM EDT Sat Oct 27 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Cloudy, then summit in and out of clouds through early
+morning, then summit becoming obscured. A chance of snow, freezing
+rain and sleet early this evening...then snow through early morning.
+Freezing rain and sleet from late evening on. Not as cool with low 
+around 27. East winds 10 to 20 mph. Chance of precipitation near 100 
+percent. Wind chill values as low as 13. No lightning risk. 
+.SUNDAY...Summit obscured. Freezing rain and sleet in the morning.
+rain likely. Not as cool with high around 42. East winds 15 to
+20 mph. Chance of precipitation 90 percent. Wind chill values as low
+as 13 in the morning. No lightning risk. 
+
+$$
+
+MEZ006-281000-
+Top of Mars Hill Mountain-
+359 PM EDT Sat Oct 27 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy, then summit in and out of clouds late this
+evening, then summit becoming obscured. A chance of snow, freezing
+rain and sleet early this evening...then snow late this evening.
+Freezing rain and sleet from late evening on. Not as cool with low 
+around 30. East winds 15 to 20 mph. Chance of precipitation near 100 
+percent. No lightning risk. 
+.SUNDAY...Summit obscured. Rain and freezing rain in the morning...
+then scattered rain showers in the afternoon. Not as cool with high
+around 45. East winds 15 to 20 mph. Chance of precipitation
+80 percent. Wind chill values as low as 20 in the morning. No
+lightning risk. 
+
+$$
+
+MEZ010-281000-
+Top of White Cap Mountain-
+359 PM EDT Sat Oct 27 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. Snow early this evening. Freezing rain 
+and sleet. Windy and not as cool with low around 28. East winds 20 to
+30 mph. Chance of precipitation near 100 percent. Wind chill values 
+as low as 12. No lightning risk. 
+.SUNDAY...Summit obscured. Rain likely with freezing rain in the
+morning...then scattered rain showers in the afternoon. Not as cool
+with high around 42. Southeast winds 10 to 20 mph. Chance of
+precipitation 90 percent. Wind chill values as low as 17 in the
+morning. No lightning risk. 
+
+$$
+
+MEZ010-281000-
+Moosehead Lake-
+359 PM EDT Sat Oct 27 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Snow until midnight. freezing rain and sleet.
+Rain after midnight. Not as cool with low around 31. East winds 
+around 15 mph. Waves 3 feet. Chance of precipitation near 100 
+percent. No lightning risk. Water temperature 58 degrees Fahrenheit. 
+.SUNDAY...Cloudy. Rain in the morning...then scattered rain showers
+in the afternoon. High around 44. Waves 3 feet. East winds 10 to
+15 mph. Chance of precipitation 80 percent. No lightning risk. Water
+temperature 58 degrees Fahrenheit. 
+
+$$
+
+MEZ001-281000-
+Allagash Wilderness Waterway-
+359 PM EDT Sat Oct 27 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. A chance of snow or rain, freezing rain and sleet
+early this evening...then snow late this evening. Freezing rain and 
+sleet from late evening on. Not as cool with low around 30. East 
+winds 10 to 15 mph. Chance of precipitation near 100 percent. No 
+lightning risk. 
+.SUNDAY...Cloudy. Freezing rain and sleet in the morning. rain
+likely. High around 43. East winds 10 to 15 mph. Chance of
+precipitation 90 percent. Wind chill values as low as 19 in the
+morning. No lightning risk. 
+
+$$
+
+MEZ030-281000-
+St Croix River-
+359 PM EDT Sat Oct 27 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Snow early this evening. sleet through early
+morning. Rain. Not as cool with low around 35. East winds 15 to
+20 mph. Chance of precipitation near 100 percent. No lightning risk.
+.SUNDAY...Cloudy. Rain likely in the morning...then scattered
+showers in the afternoon. Not as cool with high around 51. Southeast
+winds 10 to 15 mph. Chance of precipitation 70 percent. No lightning
+risk. 
+
+$$
+
+MEZ030-281000-
+West Quoddy Head-
+359 PM EDT Sat Oct 27 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy, rain. Rain may be heavy at times until midnight.
+Very windy and not as cool with low around 43. East winds 30 to
+35 mph decreasing to 20 to 30 mph after midnight. Chance of
+precipitation near 100 percent. No lightning risk. Water temperature
+52 degrees Fahrenheit. 
+.SUNDAY...Cloudy. Rain likely in the morning...then scattered
+showers in the afternoon. Not as cool with high around 55. East
+winds 15 to 20 mph shifting to the south in the afternoon. Chance of
+precipitation 70 percent. No lightning risk. Water temperature
+52 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-281000-
+Upper Penobscot Watershed-
+359 PM EDT Sat Oct 27 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Snow early this evening. rain or sleet. Freezing 
+rain through early morning. Not as cool. Near steady temperatures 
+around 33. Northeast winds around 15 mph. Chance of precipitation 
+near 100 percent. No lightning risk. 
+.SUNDAY...Cloudy. Rain likely in the morning...then scattered rain
+showers in the afternoon. High around 47. East winds 10 to 15 mph.
+Chance of precipitation 70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-281000-
+Lower Penobscot Watershed-
+359 PM EDT Sat Oct 27 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Sleet through early morning. Rain. Not as cool.
+Near steady temperatures around 35. Northeast winds 10 to 20 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+.SUNDAY...Cloudy. Rain likely in the morning...then scattered rain
+showers in the afternoon. Not as cool with high around 51. East
+winds 10 to 15 mph shifting to the southeast in the afternoon.
+Chance of precipitation 70 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,207 @@
+
+523 
+SXUS41 KCAR 191920
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+320 PM EDT Fri Apr 19 2019
+
+MEZ004-200930-
+Top of Mount Katahdin-
+320 PM EDT Fri Apr 19 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Rain. Areas of fog after midnight. Very
+windy with low around 42. Southwest winds 20 to 40 mph becoming
+south 10 to 20 mph after midnight. Chance of precipitation near
+100 percent. No lightning risk. 
+.SATURDAY...Summit obscured. Areas of fog in the morning. patchy fog
+in the afternoon. Rain, windy with high around 51. South winds 10 to
+25 mph increasing to southwest 20 to 35 mph in the afternoon. Chance
+of precipitation near 100 percent. 
+
+$$
+
+MEZ005-200930-
+Katahdin Woods and Waters National Monument-
+320 PM EDT Fri Apr 19 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy, rain. Areas of fog late. Low around 39. North
+winds 10 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+.SATURDAY...Cloudy. Areas of fog in the morning. patchy fog in the
+afternoon. Rain. High around 49. Northeast winds 10 mph. Chance of
+precipitation near 100 percent. 
+
+$$
+
+MEZ029-200930-
+Top of Cadillac Mountain-
+320 PM EDT Fri Apr 19 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Areas of fog. A chance of rain early
+this evening. rain from late evening on. Strong winds and not as
+cool. Near steady temperatures around 51. Southwest winds 55 to
+60 mph becoming 50 to 70 mph after midnight. Chance of precipitation
+90 percent. No lightning risk. 
+.SATURDAY...Summit obscured. Areas of fog. Rain likely. Strong
+winds. Near steady temperatures around 52. Southwest winds 55 to
+70 mph. Chance of precipitation 70 percent. 
+
+$$
+
+MEZ001-200930-
+Top of Deboullie Mountain-
+320 PM EDT Fri Apr 19 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Rain. Areas of fog after midnight. Rain
+may be heavy at times late. Low around 34. Northeast winds 10 to
+15 mph. Chance of precipitation near 100 percent. No lightning risk.
+.SATURDAY...Summit obscured. Areas of fog in the morning. patchy fog
+in the afternoon. Rain. High around 41. East winds 10 to 20 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ006-200930-
+Top of Mars Hill Mountain-
+320 PM EDT Fri Apr 19 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. Rain. Areas of fog late. Low around 39.
+North winds 10 to 20 mph. Chance of precipitation near 100 percent.
+No lightning risk. 
+.SATURDAY...Summit obscured. Areas of fog in the morning. patchy fog
+in the afternoon. Rain. High around 47. East winds 10 to 15 mph.
+Chance of precipitation near 100 percent. No lightning risk. 
+
+$$
+
+MEZ010-200930-
+Top of White Cap Mountain-
+320 PM EDT Fri Apr 19 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured. Rain. Areas of fog from late evening on.
+Very windy with low around 42. Southwest winds 25 to 45 mph becoming
+south 10 to 20 mph after midnight. Chance of precipitation near
+100 percent. No lightning risk. 
+.SATURDAY...Summit obscured. Areas of fog in the morning. patchy fog
+in the afternoon. Rain, breezy with high around 52. Southeast winds
+10 to 20 mph shifting to the south 15 to 30 mph in the afternoon.
+Chance of precipitation near 100 percent. 
+
+$$
+
+MEZ010-200930-
+Moosehead Lake-
+320 PM EDT Fri Apr 19 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Cloudy. Areas of fog. Rain. Low around 39. Northeast
+winds 10 mph. Chance of precipitation near 100 percent. No lightning
+risk. 
+.SATURDAY...Cloudy. Areas of fog in the morning. patchy fog in the
+afternoon. Rain. High around 46. East winds 10 mph. Chance of
+precipitation near 100 percent. 
+
+$$
+
+MEZ001-200930-
+Allagash Wilderness Waterway-
+320 PM EDT Fri Apr 19 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy, rain. Areas of fog after midnight. Rain may be
+heavy at times late. Low around 36. North winds 10 mph shifting to
+the northeast 10 to 15 mph after midnight. Chance of precipitation
+near 100 percent. No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog in the morning. Rain. High around
+43. Northeast winds 10 to 15 mph. Chance of precipitation near
+100 percent. 
+
+$$
+
+MEZ030-200930-
+St Croix River-
+320 PM EDT Fri Apr 19 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+from late evening on. Areas of fog from late evening on. Not as cool
+with low around 49. South winds 10 to 15 mph shifting to the
+southeast after midnight. Chance of precipitation near 100 percent.
+No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog in the morning. patchy fog in the
+afternoon. Rain. High around 56. South winds 10 mph. Chance of
+precipitation near 100 percent. 
+
+$$
+
+MEZ030-200930-
+West Quoddy Head-
+320 PM EDT Fri Apr 19 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Areas of fog. A chance of rain until midnight.
+rain after midnight. Near steady temperatures around 46. Southwest
+winds 15 to 25 mph. Chance of precipitation near 100 percent. No
+lightning risk. Water temperature 39 degrees Fahrenheit. 
+.SATURDAY...Cloudy. Areas of fog. Rain. High around 49. Southwest
+winds 15 to 20 mph. Chance of precipitation 90 percent. Water 
+temperature 39 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-200930-
+Upper Penobscot Watershed-
+320 PM EDT Fri Apr 19 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+from late evening on. Areas of fog from late evening on. Low around
+43. Southwest winds 10 to 15 mph shifting to the northeast 10 mph
+after midnight. Chance of precipitation near 100 percent. No
+lightning risk. 
+.SATURDAY...Cloudy. Areas of fog in the morning. patchy fog in the
+afternoon. Rain. High around 52. East winds 10 mph. Chance of
+precipitation near 100 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-200930-
+Lower Penobscot Watershed-
+320 PM EDT Fri Apr 19 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. A chance of rain early this evening...then rain
+from late evening on. Areas of fog from late evening on. Low around
+50. Southeast winds 15 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.SATURDAY...Cloudy. Areas of fog in the morning. patchy fog in the
+afternoon. Rain. High around 56. South winds 15 mph. Chance of
+precipitation near 100 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

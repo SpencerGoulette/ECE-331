@@ -1,0 +1,237 @@
+
+298 
+SXUS41 KCAR 181907
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+307 PM EDT Mon Jun 18 2018
+
+MEZ004-190915-
+Top of Mount Katahdin-
+307 PM EDT Mon Jun 18 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured, then becoming mostly cloudy through
+early morning, then becoming partly cloudy. Widespread showers and
+scattered thunderstorms until midnight...then scattered showers
+after midnight. Some thunderstorms may produce gusty winds until
+midnight. Locally heavy rainfall possible until midnight. Breezy,
+cooler with low around 44. Northwest winds 20 to 25 mph. Chance of
+precipitation 80 percent. Lightning risk is elevated. 
+.TUESDAY...Mostly sunny in the morning, then becoming mostly cloudy.
+Windy and much cooler with high around 51. Northwest winds 20 to
+30 mph. No lightning risk. 
+
+$$
+
+MEZ005-190915-
+Katahdin Woods and Waters National Monument-
+307 PM EDT Mon Jun 18 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Widespread showers and scattered thunderstorms until
+midnight...then scattered showers after midnight. Some thunderstorms
+may produce gusty winds until midnight. Locally heavy rainfall
+possible until midnight. Low around 58. Northwest winds around
+10 mph. Chance of precipitation 80 percent. Lightning risk is
+elevated. 
+.TUESDAY...Mostly sunny. High around 72. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ029-190915-
+Top of Cadillac Mountain-
+307 PM EDT Mon Jun 18 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Cloudy early this evening, then summit becoming obscured.
+Widespread showers and scattered thunderstorms until midnight...then
+numerous showers after midnight. scattered showers late. Some
+thunderstorms may produce gusty winds until midnight. Locally heavy
+rainfall possible until midnight. Breezy and not as cool with low
+around 60. West winds 15 to 25 mph. Chance of precipitation
+80 percent. Lightning risk is elevated. 
+.TUESDAY...Partly sunny in the morning, then clearing. Isolated
+showers in the morning. High around 70. Northwest winds around
+15 mph. Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ001-190915-
+Top of Deboullie Mountain-
+307 PM EDT Mon Jun 18 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured, then becoming mostly cloudy late this
+evening, then becoming partly cloudy. Numerous showers and scattered
+thunderstorms early this evening...then a chance of showers late
+this evening. isolated showers after midnight. Some thunderstorms
+may produce gusty winds early this evening. Locally heavy rainfall
+possible early this evening. Cooler with low around 46. Northwest
+winds 10 to 15 mph. Chance of precipitation 70 percent. Lightning
+risk is elevated. 
+.TUESDAY...Summit in and out of clouds in the morning, then
+clearing. High around 66. Northwest winds 15 to 20 mph. No lightning
+risk. 
+
+$$
+
+MEZ006-190915-
+Top of Mars Hill Mountain-
+307 PM EDT Mon Jun 18 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured, then becoming cloudy late this evening,
+then becoming partly cloudy. Widespread showers and scattered
+thunderstorms until midnight...then scattered showers after
+midnight. Some thunderstorms may produce gusty winds until midnight.
+Locally heavy rainfall possible early this evening. Low around 54.
+Northwest winds 10 to 15 mph. Chance of precipitation 80 percent.
+Lightning risk is elevated. 
+.TUESDAY...Mostly cloudy in the morning, then clearing. High around
+68. North winds 15 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ010-190915-
+Top of White Cap Mountain-
+307 PM EDT Mon Jun 18 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds until midnight, then becoming
+mostly cloudy. Widespread showers and scattered thunderstorms until
+midnight...then scattered showers after midnight. Some thunderstorms
+may produce gusty winds until midnight. Locally heavy rainfall
+possible until midnight. Low around 48. Northwest winds around
+20 mph. Chance of precipitation 80 percent. Lightning risk is
+elevated. 
+.TUESDAY...Partly sunny. Much cooler with high around 58. Northwest
+winds around 20 mph. No lightning risk. 
+
+$$
+
+MEZ010-190915-
+Moosehead Lake-
+307 PM EDT Mon Jun 18 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Widespread showers and scattered thunderstorms until
+midnight...then scattered showers after midnight. Some thunderstorms
+may produce gusty winds until midnight. Locally heavy rainfall
+possible until midnight. Low around 56. Northwest winds 10 to
+15 mph. Waves 3 feet. Chance of precipitation 80 percent. Lightning
+risk is elevated. Water temperature 57 degrees Fahrenheit. 
+.TUESDAY...Mostly sunny. High around 70. Waves 4 feet. Northwest
+winds 10 to 15 mph. No lightning risk. Water temperature 57 degrees
+Fahrenheit. 
+
+$$
+
+MEZ001-190915-
+Allagash Wilderness Waterway-
+307 PM EDT Mon Jun 18 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy after
+midnight, then becoming mostly clear. Numerous showers and scattered
+thunderstorms early this evening...then scattered showers late this
+evening. isolated showers after midnight. Some thunderstorms may
+produce gusty winds early this evening. Locally heavy rainfall
+possible early this evening. Low around 50. Northwest winds around
+10 mph. Chance of precipitation 70 percent. Lightning risk is
+elevated. 
+.TUESDAY...Mostly sunny. High around 70. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+$$
+
+MEZ030-190915-
+St Croix River-
+307 PM EDT Mon Jun 18 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. Widespread showers and scattered
+thunderstorms until midnight...then scattered showers after
+midnight. isolated showers late. Some thunderstorms may produce
+gusty winds until midnight. Locally heavy rainfall possible until
+midnight. Low around 59. Southwest winds around 10 mph shifting to
+the northwest after midnight. Chance of precipitation 90 percent.
+Lightning risk is elevated. 
+.TUESDAY...Mostly sunny. High around 74. North winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ030-190915-
+West Quoddy Head-
+307 PM EDT Mon Jun 18 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Widespread showers and scattered thunderstorms
+until midnight...then numerous showers after midnight. scattered
+showers late. Some thunderstorms may produce gusty winds until
+midnight. Locally heavy rainfall possible until midnight. Low around
+54. West winds 10 to 20 mph. Chance of precipitation 80 percent.
+Lightning risk is elevated. Water temperature 47 degrees Fahrenheit.
+.TUESDAY...Partly sunny in the morning, then clearing. Scattered
+showers in the morning. High around 67. North winds around 15 mph.
+Chance of precipitation 30 percent. No lightning risk. Water
+temperature 47 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-190915-
+Upper Penobscot Watershed-
+307 PM EDT Mon Jun 18 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy through early morning, then becoming partly
+cloudy. Widespread showers and scattered thunderstorms until
+midnight...then scattered showers after midnight. Some thunderstorms
+may produce gusty winds until midnight. Locally heavy rainfall
+possible until midnight. Low around 59. West winds 10 to 15 mph
+shifting to the northwest after midnight. Chance of precipitation
+90 percent. Lightning risk is elevated. 
+.TUESDAY...Mostly sunny. High around 74. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-190915-
+Lower Penobscot Watershed-
+307 PM EDT Mon Jun 18 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Widespread showers and scattered
+thunderstorms until midnight...then scattered showers after
+midnight. isolated showers late. Some thunderstorms may produce
+gusty winds until midnight. Locally heavy rainfall possible until
+midnight. Low around 61. Southwest winds 10 to 15 mph shifting to
+the northwest after midnight. Chance of precipitation 80 percent.
+Lightning risk is elevated. 
+.TUESDAY...Mostly sunny. High around 76. Northwest winds 10 to
+15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

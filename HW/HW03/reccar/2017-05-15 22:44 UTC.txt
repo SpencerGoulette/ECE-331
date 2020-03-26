@@ -1,0 +1,90 @@
+
+140 
+SXUS41 KCAR 152244
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+644 PM EDT Mon May 15 2017
+
+MEZ004-161245-
+Top of Mount Katahdin-
+644 PM EDT Mon May 15 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Summit obscured until midnight...then becoming mostly
+cloudy. Scattered rain and snow showers until midnight. Low around 
+32. North winds 30 to 45 mph. Chance of precipitation 30 percent. 
+Wind chill values as low as 17. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. Not as cool with high around 46. North winds 35 to 45 mph
+becoming northwest around 30 mph in the afternoon. Wind chill values
+as low as 18 in the morning. 
+
+$$
+
+MEZ029-161245-
+Top of Cadillac Mountain-
+644 PM EDT Mon May 15 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Summit obscured until midnight...then summit in and out
+of clouds. Isolated showers until midnight. Near steady temperatures
+around 43. North winds 20 to 35 mph. Chance of precipitation 20 
+percent. 
+.TUESDAY...Partly sunny. Not as cool with high around 63. Northwest
+winds 20 to 30 mph. 
+
+$$
+
+MEZ010-161245-
+Moosehead Lake-
+644 PM EDT Mon May 15 2017
+
+...MOOSEHEAD LAKE...
+
+.OVERNIGHT...Cloudy until midnight...then becoming partly cloudy.
+Isolated showers until midnight. Low around 40. Northwest winds
+10 to 15 mph. Waves 3 feet. Chance of precipitation 20 percent. 
+.TUESDAY...Partly sunny. Not as cool with high around 64. Waves
+4 feet. Northwest winds 10 to 15 mph. 
+
+$$
+
+MEZ004&gt;006-010-011-031-161245-
+Upper Penobscot Watershed-
+644 PM EDT Mon May 15 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Mostly cloudy. Isolated showers until midnight. Low
+around 42. North winds 10 to 15 mph. Chance of precipitation
+20 percent. 
+.TUESDAY...Partly sunny. Much warmer with high around 68. Northwest
+winds 10 to 15 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-161245-
+Lower Penobscot Watershed-
+644 PM EDT Mon May 15 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Mostly cloudy with isolated showers until
+midnight...then partly cloudy. Low around 43. North winds 10 to 15 
+mph. Chance of precipitation 20 percent. 
+.TUESDAY...Partly sunny. Much warmer with high around 70. Northwest
+winds 10 to 15 mph. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

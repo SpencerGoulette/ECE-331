@@ -1,0 +1,229 @@
+
+728 
+SXUS41 KCAR 242028
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+328 PM EST Thu Jan 24 2019
+
+MEZ004-251030-
+Top of Mount Katahdin-
+328 PM EST Thu Jan 24 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured, then becoming mostly cloudy after
+midnight, then becoming partly cloudy. Snow and rain early this
+evening...then scattered snow showers late this evening. isolated
+snow showers after midnight. Windy with low around 15. West winds
+15 to 30 mph increasing to 25 to 35 mph after midnight. Chance of
+precipitation 90 percent. Wind chill values as low as 1 above. No
+lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Isolated snow showers in the afternoon. Brisk and much cooler with
+high around 17. West winds 15 to 30 mph. Chance of precipitation
+20 percent. Wind chill values as low as 5 below. No lightning risk. 
+
+$$
+
+MEZ005-251030-
+Katahdin Woods and Waters National Monument-
+328 PM EST Thu Jan 24 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Areas of fog early this evening. Rain early this evening...
+then scattered rain and snow showers late this evening. isolated
+snow showers after midnight. Low around 21. West winds 10 to 20 mph.
+Chance of precipitation near 100 percent. Wind chill values as low
+as 15. No lightning risk. 
+.FRIDAY...Partly sunny. Isolated snow showers in the afternoon.
+Cooler with high around 26. West winds 10 to 15 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ029-251030-
+Top of Cadillac Mountain-
+328 PM EST Thu Jan 24 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured, then becoming mostly cloudy after
+midnight, then becoming mostly clear. Areas of fog until midnight.
+Rain likely early this evening. scattered rain showers through early
+morning. isolated snow showers after midnight. Very windy with low
+around 26. Southwest winds 25 to 40 mph shifting to the west 20 to
+30 mph after midnight. Chance of precipitation 70 percent. Wind
+chill values as low as 16. No lightning risk. 
+.FRIDAY...Mostly sunny. Much cooler with high around 31. West winds
+15 to 25 mph. Wind chill values as low as 16. No lightning risk. 
+
+$$
+
+MEZ001-251030-
+Top of Deboullie Mountain-
+328 PM EST Thu Jan 24 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Rain and snow until midnight...then
+scattered snow showers after midnight. Low around 16. West winds
+10 to 25 mph. Chance of precipitation near 100 percent. Wind chill
+values as low as 4 above. No lightning risk. 
+.FRIDAY...Partly sunny. Much cooler with high around 19. West winds
+10 to 25 mph. Wind chill values as low as 2 above. No lightning
+risk. 
+
+$$
+
+MEZ006-251030-
+Top of Mars Hill Mountain-
+328 PM EST Thu Jan 24 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit obscured. Areas of fog early this evening. Rain
+with snow likely until midnight...then scattered snow showers after
+midnight. Low around 20. West winds 10 to 25 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as
+10 above. No lightning risk. 
+.FRIDAY...Partly sunny. Much cooler with high around 24. West winds
+10 to 20 mph. Wind chill values as low as 9 above. No lightning
+risk. 
+
+$$
+
+MEZ010-251030-
+Top of White Cap Mountain-
+328 PM EST Thu Jan 24 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured, then becoming mostly cloudy after
+midnight, then becoming partly cloudy. Rain likely early this
+evening. scattered snow showers until midnight...then isolated snow
+showers after midnight. Brisk with low around 13. West winds 15 to
+30 mph. Chance of precipitation 70 percent. Wind chill values as low
+as 3 below. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Isolated snow showers in the afternoon. Much cooler with high around
+17. West winds 15 to 25 mph. Chance of precipitation 20 percent.
+Wind chill values as low as 1 below. No lightning risk. 
+
+$$
+
+MEZ010-251030-
+Moosehead Lake-
+328 PM EST Thu Jan 24 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy through early morning, then becoming partly
+cloudy. Rain and snow likely early this evening...then scattered
+snow showers late this evening. isolated snow showers after
+midnight. Low around 19. West winds 10 to 20 mph. Chance of
+precipitation 70 percent. Wind chill values as low as 10 above. No
+lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Isolated snow showers in the afternoon. Cooler with high around 25.
+West winds 10 to 20 mph. Chance of precipitation 20 percent. Wind
+chill values as low as 9 above. No lightning risk. 
+
+$$
+
+MEZ001-251030-
+Allagash Wilderness Waterway-
+328 PM EST Thu Jan 24 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy through early morning, then becoming partly
+cloudy. Rain and snow until midnight...then scattered snow showers
+after midnight. Low around 17. West winds 10 to 20 mph. Chance of
+precipitation near 100 percent. Wind chill values as low as
+10 above. No lightning risk. 
+.FRIDAY...Partly sunny in the morning, then becoming mostly cloudy.
+Isolated snow showers in the afternoon. Much cooler with high around
+22. West winds 10 to 15 mph. Chance of precipitation 20 percent.
+Wind chill values as low as 5 above. No lightning risk. 
+
+$$
+
+MEZ030-251030-
+St Croix River-
+328 PM EST Thu Jan 24 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy through early morning, then becoming partly
+cloudy. Areas of fog until midnight. Rain until midnight...then
+scattered snow and rain showers after midnight. isolated snow
+showers late. Low around 27. West winds 10 to 20 mph. Chance of
+precipitation near 100 percent. No lightning risk. 
+.FRIDAY...Mostly sunny. Much cooler with high around 30. West winds
+10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ030-251030-
+West Quoddy Head-
+328 PM EST Thu Jan 24 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy through early morning, then becoming partly
+cloudy. Areas of fog until midnight...then patchy fog after
+midnight. Rain until midnight...then scattered rain and snow showers
+after midnight. isolated rain and snow showers late. Very windy with
+low around 32. Southwest winds 20 to 40 mph becoming west 15 to
+25 mph after midnight. Chance of precipitation near 100 percent. No
+lightning risk. Water temperature 41 degrees Fahrenheit. 
+.FRIDAY...Sunny, cooler with high around 35. West winds 15 to
+20 mph. No lightning risk. Water temperature 41 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-251030-
+Upper Penobscot Watershed-
+328 PM EST Thu Jan 24 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy until midnight, then becoming partly cloudy. Areas
+of fog early this evening. Rain likely early this evening...then
+scattered rain and snow showers late this evening. isolated snow
+showers after midnight. Low around 22. West winds 10 to 20 mph.
+Chance of precipitation 70 percent. Wind chill values as low as 14.
+No lightning risk. 
+.FRIDAY...Mostly sunny. Cooler with high around 28. West winds 10 to
+15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-251030-
+Lower Penobscot Watershed-
+328 PM EST Thu Jan 24 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy after
+midnight, then becoming mostly clear. Areas of fog until midnight.
+Rain likely early this evening. scattered rain and snow showers late
+this evening...then isolated snow showers after midnight. Low around
+24. West winds 10 to 20 mph. Chance of precipitation 70 percent.
+Wind chill values as low as 17. No lightning risk. 
+.FRIDAY...Mostly sunny. Much cooler with high around 31. West winds
+10 to 15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

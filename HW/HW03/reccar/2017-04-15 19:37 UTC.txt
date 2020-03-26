@@ -1,0 +1,79 @@
+
+598 
+SXUS41 KCAR 151937
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+337 PM EDT Sat Apr 15 2017
+
+MEZ004-160945-
+Top of Mount Katahdin-
+337 PM EDT Sat Apr 15 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy. A
+chance of rain until midnight...then rain likely after midnight.
+Patchy fog after midnight. Not as cool with low around 37. Southwest
+winds 20 to 25 mph. Chance of precipitation 70 percent. 
+.SUNDAY...Summit obscured in the morning...then summit in and out of
+clouds. Patchy fog in the morning. Rain likely. High around 48. West
+winds 25 to 30 mph decreasing to 15 to 20 mph in the afternoon.
+Chance of precipitation 70 percent. 
+
+$$
+
+MEZ029-160945-
+Top of Cadillac Mountain-
+337 PM EDT Sat Apr 15 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy. A
+chance of rain until midnight...then rain after midnight. Patchy fog
+after midnight. Low around 44. Southwest winds 30 to 40 mph. Chance
+of precipitation 80 percent. 
+.SUNDAY...Mostly cloudy. Patchy fog in the morning. A chance of
+rain. High around 61. Southwest winds 20 to 30 mph decreasing to
+around 15 mph in the afternoon. Chance of precipitation 40 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-160945-
+Upper Penobscot Watershed-
+337 PM EDT Sat Apr 15 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy. A
+chance of rain until midnight...then rain likely after midnight.
+Patchy fog after midnight. Not as cool with low around 44. South
+winds around 10 mph. Chance of precipitation 70 percent. 
+.SUNDAY...Cloudy. Patchy fog in the morning. Rain likely. High
+around 63. West winds around 10 mph. Chance of precipitation
+70 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-160945-
+Lower Penobscot Watershed-
+337 PM EDT Sat Apr 15 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. A chance of rain until midnight...then
+rain after midnight. Patchy fog after midnight. Not as cool with low
+around 45. South winds around 10 mph. Chance of precipitation
+80 percent. 
+.SUNDAY...Cloudy. Patchy fog in the morning. A chance of rain. High
+around 69. Southwest winds 10 to 15 mph. Chance of precipitation
+50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,210 @@
+
+273 
+SXUS41 KCAR 101939
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+239 PM EST Thu Jan 10 2019
+
+MEZ004-110945-
+Top of Mount Katahdin-
+239 PM EST Thu Jan 10 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy. Scattered snow showers until midnight...then
+isolated snow showers after midnight. Brisk with low around 5 above.
+Northwest winds 20 to 30 mph. Chance of precipitation 40 percent.
+Wind chill values as low as 16 below. No lightning risk. 
+.FRIDAY...Cloudy. High around 5 above. Northwest winds 15 to 25 mph.
+Wind chill values as low as 18 below. No lightning risk. 
+
+$$
+
+MEZ005-110945-
+Katahdin Woods and Waters National Monument-
+239 PM EST Thu Jan 10 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Cloudy. Scattered snow showers early this evening...then
+isolated snow showers through early morning. Much cooler with low
+around 7 above. Northwest winds 10 to 20 mph. Chance of
+precipitation 40 percent. Wind chill values as low as 7 below. No
+lightning risk. 
+.FRIDAY...Mostly cloudy. Much cooler with high around 11. Northwest
+winds 10 to 20 mph. Wind chill values as low as 12 below. No
+lightning risk. 
+
+$$
+
+MEZ029-110945-
+Top of Cadillac Mountain-
+239 PM EST Thu Jan 10 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy and brisk, cooler with low around 13.
+Northwest winds 20 to 30 mph. Wind chill values as low as 3 below.
+No lightning risk. 
+.FRIDAY...Partly sunny and brisk, cooler with high around 15.
+Northwest winds 15 to 30 mph. Wind chill values as low as 7 below.
+No lightning risk. 
+
+$$
+
+MEZ001-110945-
+Top of Deboullie Mountain-
+239 PM EST Thu Jan 10 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit in and out of clouds until midnight, then becoming
+cloudy. Scattered snow showers through early morning...then isolated
+snow showers late. Cooler with low around 4 above. Northwest winds
+15 to 20 mph. Chance of precipitation 40 percent. Wind chill values
+as low as 11 below. No lightning risk. 
+.FRIDAY...Cloudy. Much cooler with high around 5 above. West winds
+15 to 20 mph. Wind chill values as low as 18 below. No lightning
+risk. 
+
+$$
+
+MEZ006-110945-
+Top of Mars Hill Mountain-
+239 PM EST Thu Jan 10 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Summit in and out of clouds through early morning, then
+becoming cloudy. Scattered snow showers until midnight...then
+isolated snow showers after midnight. Cooler with low around
+9 above. Northwest winds 15 to 20 mph. Chance of precipitation
+40 percent. Wind chill values as low as 5 below. No lightning risk. 
+.FRIDAY...Mostly cloudy. Cooler with high around 10 above. Northwest
+winds 15 to 20 mph. Wind chill values as low as 11 below. No
+lightning risk. 
+
+$$
+
+MEZ010-110945-
+Top of White Cap Mountain-
+239 PM EST Thu Jan 10 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured, then summit in and out of clouds late
+this evening, then becoming cloudy. Scattered snow showers early
+this evening...then isolated snow showers late this evening. Cooler
+with low around 2 above. Northwest winds 20 to 25 mph. Chance of
+precipitation 30 percent. Wind chill values as low as 19 below. No
+lightning risk. 
+.FRIDAY...Mostly cloudy and brisk, cooler with high around 2 above.
+Northwest winds 25 to 30 mph decreasing to 15 to 25 mph in the
+afternoon. Wind chill values as low as 23 below. No lightning risk. 
+
+$$
+
+MEZ010-110945-
+Moosehead Lake-
+239 PM EST Thu Jan 10 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Scattered snow showers early this
+evening...then isolated snow showers late this evening. Much cooler
+with low around 4 above. Northwest winds 10 to 20 mph. Chance of
+precipitation 30 percent. Wind chill values as low as 14 below. No
+lightning risk. 
+.FRIDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Much cooler with high around 7 above. Northwest winds 15 to 20 mph.
+Wind chill values as low as 17 below. No lightning risk. 
+
+$$
+
+MEZ001-110945-
+Allagash Wilderness Waterway-
+239 PM EST Thu Jan 10 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Scattered snow showers through early morning...
+then isolated snow showers late. Much cooler with low around
+5 above. Northwest winds 10 to 15 mph. Chance of precipitation
+40 percent. Wind chill values as low as 10 below. No lightning risk.
+.FRIDAY...Mostly cloudy. Much cooler with high around 8 above. West
+winds 10 to 20 mph. Wind chill values as low as 15 below. No
+lightning risk. 
+
+$$
+
+MEZ030-110945-
+St Croix River-
+239 PM EST Thu Jan 10 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Cloudy. Isolated snow showers early this evening. Cooler
+with low around 14. Northwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 2 above. No
+lightning risk. 
+.FRIDAY...Mostly cloudy. Cooler with high around 17. Northwest winds
+10 to 15 mph. Wind chill values as low as 2 below. No lightning
+risk. 
+
+$$
+
+MEZ030-110945-
+West Quoddy Head-
+239 PM EST Thu Jan 10 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Cloudy. Isolated snow showers early this evening. Cooler
+with low around 20. Northwest winds 15 to 25 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 7 above. No
+lightning risk. Water temperature 42 degrees Fahrenheit. 
+.FRIDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 23. Northwest winds 15 to 25 mph. Wind chill values as
+low as 3 above. No lightning risk. Water temperature 42 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-110945-
+Upper Penobscot Watershed-
+239 PM EST Thu Jan 10 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers until midnight. Much
+cooler with low around 9 above. Northwest winds 10 to 20 mph. Chance
+of precipitation 20 percent. Wind chill values as low as 9 below. No
+lightning risk. 
+.FRIDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Cooler with high around 13. Northwest winds 10 to 20 mph. Wind chill
+values as low as 11 below. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-110945-
+Lower Penobscot Watershed-
+239 PM EST Thu Jan 10 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Much cooler with low around 11. Northwest
+winds 10 to 20 mph. Wind chill values as low as 3 below. No
+lightning risk. 
+.FRIDAY...Mostly cloudy in the morning, then becoming partly sunny.
+Cooler with high around 16. Northwest winds 10 to 15 mph. Wind chill
+values as low as 6 below. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

@@ -1,0 +1,189 @@
+
+891 
+SXUS41 KCAR 231943
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+243 PM EST Fri Nov 23 2018
+
+MEZ004-240945-
+Top of Mount Katahdin-
+243 PM EST Fri Nov 23 2018
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy after
+midnight, then summit in and out of clouds. Brisk and not as cool
+with low around 16. West winds 20 to 25 mph. Wind chill values as
+low as 3 below. No lightning risk. 
+.SATURDAY...Mostly sunny and brisk. Not as cool with high around 37.
+West winds 15 to 25 mph decreasing to 10 to 15 mph in the afternoon.
+Wind chill values as low as 11 in the morning. No lightning risk. 
+
+$$
+
+MEZ005-240945-
+Katahdin Woods and Waters National Monument-
+243 PM EST Fri Nov 23 2018
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Partly cloudy. Low around 11. West winds around 10 mph.
+No lightning risk. 
+.SATURDAY...Mostly sunny. Not as cool with high around 35. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ029-240945-
+Top of Cadillac Mountain-
+243 PM EST Fri Nov 23 2018
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Not as cool with low around 22. West winds 15 to
+20 mph. Wind chill values as low as 8 above. No lightning risk. 
+.SATURDAY...Mostly sunny. Not as cool with high around 38. Southwest
+winds around 15 mph. Wind chill values as low as 16 in the morning.
+No lightning risk. 
+
+$$
+
+MEZ001-240945-
+Top of Deboullie Mountain-
+243 PM EST Fri Nov 23 2018
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy through early morning, then becoming mostly
+cloudy. Low around 12. West winds around 15 mph. Wind chill values
+as low as 5 below. No lightning risk. 
+.SATURDAY...Summit in and out of clouds in the morning, then
+clearing. Not as cool with high around 32. West winds 10 to 15 mph.
+Wind chill values as low as 3 above in the morning. No lightning
+risk. 
+
+$$
+
+MEZ006-240945-
+Top of Mars Hill Mountain-
+243 PM EST Fri Nov 23 2018
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy. Low around 13. West winds 10 to 15 mph.
+Wind chill values as low as 1 below. No lightning risk. 
+.SATURDAY...Summit in and out of clouds in the morning, then
+clearing. Not as cool with high around 32. Southwest winds around
+10 mph. Wind chill values as low as 5 above in the morning. No
+lightning risk. 
+
+$$
+
+MEZ010-240945-
+Top of White Cap Mountain-
+243 PM EST Fri Nov 23 2018
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Partly cloudy, then becoming mostly clear late this
+evening, then becoming mostly cloudy, then summit in and out of
+clouds late. Not as cool with low around 14. West winds 15 to
+20 mph. Wind chill values as low as 4 below. No lightning risk. 
+.SATURDAY...Mostly sunny. Not as cool with high around 34. West
+winds 15 to 20 mph decreasing to around 10 mph in the afternoon.
+Wind chill values as low as 10 above in the morning. No lightning
+risk. 
+
+$$
+
+MEZ010-240945-
+Moosehead Lake-
+243 PM EST Fri Nov 23 2018
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy early this evening, then clearing. Low
+around 13. West winds around 10 mph. Waves 1 foot. No lightning
+risk. 
+.SATURDAY...Mostly sunny. Not as cool with high around 37. Waves
+1 foot. Light winds. No lightning risk. 
+
+$$
+
+MEZ001-240945-
+Allagash Wilderness Waterway-
+243 PM EST Fri Nov 23 2018
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy. Low around 8 above. West winds around
+10 mph. Wind chill values as low as 9 below. No lightning risk. 
+.SATURDAY...Mostly sunny. Not as cool with high around 34. Southwest
+winds around 10 mph. Wind chill values as low as 1 above in the
+morning. No lightning risk. 
+
+$$
+
+MEZ030-240945-
+St Croix River-
+243 PM EST Fri Nov 23 2018
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear until midnight, then becoming partly cloudy.
+Low around 12. West winds around 10 mph. Wind chill values as low as
+2 below. No lightning risk. 
+.SATURDAY...Mostly sunny. Not as cool with high around 35. Light
+winds. No lightning risk. 
+
+$$
+
+MEZ030-240945-
+West Quoddy Head-
+243 PM EST Fri Nov 23 2018
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear. Not as cool with low around 22. West winds
+15 to 20 mph. Wind chill values as low as 7 above. No lightning
+risk. Water temperature 48 degrees Fahrenheit. 
+.SATURDAY...Mostly sunny. Not as cool with high around 40. West
+winds 10 to 15 mph. Wind chill values as low as 14 in the morning.
+No lightning risk. Water temperature 48 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-240945-
+Upper Penobscot Watershed-
+243 PM EST Fri Nov 23 2018
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy early this evening, then becoming mostly
+clear. Low around 11. Southwest winds around 10 mph. Wind chill
+values as low as 2 below. No lightning risk. 
+.SATURDAY...Mostly sunny. Not as cool with high around 35. Light
+winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-240945-
+Lower Penobscot Watershed-
+243 PM EST Fri Nov 23 2018
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 13. Southwest winds around
+10 mph. No lightning risk. 
+.SATURDAY...Mostly sunny. Not as cool with high around 36. Light
+winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

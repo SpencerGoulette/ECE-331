@@ -1,0 +1,246 @@
+
+848 
+SXUS41 KCAR 030703
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+303 AM EDT Thu Oct 3 2019
+
+MEZ004-032115-
+Top of Mount Katahdin-
+303 AM EDT Thu Oct 3 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TODAY...Partly sunny. High around 34. Northwest winds 15 to 25 mph 
+decreasing to 10 to 15 mph this afternoon. Wind chill values as low 
+as 9 above. No lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then summit obscured. A 
+chance late evening...then snow after midnight. Low around 27. 
+Southwest winds 10 to 15 mph. Chance of precipitation near 100 
+percent. No lightning risk. 
+.FRIDAY...Summit obscured in the morning, then cloudy. Snow in the 
+morning...then a chance of snow showers in the afternoon. High around
+28. North winds 10 to 15 mph. Chance of precipitation 90 percent. No
+lightning risk. 
+
+$$
+
+MEZ005-032115-
+Katahdin Woods and Waters National Monument-
+303 AM EDT Thu Oct 3 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TODAY...Mostly sunny. Areas of frost until mid morning. High around
+50. Northwest winds 10 mph. No lightning risk. 
+.TONIGHT...Mostly cloudy. A chance of rain until midnight...then
+rain after midnight. Low around 36. Southeast winds 10 mph. Chance
+of precipitation near 100 percent. No lightning risk. 
+.FRIDAY...Cloudy. Rain in the morning...then a chance of rain
+showers in the afternoon. High around 45. North winds 15 mph. Chance
+of precipitation 90 percent. No lightning risk. 
+
+$$
+
+MEZ029-032115-
+Top of Cadillac Mountain-
+303 AM EDT Thu Oct 3 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TODAY...Sunny. Widespread frost until mid morning. High around 50.
+Northwest winds 10 to 20 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming cloudy. A
+slight chance of rain until midnight...then rain after midnight. Low
+around 42. Southwest winds 10 mph shifting to the southeast 10 to
+15 mph after midnight. Chance of precipitation 90 percent. No
+lightning risk. 
+.FRIDAY...Summit in and out of clouds in the morning, then becoming
+cloudy. Rain in the morning...then a chance of showers in the
+afternoon. High around 47. East winds 10 to 25 mph shifting to the
+north 20 to 25 mph in the afternoon. Chance of precipitation
+80 percent. No lightning risk. 
+
+$$
+
+MEZ001-032115-
+Top of Deboullie Mountain-
+303 AM EDT Thu Oct 3 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TODAY...Mostly sunny. Widespread frost until mid morning. High
+around 44. Northwest winds 10 to 15 mph. Wind chill values as low as
+18. No lightning risk. 
+.TONIGHT...Mostly cloudy. A slight chance of rain until midnight...
+then snow with a chance of rain after midnight. Low around 31. North
+winds 10 mph shifting to the southeast after midnight. Chance of
+precipitation 80 percent. No lightning risk. 
+.FRIDAY...Cloudy. Snow likely in the morning. A chance of rain
+showers. High around 40. West winds 15 mph shifting to the north in
+the afternoon. Chance of precipitation 70 percent. No lightning
+risk. 
+
+$$
+
+MEZ006-032115-
+Top of Mars Hill Mountain-
+303 AM EDT Thu Oct 3 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TODAY...Mostly sunny. Widespread frost until mid morning. High
+around 46. Northwest winds 10 to 15 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming cloudy. Rain
+after midnight. Low around 35. Southeast winds 10 mph. Chance of
+precipitation 80 percent. No lightning risk. 
+.FRIDAY...Cloudy. Rain and snow in the morning...then a chance of
+rain showers in the afternoon. High around 43. Northeast winds
+10 mph increasing to north 10 to 20 mph in the afternoon. Chance of
+precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ010-032115-
+Top of White Cap Mountain-
+303 AM EDT Thu Oct 3 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TODAY...Mostly sunny. Widespread frost until mid morning. High
+around 39. Northwest winds 10 to 25 mph. Wind chill values as low as
+13. No lightning risk. 
+.TONIGHT...Mostly cloudy until midnight, then summit in and out of
+clouds. A chance of rain and snow until midnight...then snow with
+rain likely after midnight. Low around 31. Southwest winds 10 to
+20 mph. Chance of precipitation near 100 percent. No lightning risk.
+.FRIDAY...Summit obscured in the morning, then summit in and out of
+clouds. Snow in the morning. A chance of rain showers. A chance of
+snow showers in the afternoon. High around 33. North winds 10 to
+15 mph. Chance of precipitation 90 percent. No lightning risk. 
+
+$$
+
+MEZ010-032115-
+Moosehead Lake-
+303 AM EDT Thu Oct 3 2019
+
+...MOOSEHEAD LAKE...
+
+.TODAY...Mostly sunny. Patchy frost until mid morning. High around
+50. Northwest winds 10 mph. Waves 1 foot. No lightning risk. Water
+temperature 61 degrees Fahrenheit. 
+.TONIGHT...Cloudy. A chance of rain until midnight...then rain after
+midnight. Low around 36. Waves 1 foot. Southeast winds 10 mph.
+Chance of precipitation near 100 percent. No lightning risk. Water
+temperature 61 degrees Fahrenheit. 
+.FRIDAY...Cloudy. Rain in the morning...then a chance of rain
+showers in the afternoon. High around 46. Waves 3 feet. North winds
+10 to 20 mph. Chance of precipitation 90 percent. No lightning risk.
+Water temperature 61 degrees Fahrenheit. 
+
+$$
+
+MEZ001-032115-
+Allagash Wilderness Waterway-
+303 AM EDT Thu Oct 3 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TODAY...Mostly sunny. Widespread frost until mid morning. High
+around 48. Northwest winds 10 mph. No lightning risk. 
+.TONIGHT...Mostly cloudy. A slight chance of rain until midnight...
+then snow with rain likely after midnight. Low around 32. Light
+winds. Chance of precipitation 90 percent. No lightning risk. 
+.FRIDAY...Cloudy. Snow likely in the morning. A chance of rain
+showers. High around 45. North winds 15 mph increasing to 10 to
+20 mph in the afternoon. Chance of precipitation 70 percent. No
+lightning risk. 
+
+$$
+
+MEZ030-032115-
+St Croix River-
+303 AM EDT Thu Oct 3 2019
+
+...ST CROIX RIVER...
+
+.TODAY...Sunny. Widespread frost until mid morning. High around 53.
+Northwest winds 10 mph increasing to 10 to 15 mph this afternoon. No
+lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming cloudy. Rain
+after midnight. Low around 37. Southeast winds 10 mph. Chance of
+precipitation 90 percent. No lightning risk. 
+.FRIDAY...Cloudy. Rain in the morning...then a chance of showers in
+the afternoon. High around 47. North winds 15 mph. Chance of
+precipitation 80 percent. No lightning risk. 
+
+$$
+
+MEZ030-032115-
+West Quoddy Head-
+303 AM EDT Thu Oct 3 2019
+
+...WEST QUODDY HEAD...
+
+.TODAY...Sunny. Patchy frost until mid morning. High around 52.
+Northwest winds 10 to 20 mph. No lightning risk. Water temperature
+53 degrees Fahrenheit. 
+.TONIGHT...Partly cloudy until midnight, then becoming cloudy. Rain
+likely after midnight. Low around 42. Southwest winds 10 mph. Chance
+of precipitation 70 percent. No lightning risk. Water temperature
+53 degrees Fahrenheit. 
+.FRIDAY...Cloudy. Rain likely in the morning...then a chance of
+showers in the afternoon. High around 49. East winds 10 to 20 mph
+shifting to the north 15 to 25 mph in the afternoon. Chance of
+precipitation 70 percent. No lightning risk. Water temperature
+53 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-032115-
+Upper Penobscot Watershed-
+303 AM EDT Thu Oct 3 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. Areas of frost until mid morning. High around
+52. Northwest winds 10 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming cloudy. A
+slight chance of rain until midnight...then rain after midnight. Low
+around 36. Southeast winds 10 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.FRIDAY...Cloudy. Rain in the morning...then a chance of rain
+showers in the afternoon. High around 48. North winds 10 to 15 mph.
+Chance of precipitation 90 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-032115-
+Lower Penobscot Watershed-
+303 AM EDT Thu Oct 3 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TODAY...Mostly sunny. Areas of frost until mid morning. High around
+54. Northwest winds 10 mph. No lightning risk. 
+.TONIGHT...Partly cloudy until midnight, then becoming cloudy. A
+slight chance of rain until midnight...then rain after midnight. Low
+around 39. Southeast winds 10 mph. Chance of precipitation near
+100 percent. No lightning risk. 
+.FRIDAY...Cloudy. Rain in the morning...then a chance of showers in
+the afternoon. High around 50. Northeast winds 10 to 15 mph shifting
+to the north 10 to 20 mph in the afternoon. Chance of precipitation
+90 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

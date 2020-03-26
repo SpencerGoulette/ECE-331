@@ -1,0 +1,206 @@
+
+188 
+SXUS41 KCAR 032003
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+303 PM EST Fri Jan 3 2020
+
+MEZ004-041015-
+Top of Mount Katahdin-
+303 PM EST Fri Jan 3 2020
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Cloudy. Isolated snow showers. Windy with low around 22.
+West winds 25 to 35 mph shifting to the northwest 15 to 35 mph after
+midnight. Chance of precipitation 20 percent. Wind chill values as
+low as 6 above. No lightning risk. 
+.SATURDAY...Mostly cloudy. A slight chance of snow in the afternoon.
+High around 26. Northwest winds 10 to 20 mph. Chance of
+precipitation 20 percent. Wind chill values as low as 11. No
+lightning risk. 
+
+$$
+
+MEZ005-041015-
+Katahdin Woods and Waters National Monument-
+303 PM EST Fri Jan 3 2020
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers early this evening.
+isolated rain showers until midnight. Low around 28. West winds
+10 mph. Chance of precipitation 20 percent. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. High around 34. North winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ029-041015-
+Top of Cadillac Mountain-
+303 PM EST Fri Jan 3 2020
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Patchy fog from late evening on. Low around 34. West winds
+10 to 15 mph. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Patchy fog in the morning. A chance of snow in the
+afternoon. High around 36. North winds 10 to 15 mph shifting to the
+northeast 10 mph in the afternoon. Chance of precipitation
+30 percent. No lightning risk. 
+
+$$
+
+MEZ001-041015-
+Top of Deboullie Mountain-
+303 PM EST Fri Jan 3 2020
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured through early morning, then summit in and
+out of clouds. Isolated rain and snow showers early this evening.
+Low around 24. West winds 10 to 20 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.SATURDAY...Summit in and out of clouds in the morning, then summit
+becoming obscured. High around 27. West winds 10 to 15 mph shifting
+to the northwest 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ006-041015-
+Top of Mars Hill Mountain-
+303 PM EST Fri Jan 3 2020
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy, then summit in and out of clouds late this
+evening, then summit becoming obscured. Isolated snow showers early
+this evening. isolated rain showers until midnight. Low around 27.
+Southwest winds 10 to 15 mph. Chance of precipitation 20 percent. No
+lightning risk. 
+.SATURDAY...Summit obscured in the morning, then summit in and out
+of clouds. High around 30. Northwest winds 10 mph. No lightning
+risk. 
+
+$$
+
+MEZ010-041015-
+Top of White Cap Mountain-
+303 PM EST Fri Jan 3 2020
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit in and out of clouds through early morning, then
+becoming mostly cloudy. Isolated snow showers after midnight. Brisk
+with low around 24. West winds 15 to 30 mph. Chance of precipitation
+20 percent. Wind chill values as low as 13. No lightning risk. 
+.SATURDAY...Mostly cloudy. A chance of snow in the afternoon. High
+around 28. Northwest winds 10 to 20 mph. Chance of precipitation
+30 percent. No lightning risk. 
+
+$$
+
+MEZ010-041015-
+Moosehead Lake-
+303 PM EST Fri Jan 3 2020
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Isolated rain showers until midnight. Low
+around 29. West winds 10 to 15 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy. A chance of snow with a slight chance of
+rain in the afternoon. High around 34. Northwest winds 10 mph.
+Chance of precipitation 50 percent. No lightning risk. 
+
+$$
+
+MEZ001-041015-
+Allagash Wilderness Waterway-
+303 PM EST Fri Jan 3 2020
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Mostly cloudy. Isolated snow showers early this evening.
+isolated rain showers until midnight. Low around 25. West winds
+10 mph. Chance of precipitation 20 percent. No lightning risk. 
+.SATURDAY...Mostly cloudy. High around 31. Northwest winds 10 mph.
+No lightning risk. 
+
+$$
+
+MEZ030-041015-
+St Croix River-
+303 PM EST Fri Jan 3 2020
+
+...ST CROIX RIVER...
+
+.TONIGHT...Partly cloudy. Patchy fog from late evening on. Low
+around 28. West winds 10 mph. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Patchy fog in the morning. High around 36. North winds
+10 mph. No lightning risk. 
+
+$$
+
+MEZ030-041015-
+West Quoddy Head-
+303 PM EST Fri Jan 3 2020
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Partly cloudy. Patchy fog from late evening on. Low
+around 36. West winds 10 mph increasing to 10 to 15 mph after
+midnight. No lightning risk. Water temperature 43 degrees
+Fahrenheit. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Patchy fog in the morning. A slight chance of rain in the
+afternoon. High around 39. Northwest winds 10 to 15 mph shifting to
+the north 10 mph in the afternoon. Chance of precipitation
+20 percent. No lightning risk. Water temperature 43 degrees
+Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-041015-
+Upper Penobscot Watershed-
+303 PM EST Fri Jan 3 2020
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Isolated rain showers early this evening. Patchy fog from
+late evening on. Low around 28. West winds 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Patchy fog in the morning. A slight chance of snow in the
+afternoon. High around 35. North winds 10 mph. Chance of
+precipitation 20 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-041015-
+Lower Penobscot Watershed-
+303 PM EST Fri Jan 3 2020
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Patchy fog from late evening on. Low around 28. West winds
+10 mph. No lightning risk. 
+.SATURDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Patchy fog in the morning. A chance of rain and snow in the
+afternoon. High around 36. North winds 10 mph. Chance of
+precipitation 50 percent. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

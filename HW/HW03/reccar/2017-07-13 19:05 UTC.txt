@@ -1,0 +1,88 @@
+
+343 
+SXUS41 KCAR 131905
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+305 PM EDT Thu Jul 13 2017
+
+MEZ004-140915-
+Top of Mount Katahdin-
+305 PM EDT Thu Jul 13 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Clear. Low around 49. Light winds. No lightning risk. 
+.FRIDAY...Sunny. High around 60. Light winds becoming southeast
+around 10 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ005-140915-
+Katahdin Woods and Waters National Monument-
+305 PM EDT Thu Jul 13 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Clear. Low around 51. Light winds. No lightning risk. 
+.FRIDAY...Sunny. High around 75. Light winds. No lightning risk. 
+
+$$
+
+MEZ029-140915-
+Top of Cadillac Mountain-
+305 PM EDT Thu Jul 13 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured until midnight...then becoming partly
+cloudy. Low around 55. Light winds. No lightning risk. 
+.FRIDAY...Partly sunny. High around 68. Southeast winds around
+5 mph. No lightning risk. 
+
+$$
+
+MEZ010-140915-
+Moosehead Lake-
+305 PM EDT Thu Jul 13 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Clear. Low around 50. Light winds. Waves 1 foot. No
+lightning risk. 
+.FRIDAY...Sunny. High around 71. Waves 1 foot. Light winds. No
+lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-140915-
+Upper Penobscot Watershed-
+305 PM EDT Thu Jul 13 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Low around 50. Light winds. No lightning risk. 
+.FRIDAY...Sunny. High around 75. Light winds. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-140915-
+Lower Penobscot Watershed-
+305 PM EDT Thu Jul 13 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Low around 50. Light winds. No lightning
+risk. 
+.FRIDAY...Mostly sunny. Warmer with high around 76. Light winds
+becoming southeast around 10 mph in the afternoon. No lightning
+risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

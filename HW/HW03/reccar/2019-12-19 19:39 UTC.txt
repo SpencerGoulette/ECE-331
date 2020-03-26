@@ -1,0 +1,198 @@
+
+866 
+SXUS41 KCAR 191939
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+239 PM EST Thu Dec 19 2019
+
+MEZ004-200945-
+Top of Mount Katahdin-
+239 PM EST Thu Dec 19 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy, then becoming mostly clear late this
+evening, then becoming mostly cloudy, then becoming partly cloudy
+late. Patchy blowing snow. Strong winds and cold with low around
+2 below. Temperatures rising to around 7 above after midnight.
+Northwest winds 40 to 55 mph. Wind chill values as low as 37 below.
+No lightning risk. 
+.FRIDAY...Mostly sunny and very windy. Not as cold with high around
+13. Northwest winds 30 to 45 mph. Wind chill values as low as
+15 below. No lightning risk. 
+
+$$
+
+MEZ005-200945-
+Katahdin Woods and Waters National Monument-
+239 PM EST Thu Dec 19 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly clear. Patchy blowing snow. Cold with low around
+6 above. Northwest winds 10 to 25 mph. Wind chill values as low as
+13 below. No lightning risk. 
+.FRIDAY...Sunny. Not as cool with high around 22. Northwest winds
+10 to 20 mph. Wind chill values as low as 6 below in the morning. No
+lightning risk. 
+
+$$
+
+MEZ029-200945-
+Top of Cadillac Mountain-
+239 PM EST Thu Dec 19 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Clear. Patchy blowing snow. Windy, cold with low around
+7 above. Northwest winds 25 to 35 mph. Wind chill values as low as
+15 below. No lightning risk. 
+.FRIDAY...Sunny, brisk and not as cool with high around 23.
+Northwest winds 20 to 30 mph. Wind chill values as low as 10 below
+in the morning. No lightning risk. 
+
+$$
+
+MEZ001-200945-
+Top of Deboullie Mountain-
+239 PM EST Thu Dec 19 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy late this
+evening, then becoming partly cloudy, then becoming mostly cloudy
+late. Flurries early this evening. Cold with low around 3 above.
+Northwest winds 15 to 25 mph. Wind chill values as low as 15 below.
+No lightning risk. 
+.FRIDAY...Summit in and out of clouds in the morning, then clearing.
+Not as cool with high around 20. Northwest winds 10 to 20 mph. Wind
+chill values as low as 3 below. No lightning risk. 
+
+$$
+
+MEZ006-200945-
+Top of Mars Hill Mountain-
+239 PM EST Thu Dec 19 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Partly cloudy, then becoming mostly cloudy after
+midnight, then summit in and out of clouds. Cold with low around
+5 above. Northwest winds 20 to 25 mph. Wind chill values as low as
+13 below. No lightning risk. 
+.FRIDAY...Mostly cloudy in the morning, then clearing. Not as cool
+with high around 21. Northwest winds 15 to 25 mph. Wind chill values
+as low as 1 below. No lightning risk. 
+
+$$
+
+MEZ010-200945-
+Top of White Cap Mountain-
+239 PM EST Thu Dec 19 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Mostly clear. Patchy blowing snow. Strong winds and cold
+with low around 1 below. Northwest winds 35 to 50 mph. Wind chill
+values as low as 31 below. No lightning risk. 
+.FRIDAY...Sunny, windy and not as cold with high around 14.
+Northwest winds 25 to 35 mph. Wind chill values as low as 21 below
+in the morning. No lightning risk. 
+
+$$
+
+MEZ010-200945-
+Moosehead Lake-
+239 PM EST Thu Dec 19 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly clear. Patchy blowing snow. Brisk, cold. Near
+steady temperatures around 9 above. Northwest winds 10 to 30 mph.
+Wind chill values as low as 12 below. No lightning risk. 
+.FRIDAY...Sunny. High around 19. Northwest winds 10 to 20 mph. Wind
+chill values as low as 9 below in the morning. No lightning risk. 
+
+$$
+
+MEZ001-200945-
+Allagash Wilderness Waterway-
+239 PM EST Thu Dec 19 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Partly cloudy. Flurries early this evening. Cold. Near
+steady temperatures around 5 above. West winds 10 to 20 mph. Wind
+chill values as low as 11 below. No lightning risk. 
+.FRIDAY...Mostly sunny. Not as cool with high around 21. Northwest
+winds 10 mph. No lightning risk. 
+
+$$
+
+MEZ030-200945-
+St Croix River-
+239 PM EST Thu Dec 19 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly clear. Patchy blowing snow. Cold with low around
+8 above. Northwest winds 10 to 15 mph. Wind chill values as low as
+4 below. No lightning risk. 
+.FRIDAY...Sunny. Not as cool with high around 27. Northwest winds
+10 to 15 mph. Wind chill values as low as zero in the morning. No
+lightning risk. 
+
+$$
+
+MEZ030-200945-
+West Quoddy Head-
+239 PM EST Thu Dec 19 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly clear. Patchy blowing snow. Cold with low around
+15. Northwest winds 15 to 20 mph. Wind chill values as low as
+1 below. No lightning risk. Water temperature 47 degrees Fahrenheit.
+.FRIDAY...Sunny. Not as cool with high around 30. Northwest winds
+10 to 20 mph. Wind chill values as low as 6 above in the morning. No
+lightning risk. Water temperature 47 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-200945-
+Upper Penobscot Watershed-
+239 PM EST Thu Dec 19 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly clear. Patchy blowing snow. Cold with low around
+6 above. Northwest winds 10 to 20 mph. Wind chill values as low as
+11 below. No lightning risk. 
+.FRIDAY...Sunny. Not as cool with high around 23. Northwest winds
+10 to 20 mph. Wind chill values as low as 7 below in the morning. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-200945-
+Lower Penobscot Watershed-
+239 PM EST Thu Dec 19 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Clear. Patchy blowing snow. Cold with low around 8 above.
+Northwest winds 10 to 20 mph. Wind chill values as low as 7 below.
+No lightning risk. 
+.FRIDAY...Sunny. Not as cool with high around 26. Northwest winds
+10 to 15 mph. Wind chill values as low as 3 below in the morning. No
+lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

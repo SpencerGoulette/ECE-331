@@ -1,0 +1,78 @@
+
+301 
+SXUS41 KCAR 072235
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+635 PM EDT Sun May 7 2017
+
+MEZ004-081245-
+Top of Mount Katahdin-
+635 PM EDT Sun May 7 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.OVERNIGHT...Mostly cloudy until midnight...then summit becoming
+obscured. Rain...changing to snow by daybreak. Patchy fog. Cooler 
+with low around 31. South winds 15 to 20 mph. Chance of precipitation
+near 100 percent. 
+.MONDAY...Summit obscured. Patchy fog in the morning. Snow, cooler
+with high around 34. South winds 10 to 15 mph. Chance of
+precipitation 90 percent. 
+
+$$
+
+MEZ029-081245-
+Top of Cadillac Mountain-
+635 PM EDT Sun May 7 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.OVERNIGHT...Mostly cloudy until midnight...then summit becoming
+obscured. Rain by late evening. Patchy fog. Low around 42. South 
+winds 10 to 15 mph. Chance of precipitation 90 percent. 
+.MONDAY...Summit obscured. Patchy fog in the morning. Scattered
+showers in the morning. Cooler. High temperature around 45. South 
+winds 10 to 20 mph. Chance of precipitation 30 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-081245-
+Upper Penobscot Watershed-
+635 PM EDT Sun May 7 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Cloudy. Scattered showers until midnight...then rain
+likely. Patchy fog. Low around 45. South winds around 10 mph until
+midnight becoming light winds. Chance of precipitation 70 percent. 
+.MONDAY...Cloudy. Patchy fog in the morning. Rain likely. High
+around 53. South winds around 10 mph. Chance of precipitation
+70 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-081245-
+Lower Penobscot Watershed-
+635 PM EDT Sun May 7 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.OVERNIGHT...Cloudy. Scattered showers until midnight...then rain
+likely. Patchy fog. Low around 45. Southeast winds around 10 mph
+until midnight becoming light winds. Chance of precipitation
+70 percent. 
+.MONDAY...Cloudy. Patchy fog in the morning. Rain likely. High
+around 54. South winds around 10 mph. Chance of precipitation
+70 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN

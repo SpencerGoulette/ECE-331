@@ -1,0 +1,75 @@
+
+696 
+SXUS41 KCAR 101924
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+324 PM EDT Mon Apr 10 2017
+
+MEZ004-110930-
+Top of Mount Katahdin-
+324 PM EDT Mon Apr 10 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Partly cloudy until midnight...then becoming cloudy.
+Patchy fog after midnight. A slight chance of showers after
+midnight. Low around 45. Southwest winds 10 to 15 mph. Chance of
+precipitation 20 percent. 
+.TUESDAY...Summit in and out of clouds in the morning...then summit
+becoming obscured. Patchy fog in the morning. A chance of showers.
+High around 51. Northwest winds around 10 mph. Chance of
+precipitation 40 percent. 
+
+$$
+
+MEZ029-110930-
+Top of Cadillac Mountain-
+324 PM EDT Mon Apr 10 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Partly cloudy. Patchy fog after midnight. Low around 47.
+Southwest winds 10 to 15 mph. 
+.TUESDAY...Partly sunny in the morning...then becoming mostly
+cloudy. Patchy fog in the morning. High around 60. Southwest winds
+around 10 mph. 
+
+$$
+
+MEZ004&gt;006-010-011-031-110930-
+Upper Penobscot Watershed-
+324 PM EDT Mon Apr 10 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Patchy fog after midnight. Not as cool with low around 47.
+Light winds. 
+.TUESDAY...Mostly cloudy. Patchy fog in the morning. A chance of
+showers in the afternoon. High around 63. Light winds. Chance of
+precipitation 40 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-110930-
+Lower Penobscot Watershed-
+324 PM EDT Mon Apr 10 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then becoming mostly
+cloudy. Patchy fog after midnight. Low around 47. South winds around
+10 mph. 
+.TUESDAY...Mostly cloudy. Patchy fog in the morning. A chance of
+showers in the afternoon. High around 70. Light winds. Chance of
+precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

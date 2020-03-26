@@ -1,0 +1,80 @@
+
+532 
+SXUS41 KCAR 061907
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+307 PM EDT Thu Apr 6 2017
+
+MEZ004-070915-
+Top of Mount Katahdin-
+307 PM EDT Thu Apr 6 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit obscured. Areas of fog. Rain and isolated
+thunderstorms. Rain may be heavy at times until midnight. Low around
+35. Southeast winds 25 to 30 mph increasing to south 35 to 40 mph
+after midnight. Chance of precipitation near 100 percent. 
+.FRIDAY...Summit obscured in the morning...then summit in and out of
+clouds. Rain likely in the morning...then a chance of rain showers
+in the afternoon. Areas of fog in the afternoon. High around 36.
+South winds 20 to 35 mph decreasing to 15 to 20 mph in the
+afternoon. Chance of precipitation 60 percent. Wind chill values as
+low as 20. 
+
+$$
+
+MEZ029-070915-
+Top of Cadillac Mountain-
+307 PM EDT Thu Apr 6 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Summit obscured. Areas of fog. Rain and isolated
+thunderstorms. Rain may be heavy at times until midnight. Low around
+39. Southeast winds around 25 mph. Chance of precipitation near
+100 percent. 
+.FRIDAY...Cloudy in the morning...then summit in and out of clouds.
+Areas of fog in the morning. A chance of showers in the morning.
+High around 46. South winds 20 to 25 mph. Chance of precipitation
+30 percent. 
+
+$$
+
+MEZ004&gt;006-010-011-031-070915-
+Upper Penobscot Watershed-
+307 PM EDT Thu Apr 6 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Rain and isolated thunderstorms.
+Rain may be heavy at times until midnight. Low around 38. East winds
+10 to 15 mph. Chance of precipitation near 100 percent. 
+.FRIDAY...Cloudy. Areas of fog. A chance of showers. Not as cool
+with high around 52. South winds around 10 mph. Chance of
+precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-070915-
+Lower Penobscot Watershed-
+307 PM EDT Thu Apr 6 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Cloudy. Areas of fog. Rain and isolated thunderstorms.
+Rain may be heavy at times until midnight. Low around 39. Southeast
+winds 10 to 15 mph. Chance of precipitation near 100 percent. 
+.FRIDAY...Mostly cloudy. Areas of fog in the morning. A chance of
+showers in the morning. Not as cool with high around 55. South winds
+10 to 15 mph. Chance of precipitation 50 percent. 
+
+For current and forecast flow conditions for the Penobscot...see
+ http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

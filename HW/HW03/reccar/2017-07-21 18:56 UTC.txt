@@ -1,0 +1,106 @@
+
+115 
+SXUS41 KCAR 211856
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+256 PM EDT Fri Jul 21 2017
+
+MEZ004-220900-
+Top of Mount Katahdin-
+256 PM EDT Fri Jul 21 2017
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Mostly clear. Isolated showers and thunderstorms until
+midnight. Some thunderstorms may produce gusty winds and small hail
+until midnight. Low around 46. Northwest winds 15 to 20 mph. Chance
+of precipitation 20 percent. Lightning risk is limited. 
+.SATURDAY...Mostly sunny and cooler. Near steady temperatures around
+51. Northwest winds 15 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ005-220900-
+Katahdin Woods and Waters National Monument-
+256 PM EDT Fri Jul 21 2017
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly clear. Scattered showers and thunderstorms until
+midnight. Some thunderstorms may produce gusty winds and small hail
+until midnight. Low around 57. West winds around 10 mph until
+midnight becoming light winds. Chance of precipitation 30 percent.
+Lightning risk is elevated. 
+.SATURDAY...Sunny. High around 74. Northwest winds around 10 mph. No
+lightning risk. 
+
+$$
+
+MEZ029-220900-
+Top of Cadillac Mountain-
+256 PM EDT Fri Jul 21 2017
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly clear. Low around 64. Northwest winds 10 to
+15 mph. No lightning risk. 
+.SATURDAY...Mostly sunny. High around 75. West winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ010-220900-
+Moosehead Lake-
+256 PM EDT Fri Jul 21 2017
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Partly cloudy. Isolated showers and thunderstorms until
+midnight. Some thunderstorms may produce gusty winds and small hail
+until midnight. Low around 57. West winds around 10 mph until
+midnight becoming light winds. Waves 1 foot. Chance of precipitation
+20 percent. Lightning risk is limited. 
+.SATURDAY...Sunny. High around 73. Waves 3 feet. Northwest winds
+10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ004&gt;006-010-011-031-220900-
+Upper Penobscot Watershed-
+256 PM EDT Fri Jul 21 2017
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Isolated
+showers and thunderstorms until midnight. Some thunderstorms may
+produce gusty winds and small hail until midnight. Low around 58.
+West winds around 10 mph until midnight becoming light winds. Chance
+of precipitation 20 percent. Lightning risk is elevated. 
+.SATURDAY...Mostly sunny. High around 78. Northwest winds around
+10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-220900-
+Lower Penobscot Watershed-
+256 PM EDT Fri Jul 21 2017
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Partly cloudy until midnight...then clearing. Isolated
+showers and thunderstorms until midnight. Some thunderstorms may
+produce gusty winds and small hail until midnight. Low around 60.
+West winds around 10 mph until midnight becoming light winds. Chance
+of precipitation 20 percent. Lightning risk is elevated. 
+.SATURDAY...Mostly sunny. High around 82. Northwest winds around
+10 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$

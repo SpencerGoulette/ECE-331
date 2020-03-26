@@ -1,0 +1,196 @@
+
+180 
+SXUS41 KCAR 161915
+RECCAR
+
+Recreational Forecast for Northern and Eastern Maine
+National Weather Service Caribou ME
+315 PM EDT Mon Sep 16 2019
+
+MEZ004-170915-
+Top of Mount Katahdin-
+315 PM EDT Mon Sep 16 2019
+
+...TOP OF MOUNT KATAHDIN (5268')...
+
+.TONIGHT...Summit mostly obscured. Scattered rain showers through 
+early morning. scattered rain and snow showers after midnight...then
+isolated rain and snow showers late. Breezy with low around 33. 
+North winds 20 to 30 mph. Chance of precipitation 40 percent. No 
+lightning risk. 
+.TUESDAY...Cloudy in the morning, then summit becoming obscured.
+Isolated snow showers in the morning. High around 40. North winds
+20 to 25 mph shifting to the east 15 to 25 mph in the afternoon.
+Chance of precipitation 20 percent. No lightning risk. 
+
+$$
+
+MEZ005-170915-
+Katahdin Woods and Waters National Monument-
+315 PM EDT Mon Sep 16 2019
+
+...KATAHDIN WOODS AND WATERS NATIONAL MONUMENT...
+
+.TONIGHT...Mostly cloudy. Scattered showers early this evening...
+then isolated showers through early morning. Low around 47.
+Northwest winds 10 to 15 mph. Chance of precipitation 30 percent. No
+lightning risk. 
+.TUESDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 59. North winds 10 to 15 mph. No lightning risk. 
+
+$$
+
+MEZ029-170915-
+Top of Cadillac Mountain-
+315 PM EDT Mon Sep 16 2019
+
+...TOP OF CADILLAC MOUNTAIN (1532')...
+
+.TONIGHT...Mostly cloudy, then becoming partly cloudy after
+midnight, then becoming mostly cloudy. Low around 49. Northwest
+winds 15 to 25 mph. No lightning risk. 
+.TUESDAY...Summit in and out of clouds. High around 58. North winds
+10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ001-170915-
+Top of Deboullie Mountain-
+315 PM EDT Mon Sep 16 2019
+
+...TOP OF DEBOULLIE MOUNTAIN (1981')...
+
+.TONIGHT...Summit obscured. Scattered showers until midnight...then
+isolated showers after midnight. Low around 40. North winds 10 to
+15 mph. Chance of precipitation 30 percent. No lightning risk. 
+.TUESDAY...Summit obscured in the morning, then becoming partly
+sunny. High around 54. North winds 10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ006-170915-
+Top of Mars Hill Mountain-
+315 PM EDT Mon Sep 16 2019
+
+...TOP OF MARS HILL MOUNTAIN (1749')...
+
+.TONIGHT...Cloudy. Scattered showers until midnight...then isolated
+showers after midnight. Low around 44. Northwest winds 10 to 20 mph
+shifting to the north 10 mph after midnight. Chance of precipitation
+30 percent. No lightning risk. 
+.TUESDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 57. North winds 10 to 20 mph. No lightning risk. 
+
+$$
+
+MEZ010-170915-
+Top of White Cap Mountain-
+315 PM EDT Mon Sep 16 2019
+
+...TOP OF WHITE CAP MOUNTAIN (3654')...
+
+.TONIGHT...Summit obscured through early morning, then becoming
+cloudy. Isolated showers. Breezy with low around 37. North winds
+20 to 30 mph. Chance of precipitation 20 percent. No lightning risk.
+.TUESDAY...Mostly cloudy in the morning, then summit in and out of
+clouds. High around 46. North winds 15 to 25 mph shifting to the
+southwest 15 to 20 mph in the afternoon. No lightning risk. 
+
+$$
+
+MEZ010-170915-
+Moosehead Lake-
+315 PM EDT Mon Sep 16 2019
+
+...MOOSEHEAD LAKE...
+
+.TONIGHT...Mostly cloudy. Isolated showers through early morning.
+Low around 47. Northwest winds 10 to 15 mph. Waves 3 feet. Chance of
+precipitation 20 percent. No lightning risk. Water temperature
+62 degrees Fahrenheit. 
+.TUESDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 57. Waves 2 feet. North winds 10 to 15 mph. No lightning
+risk. Water temperature 62 degrees Fahrenheit. 
+
+$$
+
+MEZ001-170915-
+Allagash Wilderness Waterway-
+315 PM EDT Mon Sep 16 2019
+
+...ALLAGASH WILDERNESS WATERWAY...
+
+.TONIGHT...Cloudy. Scattered showers until midnight...then isolated
+showers after midnight. Low around 42. Northwest winds 10 to 15 mph
+shifting to the north after midnight. Chance of precipitation
+30 percent. No lightning risk. 
+.TUESDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 58. North winds 15 mph. No lightning risk. 
+
+$$
+
+MEZ030-170915-
+St Croix River-
+315 PM EDT Mon Sep 16 2019
+
+...ST CROIX RIVER...
+
+.TONIGHT...Mostly cloudy. Isolated showers through early morning.
+Low around 47. Northwest winds 10 mph. Chance of precipitation
+20 percent. No lightning risk. 
+.TUESDAY...Mostly cloudy. High around 61. North winds 10 to 15 mph.
+No lightning risk. 
+
+$$
+
+MEZ030-170915-
+West Quoddy Head-
+315 PM EDT Mon Sep 16 2019
+
+...WEST QUODDY HEAD...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Low around 50. Northwest winds 10 to 15 mph. No lightning
+risk. Water temperature 54 degrees Fahrenheit. 
+.TUESDAY...Mostly cloudy. High around 58. North winds 10 to 20 mph.
+No lightning risk. Water temperature 54 degrees Fahrenheit. 
+
+$$
+
+MEZ004&gt;006-010-011-031-170915-
+Upper Penobscot Watershed-
+315 PM EDT Mon Sep 16 2019
+
+...UPPER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy. Isolated showers through early morning.
+Low around 47. Northwest winds 10 to 15 mph shifting to the north
+10 mph after midnight. Chance of precipitation 20 percent. No
+lightning risk. 
+.TUESDAY...Mostly cloudy in the morning, then becoming partly sunny.
+High around 60. North winds 10 to 15 mph. No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+MEZ011-015-016-031-170915-
+Lower Penobscot Watershed-
+315 PM EDT Mon Sep 16 2019
+
+...LOWER PENOBSCOT WATERSHED...
+
+.TONIGHT...Mostly cloudy early this evening, then becoming partly
+cloudy. Isolated showers until midnight. Low around 49. Northwest
+winds 10 to 15 mph decreasing to 10 mph after midnight. Chance of
+precipitation 20 percent. No lightning risk. 
+.TUESDAY...Partly sunny. High around 63. North winds 10 to 15 mph.
+No lightning risk. 
+
+For current and forecast flow conditions for the Penobscot...see
+http://water.weather.gov/ahps2/index.php?wfo=car
+
+$$
+
+VJN
