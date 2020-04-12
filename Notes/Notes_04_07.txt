@@ -1,0 +1,140 @@
+ECE331
+4/7/20
+Spencer Goulette
+Notes
+
+On the project 3 pdf... project module wants it called encoder but makefile different... just a typo.
+
+Commented in the framework code in the ioctl clock pulse widths dont need to do that. Left over from the old project
+
+You said when passing data from user space.
+Can be a string but not limited to a string.
+Data you pass is just data. Kernel driver interprets the data
+
+
+SQL lite 3 (SQL 3)
+
+apt install sqlite3
+null, integer, real, text, blob
+
+sqlite3 ex.db
+
+create table users[last text, first text, date text, time text, age integer];
+
+.tables
+
+.schema users
+
+pragma table_info(users);
+
+insert into users values ('Swope', 'Swope', '2020-05-07', '12:38:00', 19);
+
+select * from users;
+
+select * from users order by age;
+select * from users order by age desc;
+select * from users order by last;
+
+language - sql the l in sql is the description of how you form the various actions in the language (more like english than programming languages)
+
+.separator ','
+
+.mode column
+
+select * from users order by date desc, time desc;
+
+select last,age from users order by date desc, time desc;
+
+select last,age from users order by age desc, last;
+
+select rowid,last,age from users order by age desc, last;
+
+select rowid,* from users;
+
+delete from users where rowid=1;
+
+delete from users where last='Sheaff';
+
+select * from users where time>'10:00:00' order by age;
+
+select * from users where date>date('now','-1 days') order by age desc;
+
+update users set first='Derek' where rowid=1;
+
+.quit
+
+Look up more SQL online
+
+HOW DO WE AUTOMATE THIS?
+
+PYTHON
+#!/usr/bin/python
+import sqlite3
+s=sqlite3.connect('ex.db')
+c=s.cursor()
+c.execute("insert into users values ('Spencer','','2020-03-07','12:39:00',13);
+
+s.commit()
+s.close() 
+
+
+PERL
+have to isntall a couple of packages
+apt install libdbi-perl libdbd-
+
+
+#!/usr/bin/perl
+use DBI
+$dbh = DBI->connect("dbi:SQLite:dbname=ex.db") or die "Cannot connect: $DBI::errstr";
+$dbh->do("INSEERT INTO 'users' VALUES ('Spencer', 'X', '2020-04-08',
+
+Going to need SQL for project 4
+
+minicom -o s0
+
+WEB BROWSER
+sudo apt update
+
+sudo apt install lighttpd
+sudo apt install elinks
+rehash
+dpkg -L lighttpd
+cd /var/www/html
+
+cd /etc/lighttpd
+ls -R
+sudo lighttpd-enable mod cgi
+sudo lighttpd-enable mod fastcgi
+sudo lighttpd-enable mod fastcgi-php
+sudo service reload
+sudo apt install php
+- apache starts going so need to go back and fix that
+uninstall the apache packages
+sudo apt purge apache2 apach2-bin ... etc
+
+sudo service lighttpd start
+ps agx
+
+cd /var/www/html
+rm index.html
+vim index.php
+
+
+<?php
+	print phpinfo()
+?>
+
+chmod 644 index.php
+
+apt search php | grep sqlite
+
+sudo apt install php-sqlite3
+
+!el
+
+php is just like perl
+
+vi php
+
+
+

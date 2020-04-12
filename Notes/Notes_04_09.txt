@@ -1,0 +1,51 @@
+ECE331
+Spencer Goulette
+04/09/20
+Notes
+
+Chartjs is going to be plotted in the web browser
+vi parse
+
+sqlite3 data.db
+
+create table data(date text, time text, confirmed integers);
+.import import.csv data
+vim sql.php
+
+<?php
+header('content-type: text/json');
+$db=new SQLite3('/var/www/data.db');
+$statement=$db->prepare("select * from data");
+$result=$statement->execute();
+while($row = $result->fetchArray()){
+	$data['data1'][]=['t' => $row[0] . " " . $row[1], 'y' => $row[2]];
+}
+echo json_encode($row);
+$db->close();
+?>
+
+
+php sql.php
+
+www-data runs as its own username so must have permissions
+chmod 644 sql.php
+chmod 644 data.db
+
+192.168.1.22/sql.php
+
+mv data.db ..
+chmod 644 ../data.db
+
+need
+	jquery.mobile.min.js
+	Chart.min.js
+	jquery.min.js
+	jquery.mobile.min.css
+	moment-with-locales.js
+
+
+make it open to maine.edu
+
+KERNEL questions
+
+

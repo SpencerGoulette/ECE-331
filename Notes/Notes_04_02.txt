@@ -1,0 +1,95 @@
+ECE331
+4/2/20
+Spencer Goulette
+Notes
+
+Note on returned HW: Coming back in shared directory
+
+SECURITY
+What is the most secure OS?
+Not really answered but always able to get in
+
+Zoom issues: Zoom Bombings
+
+What is secure? A Human problem that we need to take care of
+
+How Secure
+	Password
+	Updates
+	Services
+	Monitor
+	Firewall/Filter
+	Backup
+
+Good Passwords/Shadow Passwords
+	What is good?
+		Random Characters -> We forget these -> Write it down!
+		4 random 5 letter words -> enough entropy
+	
+	What makes systems insecure?
+		Bad passwords
+		Backdoors
+		Bad Users
+		Physical Security
+		Buggy Software/Hardware (Spectur, buffer overflows [didn't check your array size]
+
+
+	Keep system updated with security patches
+		Old days we got patches/compiled code/deploy
+			Issues take a long time/patches are buggy!
+			For (buggy) patches -> testig non production phase / roll out to prod.
+
+		apt update; apt upgrade
+
+	turn off services
+		tftp
+		rsh
+		telnet
+		ftp
+		finger
+		Make sure you are using
+		Use ssh with public key authentication
+
+		Uninstalled:
+		AVAHI subsystem - discovering services on a network (REMOVE!)
+
+	firewall
+		Filter network traffic
+		IPtables - Kernel level firewall (ufw)
+		tcp wrappers user space - /etc/hosts {allow,deny}
+		sendmail,samba/yp - have applicatio level filtering as well.
+
+	monitor
+		Blinky lights
+		tripwire
+		tcpdump - wireshark, ethereal, ...
+		netstat
+		hosts
+		ps
+		nmap - testing network/ports
+		John the ripper (crack) password cracker
+
+	backup
+		Amanda
+		rsync
+
+	Use Encryption! - Regardless... Kerberos
+
+	Trojanized software - ps, ls, netstat -> hacked and modified.
+		lrk - linux root kit. ssh (with a backdoor) (user level)
+		lk(m)rk - installed at the kernel level -> done for - hiding at kernel level
+		"rk" that installs in FLASH firmware.
+		poor security (human behavior)
+		Make sure you are paying attention to securing systems.
+
+
+CRON
+	in /etc
+
+m h  dom mon dow command
+0 0 * * * /home/pi/bin/mycommand 4
+
+Fridays at 4pm
+30 16 * * Fri /home/cam/sweep_under_rug dirt
+
+
